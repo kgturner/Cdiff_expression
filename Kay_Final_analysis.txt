@@ -1,0 +1,851 @@
+#Test interaction:
+#int_tab -> rest tab = /Final_analysis/tab/*.tab
+#int_tab -> rest perm = Final_analysis/tab/*.perm
+
+#screen crunch10 int
+
+library(maanova,lib.loc='~/R/x86_64-redhat-linux-gnu-library/2.10')
+fexprs <-read.table("maanova/fexprs", header=TRUE)
+write.table(fexprs,"fexprs_tab",sep="\t",row=F,quote=F)
+madfull<-read.madata(datafile="~/fexprs_tab", designfile="~/names2", probeid=0, intensity=1) 
+
+fit.fix=fitmaanova(madfull, formula=~Range+Treatment+Range:Treatment+Population+Sample, random=~Population+Sample) 
+
+test.full=matest(madfull, fit.fix, term="Range:Treatment", n.perm=1,shuffle.method="sample",verbose=TRUE)
+
+names<-read.table("maanova/names", header=TRUE)
+#get means for Range
+MeansRange = t(apply(madfull$data, 1, tapply, names$Range, mean)) 
+colnames(MeansRange)=paste("Mean", colnames(MeansRange), sep=":")
+
+#get means for Treatment
+MeansTreatment = t(apply(madfull$data, 1, tapply, names$Treatment, mean)) 
+colnames(MeansTreatment)=paste("Mean", colnames(MeansTreatment), sep=":")
+
+#get SE for Range
+SERange = t(apply(madfull$data, 1, tapply, names$Range, function(x) sqrt(var(x)/length(x))))
+colnames(SERange)=paste("SE", colnames(SERange), sep=":")
+
+#get SE for Treatment
+SETreatment = t(apply(madfull$data, 1, tapply, names$Treatment, function(x) sqrt(var(x)/length(x))))
+colnames(SETreatment)=paste("SE", colnames(SETreatment), sep=":")
+
+
+
+# Log differences between range overall okay as not going to graph log diff and interaction
+Range=matrix((MeansRange[,1]-MeansRange[,2]), ,1)
+
+
+# Bind columns into a matrix
+logDiffs=Range
+
+
+logdiff2FC=function(x, base=2) {
+  # Transforms x from a log difference (logdiff) to a fold change (FC) scale
+  # logdiff is the expression difference in log scale of base = 'base'
+  # FC is the ratio between two expression values in the original scale
+  # The absolute value of the returned FC is always greater than or equal to 1
+  # The sign is kept to indicate direction of change
+  # When the the log difference is 0, the FC is always 1.
+  signs = sign(x)
+  out   = base^abs(x)
+  if(any(x==0)) {
+    out[x==0] = 1
+  }
+  return(out*signs)
+} # logdiff2FC
+
+
+# Transform log differences to FC scale
+FC = apply(logDiffs, 2, logdiff2FC)
+
+library(qvalue)
+test.full=adjPval(test.full, method='jsFDR')
+
+out = data.frame(MeansRange, SERange, F1_val=test.full$F1$Fobs, Fs_val=test.full$Fs$Fobs, P_tab=test.full$Fs$Ptab, FDR_tab=test.full$Fs$adjPtab, logDiffs=logDiffs, FC=FC)
+
+write.table(out , file="maanova/out.IntP_tab.csv", sep=",", row.names=F)
+
+#get sig and non sig gene names and expression values for later analysis
+rownames<-read.table("~/fgenes", header=TRUE) #get gene names
+rowsig <- rownames[out$FDR_tab > 0.05,]
+sigfexprs<-fexprs[out$FDR_tab > 0.05,]
+
+write.table(sigfexprs,"fexprs_rangetab",sep="\t",row=F,quote=F)
+write.table(rowsig,"frangetab", row=F,quote=F)
+
+rowsig <- rownames[out$FDR_tab <= 0.05,]
+sigfexprs<-fexprs[out$FDR_tab <= 0.05,]
+
+write.table(sigfexprs,"fexprs_inttab",sep="\t",row=F,quote=F)
+write.table(rowsig,"finttab", row=F,quote=F)
+
+
+
+#1000 permutations
+
+test.full=matest(madfull, fit.fix, term="Range:Treatment", n.perm=1000, shuffle.method="sample",verbose=TRUE)
+
+names<-read.table("maanova/names", header=TRUE)
+#get means for Range
+MeansRange = t(apply(madfull$data, 1, tapply, names$Range, mean)) 
+colnames(MeansRange)=paste("Mean", colnames(MeansRange), sep=":")
+
+#get means for Treatment
+MeansTreatment = t(apply(madfull$data, 1, tapply, names$Treatment, mean)) 
+colnames(MeansTreatment)=paste("Mean", colnames(MeansTreatment), sep=":")
+
+#get SE for Range
+SERange = t(apply(madfull$data, 1, tapply, names$Range, function(x) sqrt(var(x)/length(x))))
+colnames(SERange)=paste("SE", colnames(SERange), sep=":")
+
+#get SE for Treatment
+SETreatment = t(apply(madfull$data, 1, tapply, names$Treatment, function(x) sqrt(var(x)/length(x))))
+colnames(SETreatment)=paste("SE", colnames(SETreatment), sep=":")
+
+
+
+# Log differences 
+Range=matrix((MeansRange[,1]-MeansRange[,2]), ,1)
+
+
+# Bind columns into a matrix
+logDiffs=Range
+
+
+logdiff2FC=function(x, base=2) {
+  # Transforms x from a log difference (logdiff) to a fold change (FC) scale
+  # logdiff is the expression difference in log scale of base = 'base'
+  # FC is the ratio between two expression values in the original scale
+  # The absolute value of the returned FC is always greater than or equal to 1
+  # The sign is kept to indicate direction of change
+  # When the the log difference is 0, the FC is always 1.
+  signs = sign(x)
+  out   = base^abs(x)
+  if(any(x==0)) {
+    out[x==0] = 1
+  }
+  return(out*signs)
+} # logdiff2FC
+
+
+# Transform log differences to FC scale
+FC = apply(logDiffs, 2, logdiff2FC)
+
+library(qvalue)
+test.full=adjPval(test.full, method='jsFDR')
+
+out = data.frame(MeansRange, SERange, F1_val=test.full$F1$Fobs, Fs_val=test.full$Fs$Fobs,P_tab=test.full$Fs$Ptab, P_perm=test.full$Fs$Pvalperm, FDR_tab=test.full$Fs$adjPtab, FDR_perm=test.full$Fs$adjPvalperm, logDiffs=logDiffs, FC=FC)
+
+write.table(out , file="maanova/out.IntP_perm.csv", sep=",", row.names=F)
+
+
+
+
+rownames<-read.table("~/fgenes", header=TRUE) #get gene names
+rownsig <- rownames[out$FDR_perm > 0.05,]
+nsigfexprs<-fexprs[out$FDR_perm > 0.05,]
+
+write.table(nsigfexprs,"fexprs_rangeperm",sep="\t",row=F,quote=F)
+write.table(rownsig,"frangeperm", row=F,quote=F)
+
+
+rowsig <- rownames[out$FDR_perm <= 0.05,]
+sigfexprs<-fexprs[out$FDR_perm <= 0.05,]
+
+write.table(sigfexprs,"fexprs_intperm",sep="\t",row=F,quote=F)
+write.table(rowsig,"fintperm", row=F,quote=F)
+
+
+
+
+#Interaction contrasts
+#crunch10 screen -r 9655.Intcont
+
+library(maanova,lib.loc='~/R/x86_64-redhat-linux-gnu-library/2.10')
+madfull<-read.madata(datafile="~/fexprs_inttab", designfile="~/names2", probeid=0, intensity=1) 
+
+cmat = rbind(range.C1 = c(1,	0,	0,	0,-1,	0,	0,	0),
+ range.C2 = c(0,	1,	0,	0,	0,	-1,	0,	0),
+ range.L = c(0,	0,	1,0, 	0,	0,	-1, 0),
+ range.N = c(0,	0,	0,	1,	0,	0,	0,	-1))
+
+fit.fix=fitmaanova(madfull, formula=~Group+Population+Sample, random=~Population+Sample) 
+test.full=matest(madfull, fit.fix, term="Group", n.perm=1, Contrast=cmat, test.type = "ttest",shuffle.method="sample",verbose=TRUE)
+
+names<-read.table("~/names2", header=TRUE)
+#get means for Range
+MeansRange = t(apply(madfull$data, 1, tapply, names$Range, mean)) 
+colnames(MeansRange)=paste("Mean", colnames(MeansRange), sep=":")
+
+#get means for Treatment
+MeansTreatment = t(apply(madfull$data, 1, tapply, names$Treatment, mean)) 
+colnames(MeansTreatment)=paste("Mean", colnames(MeansTreatment), sep=":")
+
+#get means for Group
+MeansGroup = t(apply(madfull$data, 1, tapply, names$Group, mean)) 
+colnames(MeansGroup)=paste("Mean", colnames(MeansGroup), sep=":")
+
+#get SE for Range
+SERange = t(apply(madfull$data, 1, tapply, names$Range, function(x) sqrt(var(x)/length(x))))
+colnames(SERange)=paste("SE", colnames(SERange), sep=":")
+
+#get SE for Treatment
+SETreatment = t(apply(madfull$data, 1, tapply, names$Treatment, function(x) sqrt(var(x)/length(x))))
+colnames(SETreatment)=paste("SE", colnames(SETreatment), sep=":")
+
+#get SE for Group
+SEGroup = t(apply(madfull$data, 1, tapply, names$Group, function(x) sqrt(var(x)/length(x))))
+colnames(SEGroup)=paste("SE", colnames(SEGroup), sep=":")
+
+#means
+Range=matrix((MeansRange[,1]-MeansRange[,2]), ,1)
+invasiveC1C2=matrix((MeansGroup[,1]-MeansGroup[,2]), ,1)
+invasiveC1L=matrix((MeansGroup[,1]-MeansGroup[,3]), ,1)
+invasiveC1N=matrix((MeansGroup[,1]-MeansGroup[,4]), ,1)
+invasiveC2L=matrix((MeansGroup[,2]-MeansGroup[,3]), ,1)
+invasiveC2N=matrix((MeansGroup[,2]-MeansGroup[,4]), ,1)
+invasiveLN=matrix((MeansGroup[,3]-MeansGroup[,4]), ,1)
+
+nativeC1C2=matrix((MeansGroup[,5]-MeansGroup[,6]), ,1)
+nativeC1L=matrix((MeansGroup[,5]-MeansGroup[,7]), ,1)
+nativeC1N=matrix((MeansGroup[,5]-MeansGroup[,8]), ,1)
+nativeC2L=matrix((MeansGroup[,6]-MeansGroup[,7]), ,1)
+nativeC2N=matrix((MeansGroup[,6]-MeansGroup[,8]), ,1)
+nativeLN=matrix((MeansGroup[,7]-MeansGroup[,8]), ,1)
+
+IN_C1=matrix((MeansGroup[,1]-MeansGroup[,5]), ,1)
+IN_C2=matrix((MeansGroup[,2]-MeansGroup[,6]), ,1)
+IN_L=matrix((MeansGroup[,3]-MeansGroup[,7]), ,1)
+IN_N=matrix((MeansGroup[,4]-MeansGroup[,8]), ,1)
+
+
+logDiffs=cbind(Range, invasiveC1C2, invasiveC1L, invasiveC1N, invasiveC2L, invasiveC2N, invasiveLN,
+ nativeC1C2,nativeC1L, nativeC1N, nativeC2L, nativeC2N, nativeLN, IN_C1, IN_C2, IN_L, IN_N)
+colnames<-matrix(c("Range", "invasiveC1C2", "invasiveC1L", "invasiveC1N", "invasiveC2L", "invasiveC2N", "invasiveLN", "nativeC1C2", "nativeC1L", "nativeC1N", "nativeC2L", "nativeC2N", "nativeLN", "IN_C1", "IN_C2", "IN_L", "IN_N"),1,)
+
+colnames(logDiffs)<-colnames
+
+
+
+logdiff2FC=function(x, base=2) {
+  # Transforms x from a log difference (logdiff) to a fold change (FC) scale
+  # logdiff is the expression difference in log scale of base = 'base'
+  # FC is the ratio between two expression values in the original scale
+  # The absolute value of the returned FC is always greater than or equal to 1
+  # The sign is kept to indicate direction of change
+  # When the the log difference is 0, the FC is always 1.
+  signs = sign(x)
+  out   = base^abs(x)
+  if(any(x==0)) {
+    out[x==0] = 1
+  }
+  return(out*signs)
+} # logdiff2FC
+
+
+# Transform log differences to FC scale
+FC = apply(logDiffs, 2, logdiff2FC)
+
+library(qvalue)
+test.full=adjPval(test.full, method='jsFDR')
+
+out = data.frame(MeansRange, SERange, F1_val=test.full$F1$Fobs, Fs_val=test.full$Fs$Fobs, P_tab=test.full$Fs$Ptab, FDR_tab=test.full$Fs$adjPtab, logDiffs=logDiffs, FC=FC)
+
+write.table(out , file="maanova/out.IntcontP_tab.csv", sep=",", row.names=F)
+
+
+
+_______________________________________________________________________________
+rownames<-read.table("~/fgenes", header=TRUE) #get gene names
+rownsig <- rownames[out$FDR_perm > 0.05,]
+nsigfexprs<-fexprs[out$FDR_perm > 0.05,]
+
+write.table(nsigfexprs,"fexprs_rangeperm",sep="\t",row=F,quote=F)
+write.table(rownsig,"frangeperm", row=F,quote=F)
+
+
+rowsig <- rownames[out$FDR_perm <= 0.05,]
+sigfexprs<-fexprs[out$FDR_perm <= 0.05,]
+
+write.table(sigfexprs,"fexprs_intperm",sep="\t",row=F,quote=F)
+write.table(rowsig,"fintperm", row=F,quote=F)
+#Interaction contrasts 1000 perm
+___________________________________________________________________________________________
+library(maanova,lib.loc='~/R/x86_64-redhat-linux-gnu-library/2.10')
+madfull<-read.madata(datafile="~/fexprs_intperm", designfile="~/names2", probeid=0, intensity=1) 
+
+cmat = rbind(range.C1 = c(1,	0,	0,	0,-1,	0,	0,	0),
+ range.C2 = c(0,	1,	0,	0,	0,	-1,	0,	0),
+ range.L = c(0,	0,	1,0, 	0,	0,	-1, 0),
+ range.N = c(0,	0,	0,	1,	0,	0,	0,	-1))
+
+fit.fix=fitmaanova(madfull, formula=~Group+Population+Sample, random=~Population+Sample) 
+test.full=matest(madfull, fit.fix, term="Group", n.perm=1000, Contrast=cmat, test.type = "ttest",shuffle.method="sample",verbose=TRUE)
+
+
+names<-read.table("~/names2", header=TRUE)
+#get means for Range
+MeansRange = t(apply(madfull$data, 1, tapply, names$Range, mean)) 
+colnames(MeansRange)=paste("Mean", colnames(MeansRange), sep=":")
+
+#get means for Treatment
+MeansTreatment = t(apply(madfull$data, 1, tapply, names$Treatment, mean)) 
+colnames(MeansTreatment)=paste("Mean", colnames(MeansTreatment), sep=":")
+
+#get means for Group
+MeansGroup = t(apply(madfull$data, 1, tapply, names$Group, mean)) 
+colnames(MeansGroup)=paste("Mean", colnames(MeansGroup), sep=":")
+
+#get SE for Range
+SERange = t(apply(madfull$data, 1, tapply, names$Range, function(x) sqrt(var(x)/length(x))))
+colnames(SERange)=paste("SE", colnames(SERange), sep=":")
+
+#get SE for Treatment
+SETreatment = t(apply(madfull$data, 1, tapply, names$Treatment, function(x) sqrt(var(x)/length(x))))
+colnames(SETreatment)=paste("SE", colnames(SETreatment), sep=":")
+
+#get SE for Group
+SEGroup = t(apply(madfull$data, 1, tapply, names$Group, function(x) sqrt(var(x)/length(x))))
+colnames(SEGroup)=paste("SE", colnames(SEGroup), sep=":")
+
+#means
+Range=matrix((MeansRange[,1]-MeansRange[,2]), ,1)
+invasiveC1C2=matrix((MeansGroup[,1]-MeansGroup[,2]), ,1)
+invasiveC1L=matrix((MeansGroup[,1]-MeansGroup[,3]), ,1)
+invasiveC1N=matrix((MeansGroup[,1]-MeansGroup[,4]), ,1)
+invasiveC2L=matrix((MeansGroup[,2]-MeansGroup[,3]), ,1)
+invasiveC2N=matrix((MeansGroup[,2]-MeansGroup[,4]), ,1)
+invasiveLN=matrix((MeansGroup[,3]-MeansGroup[,4]), ,1)
+
+nativeC1C2=matrix((MeansGroup[,5]-MeansGroup[,6]), ,1)
+nativeC1L=matrix((MeansGroup[,5]-MeansGroup[,7]), ,1)
+nativeC1N=matrix((MeansGroup[,5]-MeansGroup[,8]), ,1)
+nativeC2L=matrix((MeansGroup[,6]-MeansGroup[,7]), ,1)
+nativeC2N=matrix((MeansGroup[,6]-MeansGroup[,8]), ,1)
+nativeLN=matrix((MeansGroup[,7]-MeansGroup[,8]), ,1)
+
+IN_C1=matrix((MeansGroup[,1]-MeansGroup[,5]), ,1)
+IN_C2=matrix((MeansGroup[,2]-MeansGroup[,6]), ,1)
+IN_L=matrix((MeansGroup[,3]-MeansGroup[,7]), ,1)
+IN_N=matrix((MeansGroup[,4]-MeansGroup[,8]), ,1)
+
+
+logDiffs=cbind(Range, invasiveC1C2, invasiveC1L, invasiveC1N, invasiveC2L, invasiveC2N, invasiveLN,
+ nativeC1C2,nativeC1L, nativeC1N, nativeC2L, nativeC2N, nativeLN, IN_C1, IN_C2, IN_L, IN_N)
+colnames<-matrix(c("Range", "invasiveC1C2", "invasiveC1L", "invasiveC1N", "invasiveC2L", "invasiveC2N", "invasiveLN", "nativeC1C2", "nativeC1L", "nativeC1N", "nativeC2L", "nativeC2N", "nativeLN", "IN_C1", "IN_C2", "IN_L", "IN_N"),1,)
+
+colnames(logDiffs)<-colnames
+
+
+
+logdiff2FC=function(x, base=2) {
+  # Transforms x from a log difference (logdiff) to a fold change (FC) scale
+  # logdiff is the expression difference in log scale of base = 'base'
+  # FC is the ratio between two expression values in the original scale
+  # The absolute value of the returned FC is always greater than or equal to 1
+  # The sign is kept to indicate direction of change
+  # When the the log difference is 0, the FC is always 1.
+  signs = sign(x)
+  out   = base^abs(x)
+  if(any(x==0)) {
+    out[x==0] = 1
+  }
+  return(out*signs)
+} # logdiff2FC
+
+
+# Transform log differences to FC scale
+FC = apply(logDiffs, 2, logdiff2FC)
+
+library(qvalue)
+test.full=adjPval(test.full, method='jsFDR')
+
+
+out = data.frame(MeansRange, SERange, MeansGroup, SEGroup, F1_val=test.full$F1$Fobs, Fs_val=test.full$Fs$Fobs, P_tab=test.full$Fs$Ptab, P_perm=test.full$Fs$Pvalperm, FDR_tab=test.full$Fs$adjPtab, FDR_perm=test.full$Fs$adjPvalperm, logDiffs=logDiffs, FC=FC)
+
+write.table(out , file="maanova/out.IntcontP_perm2.csv", sep=",", row.names=F)
+
+
+_______________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+#Range effects 9688.Range
+#33374 genes
+library(maanova,lib.loc='~/R/x86_64-redhat-linux-gnu-library/2.10')
+madfull<-read.madata(datafile="~/fexprs_rangetab", designfile="~/names2", probeid=0, intensity=1) 
+
+fit.fix=fitmaanova(madfull, formula=~Range+Treatment+Population+Sample, random=~Population+Sample) 
+
+
+
+names<-read.table("maanova/names", header=TRUE)
+#get means for Range
+MeansRange = t(apply(madfull$data, 1, tapply, names$Range, mean)) 
+colnames(MeansRange)=paste("Mean", colnames(MeansRange), sep=":")
+
+#get means for Treatment
+MeansTreatment = t(apply(madfull$data, 1, tapply, names$Treatment, mean)) 
+colnames(MeansTreatment)=paste("Mean", colnames(MeansTreatment), sep=":")
+
+#get SE for Range
+SERange = t(apply(madfull$data, 1, tapply, names$Range, function(x) sqrt(var(x)/length(x))))
+colnames(SERange)=paste("SE", colnames(SERange), sep=":")
+
+#get SE for Treatment
+SETreatment = t(apply(madfull$data, 1, tapply, names$Treatment, function(x) sqrt(var(x)/length(x))))
+colnames(SETreatment)=paste("SE", colnames(SETreatment), sep=":")
+
+
+
+# Log differences 
+Range=matrix((MeansRange[,1]-MeansRange[,2]), ,1)
+
+
+# Bind columns into a matrix
+logDiffs=Range
+
+
+logdiff2FC=function(x, base=2) {
+  # Transforms x from a log difference (logdiff) to a fold change (FC) scale
+  # logdiff is the expression difference in log scale of base = 'base'
+  # FC is the ratio between two expression values in the original scale
+  # The absolute value of the returned FC is always greater than or equal to 1
+  # The sign is kept to indicate direction of change
+  # When the the log difference is 0, the FC is always 1.
+  signs = sign(x)
+  out   = base^abs(x)
+  if(any(x==0)) {
+    out[x==0] = 1
+  }
+  return(out*signs)
+} # logdiff2FC
+
+
+# Transform log differences to FC scale
+FC = apply(logDiffs, 2, logdiff2FC)
+
+library(qvalue)
+test.full=adjPval(test.full, method='jsFDR')
+
+out = data.frame(MeansRange, SERange, F1_val=test.full$F1$Fobs, Fs_val=test.full$Fs$Fobs, P_tab=test.full$Fs$Ptab, FDR_tab=test.full$Fs$adjPtab, logDiffs=logDiffs, FC=FC)
+
+##redid the above with permutations but int P tab
+
+write.table(out , file="maanova/out.RangeP_tab.csv", sep=",", row.names=F)
+
+
+
+
+
+
+#range effects and 1000 permuations
+______________________________________________________________________________________________________
+library(maanova,lib.loc='~/R/x86_64-redhat-linux-gnu-library/2.10')
+
+madfull<-read.madata(datafile="~/fexprs_rangeperm", designfile="~/names2", probeid=0, intensity=1) 
+
+fit.fix=fitmaanova(madfull, formula=~Range+Treatment+Population+Sample, random=~Population+Sample) 
+
+test.full=matest(madfull, fit.fix, term="Range", n.perm=1000, shuffle.method="sample",verbose=TRUE)
+
+names<-read.table("maanova/names", header=TRUE)
+#get means for Range
+MeansRange = t(apply(madfull$data, 1, tapply, names$Range, mean)) 
+colnames(MeansRange)=paste("Mean", colnames(MeansRange), sep=":")
+
+#get means for Treatment
+MeansTreatment = t(apply(madfull$data, 1, tapply, names$Treatment, mean)) 
+colnames(MeansTreatment)=paste("Mean", colnames(MeansTreatment), sep=":")
+
+#get SE for Range
+SERange = t(apply(madfull$data, 1, tapply, names$Range, function(x) sqrt(var(x)/length(x))))
+colnames(SERange)=paste("SE", colnames(SERange), sep=":")
+
+#get SE for Treatment
+SETreatment = t(apply(madfull$data, 1, tapply, names$Treatment, function(x) sqrt(var(x)/length(x))))
+colnames(SETreatment)=paste("SE", colnames(SETreatment), sep=":")
+
+
+
+# Log differences 
+Range=matrix((MeansRange[,1]-MeansRange[,2]), ,1)
+
+# Bind columns into a matrix
+logDiffs=Range
+
+
+logdiff2FC=function(x, base=2) {
+  # Transforms x from a log difference (logdiff) to a fold change (FC) scale
+  # logdiff is the expression difference in log scale of base = 'base'
+  # FC is the ratio between two expression values in the original scale
+  # The absolute value of the returned FC is always greater than or equal to 1
+  # The sign is kept to indicate direction of change
+  # When the the log difference is 0, the FC is always 1.
+  signs = sign(x)
+  out   = base^abs(x)
+  if(any(x==0)) {
+    out[x==0] = 1
+  }
+  return(out*signs)
+} # logdiff2FC
+
+
+# Transform log differences to FC scale
+FC = apply(logDiffs, 2, logdiff2FC)
+
+library(qvalue)
+test.full=adjPval(test.full, method='jsFDR')
+
+out = data.frame(MeansRange, SERange, F1_val=test.full$F1$Fobs, Fs_val=test.full$Fs$Fobs,P_tab=test.full$Fs$Ptab, P_perm=test.full$Fs$Pvalperm, FDR_tab=test.full$Fs$adjPtab, FDR_perm=test.full$Fs$adjPvalperm, logDiffs=logDiffs, FC=FC)
+
+#tested with permutations
+write.table(out , file="maanova/out.RangeP_perm.csv", sep=",", row.names=F)
+
+
+
+
+
+
+
+
+
+
+
+
+
+___________________________________
+#Treatment effects
+#crunch10 screen screen -r 12133.Treatment
+
+library(maanova,lib.loc='~/R/x86_64-redhat-linux-gnu-library/2.10')
+madfull<-read.madata(datafile="~/fexprs_rangetab", designfile="~/names2", probeid=0, intensity=1) 
+fit.fix=fitmaanova(madfull, formula=~Range+Treatment+Population+Sample, random=~Population+Sample) 
+
+
+
+
+test.full=matest(madfull, fit.fix, term="Treatment", n.perm=1, shuffle.method="sample",verbose=TRUE)
+
+names<-read.table("maanova/names", header=TRUE)
+#get means for Range
+MeansRange = t(apply(madfull$data, 1, tapply, names$Range, mean)) 
+colnames(MeansRange)=paste("Mean", colnames(MeansRange), sep=":")
+
+#get means for Treatment
+MeansTreatment = t(apply(madfull$data, 1, tapply, names$Treatment, mean)) 
+colnames(MeansTreatment)=paste("Mean", colnames(MeansTreatment), sep=":")
+
+#get SE for Range
+SERange = t(apply(madfull$data, 1, tapply, names$Range, function(x) sqrt(var(x)/length(x))))
+colnames(SERange)=paste("SE", colnames(SERange), sep=":")
+
+#get SE for Treatment
+SETreatment = t(apply(madfull$data, 1, tapply, names$Treatment, function(x) sqrt(var(x)/length(x))))
+colnames(SETreatment)=paste("SE", colnames(SETreatment), sep=":")
+
+
+
+# Log differences 
+Range=matrix((MeansRange[,1]-MeansRange[,2]), ,1)
+TreatmentC1C2=matrix((MeansTreatment[,1]-MeansTreatment[,2]), ,1)
+TreatmentC1L=matrix((MeansTreatment[,1]-MeansTreatment[,3]), ,1)
+TreatmentC1N=matrix((MeansTreatment[,1]-MeansTreatment[,4]), ,1)
+TreatmentC2L=matrix((MeansTreatment[,2]-MeansTreatment[,3]), ,1)
+TreatmentC2N=matrix((MeansTreatment[,2]-MeansTreatment[,4]), ,1)
+TreatmentLN=matrix((MeansTreatment[,3]-MeansTreatment[,4]), ,1)
+
+# Bind columns into a matrix
+logDiffs=cbind(Range, TreatmentC1C2, TreatmentC1L, TreatmentC1N, TreatmentC2L, TreatmentC2N, TreatmentLN )
+
+
+
+
+logdiff2FC=function(x, base=2) {
+  # Transforms x from a log difference (logdiff) to a fold change (FC) scale
+  # logdiff is the expression difference in log scale of base = 'base'
+  # FC is the ratio between two expression values in the original scale
+  # The absolute value of the returned FC is always greater than or equal to 1
+  # The sign is kept to indicate direction of change
+  # When the the log difference is 0, the FC is always 1.
+  signs = sign(x)
+  out   = base^abs(x)
+  if(any(x==0)) {
+    out[x==0] = 1
+  }
+  return(out*signs)
+} # logdiff2FC
+
+
+# Transform log differences to FC scale
+FC = apply(logDiffs, 2, logdiff2FC)
+
+library(qvalue)
+test.full=adjPval(test.full, method='jsFDR')
+
+out = data.frame(MeansRange, SERange, F1_val=test.full$F1$Fobs, Fs_val=test.full$Fs$Fobs,P_tab=test.full$Fs$Ptab, FDR_tab=test.full$Fs$adjPtab, logDiffs=logDiffs, FC=FC)
+
+
+#redo with int perm results
+
+
+write.table(out , file="maanova/out.TreatP_tab.csv", sep=",", row.names=F)
+
+
+
+
+#treatment effects and 1000 permuations
+
+
+
+library(maanova,lib.loc='~/R/x86_64-redhat-linux-gnu-library/2.10')
+
+madfull<-read.madata(datafile="~/fexprs_rangeperm", designfile="~/names2", probeid=0, intensity=1) 
+
+fit.fix=fitmaanova(madfull, formula=~Range+Treatment+Population+Sample, random=~Population+Sample) 
+
+test.full=matest(madfull, fit.fix, term="Treatment", n.perm=1000, shuffle.method="sample",verbose=TRUE)
+
+names<-read.table("maanova/names", header=TRUE)
+
+#get means for Range
+MeansRange = t(apply(madfull$data, 1, tapply, names$Range, mean)) 
+colnames(MeansRange)=paste("Mean", colnames(MeansRange), sep=":")
+
+#get means for Treatment
+MeansTreatment = t(apply(madfull$data, 1, tapply, names$Treatment, mean)) 
+colnames(MeansTreatment)=paste("Mean", colnames(MeansTreatment), sep=":")
+
+#get SE for Range
+SERange = t(apply(madfull$data, 1, tapply, names$Range, function(x) sqrt(var(x)/length(x))))
+colnames(SERange)=paste("SE", colnames(SERange), sep=":")
+
+#get SE for Treatment
+SETreatment = t(apply(madfull$data, 1, tapply, names$Treatment, function(x) sqrt(var(x)/length(x))))
+colnames(SETreatment)=paste("SE", colnames(SETreatment), sep=":")
+
+
+
+# Log differences 
+Range=matrix((MeansRange[,1]-MeansRange[,2]), ,1)
+TreatmentC1C2=matrix((MeansTreatment[,1]-MeansTreatment[,2]), ,1)
+TreatmentC1L=matrix((MeansTreatment[,1]-MeansTreatment[,3]), ,1)
+TreatmentC1N=matrix((MeansTreatment[,1]-MeansTreatment[,4]), ,1)
+TreatmentC2L=matrix((MeansTreatment[,2]-MeansTreatment[,3]), ,1)
+TreatmentC2N=matrix((MeansTreatment[,2]-MeansTreatment[,4]), ,1)
+TreatmentLN=matrix((MeansTreatment[,3]-MeansTreatment[,4]), ,1)
+
+# Bind columns into a matrix
+logDiffs=cbind(Range, TreatmentC1C2, TreatmentC1L, TreatmentC1N, TreatmentC2L, TreatmentC2N, TreatmentLN )
+
+
+
+logdiff2FC=function(x, base=2) {
+  # Transforms x from a log difference (logdiff) to a fold change (FC) scale
+  # logdiff is the expression difference in log scale of base = 'base'
+  # FC is the ratio between two expression values in the original scale
+  # The absolute value of the returned FC is always greater than or equal to 1
+  # The sign is kept to indicate direction of change
+  # When the the log difference is 0, the FC is always 1.
+  signs = sign(x)
+  out   = base^abs(x)
+  if(any(x==0)) {
+    out[x==0] = 1
+  }
+  return(out*signs)
+} # logdiff2FC
+
+
+# Transform log differences to FC scale
+FC = apply(logDiffs, 2, logdiff2FC)
+
+library(qvalue)
+test.full=adjPval(test.full, method='jsFDR')
+
+out = data.frame(MeansRange, SERange, MeansTreatment, SETreatment, F1_val=test.full$F1$Fobs, Fs_val=test.full$Fs$Fobs,P_tab=test.full$Fs$Ptab, P_perm=test.full$Fs$Pvalperm, FDR_tab=test.full$Fs$adjPtab, FDR_perm=test.full$Fs$adjPvalperm, logDiffs=logDiffs, FC=FC)
+
+write.table(out , file="maanova/out.TreatP_perm.csv", sep=",", row.names=F)
+
+
+
+#why FDR>P??
+
+
+
+
+
+
+
+
+#Treatment contrasts
+# crunch10 screen -r 12166.Treatcont
+
+library(maanova,lib.loc='~/R/x86_64-redhat-linux-gnu-library/2.10')
+
+madfull<-read.madata(datafile="~/fexprs_rangetab", designfile="~/names2", probeid=0, intensity=1) 
+
+fit.fix=fitmaanova(madfull, formula=~Range+Treatment+Population+Sample, random=~Population+Sample) 
+
+cmat = rbind( C1C2    =  c( 1,   -1, 0, 0),
+               C1L      =  c( 1,  0,   -1,  0 ),
+               C1N      =  c( 1,  0,  0,   -1 ),
+               C2L   =  c( 0,   1,  -1,   0 ),
+               C2N   =  c( 0,   1,   0,  -1 ))
+
+
+
+test.full=matest(madfull, fit.fix, term="Treatment", Contrast=cmat, n.perm=1, test.type = "ttest",shuffle.method="sample",verbose=TRUE)
+
+names<-read.table("maanova/names", header=TRUE)
+#get means for Range
+MeansRange = t(apply(madfull$data, 1, tapply, names$Range, mean)) 
+colnames(MeansRange)=paste("Mean", colnames(MeansRange), sep=":")
+
+#get means for Treatment
+MeansTreatment = t(apply(madfull$data, 1, tapply, names$Treatment, mean)) 
+colnames(MeansTreatment)=paste("Mean", colnames(MeansTreatment), sep=":")
+
+#get SE for Range
+SERange = t(apply(madfull$data, 1, tapply, names$Range, function(x) sqrt(var(x)/length(x))))
+colnames(SERange)=paste("SE", colnames(SERange), sep=":")
+
+#get SE for Treatment
+SETreatment = t(apply(madfull$data, 1, tapply, names$Treatment, function(x) sqrt(var(x)/length(x))))
+colnames(SETreatment)=paste("SE", colnames(SETreatment), sep=":")
+
+
+
+# Log differences 
+Range=matrix((MeansRange[,1]-MeansRange[,2]), ,1)
+TreatmentC1C2=matrix((MeansTreatment[,1]-MeansTreatment[,2]), ,1)
+TreatmentC1L=matrix((MeansTreatment[,1]-MeansTreatment[,3]), ,1)
+TreatmentC1N=matrix((MeansTreatment[,1]-MeansTreatment[,4]), ,1)
+TreatmentC2L=matrix((MeansTreatment[,2]-MeansTreatment[,3]), ,1)
+TreatmentC2N=matrix((MeansTreatment[,2]-MeansTreatment[,4]), ,1)
+TreatmentLN=matrix((MeansTreatment[,3]-MeansTreatment[,4]), ,1)
+
+# Bind columns into a matrix
+logDiffs=cbind(Range, TreatmentC1C2, TreatmentC1L, TreatmentC1N, TreatmentC2L, TreatmentC2N, TreatmentLN )
+
+
+
+logdiff2FC=function(x, base=2) {
+  # Transforms x from a log difference (logdiff) to a fold change (FC) scale
+  # logdiff is the expression difference in log scale of base = 'base'
+  # FC is the ratio between two expression values in the original scale
+  # The absolute value of the returned FC is always greater than or equal to 1
+  # The sign is kept to indicate direction of change
+  # When the the log difference is 0, the FC is always 1.
+  signs = sign(x)
+  out   = base^abs(x)
+  if(any(x==0)) {
+    out[x==0] = 1
+  }
+  return(out*signs)
+} # logdiff2FC
+
+
+# Transform log differences to FC scale
+FC = apply(logDiffs, 2, logdiff2FC)
+
+library(qvalue)
+test.full=adjPval(test.full, method='jsFDR')
+
+out = data.frame(MeansRange, SERange, F1_val=test.full$F1$Fobs, Fs_val=test.full$Fs$Fobs,P_tab=test.full$Fs$Ptab, FDR_tab=test.full$Fs$adjPtab,  logDiffs=logDiffs, FC=FC)
+
+write.table(out , file="maanova/out.TreatcontP_tab.csv", sep=",", row.names=F)
+
+
+
+
+
+
+#1000 permutations
+
+library(maanova,lib.loc='~/R/x86_64-redhat-linux-gnu-library/2.10')
+
+madfull<-read.madata(datafile="~/fexprs_rangeperm", designfile="~/names2", probeid=0, intensity=1) 
+
+fit.fix=fitmaanova(madfull, formula=~Range+Treatment+Population+Sample, random=~Population+Sample) 
+
+cmat = rbind( C1C2    =  c( 1,   -1, 0, 0),
+               C1L      =  c( 1,  0,   -1,  0 ),
+               C1N      =  c( 1,  0,  0,   -1 ),
+               C2L   =  c( 0,   1,  -1,   0 ),
+               C2N   =  c( 0,   1,   0,  -1 ))
+
+
+
+
+test.full=matest(madfull, fit.fix, term="Treatment", Contrast=cmat, n.perm=1000, test.type = "ttest",shuffle.method="sample",verbose=TRUE)
+
+names<-read.table("maanova/names", header=TRUE)
+#get means for Range
+MeansRange = t(apply(madfull$data, 1, tapply, names$Range, mean)) 
+colnames(MeansRange)=paste("Mean", colnames(MeansRange), sep=":")
+
+#get means for Treatment
+MeansTreatment = t(apply(madfull$data, 1, tapply, names$Treatment, mean)) 
+colnames(MeansTreatment)=paste("Mean", colnames(MeansTreatment), sep=":")
+
+#get SE for Range
+SERange = t(apply(madfull$data, 1, tapply, names$Range, function(x) sqrt(var(x)/length(x))))
+colnames(SERange)=paste("SE", colnames(SERange), sep=":")
+
+#get SE for Treatment
+SETreatment = t(apply(madfull$data, 1, tapply, names$Treatment, function(x) sqrt(var(x)/length(x))))
+colnames(SETreatment)=paste("SE", colnames(SETreatment), sep=":")
+
+
+
+# Log differences 
+Range=matrix((MeansRange[,1]-MeansRange[,2]), ,1)
+TreatmentC1C2=matrix((MeansTreatment[,1]-MeansTreatment[,2]), ,1)
+TreatmentC1L=matrix((MeansTreatment[,1]-MeansTreatment[,3]), ,1)
+TreatmentC1N=matrix((MeansTreatment[,1]-MeansTreatment[,4]), ,1)
+TreatmentC2L=matrix((MeansTreatment[,2]-MeansTreatment[,3]), ,1)
+TreatmentC2N=matrix((MeansTreatment[,2]-MeansTreatment[,4]), ,1)
+TreatmentLN=matrix((MeansTreatment[,3]-MeansTreatment[,4]), ,1)
+
+# Bind columns into a matrix
+logDiffs=cbind(Range, TreatmentC1C2, TreatmentC1L, TreatmentC1N, TreatmentC2L, TreatmentC2N, TreatmentLN )
+
+
+
+logdiff2FC=function(x, base=2) {
+  # Transforms x from a log difference (logdiff) to a fold change (FC) scale
+  # logdiff is the expression difference in log scale of base = 'base'
+  # FC is the ratio between two expression values in the original scale
+  # The absolute value of the returned FC is always greater than or equal to 1
+  # The sign is kept to indicate direction of change
+  # When the the log difference is 0, the FC is always 1.
+  signs = sign(x)
+  out   = base^abs(x)
+  if(any(x==0)) {
+    out[x==0] = 1
+  }
+  return(out*signs)
+} # logdiff2FC
+
+
+# Transform log differences to FC scale
+FC = apply(logDiffs, 2, logdiff2FC)
+
+library(qvalue)
+test.full=adjPval(test.full, method='jsFDR')
+
+out = data.frame(MeansTreatment, SETreatment, F1_val=test.full$F1$Fobs, Fs_val=test.full$Fs$Fobs,P_tab=test.full$Fs$Ptab, P_perm=test.full$Fs$Pvalperm, FDR_tab=test.full$Fs$adjPtab, FDR_perm=test.full$Fs$adjPvalperm, logDiffs=logDiffs, FC=FC)
+
+write.table(out , file="maanova/out.TreatcontP_perm.csv", sep=",", row.names=F)
+
+
+
+
+fit.fix=fitmaanova(madfull, formula=~Range+Treatment+Treatment:Population, random=~Treatment:Population) 
+fit.fix=fitmaanova(madfull, formula=~Range+Treatment) 
+test.full=matest(madfull, fit.fix, term="Treatment", n.perm=1, shuffle.method="sample",verbose=TRUE)
+test.full=adjPval(test.full, method='jsFDR')
+
+out = data.frame(F1_val=test.full$F1$Fobs, Fs_val=test.full$Fs$Fobs,P_tab=test.full$Fs$Ptab, FDR_tab=test.full$Fs$adjPtab, logDiffs=logDiffs, FC=FC)
+
+write.table(out , file="maanova/out.testTreat.csv", sep=",", row.names=F)
