@@ -1,11 +1,11 @@
 #STEPS ALL TAKE PLACE ON MRFOX NOW
 
 #steps
-1. identify bad areas, replace their values with NAs in the .xys files (
-2. load data into R, impute values using impute.knn
-3. export imputed values, replace NAs in .xys files with imputed values
-4. load modified .xys files into R using oligo, prune bad samples, run rma
-5. ready for analysis
+#1. identify bad areas (using NimbleScan, as recorded in microarray_QC.R), replace their values with NAs in the .xys files (using bad_features.kay_microarray.pl).
+#2. load data into R, impute values using impute.knn (this R file)
+#3. export imputed values, replace NAs in .xys files with imputed values (using knnreplace.kay_microarray.pl)
+#4. load modified .xys files into R using oligo, prune bad samples, run rma (this R file)
+#5. ready for analysis (as in Kay_analysis.txt or Kay_Final_analysis.txt - actually R code)
 
 #specify bioconductor source
 source("http://bioconductor.org/biocLite.R")
@@ -57,7 +57,7 @@ data2<-data[rowSums(is.na(data)) < 129, ,drop=FALSE] #number here should match t
 knnout<-impute.knn(data2, k=10, rowmax=0.5, colmax=0.8, maxp=1500, rng.seed=36243606) #imputing with default values
 allkn<-knnout$data
 
-#print out and replace original values with imputed values using kay's script
+#print out and replace original values with imputed values using kay's script (knnreplace.kay_mircroarray)
 write.table(allkn, file="microarray/NIL/knn_replaced.txt", quote=F, sep="\t")
 
 #look at raw data
