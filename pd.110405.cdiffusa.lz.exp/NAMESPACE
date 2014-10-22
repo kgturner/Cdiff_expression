@@ -1,0 +1,7 @@
+import(DBI)
+import(RSQLite)
+export(
+       'pd.110405.cdiffusa.lz.exp'
+       )
+importFrom("Biostrings", "DNAStringSet")
+importFrom("IRanges", "DataFrame")

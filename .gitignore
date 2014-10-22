@@ -1,3 +1,6 @@
+#file too big
+Cdiff_expression.7z
+
 #################
 ## Eclipse
 #################
@@ -213,3 +216,4 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+.Rproj.user
