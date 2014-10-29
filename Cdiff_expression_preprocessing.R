@@ -2,14 +2,18 @@
 #10/21/2014
 
 #Preprocessing and analysis overview
-#1. Grid .tif files and produce .xys file for each .tif and generate Experimental metrics report, using NimbleScan 2.6
+#1. Grid .tif files and produce .xys file for each .tif and generate Experimental metrics report and Probe reports, using NimbleScan 2.6
 #2. identify bad areas (coordinates from NimbleScan, recorded in Cdiff_expression_arrayQC.R, file names and coordinates for further processing in Cdiffexpression_bad_features.txt), 
 #3. replace values of bad features with NAs in the .xys files (using bad_features.kay_microarray.pl; or batch call removebadfeatures.pl).
 #4. Discard/move original .xys files with bad features. If more than one bad feature removed, retain most highly modified version of file (i.e., largest numbef of "_bfr" endings, then change file ending to .xys).
 #5. load data into R, impute values using impute.knn (this R file)
-#6. export imputed values, replace NAs in .xys files with imputed values (using knnreplace.kay_microarray.pl)
+#6. export imputed values, replace NAs in .xys files with imputed values (using knnreplace.kay_microarray.pl; or batch call KnnReplaceBatch2.pl)
 #7. load modified .xys files into R using oligo, prune bad samples, run rma (this R file)
-#8. ready for analysis (as in Kay_analysis.txt or Kay_Final_analysis.txt - actually R code)
+#8. use awk in shell to make datamatrix.txt (described in this R file)
+#9. prune bad probes, rerun rma (this R file)
+#10. ready for analysis (this R file or as in Kay_analysis.txt or Kay_Final_analysis.txt - actually R code)
+
+####Step 5####
 
 #specify bioconductor source
 source("http://bioconductor.org/biocLite.R")
@@ -23,84 +27,60 @@ library(oligo)
 library(impute)
 #library(genefilter)
 
-############################################################
-############################################################
 #construct annotation library
 library(pdInfoBuilder)
 baseDir <- "~/GitHub/Cdiff_expression/remove bad features"
-xys <- list.files(baseDir, pattern = ".xys", full.names = TRUE)[1]
+xys <- list.files(baseDir, pattern = ".xys", full.names = TRUE)[14] #choose xys file that doesn't need correction? Here 500952_Cycle10_532.xys
 baseDir <- "~/GitHub/Cdiff_expression"
-ndf <- list.files(baseDir, pattern = ".ndf", full.names = TRUE)
+ndf <- list.files(baseDir, pattern = ".ndf", full.names = TRUE) #design file
 seed <- new("NgsExpressionPDInfoPkgSeed", ndfFile = ndf, xysFile = xys, biocViews = "AnnotationData", organism = "knapweed", species = "Centaurea diffusa")
 makePdInfoPackage(seed, destDir = baseDir)
 #now install package. there is no need to load it in after. R will recognize that it's installed once you try to read the xys files
 install.packages("~/GitHub/Cdiff_expression/pd.110405.cdiffusa.lz.exp/", repos=NULL, type="source")
-############################################################
-############################################################
 
-#read in the data #working on mrfox
+#read in the data 
 xys.files<-list.xysfiles("~/GitHub/Cdiff_expression/remove bad features", full.names=TRUE)
 Cdifexpr<-read.xysfiles(xys.files)
 
-
 #remove random probes	#identifies probes which only have NA values across every array
 data<-exprs(Cdifexpr)
-data2<-data[apply(data,1,function(x)any(!is.na(x))),]
-data3<-data[apply(data,1,function(x)any(is.na(x))),]
+# data2<-data[apply(data,1,function(x)any(!is.na(x))),]
+# data3<-data[apply(data,1,function(x)any(is.na(x))),]
 data2<-data[rowSums(is.na(data)) < 108, ,drop=FALSE] #number here should match the number of samples (columns) in the data frame
+#look at raw data
+hist(data2, col = darkColors(132), lty = 1) #, xlim = c(100, 5000)
+
 
 #k nearest neighbor imputation
-knnout<-impute.knn(data2, k=10, rowmax=0.5, colmax=0.8, maxp=1500, rng.seed=362436069) #imputing with default values
+knnout<-impute.knn(data2) #imputing with default values #k=10, rowmax=0.5, colmax=0.8, maxp=1500, rng.seed=362436069
 allkn<-knnout$data
 
 #print out and replace original values with imputed values using kay's script (knnreplace.kay_mircroarray.pl)
 write.table(allkn, file="~/GitHub/Cdiff_expression/remove bad features/knn_replaced.txt", quote=F, sep="\t")
+#file too large to push to GitHub; stored locally in C:\Users\Kat\Documents\grad work\gene expression\remove bad features
+#also, must add tab at beginning of file to align column headers properly
 
-#look at raw data
-#hist(data2, col = darkColors(132), lty = 1, xlim = c(6, 17))
-#boxplot(data2[, 1:132], col = darkColors(132), names = 1:132)
+####Step 7####
 
 #read in KNN imputed XYS files
-xys.files<-list.xysfiles("/home/morien/microarray/AMF/Helianthus_amf_TIF_aligned/knn_xys", full.names=TRUE)
-xys.files2<-list.xysfiles("/home/morien/microarray/AMF/Helianthus_amf_TIF_aligned/19933_20090409/knn_xys", full.names=TRUE)
-xys.files=c(xys.files, xys.files2)
-AMF<-read.xysfiles(xys.files)
-xys.files<-list.xysfiles("/home/morien/microarray/NIL/tif_aligned/knn_xys", full.names=TRUE)
-NIL<-read.xysfiles(xys.files)
-xys.files<-list.xysfiles("/home/morien/microarray/sunflower/tif_aligned/knn_xys", full.names=TRUE)
-sunflower<-read.xysfiles(xys.files)
-xys.files<-list.xysfiles("/home/morien/microarray/star_thistle/tif_aligned/knn_xys", full.names=TRUE)
-star_thistle<-read.xysfiles(xys.files)
+xys.files<-list.xysfiles("~/GitHub/Cdiff_expression/knn_xys", full.names=TRUE)
+Cdifxys<-read.xysfiles(xys.files)
 
 #RMA - background correction, normalization, summarization of probes
-ppData.sunflower=rma(sunflower)
-ppData.NIL=rma(NIL)
-ppData.AMF=rma(AMF)
-ppData.star_thistle=rma(star_thistle)
+ppData.Cdifxys=rma(Cdifxys)
 
 #RMA is complete, now extract expression data
-exprs.sunflower=exprs(ppData.sunflower)
-exprs.NIL=exprs(ppData.NIL)
-exprs.AMF=exprs(ppData.AMF)
-exprs.star_thistle=exprs(ppData.star_thistle)
+exprs.Cdifxys=exprs(ppData.Cdifxys)
 
+write.matrix(exprs.Cdifxys, file="Cdif_exprs_matrix.txt")
+exprs.Cdifxys<- as.matrix(read.table("Cdif_exprs_matrix.txt", header=TRUE, sep = "\t", row.names = 1, as.is=TRUE))
 
-#now remove genes that are unexpressed
-#find random probe average expression and standard deviation
-a=read.delim("microarray/random_probe_positions.txt", sep="\t", header=F) #one array should be enough for a test. we can use all the arrays if need be
-b=log10(a[,10]) #column 10 of this file has the expression values for the random probes. we are comparing to log 10 transformed values, so transform random exp values too
-> mean(b)
-[1] 2.60122 #average random probe exp
-> sd(b)
-[1] 0.05576136 #random probe standard deviation
+####Step 8####
+#extracting probe expression values from sunflower probe info files #DONE IN SHELL/CYGWIN NOT R
+#awk command as below, written out with appropriate file names in probelist.txt
+#awk '{a[FNR]=a[FNR] FS $8;t=(FNR>T)?FNR:t}END {for (i=1;i<=t;i++) print a[i]}' blah.probe blahblah.probe etc.probe > datamatrix.txt
 
-#remove 'unexpressed' probes
-
-#read in raw data with probe info
-
-#extracting probe expression values from sunflower probe info files #DONE IN SHELL NOT R
-awk '{a[FNR]=a[FNR] FS $8;t=(FNR>T)?FNR:t}END {for (i=1;i<=t;i++) print a[i]}' 470975A01_532.probe 471139A08_532.probe 471148A03_532.probe 471186A10_532.probe 471189A05_532.probe 471198A12_532.probe 471225A07_532.probe 470975A02_532.probe 471139A09_532.probe 471148A04_532.probe 471186A11_532.probe 471189A06_532.probe 471208A01_532.probe 471225A08_532.probe 470975A03_532.probe 471139A10_532.probe 471148A05_532.probe 471186A12_532.probe 471189A07_532.probe 471208A02_532.probe 471225A09_532.probe 470975A04_532.probe 471139A11_532.probe 471148A06_532.probe 471187A01_532.probe 471189A08_532.probe 471208A03_532.probe 471225A10_532.probe 470975A05_532.probe 471139A12_532.probe 471148A07_532.probe 471187A02_532.probe 471189A09_532.probe 471208A04_532.probe 471225A11_532.probe 470975A06_532.probe 471145A01_532.probe 471148A08_532.probe 471187A03_532.probe 471189A10_532.probe 471208A05_532.probe 471225A12_532.probe 470975A07_532.probe 471145A02_532.probe 471148A09_532.probe 471187A04_532.probe 471189A11_532.probe 471208A06_532.probe 471312A01_532.probe 470975A08_532.probe 471145A03_532.probe 471148A10_532.probe 471187A05_532.probe 471189A12_532.probe 471208A07_532.probe 471312A02_532.probe 470975A09_532.probe 471145A04_532.probe 471148A11_532.probe 471187A06_532.probe 471198A01_532.probe 471208A08_532.probe 471312A03_532.probe 470975A10_532.probe 471145A05_532.probe 471148A12_532.probe 471187A07_532.probe 471198A02_532.probe 471208A09_532.probe 471312A04_532.probe 470975A11_532.probe 471145A06_532.probe 471186A01_532.probe 471187A08_532.probe 471198A03_532.probe 471208A10_532.probe 471312A05_532.probe 470975A12_532.probe 471145A07_532.probe 471186A02_532.probe 471187A09_532.probe 471198A04_532.probe 471208A11_532.probe 471312A06_532.probe 471139A01_532.probe 471145A08_532.probe 471186A03_532.probe 471187A10_532.probe 471198A05_532.probe 471208A12_532.probe 471312A07_532.probe 471139A02_532.probe 471145A09_532.probe 471186A04_532.probe 471187A11_532.probe 471198A06_532.probe 471225A01_532.probe 471312A08_532.probe 471139A03_532.probe 471145A10_532.probe 471186A05_532.probe 471187A12_532.probe 471198A07_532.probe 471225A02_532.probe 471312A09_532.probe 471139A04_532.probe 471145A11_532.probe 471186A06_532.probe 471189A01_532.probe 471198A08_532.probe 471225A03_532.probe 471312A10_532.probe 471139A05_532.probe 471145A12_532.probe 471186A07_532.probe 471189A02_532.probe 471198A09_532.probe 471225A04_532.probe 471312A11_532.probe 471139A06_532.probe 471148A01_532.probe 471186A08_532.probe 471189A03_532.probe 471198A10_532.probe 471225A05_532.probe 471312A12_532.probe 471139A07_532.probe 471148A02_532.probe 471186A09_532.probe 471189A04_532.probe 471198A11_532.probe 471225A06_532.probe > datamatrix.txt
-
+####Step 9####
 sunprobes=read.delim("microarray/sunflower/tif_aligned/probe_reports/datamatrix.txt", sep=" ", header=T, row.names=NULL)
 
 #above output doesn't contain probe names, get them from a single probe file
@@ -169,7 +149,7 @@ library(maanova)
 # Create a madata object #data is already normalized, background corrected, summarized. don't log transform.
 madata=read.madata(exprs.sunflower, design, log.trans=F)
 
-#########################################################################################################################
+####Step 10#####################################################################################################################
 #design:
 #
 #treatment_set (jas1 jas2 dr1 dr2 con)
