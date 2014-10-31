@@ -10,7 +10,7 @@
 #6. export imputed values, replace NAs in .xys files with imputed values (using knnreplace.kay_microarray.pl; or batch call KnnReplaceBatch2.pl)
 #7. load modified .xys files into R using oligo, prune bad samples, run rma (this R file)
 #8. use awk in shell to make datamatrix.txt (described in this R file)
-#9. prune bad probes, rerun rma (this R file)
+#9. prune bad probes, rerun rma (this R file)?
 #10. ready for analysis (this R file or as in Kay_analysis.txt or Kay_Final_analysis.txt - actually R code)
 
 ####Step 5####
@@ -19,9 +19,12 @@
 source("http://bioconductor.org/biocLite.R")
 #install packages
 biocLite(c("affy", "oligo", "impute", "pdInfoBuilder"))
+biocLite("limma")
+biocLite("statmod")
+biocLite("maanova")
 
 #loaded libraries: oligo, limma
-#library(limma)
+library(limma)
 #library(affy)
 library(oligo)
 library(impute)
@@ -72,8 +75,9 @@ ppData.Cdifxys=rma(Cdifxys)
 #RMA is complete, now extract expression data
 exprs.Cdifxys=exprs(ppData.Cdifxys)
 
-write.matrix(exprs.Cdifxys, file="Cdif_exprs_matrix.txt")
-exprs.Cdifxys<- as.matrix(read.table("Cdif_exprs_matrix.txt", header=TRUE, sep = "\t", row.names = 1, as.is=TRUE))
+#not sure these work properly
+write.table(exprs.Cdifxys, file="Cdif_exprs_matrix.txt")
+readtest<- read.delim("Cdif_exprs_matrix.txt", header=TRUE, sep = "\t")
 
 ####Step 8####
 #extracting probe expression values from sunflower probe info files #DONE IN SHELL/CYGWIN NOT R
@@ -81,23 +85,26 @@ exprs.Cdifxys<- as.matrix(read.table("Cdif_exprs_matrix.txt", header=TRUE, sep =
 #awk '{a[FNR]=a[FNR] FS $8;t=(FNR>T)?FNR:t}END {for (i=1;i<=t;i++) print a[i]}' blah.probe blahblah.probe etc.probe > datamatrix.txt
 
 ####Step 9####
-sunprobes=read.delim("microarray/sunflower/tif_aligned/probe_reports/datamatrix.txt", sep=" ", header=T, row.names=NULL)
+probes=read.delim("C:/Users/Kat/Documents/grad work/gene expression/34029_20120220_Knapweeds/probe_reports/datamatrix.txt", sep=" ", header=T, row.names=NULL)
 
 #above output doesn't contain probe names, get them from a single probe file
-a=read.delim("microarray/sunflower/tif_aligned/probe_reports/470975A01_532.probe", sep="\t", header=T, row.names=NULL, skip=1) #duplicate probe ID names means we have to make them unique somehow
-b=do.call(paste, c(a[c("PROBE_ID", "MATCH_INDEX")], sep = "_"))	#concatenating the match index with the probe ID produces a human readable unique probe ID
-row.names(sunprobes)=b #assign unique row names to data matrix
+a=read.delim("C:/Users/Kat/Documents/grad work/gene expression/34029_20120220_Knapweeds/probe_reports/509196_Cycle7_532.probe", sep="\t", header=T, row.names=NULL, skip=1) 
+#duplicate probe ID names means we have to make them unique somehow
+b=do.call(paste, c(a[c("PROBE_ID", "MATCH_INDEX")], sep = "_"))	
+#concatenating the match index with the probe ID produces a human readable unique probe ID
+b <- c(0,b)
+row.names(probes)=b #assign unique row names to data matrix
 
-#remove extra column introduced by awk
-sunprobes=sunprobes[,-1]
+#remove extra column and row introduced by awk. Remove value for 1st row, every column (which is "SEQ_URL")
+probes=probes[-1,-1]
 
 #REMOVE NON-RANDOM CONTROL PROBES FOR "BETTER" NORMALIZATION AND RMA
-index1 <- with(sunprobes, grepl("CPK", row.names(sunprobes))) #which probes are CPK probes
-index2 <- with(sunprobes, grepl("AMPFS", row.names(sunprobes))) #which probes are other non-random control probes
-index3 <- with(sunprobes, grepl("DELFS", row.names(sunprobes))) #which probes are other non-random control probes
-index4 <- with(sunprobes, grepl("XENOTRACK", row.names(sunprobes))) #which probes are other non-random control probes
-index5 <- with(sunprobes, grepl("EMPTY", row.names(sunprobes))) #which probes are other non-random control probes
-index6 <- with(sunprobes, grepl("Syn[A-Z]_", row.names(sunprobes))) #which probes are other non-random control probes
+index1 <- with(probes, grepl("CPK", row.names(probes))) #which probes are CPK probes
+index2 <- with(probes, grepl("AMPFS", row.names(probes))) #which probes are other non-random control probes
+index3 <- with(probes, grepl("DELFS", row.names(probes))) #which probes are other non-random control probes
+index4 <- with(probes, grepl("XENOTRACK", row.names(probes))) #which probes are other non-random control probes
+index5 <- with(probes, grepl("EMPTY", row.names(probes))) #which probes are other non-random control probes
+index6 <- with(probes, grepl("Syn[A-Z]_", row.names(probes))) #which probes are other non-random control probes
 a=which(index1 == "FALSE") #I WANT TO REMOVE THESE
 b=which(index2 == "FALSE") #I WANT TO REMOVE THESE
 c=which(index3 == "FALSE") #I WANT TO REMOVE THESE
@@ -105,51 +112,64 @@ d=which(index4 == "FALSE") #I WANT TO REMOVE THESE
 e=which(index5 == "FALSE") #I WANT TO REMOVE THESE
 f=which(index6 == "FALSE") #I WANT TO REMOVE THESE
 g=Reduce(intersect, list(a,b,c,d,e,f)) #only want those that are false in all cases
-test=sunprobes[g,]
-
+test=probes[g,]
+test <- data.matrix(test, rownames.force=TRUE)
 
 #RMA with limma this time. no using oligo without .xys inputs. 
 #background correction
-bgc=backgroundCorrect(test, method="normexp", normexp.method="rma", verbose=T)
+bgc=backgroundCorrect(test, method="normexp", verbose=T)
+# bgc=backgroundCorrect(test, method="rma",verbose=T)
 #quantile normalization
-QNsunprobes=normalizeBetweenArrays(bgc, method="quantile")
+QNprobes=normalizeBetweenArrays(bgc, method="quantile")
 
 #just gets the random probes on their own
 #test=subset(QNsunprobes, grepl("RANDOM", row.names(QNsunprobes))) #just gets the random probes
 
 #define random probes by index
-QNsunprobes=as.data.frame(QNsunprobes)
-index1 <- with(QNsunprobes, grepl("RANDOM", row.names(QNsunprobes))) #which probes are RANDOM probes
+QNprobes=as.data.frame(QNprobes)
+row.names(QNprobes) <- row.names(test)
+index1 <- with(QNprobes, grepl("RANDOM", row.names(QNprobes))) #which probes are RANDOM probes
 a=which(index1 == "FALSE") #these are the non-random probes
 b=which(index1 == "TRUE") #these are the random probes
-rand=QNsunprobes[b,]
-data=QNsunprobes[a,]
+rand=QNprobes[b,]
+data=QNprobes[a,]
 
-#unexpressed <= 2 * (Standard deviation of random probes) + (mean random probes)
-> (0.05576136 * 2) + 2.60122
-[1] 2.712743	#remove genes with expression below this level
+#define cutoff for 'unexpressed' <= 2 * (Standard deviation of random probes) + (mean random probes)
+randmat <- data.matrix(rand, rownames.force=TRUE)
+mean(randmat)
+[1] 2876.698
+sd(randmat)
+[1] 1067.049
+(1067.049 * 2) + 2876.698
+[1] 5010.796	#remove genes with expression below this level
 
-min(exprs.sunflower)
-[1] 3.959489	#no genes to remove
+min(exprs.Cdifxys)
+[1] 2.403344	
+mean(exprs.Cdifxys)
 
-#check untransformed data (diff between random and actual probes)
+#remove unexpressed
 
-#using MAANOVA package to analyze data w a mixed model
+
+####Step 10######
+#####using MAANOVA package to analyze data w a mixed model
 #building this from MAANOVA tutorial
 
 # Read hybridization design
-design=read.table("microarray/sunflower/design_files/experimental_design.txt", header=T, sep="\t") #sunflower expt design is located in Sunflower_HX12_microarrayFinalInfo.xls file, transferred to microarray/sunflower/design_files/experimental_design.txt and modified to remove bad samples and add additional metadata
+design=read.table("C:/Users/Kat/Documents/GitHub/Cdiff_expression/experimentaldesign.txt", header=T, sep="\t") 
+#expt design table includes expression and DNA arrays
+"arrayID"  "SampleID" "Pop"      "Origin"   "Trt"      "Exp"      "TrtPool"  "Tmpt"
+#arrayID needs to be Array
+colnames(design)[1] <- "Array"
 
-# show design
-print(design)
+exprs.design <- droplevels(subset(design, Exp=="exprs"))
 
 #load maanova library
 library(maanova)
 
 # Create a madata object #data is already normalized, background corrected, summarized. don't log transform.
-madata=read.madata(exprs.sunflower, design, log.trans=F)
+madata=read.madata(exprs.Cdifxys, exprs.design, log.trans=F)
 
-####Step 10#####################################################################################################################
+###############################################################################################################
 #design:
 #
 #treatment_set (jas1 jas2 dr1 dr2 con)

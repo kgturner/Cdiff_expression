@@ -1,0 +1,133 @@
+arrayID	SampleID	Pop	Origin	Trt	Exp	TrtPool	Tmpt
+501081_Cycle6	BG001_C1T0	BG001	nat	control	exprs	C1	0
+501192_Cycle12	BG001_C1T1	BG001	nat	control	exprs	C1	1
+500952_Cycle11	BG001_C1T2	BG001	nat	control	exprs	C1	2
+509195_Cycle11	BG001_C2T0	BG001	nat	control	exprs	C2	0
+509195_Cycle10	BG001_C2T1	BG001	nat	control	exprs	C2	1
+500952_Cycle12	BG001_C2T2	BG001	nat	control	exprs	C2	2
+500970_Cycle8	BG001_C3T0	BG001	nat	control	exprs	C3	0
+509196_Cycle9	BG001_C3T1	BG001	nat	control	exprs	C3	1
+509196_Cycle7	BG001_C3T2	BG001	nat	control	exprs	C3	2
+500982_Cycle3	BG001_D1T0	BG001	nat	drought	exprs	D1	0
+500813_Cycle12	BG001_D1T1	BG001	nat	drought	exprs	D1	1
+509185_Cycle6	BG001_D1T2	BG001	nat	drought	exprs	D1	2
+500982_Cycle2	BG001_D2T0	BG001	nat	drought	exprs	D2	0
+500982_Cycle9	BG001_D2T1	BG001	nat	drought	exprs	D2	1
+509196_Cycle5	BG001_D2T2	BG001	nat	drought	exprs	D2	2
+500952_Cycle8	BG001_D3T0	BG001	nat	drought	exprs	D3	0
+501081_Cycle10	BG001_D3T1	BG001	nat	drought	exprs	D3	1
+501192_Cycle10	BG001_D3T2	BG001	nat	drought	exprs	D3	2
+501081_Cycle5	CA001_C1T0	CA001	inv	control	exprs	C1	0
+509195_Cycle9	CA001_C1T1	CA001	inv	control	exprs	C1	1
+501192_Cycle8	CA001_C1T2	CA001	inv	control	exprs	C1	2
+509185_Cycle3	CA001_C2T0	CA001	inv	control	exprs	C2	0
+500813_Cycle7	CA001_C2T1	CA001	inv	control	exprs	C2	1
+500982_Cycle7	CA001_C2T2	CA001	inv	control	exprs	C2	2
+509195_Cycle6	CA001_C3T0	CA001	inv	control	exprs	C3	0
+509196_Cycle3	CA001_C3T1	CA001	inv	control	exprs	C3	1
+501192_Cycle9	CA001_C3T2	CA001	inv	control	exprs	C3	2
+500970_Cycle5	CA001_D1T0	CA001	inv	drought	exprs	D1	0
+500970_Cycle10	CA001_D1T1	CA001	inv	drought	exprs	D1	1
+500970_Cycle12	CA001_D1T2	CA001	inv	drought	exprs	D1	2
+500952_Cycle2	CA001_D2T0	CA001	inv	drought	exprs	D2	0
+509185_Cycle5	CA001_D2T1	CA001	inv	drought	exprs	D2	1
+509192_Cycle7	CA001_D2T2	CA001	inv	drought	exprs	D2	2
+509195_Cycle12	CA001_D3T0	CA001	inv	drought	exprs	D3	0
+500952_Cycle3	CA001_D3T1	CA001	inv	drought	exprs	D3	1
+500952_Cycle7	CA001_D3T2	CA001	inv	drought	exprs	D3	2
+501192_Cycle7	CA001-16-5	CA001	inv	control	DNA		
+509185_Cycle12	CA001-18-1	CA001	inv	control	DNA		
+509196_Cycle6	CA001-9-28	CA001	inv	control	DNA		
+509192_Cycle9	RU008_C1T0	RU008	nat	control	exprs	C1	0
+501192_Cycle4	RU008_C1T1	RU008	nat	control	exprs	C1	1
+501081_Cycle9	RU008_C1T2	RU008	nat	control	exprs	C1	2
+509185_Cycle2	RU008_C2T0	RU008	nat	control	exprs	C2	0
+509185_Cycle8	RU008_C2T1	RU008	nat	control	exprs	C2	1
+501081_Cycle12	RU008_C2T2	RU008	nat	control	exprs	C2	2
+500813_Cycle5	RU008_C3T0	RU008	nat	control	exprs	C3	0
+500813_Cycle4	RU008_C3T1	RU008	nat	control	exprs	C3	1
+501081_Cycle3	RU008_C3T2	RU008	nat	control	exprs	C3	2
+500970_Cycle9	RU008_D1T0	RU008	nat	drought	exprs	D1	0
+509196_Cycle2	RU008_D1T1	RU008	nat	drought	exprs	D1	1
+509185_Cycle10	RU008_D1T2	RU008	nat	drought	exprs	D1	2
+500982_Cycle10	RU008_D2T0	RU008	nat	drought	exprs	D2	0
+501081_Cycle11	RU008_D2T1	RU008	nat	drought	exprs	D2	1
+500970_Cycle1	RU008_D2T2	RU008	nat	drought	exprs	D2	2
+500970_Cycle2	RU008_D3T0	RU008	nat	drought	exprs	D3	0
+500952_Cycle6	RU008_D3T1	RU008	nat	drought	exprs	D3	1
+509185_Cycle4	RU008_D3T2	RU008	nat	drought	exprs	D3	2
+509192_Cycle10	SERG_1_5	SERG	sk	control	DNA		
+509196_Cycle8	SERG_1_7	SERG	sk	control	DNA		
+509185_Cycle7	SERG_2_5	SERG	sk	control	DNA		
+501081_Cycle2	TR001_C1T0	TR001	nat	control	exprs	C1	0
+501081_Cycle4	TR001_C1T1	TR001	nat	control	exprs	C1	1
+500813_Cycle2	TR001_C1T2	TR001	nat	control	exprs	C1	2
+500813_Cycle1	TR001_C2T0	TR001	nat	control	exprs	C2	0
+501192_Cycle5	TR001_C2T1	TR001	nat	control	exprs	C2	1
+509185_Cycle9	TR001_C2T2	TR001	nat	control	exprs	C2	2
+509192_Cycle12	TR001_C3T0	TR001	nat	control	exprs	C3	0
+500813_Cycle11	TR001_C3T1	TR001	nat	control	exprs	C3	1
+500970_Cycle4	TR001_C3T2	TR001	nat	control	exprs	C3	2
+500970_Cycle6	TR001_D1T0	TR001	nat	drought	exprs	D1	0
+500970_Cycle3	TR001_D1T1	TR001	nat	drought	exprs	D1	1
+500982_Cycle11	TR001_D1T2	TR001	nat	drought	exprs	D1	2
+500982_Cycle1	TR001_D2T0	TR001	nat	drought	exprs	D2	0
+501192_Cycle6	TR001_D2T1	TR001	nat	drought	exprs	D2	1
+509195_Cycle3	TR001_D2T2	TR001	nat	drought	exprs	D2	2
+500982_Cycle8	TR001_D3T0	TR001	nat	drought	exprs	D3	0
+509192_Cycle3	TR001_D3T1	TR001	nat	drought	exprs	D3	1
+501081_Cycle7	TR001_D3T2	TR001	nat	drought	exprs	D3	2
+509196_Cycle4	TR001-5-2	TR001	nat	control	DNA		
+509192_Cycle4	TR001-6-3	TR001	nat	control	DNA		
+509195_Cycle4	TR001-9-12	TR001	nat	control	DNA		
+500982_Cycle5	US001_C1T0	US001	inv	control	exprs	C1	0
+500952_Cycle9	US001_C1T1	US001	inv	control	exprs	C1	1
+509195_Cycle1	US001_C1T2	US001	inv	control	exprs	C1	2
+500813_Cycle3	US001_C2T0	US001	inv	control	exprs	C2	0
+500952_Cycle4	US001_C2T1	US001	inv	control	exprs	C2	1
+500952_Cycle5	US001_C2T2	US001	inv	control	exprs	C2	2
+500982_Cycle12	US001_C3T0	US001	inv	control	exprs	C3	0
+500952_Cycle1	US001_C3T1	US001	inv	control	exprs	C3	1
+509195_Cycle7	US001_C3T2	US001	inv	control	exprs	C3	2
+509195_Cycle5	US001_D1T0	US001	inv	drought	exprs	D1	0
+509195_Cycle8	US001_D1T1	US001	inv	drought	exprs	D1	1
+509185_Cycle11	US001_D1T2	US001	inv	drought	exprs	D1	2
+509196_Cycle1	US001_D2T0	US001	inv	drought	exprs	D2	0
+509192_Cycle8	US001_D2T1	US001	inv	drought	exprs	D2	1
+501192_Cycle11	US001_D2T2	US001	inv	drought	exprs	D2	2
+501081_Cycle8	US001_D3T0	US001	inv	drought	exprs	D3	0
+500813_Cycle6	US001_D3T1	US001	inv	drought	exprs	D3	1
+500970_Cycle7	US001_D3T2	US001	inv	drought	exprs	D3	2
+509192_Cycle2	US003_C1T0	US003	inv	control	exprs	C1	0
+509192_Cycle5	US003_C1T1	US003	inv	control	exprs	C1	1
+501081_Cycle1	US003_C1T2	US003	inv	control	exprs	C1	2
+500970_Cycle11	US003_C2T0	US003	inv	control	exprs	C2	0
+509192_Cycle11	US003_C2T1	US003	inv	control	exprs	C2	1
+501192_Cycle2	US003_C2T2	US003	inv	control	exprs	C2	2
+500982_Cycle6	US003_C3T0	US003	inv	control	exprs	C3	0
+501192_Cycle1	US003_C3T1	US003	inv	control	exprs	C3	1
+500813_Cycle8	US003_C3T2	US003	inv	control	exprs	C3	2
+500813_Cycle10	US003_D1T0	US003	inv	drought	exprs	D1	0
+500813_Cycle9	US003_D1T1	US003	inv	drought	exprs	D1	1
+509185_Cycle1	US003_D1T2	US003	inv	drought	exprs	D1	2
+500952_Cycle10	US003_D2T0	US003	inv	drought	exprs	D2	0
+509192_Cycle6	US003_D2T1	US003	inv	drought	exprs	D2	1
+509192_Cycle1	US003_D2T2	US003	inv	drought	exprs	D2	2
+501192_Cycle3	US003_D3T0	US003	inv	drought	exprs	D3	0
+500982_Cycle4	US003_D3T1	US003	inv	drought	exprs	D3	1
+509195_Cycle2	US003_D3T2	US003	inv	drought	exprs	D3	2
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
+							
