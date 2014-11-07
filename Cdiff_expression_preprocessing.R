@@ -28,6 +28,7 @@ library(limma)
 #library(affy)
 library(oligo)
 library(impute)
+library(maanova)
 #library(genefilter)
 
 #construct annotation library
@@ -75,9 +76,9 @@ ppData.Cdifxys=rma(Cdifxys)
 #RMA is complete, now extract expression data
 exprs.Cdifxys=exprs(ppData.Cdifxys)
 
-#not sure these work properly
-write.table(exprs.Cdifxys, file="Cdif_exprs_matrix.txt")
-readtest<- read.delim("Cdif_exprs_matrix.txt", header=TRUE, sep = "\t")
+# #not sure these work properly
+# write.table(exprs.Cdifxys, file="Cdif_exprs_matrix.txt")
+# readtest<- as.matrix(read.delim("Cdif_exprs_matrix.txt", header=TRUE, sep = "\t"))
 
 ####Step 8####
 #extracting probe expression values from sunflower probe info files #DONE IN SHELL/CYGWIN NOT R
@@ -155,7 +156,7 @@ mean(exprs.Cdifxys)
 #building this from MAANOVA tutorial
 
 # Read hybridization design
-design=read.table("C:/Users/Kat/Documents/GitHub/Cdiff_expression/experimentaldesign.txt", header=T, sep="\t") 
+design <- read.table("C:/Users/Kat/Documents/GitHub/Cdiff_expression/experimentaldesign.txt", header=T, sep="\t") 
 #expt design table includes expression and DNA arrays
 "arrayID"  "SampleID" "Pop"      "Origin"   "Trt"      "Exp"      "TrtPool"  "Tmpt"
 #arrayID needs to be Array
@@ -167,7 +168,7 @@ exprs.design <- droplevels(subset(design, Exp=="exprs"))
 library(maanova)
 
 # Create a madata object #data is already normalized, background corrected, summarized. don't log transform.
-madata=read.madata(exprs.Cdifxys, exprs.design, log.trans=F)
+madata <- read.madata(exprs.Cdifxys, exprs.design, log.trans=F)
 
 ###############################################################################################################
 #design:
@@ -185,7 +186,7 @@ madata=read.madata(exprs.Cdifxys, exprs.design, log.trans=F)
 #########################################################################################################################
 
 # Fit the model #there may be a warning message here
-fit.fix=fitmaanova(madata, formula=~treatment_set+population_type+population_type_treatment_set+population, random=~population) #fit model for treatment, treatment set (timepoints), population type. everything else is 'random effect'. fixed effect model. we can also specify colums to test as random effects for a random effect model. 
+fit.fix=fitmaanova(madata, formula=~treatment_set+population_type+population_type_treatment_set+Pop, random=~Pop) #fit model for treatment, treatment set (timepoints), population type. everything else is 'random effect'. fixed effect model. we can also specify colums to test as random effects for a random effect model. 
 
 #one permutation, can i test all these factors
 test.one=matest(madata, fit.fix, term=c("treatment_set", "population_type", "population_type_treatment_set"), n.perm=1, shuffle.method="sample", verbose=TRUE)
