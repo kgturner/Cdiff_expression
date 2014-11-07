@@ -186,7 +186,7 @@ madata <- read.madata(exprs.Cdifxys, exprs.design, log.trans=F)
 #########################################################################################################################
 
 # Fit the model #there may be a warning message here
-fit.fix=fitmaanova(madata, formula=~treatment_set+population_type+population_type_treatment_set+Pop, random=~Pop) #fit model for treatment, treatment set (timepoints), population type. everything else is 'random effect'. fixed effect model. we can also specify colums to test as random effects for a random effect model. 
+fit.fix <- fitmaanova(madata, formula=~Origin*Trt+ Tmpt + Pop+SampleID,covariate=~Tmpt, random=~Pop+SampleID, verbose=TRUE) #fit model for treatment, treatment set (timepoints), population type. everything else is 'random effect'. fixed effect model. we can also specify colums to test as random effects for a random effect model. 
 
 #one permutation, can i test all these factors
 test.one=matest(madata, fit.fix, term=c("treatment_set", "population_type", "population_type_treatment_set"), n.perm=1, shuffle.method="sample", verbose=TRUE)
