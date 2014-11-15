@@ -151,7 +151,9 @@ mean(exprs.Cdifxys)
 #remove unexpressed
 
 
-####Step 10######
+####Step 10, largely performed on cluster######
+#see Cdif_expr_modeling.R
+
 #####using MAANOVA package to analyze data w a mixed model
 #building this from MAANOVA tutorial
 
