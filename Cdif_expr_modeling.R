@@ -1,4 +1,4 @@
-#Statistical modeling run on cluster (darjeeling)
+#Statistical modeling run on cluster (darjeeling) using maanova package
 #11/11/2014
 
 #Install/compile/add to path R version 3.1.1

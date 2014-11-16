@@ -1,0 +1,375 @@
+ortho_group2566	cytosol
+ortho_group2566	other binding
+ortho_group2566	other cellular components
+ortho_group2566	other cellular processes
+ortho_group2566	protein binding
+ortho_group2566	structural molecule activity
+ortho_group2566	transport
+ortho_group2634	nucleus
+ortho_group2634	unknown biological processes
+ortho_group2634	unknown molecular functions
+ortho_group2681	other cellular processes
+ortho_group2681	other cytoplasmic components
+ortho_group2681	other enzyme activity
+ortho_group2681	other intracellular components
+ortho_group2681	other metabolic processes
+ortho_group2681	response to stress
+ortho_group2701	nucleic acid binding
+ortho_group2701	nucleus
+ortho_group2701	other binding
+ortho_group2701	other cellular processes
+ortho_group2701	other metabolic processes
+ortho_group2701	transcription factor activity
+ortho_group2722	chloroplast
+ortho_group2722	hydrolase activity
+ortho_group2722	other cytoplasmic components
+ortho_group2722	other intracellular components
+ortho_group2722	other membranes
+ortho_group2722	plastid
+ortho_group2722	protein metabolism
+ortho_group2782	developmental processes
+ortho_group2782	ER
+ortho_group2782	other cellular components
+ortho_group2782	other cellular processes
+ortho_group2782	other enzyme activity
+ortho_group2782	other metabolic processes
+ortho_group2782	response to abiotic or biotic stimulus
+ortho_group2782	response to stress
+ortho_group2955	other binding
+ortho_group2955	other binding
+ortho_group2955	unknown biological processes
+ortho_group2955	unknown cellular components
+ortho_group3063	developmental processes
+ortho_group3063	other binding
+ortho_group3063	other cellular components
+ortho_group3063	other molecular functions
+ortho_group3071	kinase activity
+ortho_group3071	kinase activity
+ortho_group3071	mitochondria
+ortho_group3071	nucleotide binding
+ortho_group3071	nucleotide binding
+ortho_group3071	other cellular processes
+ortho_group3071	other cellular processes
+ortho_group3071	other metabolic processes
+ortho_group3071	other metabolic processes
+ortho_group3071	plasma membrane
+ortho_group3071	protein metabolism
+ortho_group3071	protein metabolism
+ortho_group3071	signal transduction
+ortho_group3071	signal transduction
+ortho_group3071	transferase activity
+ortho_group3071	transferase activity
+ortho_group3106	ER
+ortho_group3106	mitochondria
+ortho_group3106	other binding
+ortho_group3106	other cellular components
+ortho_group3106	other cytoplasmic components
+ortho_group3106	other intracellular components
+ortho_group3106	other membranes
+ortho_group3106	plasma membrane
+ortho_group3106	response to abiotic or biotic stimulus
+ortho_group3106	response to stress
+ortho_group3106	transport
+ortho_group3106	transporter activity
+ortho_group3296	cytosol
+ortho_group3296	DNA or RNA binding
+ortho_group3296	DNA or RNA binding
+ortho_group3317	chloroplast
+ortho_group3317	hydrolase activity
+ortho_group3317	other cellular processes
+ortho_group3317	other cytoplasmic components
+ortho_group3317	other enzyme activity
+ortho_group3317	other intracellular components
+ortho_group3317	other membranes
+ortho_group3317	other metabolic processes
+ortho_group3317	plastid
+ortho_group3379	other membranes
+ortho_group3379	unknown biological processes
+ortho_group3379	unknown molecular functions
+ortho_group3393	other binding
+ortho_group3393	other cellular processes
+ortho_group3393	other metabolic processes
+ortho_group3393	transferase activity
+ortho_group3393	unknown cellular components
+ortho_group3418	kinase activity
+ortho_group3418	kinase activity
+ortho_group3418	kinase activity
+ortho_group3418	nucleotide binding
+ortho_group3418	nucleotide binding
+ortho_group3418	nucleotide binding
+ortho_group3418	other cellular components
+ortho_group3418	other cellular components
+ortho_group3418	other cellular components
+ortho_group3418	other cellular processes
+ortho_group3418	other cellular processes
+ortho_group3418	other cellular processes
+ortho_group3418	other metabolic processes
+ortho_group3418	other metabolic processes
+ortho_group3418	other metabolic processes
+ortho_group3418	plasma membrane
+ortho_group3418	protein metabolism
+ortho_group3418	protein metabolism
+ortho_group3418	protein metabolism
+ortho_group3418	signal transduction
+ortho_group3418	signal transduction
+ortho_group3418	transferase activity
+ortho_group3418	transferase activity
+ortho_group3418	transferase activity
+ortho_group3498	hydrolase activity
+ortho_group3498	other binding
+ortho_group3498	other cellular processes
+ortho_group3498	other cytoplasmic components
+ortho_group3498	other intracellular components
+ortho_group3498	other metabolic processes
+ortho_group3498	plasma membrane
+ortho_group3498	protein binding
+ortho_group3523	unknown biological processes
+ortho_group3526	chloroplast
+ortho_group3526	electron transport or energy pathways
+ortho_group3526	other binding
+ortho_group3526	other cellular processes
+ortho_group3526	other enzyme activity
+ortho_group3526	other metabolic processes
+ortho_group3526	other molecular functions
+ortho_group3526	protein binding
+ortho_group3565	mitochondria
+ortho_group3565	other cellular processes
+ortho_group3565	other enzyme activity
+ortho_group3565	other membranes
+ortho_group3565	other metabolic processes
+ortho_group3565	other metabolic processes
+ortho_group3565	plasma membrane
+ortho_group3565	transferase activity
+ortho_group3601	cytosol
+ortho_group3601	other cellular processes
+ortho_group3601	other cytoplasmic components
+ortho_group3601	other intracellular components
+ortho_group3601	other membranes
+ortho_group3601	other metabolic processes
+ortho_group3601	protein metabolism
+ortho_group3601	ribosome
+ortho_group3601	structural molecule activity
+ortho_group3654	DNA or RNA binding
+ortho_group3654	other cellular processes
+ortho_group3654	other metabolic processes
+ortho_group3654	transcription factor activity
+ortho_group3820	other binding
+ortho_group3820	other cellular processes
+ortho_group3820	other metabolic processes
+ortho_group3820	protein metabolism
+ortho_group3834	other biological processes
+ortho_group3834	other metabolic processes
+ortho_group3834	response to abiotic or biotic stimulus
+ortho_group3834	response to stress
+ortho_group3834	transferase activity
+ortho_group3834	unknown cellular components
+ortho_group3935	chloroplast
+ortho_group3935	unknown biological processes
+ortho_group3935	unknown molecular functions
+ortho_group3970	chloroplast
+ortho_group3970	electron transport or energy pathways
+ortho_group3970	other cellular processes
+ortho_group3970	other cytoplasmic components
+ortho_group3970	other intracellular components
+ortho_group3970	other membranes
+ortho_group3970	other metabolic processes
+ortho_group3970	other molecular functions
+ortho_group3970	plastid
+ortho_group3970	response to abiotic or biotic stimulus
+ortho_group3970	response to stress
+ortho_group3989	developmental processes
+ortho_group3989	kinase activity
+ortho_group3989	nucleotide binding
+ortho_group3989	other cellular processes
+ortho_group3989	other cytoplasmic components
+ortho_group3989	other intracellular components
+ortho_group3989	transferase activity
+ortho_group4024	cytosol
+ortho_group4024	extracellular
+ortho_group4024	other cellular processes
+ortho_group4024	other cytoplasmic components
+ortho_group4024	other enzyme activity
+ortho_group4024	other metabolic processes
+ortho_group4072	unknown biological processes
+ortho_group4072	unknown cellular components
+ortho_group4072	unknown molecular functions
+ortho_group4163	developmental processes
+ortho_group4163	nucleus
+ortho_group4163	other biological processes
+ortho_group4163	other cellular processes
+ortho_group4163	other intracellular components
+ortho_group4163	other metabolic processes
+ortho_group4163	protein binding
+ortho_group4163	response to abiotic or biotic stimulus
+ortho_group4163	response to stress
+ortho_group4168	developmental processes
+ortho_group4168	developmental processes
+ortho_group4168	DNA or RNA binding
+ortho_group4168	DNA or RNA binding
+ortho_group4168	nucleic acid binding
+ortho_group4168	nucleic acid binding
+ortho_group4168	nucleus
+ortho_group4318	hydrolase activity
+ortho_group4318	hydrolase activity
+ortho_group4318	mitochondria
+ortho_group4318	other cytoplasmic components
+ortho_group4318	other enzyme activity
+ortho_group4318	other enzyme activity
+ortho_group4318	other intracellular components
+ortho_group4318	unknown biological processes
+ortho_group4328	chloroplast
+ortho_group4328	cytosol
+ortho_group4328	extracellular
+ortho_group4328	nucleus
+ortho_group4328	other cellular components
+ortho_group4328	other cytoplasmic components
+ortho_group4328	other enzyme activity
+ortho_group4328	other intracellular components
+ortho_group4328	other membranes
+ortho_group4328	other metabolic processes
+ortho_group4328	plastid
+ortho_group4328	ribosome
+ortho_group4339	cell wall
+ortho_group4339	cytosol
+ortho_group4339	nucleotide binding
+ortho_group4339	other cellular processes
+ortho_group4339	other membranes
+ortho_group4339	other metabolic processes
+ortho_group4339	plasma membrane
+ortho_group4339	protein binding
+ortho_group4339	protein metabolism
+ortho_group4375	plasma membrane
+ortho_group4375	unknown biological processes
+ortho_group4375	unknown biological processes
+ortho_group4375	unknown molecular functions
+ortho_group4375	unknown molecular functions
+ortho_group4410	chloroplast
+ortho_group4410	other binding
+ortho_group4410	other cytoplasmic components
+ortho_group4410	other intracellular components
+ortho_group4410	other membranes
+ortho_group4410	plastid
+ortho_group4410	response to stress
+ortho_group4519	other cellular processes
+ortho_group4519	other metabolic processes
+ortho_group4519	protein metabolism
+ortho_group4598	hydrolase activity
+ortho_group4598	other cellular components
+ortho_group4707	other cellular components
+ortho_group4707	signal transduction
+ortho_group4753	hydrolase activity
+ortho_group4753	nucleotide binding
+ortho_group4753	other cellular components
+ortho_group4753	other cellular processes
+ortho_group4753	protein binding
+ortho_group4753	transport
+ortho_group4771	other cellular components
+ortho_group4771	unknown biological processes
+ortho_group4771	unknown molecular functions
+ortho_group4787	hydrolase activity
+ortho_group4787	nucleotide binding
+ortho_group4787	other cellular processes
+ortho_group4787	other cytoplasmic components
+ortho_group4787	other intracellular components
+ortho_group4787	other metabolic processes
+ortho_group4787	transferase activity
+ortho_group4810	other cellular processes
+ortho_group4810	other cytoplasmic components
+ortho_group4810	other intracellular components
+ortho_group4810	other membranes
+ortho_group4810	transport
+ortho_group4813	chloroplast
+ortho_group4813	other binding
+ortho_group4813	other cellular processes
+ortho_group4813	other intracellular components
+ortho_group4813	other metabolic processes
+ortho_group4978	cell organization and biogenesis
+ortho_group4978	ER
+ortho_group4978	ER
+ortho_group4978	other cellular processes
+ortho_group4978	other cytoplasmic components
+ortho_group4978	other intracellular components
+ortho_group4978	other membranes
+ortho_group4978	plasma membrane
+ortho_group4978	plasma membrane
+ortho_group4978	response to abiotic or biotic stimulus
+ortho_group4987	cell organization and biogenesis
+ortho_group4987	developmental processes
+ortho_group4987	mitochondria
+ortho_group4987	nucleotide binding
+ortho_group4987	other cellular processes
+ortho_group4995	other cellular processes
+ortho_group4995	transport
+ortho_group4995	unknown cellular components
+ortho_group4995	unknown molecular functions
+ortho_group5000	unknown biological processes
+ortho_group5000	unknown cellular components
+ortho_group5000	unknown molecular functions
+ortho_group5018	cytosol
+ortho_group5018	developmental processes
+ortho_group5018	nucleus
+ortho_group5018	other cellular components
+ortho_group5018	other cellular processes
+ortho_group5018	other cytoplasmic components
+ortho_group5018	other intracellular components
+ortho_group5018	other metabolic processes
+ortho_group5018	protein metabolism
+ortho_group5018	unknown molecular functions
+ortho_group5030	other binding
+ortho_group5030	unknown biological processes
+ortho_group5030	unknown cellular components
+ortho_group5236	cytosol
+ortho_group5236	other binding
+ortho_group5236	other enzyme activity
+ortho_group5236	other metabolic processes
+ortho_group5236	response to stress
+ortho_group5263	mitochondria
+ortho_group5263	other biological processes
+ortho_group5263	other cytoplasmic components
+ortho_group5263	other enzyme activity
+ortho_group5263	other intracellular components
+ortho_group5263	other molecular functions
+ortho_group5263	response to stress
+ortho_group5267	hydrolase activity
+ortho_group5267	hydrolase activity
+ortho_group5267	nucleic acid binding
+ortho_group5267	nucleic acid binding
+ortho_group5267	nucleotide binding
+ortho_group5267	nucleotide binding
+ortho_group5267	unknown cellular components
+ortho_group5279	unknown molecular functions
+ortho_group5300	chloroplast
+ortho_group5300	DNA or RNA binding
+ortho_group5300	other cellular processes
+ortho_group5300	other metabolic processes
+ortho_group5300	transferase activity
+ortho_group5397	cytosol
+ortho_group5397	hydrolase activity
+ortho_group5397	other cellular processes
+ortho_group5397	other metabolic processes
+ortho_group5397	plasma membrane
+ortho_group5397	response to abiotic or biotic stimulus
+ortho_group5397	response to stress
+ortho_group5424	other cellular components
+ortho_group5424	protein binding
+ortho_group5424	response to abiotic or biotic stimulus
+ortho_group5424	response to stress
+ortho_group5530	chloroplast
+ortho_group5530	mitochondria
+ortho_group5530	nucleotide binding
+ortho_group5530	other binding
+ortho_group5530	other cytoplasmic components
+ortho_group5530	other intracellular components
+ortho_group5530	other membranes
+ortho_group5530	plasma membrane
+ortho_group5530	plastid
+ortho_group5530	response to stress
+ortho_group5570	other cellular processes
+ortho_group5570	other metabolic processes
+ortho_group5570	unknown cellular components
+ortho_group5570	unknown molecular functions
+ortho_group5593	nucleus
+ortho_group5593	other binding
+ortho_group5593	other cytoplasmic components
+ortho_group5593	response to abiotic or biotic stimulus
+ortho_group5593	response to stress
