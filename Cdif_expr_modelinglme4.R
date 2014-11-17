@@ -66,7 +66,7 @@ exprs.clim <- read.table("CdifExprs.BioclimPCAdat.txt", header=TRUE)
 exprs.design <- merge(exprs.design, exprs.clim[,c(1,22:27)], all.x=TRUE)
 exprs.design$PopTrtPool <- paste0(exprs.design$Pop, "_",exprs.design$TrtPool)
 #write design file with climate data
-write.table(exprs.clim, file="experimentaldesign.txt")
+write.table(exprs.design, file="experimentaldesign.txt")
 
 exprs.design <- read.table("C:/Users/Kat/Documents/GitHub/Cdiff_expression/experimentaldesign.txt", header=T, sep="\t") 
 
