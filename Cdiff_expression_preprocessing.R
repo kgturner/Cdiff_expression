@@ -99,56 +99,59 @@ row.names(probes)=b #assign unique row names to data matrix
 #remove extra column and row introduced by awk. Remove value for 1st row, every column (which is "SEQ_URL")
 probes=probes[-1,-1]
 
-#REMOVE NON-RANDOM CONTROL PROBES FOR "BETTER" NORMALIZATION AND RMA
-index1 <- with(probes, grepl("CPK", row.names(probes))) #which probes are CPK probes
-index2 <- with(probes, grepl("AMPFS", row.names(probes))) #which probes are other non-random control probes
-index3 <- with(probes, grepl("DELFS", row.names(probes))) #which probes are other non-random control probes
-index4 <- with(probes, grepl("XENOTRACK", row.names(probes))) #which probes are other non-random control probes
-index5 <- with(probes, grepl("EMPTY", row.names(probes))) #which probes are other non-random control probes
-index6 <- with(probes, grepl("Syn[A-Z]_", row.names(probes))) #which probes are other non-random control probes
-a=which(index1 == "FALSE") #I WANT TO REMOVE THESE
-b=which(index2 == "FALSE") #I WANT TO REMOVE THESE
-c=which(index3 == "FALSE") #I WANT TO REMOVE THESE
-d=which(index4 == "FALSE") #I WANT TO REMOVE THESE
-e=which(index5 == "FALSE") #I WANT TO REMOVE THESE
-f=which(index6 == "FALSE") #I WANT TO REMOVE THESE
-g=Reduce(intersect, list(a,b,c,d,e,f)) #only want those that are false in all cases
-test=probes[g,]
-test <- data.matrix(test, rownames.force=TRUE)
-
-#RMA with limma this time. no using oligo without .xys inputs. 
-#background correction
-bgc=backgroundCorrect(test, method="normexp", verbose=T)
-# bgc=backgroundCorrect(test, method="rma",verbose=T)
-#quantile normalization
-QNprobes=normalizeBetweenArrays(bgc, method="quantile")
-
-#just gets the random probes on their own
-#test=subset(QNsunprobes, grepl("RANDOM", row.names(QNsunprobes))) #just gets the random probes
-
-#define random probes by index
-QNprobes=as.data.frame(QNprobes)
-row.names(QNprobes) <- row.names(test)
-index1 <- with(QNprobes, grepl("RANDOM", row.names(QNprobes))) #which probes are RANDOM probes
-a=which(index1 == "FALSE") #these are the non-random probes
-b=which(index1 == "TRUE") #these are the random probes
-rand=QNprobes[b,]
-data=QNprobes[a,]
-
-#define cutoff for 'unexpressed' <= 2 * (Standard deviation of random probes) + (mean random probes)
-randmat <- data.matrix(rand, rownames.force=TRUE)
-mean(randmat)
-[1] 2876.698
-sd(randmat)
-[1] 1067.049
-(1067.049 * 2) + 2876.698
-[1] 5010.796	#remove genes with expression below this level
-
-min(exprs.Cdifxys)
-[1] 2.403344	
-mean(exprs.Cdifxys)
-
-#remove unexpressed
+#Not sure about this, so results not used: 
+##1)These probes not included in C diff dataset.
+# #REMOVE NON-RANDOM CONTROL PROBES FOR "BETTER" NORMALIZATION AND RMA
+# index1 <- with(probes, grepl("CPK", row.names(probes))) #which probes are CPK probes
+# index2 <- with(probes, grepl("AMPFS", row.names(probes))) #which probes are other non-random control probes
+# index3 <- with(probes, grepl("DELFS", row.names(probes))) #which probes are other non-random control probes
+# index4 <- with(probes, grepl("XENOTRACK", row.names(probes))) #which probes are other non-random control probes
+# index5 <- with(probes, grepl("EMPTY", row.names(probes))) #which probes are other non-random control probes
+# index6 <- with(probes, grepl("Syn[A-Z]_", row.names(probes))) #which probes are other non-random control probes
+# a=which(index1 == "FALSE") #I WANT TO REMOVE THESE
+# b=which(index2 == "FALSE") #I WANT TO REMOVE THESE
+# c=which(index3 == "FALSE") #I WANT TO REMOVE THESE
+# d=which(index4 == "FALSE") #I WANT TO REMOVE THESE
+# e=which(index5 == "FALSE") #I WANT TO REMOVE THESE
+# f=which(index6 == "FALSE") #I WANT TO REMOVE THESE
+# g=Reduce(intersect, list(a,b,c,d,e,f)) #only want those that are false in all cases
+# test=probes[g,]
+# test <- data.matrix(test, rownames.force=TRUE)
+# 
+# This background correction method gives order of magnitude different result than oligo. Not used...
+# RMA with limma this time. no using oligo without .xys inputs. 
+# #background correction
+# bgc=backgroundCorrect(test, method="normexp", verbose=T)
+# # bgc=backgroundCorrect(test, method="rma",verbose=T)
+# #quantile normalization
+# QNprobes=normalizeBetweenArrays(bgc, method="quantile")
+# 
+# No probes labeled as "RANDOM" so can't do this...
+# #just gets the random probes on their own
+# #test=subset(QNsunprobes, grepl("RANDOM", row.names(QNsunprobes))) #just gets the random probes
+# #define random probes by index
+# QNprobes=as.data.frame(QNprobes)
+# row.names(QNprobes) <- row.names(test)
+# index1 <- with(QNprobes, grepl("RANDOM", row.names(QNprobes))) #which probes are RANDOM probes
+# a=which(index1 == "FALSE") #these are the non-random probes
+# b=which(index1 == "TRUE") #these are the random probes
+# rand=QNprobes[b,]
+# data=QNprobes[a,]
+# 
+# No probes labeled as "RANDOM" so can't do this...
+# #define cutoff for 'unexpressed' <= 2 * (Standard deviation of random probes) + (mean random probes)
+# randmat <- data.matrix(rand, rownames.force=TRUE)
+# mean(randmat)
+# [1] 2876.698
+# sd(randmat)
+# [1] 1067.049
+# (1067.049 * 2) + 2876.698
+# [1] 5010.796	#remove genes with expression below this level ()
+# Order of magnitude difference between limma (immediately above) and oligo background correction methods (min and mean below)
+# min(exprs.Cdifxys)
+# [1] 2.403344	
+# mean(exprs.Cdifxys)
+# [1] 8.563472
 
 
 ####Step 10, largely performed on cluster######

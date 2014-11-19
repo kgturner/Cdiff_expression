@@ -71,15 +71,26 @@ dev.off()
 
 idx.full.mix <- volcano(ftest.all,method=c("unadj", "fdrperm"),highlight.flag=FALSE)
 
-#clustering
-cluster.kmean <- macluster(fit.full.mix, term="Origin",idx.gene=idx.full.mix$comparison1$idx.Fs,what="gene", method="kmean",kmean.ngroups=5, n.perm=100)
+#test each term
+ftest.int = matest(madata, fit.fix, test.method=c(1,1),shuffle.method="sample", term="Origin:Trt", n.perm= 10)
+ftest.int.adjP = adjPval(ftest.int, method = 'jsFDR')
 
-con.kmean <- consensus(cluster.kmean, 0.7)
-con.kmean$groupname
-cluster.hc <- macluster(fit.full.mix, term="Origin",idx.gene=idx.full.mix$comparison1$idx.Fs,what="sample", method="hc", n.perm=100)
-con.hc <- consensus(cluster.hc)
+sig.int <- subset(summarytable(ftest.int.adjP), Fs.Pvalperm>=0.05)
+dim(sig.int)
 
-# #test sample effect
+
+ftest.O <- matest(madata, fit.fix, test.method=c(1,1),shuffle.method="sample", term="Origin", n.perm= 1) 
+ftest.Trt <- matest(madata, fit.fix, test.method=c(1,1),shuffle.method="sample", term="Trt", n.perm= 1)
+
+# #clustering
+# cluster.kmean <- macluster(fit.full.mix, term="Origin",idx.gene=idx.full.mix$comparison1$idx.Fs,what="gene", method="kmean",kmean.ngroups=5, n.perm=100)
+# 
+# con.kmean <- consensus(cluster.kmean, 0.7)
+# con.kmean$groupname
+# cluster.hc <- macluster(fit.full.mix, term="Origin",idx.gene=idx.full.mix$comparison1$idx.Fs,what="sample", method="hc", n.perm=100)
+# con.hc <- consensus(cluster.hc)
+# 
+# # #test sample effect
  # test.samp <- matest(madata, fit.all, term="SampleID", n.perm=1)
  # #pval for sample
  # library(qvalue)
