@@ -1,0 +1,293 @@
+GO:0000003	Reproduction
+GO:0000719        photoreactive repair
+GO:0000747 	conjugation with cellular fusion
+GO:0000905 	sporocarp development involved in asexual reproduction
+GO:0000909 	sporocarp development involved in sexual reproduction
+GO:0001560      regulation of cell growth by extracellular stimulus
+GO:0001700        embryonic development via the syncytial blastoderm
+GO:0003006 	developmental process involved in reproduction
+GO:0003904 	 deoxyribodipyrimidine photo-lyase activity
+GO:0003913 	 DNA photolyase activity
+GO:0006833        water transport
+GO:0006950        response to stress
+GO:0006970	response to osmotic stress
+GO:0006974      response to DNA damage stimulus
+GO:0006979        response to oxidative stress
+GO:0007014	actin ubiquitination 
+GO:0007114 	cell budding
+GO:0007276 	gamete generation
+GO:0007338 	single fertilization
+GO:0007565 	female pregnancy
+GO:0007566 	embryo implantation
+GO:0007567 	parturition
+GO:0007602	phototransduction 
+GO:0007603	phototransduction, visible light  	
+GO:0007604	phototransduction, UV 
+GO:0007618 	mating
+GO:0007623        circadian rhythm
+GO:0008020 	 G-protein coupled photoreceptor activity
+GO:0008377	light-induced release of internally sequestered calcium ion 
+GO:0009266      response to temperature stimulus
+GO:0009408	response to heat
+GO:0009409        response to cold
+GO:0009411	response to UV 
+GO:0009413        response to flooding
+GO:0009414        response to water deprivation
+GO:0009415	response to water
+GO:0009416        response to light stimulus
+GO:0009521        photosystem
+GO:0009522        photosystem I
+GO:0009523        photosystem II
+GO:0009538        photosystem I reaction center
+GO:0009553        embryo sac development
+GO:0009554 megasporogenesis
+GO:0009555        pollen development
+GO:0009556        microsporogenesis
+GO:0009558        embryo sac cellularization
+GO:0009561        megagametogenesis
+GO:0009566 	fertilization
+GO:0009567        double fertilization forming a zygote and endosperm
+GO:0009582	detection of abiotic stimulus
+GO:0009583	detection of light stimulus 
+GO:0009584	detection of visible light  	
+GO:0009585        red, far-red light phototransduction
+GO:0009588	UV-A, blue light phototransduction  	
+GO:0009589	detection of UV 
+GO:0009605      response to external stimulus
+GO:0009607      response to biotic stimulus
+GO:0009612      response to mechanical stimulus
+GO:0009628      response to abiotic stimulus
+GO:0009631        cold acclimation
+GO:0009637        response to blue light
+GO:0009638        phototropism
+GO:0009639        response to red or far red light
+GO:0009640        photomorphogenesis
+GO:0009642        response to light intensity
+GO:0009643	photosynthetic acclimation 
+GO:0009644        response to high light intensity
+GO:0009645        response to low light intensity stimulus
+GO:0009646        response to absence of light
+GO:0009648        photoperiodism
+GO:0009649	entrainment of circadian clock
+GO:0009650        UV protection
+GO:0009651        response to salt stress
+GO:0009677 	double fertilization forming two zygotes
+GO:0009723      response to ethylene stimulus
+GO:0009725      response to hormone stimulus
+GO:0009729      detection of brassinosteroid stimulus
+GO:0009733      response to auxin stimulus
+GO:0009735      response to cytokinin stimulus
+GO:0009737      response to abscisic acid stimulus
+GO:0009739      response to gibberellin stimulus
+GO:0009741        response to brassinosteroid stimulus
+GO:0009744        response to sucrose stimulus
+GO:0009749        response to glucose stimulus
+GO:0009750        response to fructose stimulus
+GO:0009751        response to salicylic acid stimulus
+GO:0009753        response to jasmonic acid stimulus
+GO:0009765        photosynthesis, light harvesting
+GO:0009767        photosynthetic electron transport chain
+GO:0009768	photosynthesis, light harvesting in photosystem I  	
+GO:0009769	photosynthesis, light harvesting in photosystem II  	
+GO:0009772        photosynthetic electron transport in photosystem II
+GO:0009773        photosynthetic electron transport in photosystem I
+GO:0009785        blue light signaling pathway
+GO:0009790        embryo development
+GO:0009791        post-embryonic development
+GO:0009793        embryo development ending in seed dormancy
+GO:0009819	drought recovery  	
+GO:0009846        pollen germination
+GO:0009853        photorespiration
+GO:0009854        oxidative photosynthetic carbon pathway
+GO:0009856 	pollination
+GO:0009860        pollen tube growth
+GO:0009865        pollen tube adhesion
+GO:0009875        pollen-pistil interaction
+GO:0009880        embryonic pattern specification
+GO:0009881 	 photoreceptor activity
+GO:0009882 	 blue light photoreceptor activity
+GO:0009906	response to photoperiod, blue light
+GO:0009907	response to photoperiod, red light
+GO:0009908        flower development
+GO:0009909        regulation of flower development
+GO:0009910        negative regulation of flower development
+GO:0009911        positive regulation of flower development
+GO:0010017        red or far-red light signaling pathway
+GO:0010018	far-red light signaling pathway  	
+GO:0010069        zygote asymmetric cytokinesis in embryo sac
+GO:0010076        maintenance of floral meristem identity
+GO:0010077        maintenance of inflorescence meristem identity
+GO:0010080        regulation of floral meristem growth
+GO:0010081        regulation of inflorescence meristem growth
+GO:0010086        embryonic root morphogenesis
+GO:0010093        specification of floral organ identity
+GO:0010099        regulation of photomorphogenesis
+GO:0010100        negative regulation of photomorphogenesis
+GO:0010109        regulation of photosynthesis
+GO:0010114	response to red light  	
+GO:0010152        pollen maturation
+GO:0010161        red light signaling pathway
+GO:0010183        pollen tube guidance
+GO:0010196        nonphotochemical quenching
+GO:0010201	response to continuous far red light stimulus by the high-irradiance response system  	
+GO:0010202	response to low fluence red light stimulus  	
+GO:0010203	response to very low fluence red light stimulus  	
+GO:0010205        photoinhibition
+GO:0010206        photosystem II repair
+GO:0010207        photosystem II assembly
+GO:0010208        pollen wall assembly
+GO:0010213	non-photoreactive DNA repair 
+GO:0010218        response to far red light
+GO:0010224        response to UV-B
+GO:0010225        response to UV-C
+GO:0010227        floral organ abscission
+GO:0010228        vegetative to reproductive phase transition of meristem
+GO:0010229        inflorescence development
+GO:0010244        response to low fluence blue light stimulus by blue low-fluence system
+GO:0010254 nectary development
+GO:0010304	PSII associated light-harvesting complex II catabolic process  	
+GO:0010343	singlet oxygen-mediated programmed cell death 
+GO:0010361	regulation of anion channel activity by blue light 
+GO:0010362        negative regulation of anion channel activity by blue light
+GO:0010378	temperature compensation of the circadian clock
+GO:0010451 floral meristem growth
+GO:0010462	regulation of light-activated voltage-gated calcium channel activity  	
+GO:0010483        pollen tube reception
+GO:0010494        stress granule
+GO:0010550	regulation of PSII associated light-harvesting complex II catabolic process  	
+GO:0010555        response to mannitol stimulus
+GO:0010582        floral meristem determinacy
+GO:0010584        pollen exine formation
+GO:0015979        photosynthesis
+GO:0015989	light-driven proton transport  	
+GO:0016037	light absorption  	
+GO:0016038	absorption of visible light  	
+GO:0016039	absorption of UV light  	
+GO:0016048        detection of temperature stimulus
+GO:0016061	regulation of light-activated channel activity  	
+GO:0019098 	reproductive behavior
+GO:0019684        photosynthesis, light reaction
+GO:0019685        photosynthesis, dark reaction
+GO:0019953        sexual reproduction
+GO:0019954	asexual reproduction
+GO:0022414	reproductive process
+GO:0030076        light-harvesting complex
+GO:0030104        water homeostasis
+GO:0030436 	asexual sporulation
+GO:0030587 	sorocarp development
+GO:0032504	multicellular organism reproduction
+GO:0032505	reproduction of a single-celled organism
+GO:0032922        circadian regulation of gene expression
+GO:0033637	modulation by symbiont of host response to cold  	
+GO:0034293 	sexual sporulation
+GO:0034644	cellular response to UV 
+GO:0034976        response to endoplasmic reticulum stress
+GO:0035504	regulation of myosin light chain kinase activity  	
+GO:0035505	positive regulation of myosin light chain kinase activity  	
+GO:0035506	negative regulation of myosin light chain kinase activity  	
+GO:0035507	regulation of myosin-light-chain-phosphatase activity  	
+GO:0035508	positive regulation of myosin-light-chain-phosphatase activity  	
+GO:0035509	negative regulation of myosin-light-chain-phosphatase activity  	
+GO:0042331	phototaxis 
+GO:0042548	regulation of photosynthesis, light reaction  	
+GO:0042549        photosystem II stabilization
+GO:0042550        photosystem I stabilization
+GO:0042630	behavioral response to water deprivation 
+GO:0042631        cellular response to water deprivation
+GO:0042752        regulation of circadian rhythm
+GO:0042753        positive regulation of circadian rhythm
+GO:0043093 	cytokinesis by binary fission
+GO:0043153        entrainment of circadian clock by photoperiod
+GO:0043155	negative regulation of photosynthesis, light reaction 
+GO:0043157        response to cation stress
+GO:0043478	pigment accumulation in response to UV light  	
+GO:0043479	pigment accumulation in tissues in response to UV light  	
+GO:0043481        anthocyanin accumulation in tissues in response to UV light
+GO:0043483	anthocyanin biosynthetic process involved in anthocyanin accumulation in response to UV light  	
+GO:0045156 	 electron transporter, transferring electrons within the cyclic electron transport pathway of photosynthesis activity
+GO:0045158 	 electron transporter, transferring electrons within cytochrome b6/f complex of photosystem II activity
+GO:0045694        regulation of embryo sac egg cell differentiation
+GO:0045831	negative regulation of light-activated channel activity 
+GO:0045832	positive regulation of light-activated channel activity 
+GO:0045995        regulation of embryonic development
+GO:0046956	positive phototaxis 
+GO:0046957	negative phototaxis 
+GO:0048229        gametophyte development
+GO:0048235        pollen sperm cell differentiation
+GO:0048281        inflorescence morphogenesis
+GO:0048437        floral organ development
+GO:0048438        floral whorl development
+GO:0048439        flower morphogenesis
+GO:0048510        regulation of timing of transition from vegetative to reproductive phase
+GO:0048528        post-embryonic root development
+GO:0048544        recognition of pollen
+GO:0048564        photosystem I assembly
+GO:0048569        post-embryonic organ development
+GO:0048571	long-day photoperiodism
+GO:0048572	short-day photoperiodism
+GO:0048573        photoperiodism, flowering
+GO:0048574        long-day photoperiodism, flowering
+GO:0048575 short-day photoperiodism, flowering
+GO:0048579        negative regulation of long-day photoperiodism, flowering
+GO:0048586        regulation of long-day photoperiodism, flowering
+GO:0048598        embryonic morphogenesis
+GO:0048609 	multicellular organismal reproductive process
+GO:0048610 	cellular process involved in reproduction
+GO:0048624 	plantlet formation on parent plant
+GO:0048833 specification of floral organ number
+GO:0048868        pollen tube development
+GO:0050792        regulation of viral reproductionGO:0007338        single fertilization
+GO:0050826	response to freezing
+GO:0050896        response to stimulus
+GO:0050908	detection of light stimulus involved in visual perception 
+GO:0050953	sensory perception of light stimulus  	
+GO:0050962	detection of light stimulus involved in sensory perception 
+GO:0050980	detection of light stimulus involved in magnetoreception 
+GO:0050982        detection of mechanical stimulus
+GO:0055046        microgametogenesis
+GO:0055121	response to high fluence blue light stimulus by blue high-fluence system 
+GO:0055122	response to very low light intensity stimulus  	
+GO:0060321        acceptance of pollen
+GO:0060362	flight involved in flight behavior  	
+GO:0060467 	negative regulation of fertilization
+GO:0070141	response to UV-A 
+GO:0070415	trehalose metabolism in response to cold stress 
+GO:0070417	cellular response to cold  	
+GO:0071366        cellular response to indolebutyric acid stimulus
+GO:0071472        cellular response to salt stress
+GO:0071482	cellular response to light stimulus  	
+GO:0071483	cellular response to blue light  	
+GO:0071484	cellular response to light intensity  	
+GO:0071485	cellular response to absence of light  	
+GO:0071486	cellular response to high light intensity  	
+GO:0071487	cellular response to low light intensity stimulus  	
+GO:0071488	cellular response to very low light intensity stimulus  	
+GO:0071489	cellular response to red or far red light  	
+GO:0071490	cellular response to far red light  	
+GO:0071491	cellular response to red light  	
+GO:0071492	cellular response to UV-A 
+GO:0071493        cellular response to UV-B
+GO:0071494	cellular response to UV-C 
+GO:0071708	immunoglobulin light chain V-J recombination  	
+GO:0080021        response to benzoic acid stimulus
+GO:0080026        response to indolebutyric acid stimulus
+GO:0080092        regulation of pollen tube growth
+GO:0080093        regulation of photorespiration
+GO:0080094        response to trehalose-6-phosphate stimulus
+GO:0080110        sporopollenin biosynthetic process
+GO:0080136        priming of cellular response to stress
+GO:0080154 	regulation of fertilization
+GO:0085033	positive regulation by symbiont of host I-kappaB kinase/NF-kappaB cascade 
+GO:0090227	regulation of red or far-red light signaling pathway  	
+GO:0090228	positive regulation of red or far-red light signaling pathway  	
+GO:0090229	negative regulation of red or far-red light signaling pathway  	
+GO:0090404        pollen tube tip
+GO:0090406        pollen tube
+GO:0090428 perianth development
+GO:2000028 regulation of photoperiodism, flowering
+GO:2000030	regulation of response to red or far red light  	
+GO:2000070	regulation of response to water deprivation 
+GO:2000241 	regulation of reproductive process
+GO:2000242 	negative regulation of reproductive process
+GO:2000243 	positive regulation of reproductive process
+GO:2000306	positive regulation of photomorphogenesis 
