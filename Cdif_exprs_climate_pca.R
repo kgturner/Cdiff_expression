@@ -3,11 +3,11 @@
 
 #REML, using lme4
 #mixed effect models 
-# library(plyr)
-# library(lme4.0)
+library(plyr)
+library(lme4.0)
 # library(lsmeans)
-# library("ggplot2")
-# library("grid") 
+library("ggplot2")
+library("grid") 
 # library("gridBase")
 
 ####PCA fun times####
@@ -127,45 +127,47 @@ exprs.clim <- read.table("CdifExprs.BioclimPCAdat.txt", header=TRUE)
 # library("grid") 
 # library(gridBase)
 # 
-# ###PC1 vs PC2####
-# #pts instead of labels for pops
-# data <- data.frame(obsnames=row.names(Mfclim.pca$x), Mfclim.pca$x)
-# data <- merge(data, Mfclim[c(1,24)],by.x="obsnames", by.y="Pop")
-# levels(data$Origin)[levels(data$Origin)=="inv"] <- "Invasive C. diffusa"
-# levels(data$Origin)[levels(data$Origin)=="nat"] <- "Native C. diffusa"
+###PC1 vs PC2####
+#pts instead of labels for pops
+data <- data.frame(obsnames=row.names(exprs.clim.pca$x), exprs.clim.pca$x)
+data <- merge(data, exprs.clim[c(1,24)],by.x="obsnames", by.y="Pop")
+levels(data$Origin)[levels(data$Origin)=="inv"] <- "Invasive C. diffusa"
+levels(data$Origin)[levels(data$Origin)=="nat"] <- "Native C. diffusa"
 # levels(data$Origin)[levels(data$Origin)=="sk"] <- "Native C. stoebe"
-# 
-# # pdf("KTurnerFig2.pdf", useDingbats=FALSE, width=13.38)
-# png("MfClimatePC1vPC2.png",width=800, height = 600, pointsize = 16)
-# # postscript("KTurnerFig2.eps", horizontal = FALSE, onefile = FALSE, paper = "special", height = 7, width = 13.38)
-# 
-# pPC2 <- ggplot(data, aes_string(x="PC1", y="PC2")) + 
-#   geom_point(aes(shape=Origin, color=Origin), size=3) +
-#   #   scale_x_continuous(expand = c(0,1)) #+
-#   theme_bw()+
-#   theme(legend.justification=c(1,0), legend.position=c(1,0))
-# 
-# # plot
-# 
-# pPC2 <- pPC2 + geom_hline(aes(0), size=.2) + geom_vline(aes(0), size=.2)
-# datapc <- data.frame(varnames=rownames(Mfclim.pca$rotation), Mfclim.pca$rotation)
-# mult <- min(
-#   (max(data[,"PC2"]) - min(data[,"PC2"])/(max(datapc[,"PC2"])-min(datapc[,"PC2"]))),
-#   (max(data[,"PC1"]) - min(data[,"PC1"])/(max(datapc[,"PC1"])-min(datapc[,"PC1"])))
-# )
-# datapc <- transform(datapc,
-#                     v1 = .7 * mult * (get("PC1")),
-#                     v2 = .7 * mult * (get("PC2"))
-# )
-# 
-# pPC2 <- pPC2 + coord_equal() + geom_text(data=datapc, aes(x=v1, y=v2, label=varnames), 
-#                                          size = 6, vjust=1, color="gray47", alpha=0.75)
-# pPC2 <- pPC2 + geom_segment(data=datapc, aes(x=0, y=0, xend=v1, yend=v2), 
-#                             arrow=arrow(length=unit(0.2,"cm")), alpha=0.4, color="gray47")+
-#   ggtitle("(b)")+theme(plot.title = element_text(lineheight=2, face="bold"))
-# pPC2
-# dev.off()
-# 
+
+# pdf("KTurnerFig2.pdf", useDingbats=FALSE, width=13.38)
+png("ExprsClimatePC1vPC2.png",width=800, height = 600, pointsize = 16)
+# postscript("KTurnerFig2.eps", horizontal = FALSE, onefile = FALSE, paper = "special", height = 7, width = 13.38)
+
+pPC2 <- ggplot(data, aes_string(x="PC1", y="PC2")) + 
+  geom_point(aes(shape=Origin, color=Origin), size=3) +
+  #   scale_x_continuous(expand = c(0,1)) #+
+  theme_bw()+
+  theme(legend.justification=c(0,1), legend.position=c(0,1))
+
+# plot
+
+pPC2 <- pPC2 + geom_hline(aes(0), size=.2) + geom_vline(aes(0), size=.2)
+datapc <- data.frame(varnames=rownames(exprs.clim.pca$rotation), exprs.clim.pca$rotation)
+mult <- min(
+  (max(data[,"PC2"]) - min(data[,"PC2"])/(max(datapc[,"PC2"])-min(datapc[,"PC2"]))),
+  (max(data[,"PC1"]) - min(data[,"PC1"])/(max(datapc[,"PC1"])-min(datapc[,"PC1"])))
+)
+datapc <- transform(datapc,
+                    v1 = .7 * mult * (get("PC1")),
+                    v2 = .7 * mult * (get("PC2"))
+)
+
+pPC2 <- pPC2 + coord_equal() + geom_text(data=datapc, aes(x=v1, y=v2, label=varnames), 
+                                         size = 6, vjust=1, color="gray47", alpha=0.75)
+pPC2 <- pPC2 + geom_segment(data=datapc, aes(x=0, y=0, xend=v1, yend=v2), 
+                            arrow=arrow(length=unit(0.2,"cm")), alpha=0.4, color="gray47")+
+  ggtitle("(b)")+theme(plot.title = element_text(lineheight=2, face="bold", hjust=0))
+pPC2
+dev.off()
+
+ggsave("ExprsPC1vsPC2.png")
+
 # ####PC1 vs PC3####
 # png("MfClimatePCA1v3.png",width=800, height = 600, pointsize = 16)
 # # postscript("KTurnerFig2.eps", horizontal = FALSE, onefile = FALSE, paper = "special", height = 7, width = 13.38)
