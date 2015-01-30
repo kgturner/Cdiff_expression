@@ -137,6 +137,21 @@ exprs.LR<- function(trait,df,cov, family=gaussian){
 # 
 # model1<-lmer(test[[trait]]  ~ Origin*Trt+test[[cov]]+ (Tmpt|PopTrtPool)+(1|Pop), family=gaussian,data=test)
 
+exprs.dr.LR<- function(trait,df,cov, family=gaussian){
+  modeldata<-df[!is.na(df[[trait]]),]
+  
+  #browser()
+  
+  model1<-lmer(modeldata[[trait]]  ~ Origin+Trt+modeldata[[cov]]+ (Tmpt|PopTrtPool)+(1|Pop), family,data=modeldata)
+  model2<-lmer(modeldata[[trait]]  ~ Origin+ modeldata[[cov]] + (Tmpt|PopTrtPool)+(1|Pop), family,data=modeldata)
+  
+  a1 <- anova(model2,model1) # is Trt sig?
+  
+  pval <- as.data.frame(cbind(Contig=trait,trtLRT=a1[[7]][2]))
+  
+  return(pval)
+}
+
 ####corrections for multiple tests####
 #using:
 # test <- exprs.df[, c(1:20)]
@@ -156,7 +171,6 @@ test.LRT.Q <- cbind(test.LRT, covQ=covQ$qvalues, covQsig=covQ$significant)
 
 originQ <- qvalue(p=originP, lambda=seq(0,0.90,0.05), pi0.method="smoother", fdr.level=0.05, robust=FALSE, gui=FALSE, 
                smooth.df=3, smooth.log.pi0=FALSE)
-
 
 ####run models####
 #latitude
@@ -195,4 +209,14 @@ write.table(exprs.LRT.PC1.Q, file="lme4_qval_PC1.txt", sep="\t")
 # exprs.LRT.PC2 <- do.call(rbind,lapply(names(exprs.df)[15:61038],function(n) exprs.LR(n,df=exprs.df,cov="PC2")))#apply func to all things in list
 # #write data+design file. slow? Be sure to include cov name
 # write.table(exprs.LRT.pval, file="lme4_pval_PC2.txt")
+
+#trt sig w/ PC1
+exprs.dr.LRT.PC1 <- do.call(rbind,lapply(names(exprs.df)[15:61038],function(n) exprs.dr.LR(n,df=exprs.df,cov="PC1")))#apply func to all things in list
+
+trtQ <- qvalue(p=as.numeric(as.vector(exprs.dr.LRT.PC1$trtLRT)), lambda=seq(0,0.90,0.05), pi0.method="smoother", fdr.level=0.05, robust=FALSE, gui=FALSE, 
+               smooth.df=3, smooth.log.pi0=FALSE)
+
+exprs.dr.LRT.PC1.Q <- cbind(exprs.dr.LRT.PC1, trtQ=intQ$qvalues, trtQsig=intQ$significant)
+#write pval table. slow? Be sure to include cov name
+write.table(exprs.dr.LRT.PC1.Q, file="lme4_qval_PC1_dr.txt", sep="\t")
 
