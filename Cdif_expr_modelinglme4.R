@@ -220,3 +220,6 @@ exprs.dr.LRT.PC1.Q <- cbind(exprs.dr.LRT.PC1, trtQ=intQ$qvalues, trtQsig=intQ$si
 #write pval table. slow? Be sure to include cov name
 write.table(exprs.dr.LRT.PC1.Q, file="lme4_qval_PC1_dr.txt", sep="\t")
 
+#add to 1st PC1 table
+test <- cbind(exprs.LRT.PC1.Q, exprs.dr.LRT.PC1.Q)
+write.table(test, file="lme4_qval_PC1.txt", sep="\t")
