@@ -4,6 +4,7 @@
 ####look at results####
 #local
 PC1q <- read.table("lme4_qval_PC1.txt", header=T, sep="\t") 
+# PC1qdr <- read.table("lme4_qval_PC1_dr.txt", header=T, sep="\t") 
 # Latq <- read.table("lme4_qval_lat.txt", header=T, sep="\t")
 exprs.df <- read.table("C:/Users/Kat/Documents/GitHub/Cdiff_expression/Cdifexprs_lme4dat.txt", header=T, sep="\t") #takes a long time!
 test <- exprs.df[,c(1:20)]
@@ -16,7 +17,8 @@ library(reshape2)
 PC1q_intsig <- subset(PC1q,intQsig==TRUE ) #contigs with sig Origin*Trt
 PC1q_Osig <- subset(PC1q,originQsig==TRUE&intQsig==FALSE )#contigs with sig Origin
 PC1q_sig <- subset(PC1q, covQsig==TRUE)
-PC1q_trtsig <- subset(PC1q, trtQsig==TRUE)
+PC1q_trtsig <- subset(PC1q, trtQsig==TRUE&intQsig==FALSE)#contigs with sig trt
+# PC1q_trtsig <- subset(PC1q, trtQsig==TRUE)
 
 pc1intV <- as.vector(PC1q_intsig$Contig)
 PC1q_intsigdf <- subset(exprs.df, select=colnames(exprs.df)%in%pc1intV)
@@ -27,6 +29,7 @@ PC1q_Osigdf <- subset(exprs.df, select=colnames(exprs.df)%in%pc1oV)
 PC1q_Osigdf <-cbind(exprs.df[,1:14], PC1q_Osigdf)
 
 pc1trtV <- as.vector(PC1q_trtsig$Contig)
+#
 PC1q_trtsigdf <- subset(exprs.df, select=colnames(exprs.df)%in%pc1trtV)
 PC1q_trtsigdf <-cbind(exprs.df[,1:14], PC1q_trtsigdf)
 
@@ -39,10 +42,10 @@ write.table(PC1q_Osigdf, file="PC1_sigOrigin_df.txt", sep="\t")
 write.table(PC1q_sigdf, file="PC1_sigPC1_df.txt", sep="\t")
 write.table(PC1q_trtsigdf, file="PC1_sigtrt_df.txt", sep="\t")
 
-#lat, not run
-Latq_intsig <- subset(Latq,intQsig==TRUE )
-Latq_Osig <- subset(Latq,originQsig==TRUE&intQsig==FALSE )
-Latq_sig <- subset(Latq, covQsig==TRUE)
+# #lat, not run
+# Latq_intsig <- subset(Latq,intQsig==TRUE )
+# Latq_Osig <- subset(Latq,originQsig==TRUE&intQsig==FALSE )
+# Latq_sig <- subset(Latq, covQsig==TRUE)
 #not working
 # Latq_intsigdf <- subset(exprs.df, Contig%in%Latq_intsig$Contig)
 # Latq_Osigdf <- subset(exprs.df, Contig%in%Latq_Osig$Contig)
@@ -53,7 +56,7 @@ Latq_sig <- subset(Latq, covQsig==TRUE)
 
 
 summary(PC1q_Osig)
-summary(Latq_Osig)
+# summary(Latq_Osig)
 
 
 
