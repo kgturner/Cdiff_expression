@@ -65,13 +65,13 @@ PC1q_intsigdf <- read.table("PC1_sigint_df.txt", header=T)
 PC1q_Osigdf <- read.table("PC1_sigOrigin_df.txt", header=T)
 PC1q_sigdf <- read.table("PC1_sigPC1_df.txt", header=T)
 PC1q_trtsigdf <- read.table("PC1_sigtrt_df.txt", header=T)
-
-PC1q_intM <- as.matrix(t(PC1q_intsigdf[,c(15:241)]))
-# levels(grdat$Origin)[levels(grdat$Origin)=="inv"] <- "Invasive"
-# levels(grdat$Origin)[levels(grdat$Origin)=="nat"] <- "Native"
-orgs <- as.character(as.vector(as.numeric(PC1q_intsigdf$Origin)))
-
-heatmap.2(PC1q_intM,trace="none", ColSideColors=orgs, scale="none")
+# 
+# PC1q_intM <- as.matrix(t(PC1q_intsigdf[,c(15:241)]))
+# # levels(grdat$Origin)[levels(grdat$Origin)=="inv"] <- "Invasive"
+# # levels(grdat$Origin)[levels(grdat$Origin)=="nat"] <- "Native"
+# orgs <- as.character(as.vector(as.numeric(PC1q_intsigdf$Origin)))
+# 
+# heatmap.2(PC1q_intM,trace="none", ColSideColors=orgs, scale="none")
 
 #using biobase
 source("http://bioconductor.org/biocLite.R")
@@ -255,6 +255,7 @@ dev.off()
 #invasives a bit of a jumble
 
 ####scaled first timepoint####
+#should  be no difference due to treat
 intM0 <- as.matrix(t(subset(PC1q_intsigdf, Tmpt==0,select=c(15:241))))
 intdes0 <- subset(PC1q_intsigdf, Tmpt==0,select=c(1:14))
 intdes0$OriginTrt <- as.factor(paste0(intdes0$Origin, "_", intdes2$Trt))
