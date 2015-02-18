@@ -3,6 +3,7 @@
 #based on Gillespie et al., 2010. Github repo at https://github.com/csgillespie/bmc-microarray
 
 #can't handle complex model structure, with Origin and Trt????
+#or seems to be more about identifying differentially expressed genes, which I've already done with lme4
 
 source("http://bioconductor.org/biocLite.R")
 biocLite(c("timecourse"))
