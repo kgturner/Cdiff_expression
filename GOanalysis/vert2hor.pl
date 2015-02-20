@@ -9,7 +9,7 @@ open OUT, ">", $out or die "Couldn't create out file";
 while(<IN>){
 		chomp;
 		my @split=split;
-		push @{$ortho{$split[0]}},$split[1];
+		push @{$ortho{$split[1]}},$split[2];
 }
 
 foreach my $k (keys %ortho){
