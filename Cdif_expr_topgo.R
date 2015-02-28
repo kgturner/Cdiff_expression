@@ -57,37 +57,122 @@ intqGOdata <- new("topGOdata", description = "GO analysis of Cdif microarrays; g
                   gene2GO=GOmap) #our gene->GO term mapping file
 
 intqGOdata
-# #stats for random sample
-# sel.terms <- sample(usedGO(intqGOdata), 10)
-# termStat(intqGOdata, sel.terms)
+------------------------- topGOdata object -------------------------
+  
+  Description:
+  -  GO analysis of Cdif microarrays; genes with sig Origin*Trt effect 
+
+Ontology:
+  -  BP 
+
+61024 available genes (all genes from the array):
+  - symbol:  Contig1 Contig10 Contig100 Contig1000 Contig10000  ...
+- score :  0.7364 0.761989 0.5792765 0.78036662 0.471659746  ...
+- 227  significant genes. 
+
+37373 feasible genes (genes that can be used in the analysis):
+  - symbol:  Contig1 Contig10 Contig100 Contig1000 Contig10000  ...
+- score :  0.7364 0.761989 0.5792765 0.78036662 0.471659746  ...
+- 180  significant genes. 
+
+GO graph (nodes with at least  10  genes):
+  - a graph with directed edges
+- number of nodes = 2483 
+- number of edges = 5282 
+
+------------------------- topGOdata object -------------------------
 
 #enrichment
 #kay used fisher exact test...
-resultclas <- runTest(intqGOdata, algorithm = "classic", statistic = "fisher")
-resultelim <- runTest(intqGOdata, algorithm = "elim", statistic = "fisher")
-resultwt <- runTest(intqGOdata, algorithm = "weight", statistic = "fisher")
-resultwt01 <- runTest(intqGOdata, algorithm = "weight01", statistic = "fisher")
-resultlea <- runTest(intqGOdata, algorithm = "lea", statistic = "fisher")
+# resultclas <- runTest(intqGOdata, algorithm = "classic", statistic = "fisher")
+# resultelim <- runTest(intqGOdata, algorithm = "elim", statistic = "fisher")
+# resultwt <- runTest(intqGOdata, algorithm = "weight", statistic = "fisher")
+# resultwt01 <- runTest(intqGOdata, algorithm = "weight01", statistic = "fisher")
+# resultlea <- runTest(intqGOdata, algorithm = "lea", statistic = "fisher")
+
 resultpc <- runTest(intqGOdata, algorithm = "parentchild", statistic = "fisher")
 
-# pvalFis <- score(resultFis)
-# head(pvalFis)
-# hist(pvalFis, 50, xlab = "p-values")
-
-#work on this....
-clasRes <- as.data.frame(GenTable(intqGOdata, classic = resultclas, topNodes=2483))
-clasRes <- GenTable(intqGOdata, classic = resultclas, topNodes=50)
-#correct for multiple tests?
-clasResQ <- qvalue(p=clasRes$classic, lambda=seq(0,0.90,0.05), pi0.method="smoother", fdr.level=0.05, robust=FALSE, gui=FALSE, 
-               smooth.df=3, smooth.log.pi0=FALSE)
-clasRes <- cbind(clasRes, GOtermQ=clasResQ$qvalues, GOtermsig=clasResQ$significant) #intQ=intQ$qvalues, intQsig=intQ$significant
-write.table(clasRes, file="GOresults_sigint_classic.txt", sep="\t")
-
-#
+# 
 allRes <- GenTable(intqGOdata, classic = resultclas, elim=resultelim, weight=resultwt, 
                    weight01=resultwt01, lea=resultlea, parentchild=resultpc,
                    orderBy = "weight", ranksOf = "classic", topNodes = 50) #can summarize multiple result obj
 write.table(allRes, file="GOresults_sigint.txt", sep="\t")
+
+#multiple testing correction needed?
+# pvalFis <- score(resultclas)
+# head(pvalFis)
+# hist(pvalFis, 50, xlab = "p-values")
+# #correct for multiple tests?
+# clasResQ <- qvalue(p=pvalFis, lambda=seq(0,0.90,0.05), pi0.method="smoother", fdr.level=0.05, robust=FALSE, gui=FALSE, 
+#                smooth.df=3, smooth.log.pi0=FALSE)
+# clasRes <- cbind(clasRes, GOtermQ=clasResQ$qvalues, GOtermsig=clasResQ$significant) #intQ=intQ$qvalues, intQsig=intQ$significant
+# write.table(clasRes, file="GOresults_sigint_classic.txt", sep="\t")
+# 
+# or from topGO documentation:"For the methods that account for the GO topology like elim and weight...multiple testing theory does not
+# directly apply. We like to interpret the p-values returned by these methods as corrected or not affected
+# by multiple testing." 
+# topoRes <- GenTable(intqGOdata, elim = resultelim, weight = resultwt, orderby="weight", ranksof="elim", topNodes=50)
+
+#explaining GenTable output, from https://stat.ethz.ch/pipermail/bioconductor/2009-July/028616.html:
+# The "Annotated", "Significant" and "Expected" columns show
+# statistics computed for each GO term based on the complete
+# annotations, meaning that the "true path rule" is used to annotated
+# the genes to higher level terms. The "Expected" column shows an
+# estimate of the number of genes, anode of size "Annotated" will have
+# if the significant genes would be randomly selected from the gene
+# universe. Now, if you would use the "classic" algorithm for testing
+# for over-representation, then all GO terms with significant values
+# will have the "Significant"  < "Expected". However this is not the
+# case when using methods like "elim" or "weight" which remove or weight
+# genes annotated to GO terms when computing the significance. This
+# happens because when you "remove" the genes the counts for the
+# specific GO term change and the ratio between "Significant" and
+# "Expected" changes. 
+
+# Used parentchild in InvSyn paper, so...
+>resultpc
+
+Description: GO analysis of Cdif microarrays; genes with sig Origin*Trt effect 
+Ontology: BP 
+'parentchild' algorithm with the 'fisher : joinFun = union' test
+2483 GO terms scored: 33 terms with p < 0.01
+Annotation data:
+  Annotated genes: 37373 
+Significant genes: 180 
+Min. no. of genes annotated to a GO: 10 
+Nontrivial nodes: 639 
+
+pcRes <- GenTable(intqGOdata, parentchild = resultpc, topNodes=33)
+write.table(pcRes, file="GOresults_sigint_pc.txt", sep="\t")
+
+# get more info on specific terms, here, top 3 
+mget(pcRes[1:3,1], GOTERM)
+
+
+####Origin AND trt sig???####
+#identify genes of interest
+# #list of sig/not siq
+# intqList <- factor(as.integer(PC1q$intQsig))
+# names(intqList) <- CdifNames
+# str(intqList)
+
+# intqList <- PC1q$intQ
+PC1q_OT <- subset (PC1q, originQsig==TRUE&trtQsig==TRUE)
+OTqList <- PC1q_OT$originQ
+# names(intqList) <- PC1q$Contig
+# head(intqList)
+
+# #make topGOdata object
+# intqGOdata <- new("topGOdata", description = "GO analysis of Cdif microarrays; genes with sig Origin*Trt effect",
+#                   ontology="BP", #i.e. biological processes, MF (molecular function), CC (cellular component)?
+#                   allGenes=intqList, #factor describing which genes are of interest/sig, which are not
+#                   geneSel = topDiffGenes, #if above factor contains p or q values, how to set alpha level
+#                   annot=annFUN.gene2GO, #func that maps gene names to GO terms; use gene2GO since we provide gene->GO term mapping file
+#                   nodeSize=10, #to prune smaller GO terms, which may be artifacts; use range 5 - 10
+#                   gene2GO=GOmap) #our gene->GO term mapping file
+# 
+# intqGOdata
+
 
 ####O sig####
 #OR, incorporating q-values for additional analysis options
@@ -104,23 +189,63 @@ oqGOdata <- new("topGOdata", description = "GO analysis of Cdif microarrays; gen
                   gene2GO=GOmap) #our gene->GO term mapping file
 
 oqGOdata
-#stats for random sample
-sel.terms <- sample(usedGO(oqGOdata), 10)
-termStat(oqGOdata, sel.terms)
+------------------------- topGOdata object -------------------------
+  
+  Description:
+  -  GO analysis of Cdif microarrays; genes with sig Origin effect 
+
+Ontology:
+  -  BP 
+
+61024 available genes (all genes from the array):
+  - symbol:  Contig1 Contig10 Contig100 Contig1000 Contig10000  ...
+- score :  1 0.191291 1 0.62836337 1  ...
+- 587  significant genes. 
+
+37373 feasible genes (genes that can be used in the analysis):
+  - symbol:  Contig1 Contig10 Contig100 Contig1000 Contig10000  ...
+- score :  1 0.191291 1 0.62836337 1  ...
+- 369  significant genes. 
+
+GO graph (nodes with at least  10  genes):
+  - a graph with directed edges
+- number of nodes = 2483 
+- number of edges = 5282 
+
+------------------------- topGOdata object -------------------------
 
 #enrichment
 #kay used fisher exact test...
-resultclas <- runTest(oqGOdata, algorithm = "classic", statistic = "fisher")
-resultelim <- runTest(oqGOdata, algorithm = "elim", statistic = "fisher")
-resultwt <- runTest(oqGOdata, algorithm = "weight", statistic = "fisher")
-resultwt01 <- runTest(oqGOdata, algorithm = "weight01", statistic = "fisher")
-resultlea <- runTest(oqGOdata, algorithm = "lea", statistic = "fisher")
+# resultclas <- runTest(oqGOdata, algorithm = "classic", statistic = "fisher")
+# resultelim <- runTest(oqGOdata, algorithm = "elim", statistic = "fisher")
+# resultwt <- runTest(oqGOdata, algorithm = "weight", statistic = "fisher")
+# resultwt01 <- runTest(oqGOdata, algorithm = "weight01", statistic = "fisher")
+# resultlea <- runTest(oqGOdata, algorithm = "lea", statistic = "fisher")
 resultpc <- runTest(oqGOdata, algorithm = "parentchild", statistic = "fisher")
 
 allResO <- GenTable(oqGOdata, classic = resultclas, elim=resultelim, weight=resultwt, 
                    weight01=resultwt01, lea=resultlea, parentchild=resultpc,
                    orderBy = "weight", ranksOf = "classic", topNodes = 50) #can summarize multiple result obj
 write.table(allResO, file="GOresults_sigOrigin.txt", sep="\t")
+
+# Used parentchild in InvSyn paper, so...
+resultpc
+Description: GO analysis of Cdif microarrays; genes with sig Origin effect 
+Ontology: BP 
+'parentchild' algorithm with the 'fisher : joinFun = union' test
+2483 GO terms scored: 15 terms with p < 0.01
+Annotation data:
+  Annotated genes: 37373 
+Significant genes: 369 
+Min. no. of genes annotated to a GO: 10 
+Nontrivial nodes: 1088 
+
+
+pcRes <- GenTable(oqGOdata, parentchild = resultpc, topNodes=15)
+write.table(pcRes, file="GOresults_sigOrigin_pc.txt", sep="\t")
+
+# get more info on specific terms, here, top 3 
+mget(pcRes[1:3,1], GOTERM)
 
 ####trt sig####
 #OR, incorporating q-values for additional analysis options
@@ -137,23 +262,63 @@ trtqGOdata <- new("topGOdata", description = "GO analysis of Cdif microarrays; g
                   gene2GO=GOmap) #our gene->GO term mapping file
 
 trtqGOdata
-# #stats for random sample
-# sel.terms <- sample(usedGO(trtqGOdata), 10)
-# termStat(trtqGOdata, sel.terms)
+------------------------- topGOdata object -------------------------
+  
+  Description:
+  -  GO analysis of Cdif microarrays; genes with sig Trt effect 
 
+Ontology:
+  -  BP 
+
+61024 available genes (all genes from the array):
+  - symbol:  Contig1 Contig10 Contig100 Contig1000 Contig10000  ...
+- score :  0.30369 0.0795214 0.00130195 0.46292497 0.481873948  ...
+- 9617  significant genes. 
+
+37373 feasible genes (genes that can be used in the analysis):
+  - symbol:  Contig1 Contig10 Contig100 Contig1000 Contig10000  ...
+- score :  0.30369 0.0795214 0.00130195 0.46292497 0.481873948  ...
+- 6480  significant genes. 
+
+GO graph (nodes with at least  10  genes):
+  - a graph with directed edges
+- number of nodes = 2483 
+- number of edges = 5282 
+
+------------------------- topGOdata object -------------------------
+  
 #enrichment
 #kay used fisher exact test...
-resultclas <- runTest(trtqGOdata, algorithm = "classic", statistic = "fisher")
-resultelim <- runTest(trtqGOdata, algorithm = "elim", statistic = "fisher")
-resultwt <- runTest(trtqGOdata, algorithm = "weight", statistic = "fisher")
-resultwt01 <- runTest(trtqGOdata, algorithm = "weight01", statistic = "fisher")
-resultlea <- runTest(trtqGOdata, algorithm = "lea", statistic = "fisher")
+# resultclas <- runTest(trtqGOdata, algorithm = "classic", statistic = "fisher")
+# resultelim <- runTest(trtqGOdata, algorithm = "elim", statistic = "fisher")
+# resultwt <- runTest(trtqGOdata, algorithm = "weight", statistic = "fisher")
+# resultwt01 <- runTest(trtqGOdata, algorithm = "weight01", statistic = "fisher")
+# resultlea <- runTest(trtqGOdata, algorithm = "lea", statistic = "fisher")
 resultpc <- runTest(trtqGOdata, algorithm = "parentchild", statistic = "fisher")
 
 allResTrt <- GenTable(trtqGOdata, classic = resultclas, elim=resultelim, weight=resultwt, 
                    weight01=resultwt01, lea=resultlea, parentchild=resultpc,
                    orderBy = "weight", ranksOf = "classic", topNodes = 50) #can summarize multiple result obj
 write.table(allResTrt, file="GOresults_sigTrt.txt", sep="\t")
+
+# Used parentchild in InvSyn paper, so...
+resultpc
+Description: GO analysis of Cdif microarrays; genes with sig Trt effect 
+Ontology: BP 
+'parentchild' algorithm with the 'fisher : joinFun = union' test
+2483 GO terms scored: 236 terms with p < 0.01
+Annotation data:
+  Annotated genes: 37373 
+Significant genes: 6480 
+Min. no. of genes annotated to a GO: 10 
+Nontrivial nodes: 2359 
+
+
+pcRes <- GenTable(trtqGOdata, parentchild = resultpc, topNodes=236)
+write.table(pcRes, file="GOresults_sigTrt_pc.txt", sep="\t")
+
+# get more info on specific terms, here, top 3 
+mget(pcRes[1:3,1], GOTERM)
 
 ####PC1 sig####
 #OR, incorporating q-values for additional analysis options
@@ -170,23 +335,62 @@ pcqGOdata <- new("topGOdata", description = "GO analysis of Cdif microarrays; ge
                   gene2GO=GOmap) #our gene->GO term mapping file
 
 pcqGOdata
-# #stats for random sample
-# sel.terms <- sample(usedGO(intqGOdata), 10)
-# termStat(intqGOdata, sel.terms)
+------------------------- topGOdata object -------------------------
+  
+  Description:
+  -  GO analysis of Cdif microarrays; genes with sig PC1 effect 
+
+Ontology:
+  -  BP 
+
+61024 available genes (all genes from the array):
+  - symbol:  Contig1 Contig10 Contig100 Contig1000 Contig10000  ...
+- score :  1 0.262873 1 0.31465626 1  ...
+- 1111  significant genes. 
+
+37373 feasible genes (genes that can be used in the analysis):
+  - symbol:  Contig1 Contig10 Contig100 Contig1000 Contig10000  ...
+- score :  1 0.262873 1 0.31465626 1  ...
+- 734  significant genes. 
+
+GO graph (nodes with at least  10  genes):
+  - a graph with directed edges
+- number of nodes = 2483 
+- number of edges = 5282 
+
+------------------------- topGOdata object -------------------------
 
 #enrichment
 #kay used fisher exact test...
-resultclas <- runTest(pctqGOdata, algorithm = "classic", statistic = "fisher")
-resultelim <- runTest(pcqGOdata, algorithm = "elim", statistic = "fisher")
-resultwt <- runTest(pcqGOdata, algorithm = "weight", statistic = "fisher")
-resultwt01 <- runTest(pcqGOdata, algorithm = "weight01", statistic = "fisher")
-resultlea <- runTest(pcqGOdata, algorithm = "lea", statistic = "fisher")
+# resultclas <- runTest(pctqGOdata, algorithm = "classic", statistic = "fisher")
+# resultelim <- runTest(pcqGOdata, algorithm = "elim", statistic = "fisher")
+# resultwt <- runTest(pcqGOdata, algorithm = "weight", statistic = "fisher")
+# resultwt01 <- runTest(pcqGOdata, algorithm = "weight01", statistic = "fisher")
+# resultlea <- runTest(pcqGOdata, algorithm = "lea", statistic = "fisher")
 resultpc <- runTest(pcqGOdata, algorithm = "parentchild", statistic = "fisher")
 
 allResPC1 <- GenTable(pcqGOdata, classic = resultclas, elim=resultelim, weight=resultwt, 
                    weight01=resultwt01, lea=resultlea, parentchild=resultpc,
                    orderBy = "weight", ranksOf = "classic", topNodes = 50) #can summarize multiple result obj
 write.table(allResPC1, file="GOresults_sigPC1.txt", sep="\t")
+
+# Used parentchild in InvSyn paper, so...
+resultpc
+Description: GO analysis of Cdif microarrays; genes with sig PC1 effect 
+Ontology: BP 
+'parentchild' algorithm with the 'fisher : joinFun = union' test
+2483 GO terms scored: 22 terms with p < 0.01
+Annotation data:
+  Annotated genes: 37373 
+Significant genes: 734 
+Min. no. of genes annotated to a GO: 10 
+Nontrivial nodes: 1413 
+
+pcRes <- GenTable(pcqGOdata, parentchild = resultpc, topNodes=22)
+write.table(pcRes, file="GOresults_sigPC1_pc.txt", sep="\t")
+
+# get more info on specific terms, here, top 3 
+mget(pcRes[1:3,1], GOTERM)
 
 ####example####
 data(ALL) #eset

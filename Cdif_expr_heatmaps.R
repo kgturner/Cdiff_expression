@@ -37,6 +37,9 @@ pc1V <- as.vector(PC1q_sig$Contig)
 PC1q_sigdf <- subset(exprs.df, select=colnames(exprs.df)%in%pc1V)
 PC1q_sigdf <-cbind(exprs.df[,1:14], PC1q_sigdf)
 
+#do I need set where origin AND trt sig?
+intersect(PC1q_Osigdf, PC1q_trtsigdf
+
 write.table(PC1q_intsigdf, file="PC1_sigint_df.txt", sep="\t")
 write.table(PC1q_Osigdf, file="PC1_sigOrigin_df.txt", sep="\t")
 write.table(PC1q_sigdf, file="PC1_sigPC1_df.txt", sep="\t")
