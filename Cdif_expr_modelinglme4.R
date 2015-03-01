@@ -83,9 +83,14 @@ write.table(exprs.df, file="Cdifexprs_lme4dat.txt", sep="\t")
 exprs.df <- read.table("~/Centaurea_diffusa_expression/Cdifexprs_lme4dat.txt", header=T, sep="\t") 
 #local
 exprs.df <- read.table("C:/Users/Kat/Documents/GitHub/Cdiff_expression/Cdifexprs_lme4dat.txt", header=T, sep="\t") 
+#test!
+test <- read.table("test_lme4dat.txt", header=T, sep="\t") 
 
 ####single contig modeling####
-test <- exprs.df[, c(1:20)]
+# test <- exprs.df[, c(1:20)]
+#test!
+test <- read.table("test_lme4dat.txt", header=T, sep="\t") 
+
 modeldata<-test[!is.na(test$Contig100),]
 model1<-lmer(Contig100  ~ Origin*Trt+PC1+ (Tmpt|PopTrtPool)+(1|Pop), family=gaussian,data=modeldata)
 model2<-lmer(Contig100  ~ Origin+Trt+ PC1 + (Tmpt|PopTrtPool)+(1|Pop), family=gaussian,data=modeldata)
@@ -125,6 +130,9 @@ exprs.LR<- function(trait,df,cov, family=gaussian){
   
   return(pval)
 }
+
+#test!
+test <- read.table("test_lme4dat.txt", header=T, sep="\t") 
 
 test <- exprs.df[, c(1:20)]
 test.LRT <- do.call(rbind,lapply(names(test)[15:20],function(n) exprs.LR(n,df=test,cov="Latitude")))#apply func to all things in list
@@ -166,14 +174,37 @@ exprs.dr.LR<- function(trait,df,cov, family=gaussian){
   
   return(pval)
 }
-test <- exprs.df[, c(1:20)]
+
+#test!
+test <- read.table("test_lme4dat.txt", header=T, sep="\t") 
+# test <- exprs.df[, c(1:20)]
+
 test.LRT <- do.call(rbind,lapply(names(test)[15:20],function(n) exprs.dr.LR(n,df=test,cov="PC1")))#apply func to all things in list
 
+exprs.pop.LR<- function(trait,df,cov, family=gaussian){
+  modeldata<-df[!is.na(df[[trait]]),]
+  
+  #browser()
+  
+  model1<-lmer(modeldata[[trait]]  ~ Origin+Trt+modeldata[[cov]]+ (Tmpt|PopTrtPool)+(1|Pop), family,data=modeldata)
+  model2<-lmer(modeldata[[trait]]  ~ Origin+Trt+ modeldata[[cov]] + (Tmpt|PopTrtPool), family,data=modeldata)
+  
+  a1 <- anova(model2,model1) # is pop sig?
+  
+  pval <- as.data.frame(cbind(Contig=trait,popLRT=a1[[7]][2]))
+  
+  return(pval)
+}
 
+#test!
+test <- read.table("test_lme4dat.txt", header=T, sep="\t") 
+
+test.LRT <- do.call(rbind,lapply(names(test)[15:20],function(n) exprs.pop.LR(n,df=test,cov="PC1")))#apply func to all things in list
 
 ####corrections for multiple tests####
 #using:
 # test <- exprs.df[, c(1:20)]
+test <- read.table("test_lme4dat.txt", header=T, sep="\t") 
 # test.LRT <- do.call(rbind,lapply(names(test)[15:20],function(n) exprs.LR(n,df=test,cov="Latitude")))#apply func to all things in list
 
 intP <- as.numeric(as.vector(test.LRT$intLRT))
@@ -249,3 +280,23 @@ PC1qdr <- read.table("lme4_qval_PC1_dr.txt", header=T, sep="\t")
 test <- merge(PC1q[,1:10], PC1qdr)
 write.table(test, file="lme4_qval_PC1.txt", sep="\t")
 
+###
+#pop sig w/ PC1
+exprs.pop.LRT.PC1 <- do.call(rbind,lapply(names(exprs.df)[15:61038],function(n) exprs.pop.LR(n,df=exprs.df,cov="PC1")))#apply func to all things in list
+
+#start here
+popQ <- qvalue(p=as.numeric(as.vector(exprs.pop.LRT.PC1$popLRT)), lambda=seq(0,0.90,0.05), pi0.method="smoother", fdr.level=0.05, robust=FALSE, gui=FALSE, 
+               smooth.df=3, smooth.log.pi0=FALSE)
+
+exprs.pop.LRT.PC1.Q <- cbind(exprs.pop.LRT.PC1, popQ=popQ$qvalues, popQsig=popQ$significant)
+#write pval table. slow? Be sure to include cov name
+write.table(exprs.pop.LRT.PC1.Q, file="lme4_qval_PC1_pop.txt", sep="\t")
+
+###
+#add to 1st PC1 table
+PC1q <- read.table("lme4_qval_PC1.txt", header=T, sep="\t") 
+PC1qpop <- read.table("lme4_qval_PC1_pop.txt", header=T, sep="\t") 
+
+#check numbers
+test <- merge(PC1q[,1:10], PC1qdr)
+write.table(test, file="lme4_qval_PC1.txt", sep="\t")
