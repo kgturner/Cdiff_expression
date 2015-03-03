@@ -1,68 +1,6 @@
 #C.diffusa expression - fun with heatmaps
 #1/19/15
 
-####look at results####
-#local
-PC1q <- read.table("lme4_qval_PC1.txt", header=T, sep="\t") 
-# PC1qdr <- read.table("lme4_qval_PC1_dr.txt", header=T, sep="\t") 
-# Latq <- read.table("lme4_qval_lat.txt", header=T, sep="\t")
-exprs.df <- read.table("C:/Users/Kat/Documents/GitHub/Cdiff_expression/Cdifexprs_lme4dat.txt", header=T, sep="\t") #takes a long time!
-test <- exprs.df[,c(1:20)]
-#make data longways?
-library(reshape2)
-# test2 <- reshape(test, idvar="tagged", direction="long", 
-#                varying=list(m.date=c(36,55,16), lfl=c(9,13,22), lfw=c(10,14,23), lfc=c(8,12,26)),
-#                v.names=c("m.date","lfl", "lfw","lfc"))
-
-PC1q_intsig <- subset(PC1q,intQsig==TRUE ) #contigs with sig Origin*Trt
-PC1q_Osig <- subset(PC1q,originQsig==TRUE&intQsig==FALSE )#contigs with sig Origin
-PC1q_sig <- subset(PC1q, covQsig==TRUE)
-PC1q_trtsig <- subset(PC1q, trtQsig==TRUE&intQsig==FALSE)#contigs with sig trt
-# PC1q_trtsig <- subset(PC1q, trtQsig==TRUE)
-
-pc1intV <- as.vector(PC1q_intsig$Contig)
-PC1q_intsigdf <- subset(exprs.df, select=colnames(exprs.df)%in%pc1intV)
-PC1q_intsigdf <-cbind(exprs.df[,1:14], PC1q_intsigdf)
-
-pc1oV <- as.vector(PC1q_Osig$Contig)
-PC1q_Osigdf <- subset(exprs.df, select=colnames(exprs.df)%in%pc1oV)
-PC1q_Osigdf <-cbind(exprs.df[,1:14], PC1q_Osigdf)
-
-pc1trtV <- as.vector(PC1q_trtsig$Contig)
-#
-PC1q_trtsigdf <- subset(exprs.df, select=colnames(exprs.df)%in%pc1trtV)
-PC1q_trtsigdf <-cbind(exprs.df[,1:14], PC1q_trtsigdf)
-
-pc1V <- as.vector(PC1q_sig$Contig)
-PC1q_sigdf <- subset(exprs.df, select=colnames(exprs.df)%in%pc1V)
-PC1q_sigdf <-cbind(exprs.df[,1:14], PC1q_sigdf)
-
-# #do I need set where origin AND trt sig?
-# intersect(PC1q_Osigdf, PC1q_trtsigdf
-
-write.table(PC1q_intsigdf, file="PC1_sigint_df.txt", sep="\t")
-write.table(PC1q_Osigdf, file="PC1_sigOrigin_df.txt", sep="\t")
-write.table(PC1q_sigdf, file="PC1_sigPC1_df.txt", sep="\t")
-write.table(PC1q_trtsigdf, file="PC1_sigtrt_df.txt", sep="\t")
-
-# #lat, not run
-# Latq_intsig <- subset(Latq,intQsig==TRUE )
-# Latq_Osig <- subset(Latq,originQsig==TRUE&intQsig==FALSE )
-# Latq_sig <- subset(Latq, covQsig==TRUE)
-#not working
-# Latq_intsigdf <- subset(exprs.df, Contig%in%Latq_intsig$Contig)
-# Latq_Osigdf <- subset(exprs.df, Contig%in%Latq_Osig$Contig)
-# Latq_sigdf <- subset(exprs.df, Contig%in%Latq_sig$Contig)
-# write.table(Latq_intsigdf, file="Lat_sigint_df.txt", sep="\t")
-# write.table(Latq_Osigdf, file="Lat_sigOrigin_df.txt", sep="\t")
-# write.table(Latq_sigdf, file="Lat_sigPC1_df.txt", sep="\t")
-
-
-summary(PC1q_Osig)
-# summary(Latq_Osig)
-
-
-
 ####heatmaps and clustering####
 PC1q_intsigdf <- read.table("PC1_sigint_df.txt", header=T)
 PC1q_Osigdf <- read.table("PC1_sigOrigin_df.txt", header=T)
@@ -83,19 +21,178 @@ library("Biobase")
 library("RColorBrewer")
 library("gplots")
 
-# makeEset<-function(eSet, annt){
-#   #Creating an ExpressionSet from eSet, a normalized gene expression matrix
-#   # and annt, a data.frame containing annotation
-#   metadata <- data.frame(labelDescription = colnames(annt), row.names=colnames(annt))
-#   phenoData<-new("AnnotatedDataFrame", data=annt, varMetadata=metadata)
-#   if (inherits(eSet, "data.frame")) eSet= as.matrix(eSet)
-#   if (inherits(eSet, "ExpressionSet")) eSet=exprs(eSet)
-#   data.eSet<-new("ExpressionSet", exprs=eSet, phenoData=phenoData)
-#   print(varLabels(data.eSet))
-#   return(data.eSet)
-# }
-# PC1inteset <- makeEset(PC1q_intM[,15:241],PC1q_intM[,1:14])
 
+####scaled last time point, control, sig int only####
+intM2 <- as.matrix(t(subset(PC1q_intsigdf, Trt=="control"&Tmpt==2,select=c(15:241))))
+intdes2 <- subset(PC1q_intsigdf, Trt=="control"&Tmpt==2,select=c(1:14))
+# intdes2$OriginTrt <- as.factor(paste0(intdes2$Origin, "_", intdes2$Trt))
+inteset2 <- new("ExpressionSet", phenoData = as(intdes2, "AnnotatedDataFrame"),exprs = as.matrix(intM2))
+inteset2<-inteset2[,order(intdes2$Origin, intdes2$Pop)]
+intdes2<-intdes2[order(intdes2$Origin, intdes2$Pop),]
+exprs(inteset2) <- exprs(inteset2)[,row.names(intdes2)]
+all(colnames(exprs(inteset2))==row.names(intdes2))
+
+inteset2_sc<-inteset2
+exprs(inteset2_sc)<- t(scale(t( exprs(inteset2_sc) )))
+
+
+cols<-as.character(as.integer(intdes2$Origin))
+
+my_palette <- colorRampPalette(c("royalblue", "black", "gold"))(n = 299)
+col_breaks = c(seq(-2.5,-1,length=100), # for red
+               seq(-1,1,length=100), # for yellow
+               seq(1,2.5,length=100)) # for green
+
+# by.cols<-c("blue", "#0000DD",  "#0000BB", "#000099", "#000077","#000055",
+#            "#000033", "black", "#333300","#555500", "#777700","#999900", "#BBBB00","#DDDD00", "yellow")
+row_distance = dist(exprs(inteset2_sc), method = "euclidean")
+row_cluster = hclust(row_distance, method = "complete")
+col_distance = dist(t(exprs(inteset2_sc)), method = "euclidean")
+col_cluster = hclust(col_distance, method = "complete")
+
+pdf("SigInt_control_tmpt2_heatmap.pdf", useDingbats=FALSE)
+# par(mar=c(12,12,12,12))
+heatmap.2(exprs(inteset2_sc), trace="none", ColSideColors = cols, 
+          dendrogram="both", na.color="grey50",
+          margin=c(12,9),
+          col= my_palette, 
+          breaks=col_breaks,
+          Rowv=as.dendrogram(row_cluster), Colv=as.dendrogram(col_cluster),
+#           symm=TRUE, cexRow = 0.6,
+          cexCol = 1.2, key = TRUE, keysize=1,labRow=NA,
+#           lwid=c(1,15), lhei=c(1,4),
+          labCol=intdes2$PopTrtPool,
+          main = "Genes with significant Origin*Trt \nControl, Tmpt 2")
+dev.off()
+
+
+####scaled last time point, drought, sig int only####
+intM2 <- as.matrix(t(subset(PC1q_intsigdf, Trt=="drought"&Tmpt==2,select=c(15:241))))
+intdes2 <- subset(PC1q_intsigdf, Trt=="drought"&Tmpt==2,select=c(1:14))
+# intdes2$OriginTrt <- as.factor(paste0(intdes2$Origin, "_", intdes2$Trt))
+inteset2 <- new("ExpressionSet", phenoData = as(intdes2, "AnnotatedDataFrame"),exprs = as.matrix(intM2))
+inteset2<-inteset2[,order(intdes2$Origin, intdes2$Pop)]
+intdes2<-intdes2[order(intdes2$Origin, intdes2$Pop),]
+exprs(inteset2) <- exprs(inteset2)[,row.names(intdes2)]
+all(colnames(exprs(inteset2))==row.names(intdes2))
+
+inteset2_sc<-inteset2
+exprs(inteset2_sc)<- t(scale(t( exprs(inteset2_sc) )))
+
+
+cols<-as.character(as.integer(intdes2$Origin))
+
+my_palette <- colorRampPalette(c("royalblue", "black", "gold"))(n = 299)
+col_breaks = c(seq(-2.5,-1,length=100), # for red
+               seq(-1,1,length=100), # for yellow
+               seq(1,2.5,length=100)) # for green
+
+
+# by.cols<-c("blue", "#0000DD",  "#0000BB", "#000099", "#000077","#000055",
+#            "#000033", "black", "#333300","#555500", "#777700","#999900", "#BBBB00","#DDDD00", "yellow")
+row_distance = dist(exprs(inteset2_sc), method = "euclidean")
+row_cluster = hclust(row_distance, method = "complete")
+col_distance = dist(t(exprs(inteset2_sc)), method = "euclidean")
+col_cluster = hclust(col_distance, method = "complete")
+
+pdf("SigInt_drought_tmpt2_heatmap.pdf", useDingbats=FALSE)
+# par(mar=c(12,12,12,12))
+heatmap.2(exprs(inteset2_sc), trace="none", ColSideColors = cols, 
+          dendrogram="both", na.color="grey50",
+          margin=c(12,9),
+          col= my_palette,
+          breaks=col_breaks,
+          Rowv=as.dendrogram(row_cluster), Colv=as.dendrogram(col_cluster),
+#           symm=TRUE, cexRow = 0.6,
+          cexCol = 1.2, key = TRUE, keysize=1,labRow=NA,
+#           lwid=c(1,15), lhei=c(1,4),
+          labCol=intdes2$PopTrtPool,
+          main = "Genes with significant Origin*Trt \nDrought, Tmpt 2")
+dev.off()
+
+####scaled first time point, both trt equivalent, sig O only####
+oM2 <- as.matrix(t(subset(PC1q_Osigdf, Tmpt==0,select=c(15:599))))
+odes2 <- subset(PC1q_Osigdf, Tmpt==0,select=c(1:14))
+oeset2 <- new("ExpressionSet", phenoData = as(odes2, "AnnotatedDataFrame"),exprs = as.matrix(oM2))
+oeset2<-oeset2[,order(odes2$Origin, odes2$Pop)]
+odes2<-odes2[order(odes2$Origin, odes2$Pop),]
+exprs(oeset2) <- exprs(oeset2)[,row.names(odes2)]
+all(colnames(exprs(oeset2))==row.names(odes2))
+
+oeset2_sc<-oeset2
+exprs(oeset2_sc)<- t(scale(t( exprs(oeset2_sc) )))
+
+cols<-as.character(as.integer(odes2$Origin))
+
+my_palette <- colorRampPalette(c("royalblue", "black", "gold"))(n = 299)
+col_breaks = c(seq(-3,-1,length=100), # for red
+               seq(-1,1,length=100), # for yellow
+               seq(1,3,length=100)) # for green
+
+row_distance = dist(exprs(oeset2_sc), method = "euclidean")
+row_cluster = hclust(row_distance, method = "complete")
+col_distance = dist(t(exprs(oeset2_sc)), method = "euclidean")
+col_cluster = hclust(col_distance, method = "complete")
+
+pdf("SigInt_bothtrt_tmpt0_heatmap.pdf", useDingbats=FALSE)
+# par(mar=c(12,12,12,12))
+
+heatmap.2(exprs(oeset2_sc), trace="none", ColSideColors = cols, 
+          dendrogram="both", na.color="grey50",
+          margin=c(12,9),
+          col= my_palette, 
+          breaks=col_breaks, 
+          Rowv=as.dendrogram(row_cluster), Colv=as.dendrogram(col_cluster),
+#           cexRow = 0.6,
+          labRow=NA,
+          cexCol = 1.2, 
+          key = TRUE, keysize=1,
+#           lwid=c(1,15), lhei=c(1,4),
+          labCol=odes2$PopTrtPool,
+          main = "Genes with significant effect of Origin \nBoth Trt, Tmpt 0")
+dev.off()
+
+
+###############maybe?################
+####scaled last time point, both trt, sig int only####
+intM2 <- as.matrix(t(subset(PC1q_intsigdf, Tmpt==2,select=c(15:241))))
+intdes2 <- subset(PC1q_intsigdf, Tmpt==2,select=c(1:14))
+# intdes2$OriginTrt <- as.factor(paste0(intdes2$Origin, "_", intdes2$Trt))
+inteset2 <- new("ExpressionSet", phenoData = as(intdes2, "AnnotatedDataFrame"),exprs = as.matrix(intM2))
+inteset2<-inteset2[,order(intdes2$Origin, intdes2$Pop)]
+intdes2<-intdes2[order(intdes2$Origin, intdes2$Pop),]
+exprs(inteset2) <- exprs(inteset2)[,row.names(intdes2)]
+all(colnames(exprs(inteset2))==row.names(intdes2))
+
+inteset2_sc<-inteset2
+exprs(inteset2_sc)<- t(scale(t( exprs(inteset2_sc) )))
+
+
+cols<-as.character(as.integer(intdes2$Origin))
+
+
+# # by.cols<-c("blue", "#0000DD",  "#0000BB", "#000099", "#000077","#000055",
+# #            "#000033", "black", "#333300","#555500", "#777700","#999900", "#BBBB00","#DDDD00", "yellow")
+row_distance = dist(exprs(inteset2_sc), method = "euclidean")
+row_cluster = hclust(row_distance, method = "complete")
+col_distance = dist(t(exprs(inteset2_sc)), method = "euclidean")
+col_cluster = hclust(col_distance, method = "complete")
+# 
+pdf("SigInt_bothtrt_tmpt2_heatmap.pdf", useDingbats=FALSE)
+# # par(mar=c(12,12,12,12))
+# par(cex.main=1)
+heatmap.2(exprs(inteset2_sc), trace="none", 
+          ColSideColors = cols, 
+          na.color="grey50", dendrogram="row", 
+          margin=c(12,9),col= "heat.colors", 
+          Rowv=as.dendrogram(row_cluster), Colv=col_cluster,
+#           hclustfun=function(x) hclust(x,method="complete"),
+#           distfun=function(x) dist(x,method="euclidean"),
+#           Rowv=TRUE,Colv=TRUE,
+          symm=TRUE, cexRow = 0.6,
+          cexCol = 1, key = TRUE, keysize=1,lwid=c(1,15), lhei=c(1,4),labCol=intdes2$SampleID,
+          main = "Control, Tmpt2, Sig Origin*Trt by origin")
+dev.off()
 
 # ####scaled last time point only, split treatments, sig int and sig O genes####
 intO <- merge(PC1q_intsigdf, PC1q_Osigdf) #combine sig int and sig Origin genes
@@ -123,52 +220,18 @@ cols<-as.character(as.integer(intOCdes$Origin))
 # #            "#000033", "black", "#333300","#555500", "#777700","#999900", "#BBBB00","#DDDD00", "yellow")
 row_distance = dist(exprs(intOCeset_sc), method = "euclidean")
 row_cluster = hclust(row_distance, method = "complete") #should this be euclidean too???
-# # col_distance = dist(t(exprs(inteset3_sc)), method = "euclidean")
-# # col_cluster = hclust(col_distance, method = "complete")
+col_distance = dist(t(exprs(intOCeset_sc)), method = "euclidean")
+col_cluster = hclust(col_distance, method = "complete")
 #
 pdf("SigOandInt_control_tmpt2_heatmap.pdf", useDingbats=FALSE)
 # par(mar=c(2,2,2,2))
 heatmap.2(exprs(intOCeset_sc), trace="none", ColSideColors = cols, 
           dendrogram="row", na.color="grey50",
           margin=c(12,9),col= "heat.colors", 
-          Rowv=as.dendrogram(row_cluster), Colv=NA,
+          Rowv=as.dendrogram(row_cluster), Colv=as.dendrogram(col_cluster),
           symm=TRUE, cexRow = 0.6,
-          cexCol = 1.2, key = TRUE, keysize=1.5,lwid=c(1,15), lhei=c(1,4),labCol=intOCdes$PopTrtPool,
+          cexCol = 1.2, key = TRUE, keysize=1.5,lwid=c(1,15), lhei=c(1,4),labCol=intOCdes$SampleID,
           main = "Control, Tmpt 2, Sig Origin*Trt and Sig Origin, sorted by origin")
-dev.off()
-
-####scaled last time point, control, sig int only####
-intM2 <- as.matrix(t(subset(PC1q_intsigdf, Trt=="control"&Tmpt==2,select=c(15:241))))
-intdes2 <- subset(PC1q_intsigdf, Trt=="control"&Tmpt==2,select=c(1:14))
-# intdes2$OriginTrt <- as.factor(paste0(intdes2$Origin, "_", intdes2$Trt))
-inteset2 <- new("ExpressionSet", phenoData = as(intdes2, "AnnotatedDataFrame"),exprs = as.matrix(intM2))
-inteset2<-inteset2[,order(intdes2$Origin, intdes2$Pop)]
-intdes2<-intdes2[order(intdes2$Origin, intdes2$Pop),]
-exprs(inteset2) <- exprs(inteset2)[,row.names(intdes2)]
-all(colnames(exprs(inteset2))==row.names(intdes2))
-
-inteset2_sc<-inteset2
-exprs(inteset2_sc)<- t(scale(t( exprs(inteset2_sc) )))
-
-
-cols<-as.character(as.integer(intdes2$Origin))
-
-
-# by.cols<-c("blue", "#0000DD",  "#0000BB", "#000099", "#000077","#000055",
-#            "#000033", "black", "#333300","#555500", "#777700","#999900", "#BBBB00","#DDDD00", "yellow")
-row_distance = dist(exprs(inteset2_sc), method = "euclidean")
-row_cluster = hclust(row_distance, method = "complete")
-# col_distance = dist(t(exprs(inteset3_sc)), method = "euclidean")
-# col_cluster = hclust(col_distance, method = "complete")
-pdf("SigInt_control_tmpt2_heatmap.pdf", useDingbats=FALSE)
-# par(mar=c(12,12,12,12))
-heatmap.2(exprs(inteset2_sc), trace="none", ColSideColors = cols, 
-          dendrogram="row", na.color="grey50",
-          margin=c(12,9),col= "heat.colors", 
-          Rowv=as.dendrogram(row_cluster), Colv=NA,
-          symm=TRUE, cexRow = 0.6,
-          cexCol = 1.2, key = TRUE, keysize=1.5,lwid=c(1,15), lhei=c(1,4),labCol=intdes2$PopTrtPool,
-          main = "Control, Tmpt2, Sig Origin*Trt by origin")
 dev.off()
 
 ####scaled last time point, control, sig origin only####
@@ -205,39 +268,9 @@ heatmap.2(exprs(inteset2_sc), trace="none", ColSideColors = cols,
           main = "Control, Tmpt 2,Sig Origin by origin")
 dev.off()
 
-####scaled last time point, drought, sig int only####
-intM2 <- as.matrix(t(subset(PC1q_intsigdf, Trt=="drought"&Tmpt==2,select=c(15:241))))
-intdes2 <- subset(PC1q_intsigdf, Trt=="drought"&Tmpt==2,select=c(1:14))
-# intdes2$OriginTrt <- as.factor(paste0(intdes2$Origin, "_", intdes2$Trt))
-inteset2 <- new("ExpressionSet", phenoData = as(intdes2, "AnnotatedDataFrame"),exprs = as.matrix(intM2))
-inteset2<-inteset2[,order(intdes2$Origin, intdes2$Pop)]
-intdes2<-intdes2[order(intdes2$Origin, intdes2$Pop),]
-exprs(inteset2) <- exprs(inteset2)[,row.names(intdes2)]
-all(colnames(exprs(inteset2))==row.names(intdes2))
-
-inteset2_sc<-inteset2
-exprs(inteset2_sc)<- t(scale(t( exprs(inteset2_sc) )))
 
 
-cols<-as.character(as.integer(intdes2$Origin))
 
-
-# by.cols<-c("blue", "#0000DD",  "#0000BB", "#000099", "#000077","#000055",
-#            "#000033", "black", "#333300","#555500", "#777700","#999900", "#BBBB00","#DDDD00", "yellow")
-row_distance = dist(exprs(inteset2_sc), method = "euclidean")
-row_cluster = hclust(row_distance, method = "complete")
-# col_distance = dist(t(exprs(inteset3_sc)), method = "euclidean")
-# col_cluster = hclust(col_distance, method = "complete")
-pdf("SigInt_drought_tmpt2_heatmap.pdf", useDingbats=FALSE)
-# par(mar=c(12,12,12,12))
-heatmap.2(exprs(inteset2_sc), trace="none", ColSideColors = cols, 
-          dendrogram="row", na.color="grey50",
-          margin=c(12,9),col= "heat.colors", 
-          Rowv=as.dendrogram(row_cluster), Colv=NA,
-          symm=TRUE, cexRow = 0.6,
-          cexCol = 1.2, key = TRUE, keysize=1.5,lwid=c(1,15), lhei=c(1,4),labCol=intdes2$PopTrtPool,
-          main = "Sig Origin*Trt by origin, drought")
-dev.off()
 
 #######trials below#####
 ####pc1 int####
@@ -439,15 +472,15 @@ cols<-as.character(as.integer(popintdes2$OriginTrt))
 #            "#000033", "black", "#333300","#555500", "#777700","#999900", "#BBBB00","#DDDD00", "yellow")
 row_distance = dist(exprs(popinteset2_sc), method = "euclidean")
 row_cluster = hclust(row_distance, method = "complete")
-# col_distance = dist(t(exprs(inteset3_sc)), method = "euclidean")
-# col_cluster = hclust(col_distance, method = "complete")
+col_distance = dist(t(exprs(popinteset2_sc)), method = "euclidean")
+col_cluster = hclust(col_distance, method = "complete")
 
 png("Cdifexprs_heatmap_popMeanT2.png", width=800, height=800, pointsize = 12)
 par(mar=c(12,12,12,12))
 heatmap.2(exprs(popinteset2_sc), trace="none", ColSideColors = cols, 
           dendrogram="row", na.color="grey50",
           margin=c(12,9),col= "heat.colors", 
-          Rowv=as.dendrogram(row_cluster), Colv=NA,
+          Rowv=as.dendrogram(row_cluster), Colv=as.dendrogram(col_cluster),
           symm=TRUE, cexRow = 0.6,
           cexCol = 1.2, key = TRUE, keysize=1.5,lwid=c(1,15), lhei=c(1,4),labCol=popintdes2$PopTrtTmpt,
           main = "pop means for unigenes w/ Sig Origin*Trt \nLast time point")
