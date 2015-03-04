@@ -134,7 +134,7 @@ row_cluster = hclust(row_distance, method = "complete")
 col_distance = dist(t(exprs(oeset2_sc)), method = "euclidean")
 col_cluster = hclust(col_distance, method = "complete")
 
-pdf("SigInt_bothtrt_tmpt0_heatmap.pdf", useDingbats=FALSE)
+pdf("SigOrigin_bothtrt_tmpt0_heatmap.pdf", useDingbats=FALSE)
 # par(mar=c(12,12,12,12))
 
 heatmap.2(exprs(oeset2_sc), trace="none", ColSideColors = cols, 
@@ -152,8 +152,6 @@ heatmap.2(exprs(oeset2_sc), trace="none", ColSideColors = cols,
           main = "Genes with significant effect of Origin \nBoth Trt, Tmpt 0")
 dev.off()
 
-
-###############maybe?################
 ####scaled last time point, both trt, sig int only####
 intM2 <- as.matrix(t(subset(PC1q_intsigdf, Tmpt==2,select=c(15:241))))
 intdes2 <- subset(PC1q_intsigdf, Tmpt==2,select=c(1:14))
@@ -170,6 +168,11 @@ exprs(inteset2_sc)<- t(scale(t( exprs(inteset2_sc) )))
 
 cols<-as.character(as.integer(intdes2$Origin))
 
+my_palette <- colorRampPalette(c("royalblue", "black", "gold"))(n = 299)
+col_breaks = c(seq(-2,-1,length=100), # for red
+               seq(-1,1,length=100), # for yellow
+               seq(1,2,length=100)) # for green
+
 
 # # by.cols<-c("blue", "#0000DD",  "#0000BB", "#000099", "#000077","#000055",
 # #            "#000033", "black", "#333300","#555500", "#777700","#999900", "#BBBB00","#DDDD00", "yellow")
@@ -183,17 +186,23 @@ pdf("SigInt_bothtrt_tmpt2_heatmap.pdf", useDingbats=FALSE)
 # par(cex.main=1)
 heatmap.2(exprs(inteset2_sc), trace="none", 
           ColSideColors = cols, 
-          na.color="grey50", dendrogram="row", 
-          margin=c(12,9),col= "heat.colors", 
-          Rowv=as.dendrogram(row_cluster), Colv=col_cluster,
-#           hclustfun=function(x) hclust(x,method="complete"),
-#           distfun=function(x) dist(x,method="euclidean"),
-#           Rowv=TRUE,Colv=TRUE,
-          symm=TRUE, cexRow = 0.6,
-          cexCol = 1, key = TRUE, keysize=1,lwid=c(1,15), lhei=c(1,4),labCol=intdes2$SampleID,
-          main = "Control, Tmpt2, Sig Origin*Trt by origin")
+          na.color="grey50", dendrogram="both", 
+          margin=c(12,9),
+          col= my_palette,
+          breaks=col_breaks,
+          Rowv=as.dendrogram(row_cluster), Colv=as.dendrogram(col_cluster),
+          #           hclustfun=function(x) hclust(x,method="complete"),
+          #           distfun=function(x) dist(x,method="euclidean"),
+          #           Rowv=TRUE,Colv=TRUE,
+#           symm=TRUE, cexRow = 0.6,
+          cexCol = 1, key = TRUE, keysize=1,
+#           lwid=c(1,15), lhei=c(1,4),
+          labCol=intdes2$SampleID,labRow=NA,
+          main = "Genes with significant effect of Origin*Trt \nBoth Trt, Tmpt 2")
 dev.off()
 
+
+###############maybe?################
 # ####scaled last time point only, split treatments, sig int and sig O genes####
 intO <- merge(PC1q_intsigdf, PC1q_Osigdf) #combine sig int and sig Origin genes
 intOC <- subset(intO, Trt=="control"&Tmpt==2)

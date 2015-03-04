@@ -149,29 +149,132 @@ write.table(pcRes, file="GOresults_sigint_pc.txt", sep="\t")
 mget(pcRes[1:3,1], GOTERM)
 
 
-####Origin AND trt sig???####
+####int sig, up in inv, tmpt 2, drought####
+int2dsummary <- read.table(file="sigint_popMeans_sumT2drought.txt", header=T)
+summary(int2dsummary)
+invUp2dList <- subset(int2dsummary, InvUp==TRUE)
+invUp2dList.1 <- invUp2dList$Contig
+
 #identify genes of interest
 # #list of sig/not siq
-# intqList <- factor(as.integer(PC1q$intQsig))
-# names(intqList) <- CdifNames
-# str(intqList)
+int_invUp2dList <- factor(as.integer(CdifNames %in% invUp2dList.1))
+names(int_invUp2dList) <- CdifNames
+str(int_invUp2dList)
+summary(int_invUp2dList)
 
-# intqList <- PC1q$intQ
-PC1q_OT <- subset (PC1q, originQsig==TRUE&trtQsig==TRUE)
-OTqList <- PC1q_OT$originQ
-# names(intqList) <- PC1q$Contig
-# head(intqList)
-
-# #make topGOdata object
-# intqGOdata <- new("topGOdata", description = "GO analysis of Cdif microarrays; genes with sig Origin*Trt effect",
-#                   ontology="BP", #i.e. biological processes, MF (molecular function), CC (cellular component)?
-#                   allGenes=intqList, #factor describing which genes are of interest/sig, which are not
+invUp2dGOdata <- new("topGOdata", description = "GO analysis of Cdif microarrays; genes with sig Origin*Trt effect",
+                  ontology="BP", #i.e. biological processes, MF (molecular function), CC (cellular component)?
+                  allGenes=int_invUp2dList, #factor describing which genes are of interest/sig, which are not
 #                   geneSel = topDiffGenes, #if above factor contains p or q values, how to set alpha level
-#                   annot=annFUN.gene2GO, #func that maps gene names to GO terms; use gene2GO since we provide gene->GO term mapping file
-#                   nodeSize=10, #to prune smaller GO terms, which may be artifacts; use range 5 - 10
-#                   gene2GO=GOmap) #our gene->GO term mapping file
+                  annot=annFUN.gene2GO, #func that maps gene names to GO terms; use gene2GO since we provide gene->GO term mapping file
+                  nodeSize=10, #to prune smaller GO terms, which may be artifacts; use range 5 - 10
+                  gene2GO=GOmap) #our gene->GO term mapping file
+invUp2dGOdata
+# ------------------------- topGOdata object -------------------------
+#   
+#   Description:
+#   -  GO analysis of Cdif microarrays; genes with sig Origin*Trt effect 
 # 
-# intqGOdata
+# Ontology:
+#   -  BP 
+# 
+# 60863 available genes (all genes from the array):
+#   - symbol:  DKTR001_white_c11792 DKTR001_white_s64574 DKUS022_white_c32880 DKUS022_white_c43404 DKUS022_white_rep_c59243  ...
+# - 146  significant genes. 
+# 
+# 56957 feasible genes (genes that can be used in the analysis):
+#   - symbol:  DKTR001_white_c11792 DKTR001_white_s64574 DKUS022_white_c32880 DKUS022_white_rep_c59243 Contig8320  ...
+# - 137  significant genes. 
+# 
+# GO graph (nodes with at least  10  genes):
+#   - a graph with directed edges
+# - number of nodes = 2748 
+# - number of edges = 5862 
+# 
+# ------------------------- topGOdata object -------------------------
+  
+resultpc <- runTest(invUp2dGOdata, algorithm = "parentchild", statistic = "fisher")
+resultpc
+# Description: GO analysis of Cdif microarrays; genes with sig Origin*Trt effect 
+# Ontology: BP 
+# 'parentchild' algorithm with the 'fisher : joinFun = union' test
+# 2748 GO terms scored: 32 terms with p < 0.01
+# Annotation data:
+#   Annotated genes: 56957 
+# Significant genes: 137 
+# Min. no. of genes annotated to a GO: 10 
+# Nontrivial nodes: 516 
+
+invUp2d_pcRes <- GenTable(invUp2dGOdata, parentchild = resultpc, topNodes=32)
+write.table(invUp2d_pcRes, file="GOresults_sigint_invUp2drought_pc.txt", sep="\t")
+
+# get more info on specific terms, here, top 3 
+mget(pcRes[1:3,1], GOTERM)
+
+
+
+####int sig, down in inv, tmpt 2, drought####
+int2dsummary <- read.table(file="sigint_popMeans_sumT2drought.txt", header=T)
+
+invDn2dList <- subset(int2dsummary, InvUp==FALSE)
+invDn2dList.1 <- invDn2dList$Contig
+
+#identify genes of interest
+# #list of sig/not siq
+int_invDn2dList <- factor(as.integer(CdifNames %in% invDn2dList.1))
+names(int_invDn2dList) <- CdifNames
+str(int_invDn2dList)
+summary(int_invDn2dList)
+
+invDn2dGOdata <- new("topGOdata", description = "GO analysis of Cdif microarrays; genes with sig Origin*Trt effect",
+                     ontology="BP", #i.e. biological processes, MF (molecular function), CC (cellular component)?
+                     allGenes=int_invDn2dList, #factor describing which genes are of interest/sig, which are not
+                     #                   geneSel = topDiffGenes, #if above factor contains p or q values, how to set alpha level
+                     annot=annFUN.gene2GO, #func that maps gene names to GO terms; use gene2GO since we provide gene->GO term mapping file
+                     nodeSize=10, #to prune smaller GO terms, which may be artifacts; use range 5 - 10
+                     gene2GO=GOmap) #our gene->GO term mapping file
+invDn2dGOdata
+------------------------- topGOdata object -------------------------
+#   
+#   Description:
+#   -  GO analysis of Cdif microarrays; genes with sig Origin*Trt effect 
+# 
+# Ontology:
+#   -  BP 
+# 
+# 60863 available genes (all genes from the array):
+#   - symbol:  DKTR001_white_c11792 DKTR001_white_s64574 DKUS022_white_c32880 DKUS022_white_c43404 DKUS022_white_rep_c59243  ...
+# - 49  significant genes. 
+# 
+# 56957 feasible genes (genes that can be used in the analysis):
+#   - symbol:  DKTR001_white_c11792 DKTR001_white_s64574 DKUS022_white_c32880 DKUS022_white_rep_c59243 Contig8320  ...
+# - 43  significant genes. 
+# 
+# GO graph (nodes with at least  10  genes):
+#   - a graph with directed edges
+# - number of nodes = 2748 
+# - number of edges = 5862 
+# 
+------------------------- topGOdata object -------------------------
+#   
+  
+resultpc <- runTest(invDn2dGOdata, algorithm = "parentchild", statistic = "fisher")
+resultpc
+# Description: GO analysis of Cdif microarrays; genes with sig Origin*Trt effect 
+# Ontology: BP 
+# 'parentchild' algorithm with the 'fisher : joinFun = union' test
+# 2748 GO terms scored: 8 terms with p < 0.01
+# Annotation data:
+#   Annotated genes: 56957 
+# Significant genes: 43 
+# Min. no. of genes annotated to a GO: 10 
+# Nontrivial nodes: 289 
+
+invDn2d_pcRes <- GenTable(invDn2dGOdata, parentchild = resultpc, topNodes=8)
+write.table(invDn2d_pcRes, file="GOresults_sigint_invDn2drought_pc.txt", sep="\t")
+
+# get more info on specific terms, here, top 3 
+# mget(pcRes[1:3,1], GOTERM)
 
 
 ####O sig####
@@ -246,6 +349,177 @@ write.table(pcRes, file="GOresults_sigOrigin_pc.txt", sep="\t")
 
 # get more info on specific terms, here, top 3 
 mget(pcRes[1:3,1], GOTERM)
+
+####O sig, up in inv####
+sigOT0summary <- read.table(file="sigOrigin_popMeans_sumT0.txt", header=T)
+
+invUpoT0List <- subset(sigOT0summary, InvUp==TRUE)
+invUpoT0List.1 <- invUpoT0List$Contig
+
+#identify genes of interest
+# #list of sig/not siq
+int_invUpoT0List <- factor(as.integer(CdifNames %in% invUpoT0List.1))
+names(int_invUpoT0List) <- CdifNames
+str(int_invUpoT0List)
+summary(int_invUpoT0List)
+
+invUpoT0GOdata <- new("topGOdata", description = "GO analysis of Cdif microarrays; genes with sig Origin*Trt effect",
+                     ontology="BP", #i.e. biological processes, MF (molecular function), CC (cellular component)?
+                     allGenes=int_invUpoT0List, #factor describing which genes are of interest/sig, which are not
+                     #                   geneSel = topDiffGenes, #if above factor contains p or q values, how to set alpha level
+                     annot=annFUN.gene2GO, #func that maps gene names to GO terms; use gene2GO since we provide gene->GO term mapping file
+                     nodeSize=10, #to prune smaller GO terms, which may be artifacts; use range 5 - 10
+                     gene2GO=GOmap) #our gene->GO term mapping file
+invUpoT0GOdata
+------------------------- topGOdata object -------------------------
+#   
+#   Description:
+#   -  GO analysis of Cdif microarrays; genes with sig Origin*Trt effect 
+# 
+# Ontology:
+#   -  BP 
+# 
+# 60863 available genes (all genes from the array):
+#   - symbol:  DKTR001_white_c11792 DKTR001_white_s64574 DKUS022_white_c32880 DKUS022_white_c43404 DKUS022_white_rep_c59243  ...
+# - 181  significant genes. 
+# 
+# 56957 feasible genes (genes that can be used in the analysis):
+#   - symbol:  DKTR001_white_c11792 DKTR001_white_s64574 DKUS022_white_c32880 DKUS022_white_rep_c59243 Contig8320  ...
+# - 173  significant genes. 
+# 
+# GO graph (nodes with at least  10  genes):
+#   - a graph with directed edges
+# - number of nodes = 2748 
+# - number of edges = 5862 
+
+------------------------- topGOdata object -------------------------
+
+resultpc <- runTest(invUpoT0GOdata, algorithm = "parentchild", statistic = "fisher")
+resultpc
+# Description: GO analysis of Cdif microarrays; genes with sig Origin*Trt effect 
+# Ontology: BP 
+# 'parentchild' algorithm with the 'fisher : joinFun = union' test
+# 2748 GO terms scored: 29 terms with p < 0.01
+# Annotation data:
+#   Annotated genes: 56957 
+# Significant genes: 173 
+# Min. no. of genes annotated to a GO: 10 
+# Nontrivial nodes: 747 
+
+invUpoT0_pcRes <- GenTable(invUpoT0GOdata, parentchild = resultpc, topNodes=29)
+write.table(invUpoT0_pcRes, file="GOresults_sigorigin_invUpT0_pc.txt", sep="\t")
+
+# get more info on specific terms, here, top 3 
+# mget(pcRes[1:3,1], GOTERM)
+
+####o sig, down in inv####
+sigOT0summary <- read.table(file="sigOrigin_popMeans_sumT0.txt", header=T)
+
+invDnoT0List <- subset(sigOT0summary, InvUp==FALSE)
+invDnoT0List.1 <- invDnoT0List$Contig
+
+#identify genes of interest
+# #list of sig/not siq
+int_invDnoT0List <- factor(as.integer(CdifNames %in% invDnoT0List.1))
+names(int_invDnoT0List) <- CdifNames
+str(int_invDnoT0List)
+summary(int_invDnoT0List)
+
+invDnoT0GOdata <- new("topGOdata", description = "GO analysis of Cdif microarrays; genes with sig Origin*Trt effect",
+                      ontology="BP", #i.e. biological processes, MF (molecular function), CC (cellular component)?
+                      allGenes=int_invDnoT0List, #factor describing which genes are of interest/sig, which are not
+                      #                   geneSel = topDiffGenes, #if above factor contains p or q values, how to set alpha level
+                      annot=annFUN.gene2GO, #func that maps gene names to GO terms; use gene2GO since we provide gene->GO term mapping file
+                      nodeSize=10, #to prune smaller GO terms, which may be artifacts; use range 5 - 10
+                      gene2GO=GOmap) #our gene->GO term mapping file
+invDnoT0GOdata
+------------------------- topGOdata object -------------------------
+#   
+#   Description:
+#   -  GO analysis of Cdif microarrays; genes with sig Origin*Trt effect 
+# 
+# Ontology:
+#   -  BP 
+# 
+# 60863 available genes (all genes from the array):
+#   - symbol:  DKTR001_white_c11792 DKTR001_white_s64574 DKUS022_white_c32880 DKUS022_white_c43404 DKUS022_white_rep_c59243  ...
+# - 212  significant genes. 
+# 
+# 56957 feasible genes (genes that can be used in the analysis):
+#   - symbol:  DKTR001_white_c11792 DKTR001_white_s64574 DKUS022_white_c32880 DKUS022_white_rep_c59243 Contig8320  ...
+# - 196  significant genes. 
+# 
+# GO graph (nodes with at least  10  genes):
+#   - a graph with directed edges
+# - number of nodes = 2748 
+# - number of edges = 5862 
+
+------------------------- topGOdata object -------------------------
+  
+resultpc <- runTest(invDnoT0GOdata, algorithm = "parentchild", statistic = "fisher")
+resultpc
+# Description: GO analysis of Cdif microarrays; genes with sig Origin*Trt effect 
+# Ontology: BP 
+# 'parentchild' algorithm with the 'fisher : joinFun = union' test
+# 2748 GO terms scored: 13 terms with p < 0.01
+# Annotation data:
+#   Annotated genes: 56957 
+# Significant genes: 196 
+# Min. no. of genes annotated to a GO: 10 
+# Nontrivial nodes: 830 
+
+invDnoT0_pcRes <- GenTable(invDnoT0GOdata, parentchild = resultpc, topNodes=13)
+write.table(invDnoT0_pcRes, file="GOresults_sigorigin_invDnT0_pc.txt", sep="\t")
+
+# get more info on specific terms, here, top 3 
+# mget(pcRes[1:3,1], GOTERM)
+
+####scanning GO terms####
+# OpcRes <- read.table(file="GOresults_sigint_pc.txt", header=T)
+#doesn't seem like you can read from table?  go back and remake
+intpcRes <- pcRes
+opcRes <- pcRes
+invUp2d_pcRes
+invDn2d_pcRes
+invUpoT0_pcRes
+invDnoT0_pcRes
+
+# get more info on specific terms, here, top 3 
+mget(intpcRes[,1], GOTERM)
+
+mget(invUp2d_pcRes[,1], GOTERM)
+mget(invDn2d_pcRes[,1], GOTERM)
+
+mget(opcRes[,1], GOTERM)
+
+mget(invUpoT0_pcRes[,1], GOTERM)
+mget(invDnoT0_pcRes[,1], GOTERM)
+
+
+####Origin AND trt sig???####
+#identify genes of interest
+# #list of sig/not siq
+# intqList <- factor(as.integer(PC1q$intQsig))
+# names(intqList) <- CdifNames
+# str(intqList)
+
+# intqList <- PC1q$intQ
+PC1q_OT <- subset (PC1q, originQsig==TRUE&trtQsig==TRUE)
+OTqList <- PC1q_OT$originQ
+# names(intqList) <- PC1q$Contig
+# head(intqList)
+
+# #make topGOdata object
+# intqGOdata <- new("topGOdata", description = "GO analysis of Cdif microarrays; genes with sig Origin*Trt effect",
+#                   ontology="BP", #i.e. biological processes, MF (molecular function), CC (cellular component)?
+#                   allGenes=intqList, #factor describing which genes are of interest/sig, which are not
+#                   geneSel = topDiffGenes, #if above factor contains p or q values, how to set alpha level
+#                   annot=annFUN.gene2GO, #func that maps gene names to GO terms; use gene2GO since we provide gene->GO term mapping file
+#                   nodeSize=10, #to prune smaller GO terms, which may be artifacts; use range 5 - 10
+#                   gene2GO=GOmap) #our gene->GO term mapping file
+# 
+# intqGOdata
+
 
 ####trt sig####
 #OR, incorporating q-values for additional analysis options
