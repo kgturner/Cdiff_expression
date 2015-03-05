@@ -201,6 +201,38 @@ test <- read.table("test_lme4dat.txt", header=T, sep="\t")
 
 test.LRT <- do.call(rbind,lapply(names(test)[15:20],function(n) exprs.pop.LR(n,df=test,cov="PC1")))#apply func to all things in list
 
+exprs.originByCov.LR<- function(trait,df,cov, family=gaussian){
+  modeldata<-df[!is.na(df[[trait]]),]
+  
+  #browser()
+  
+  model1<-lmer(modeldata[[trait]]  ~ Origin*modeldata[[cov]]+Trt+ (Tmpt|PopTrtPool)+(1|Pop), family,data=modeldata)#full
+  model2<-lmer(modeldata[[trait]]  ~ Origin+ modeldata[[cov]] +Trt+ (Tmpt|PopTrtPool)+(1|Pop), family,data=modeldata)#interaction
+  model3<-lmer(modeldata[[trait]]  ~ Origin+Trt + (Tmpt|PopTrtPool)+(1|Pop), family,data=modeldata)#cov
+  model4<-lmer(modeldata[[trait]]  ~ modeldata[[cov]]+Trt+ (Tmpt|PopTrtPool)+(1|Pop), family,data=modeldata)#origin
+  model5<-lmer(modeldata[[trait]]  ~ Origin+ modeldata[[cov]] + (Tmpt|PopTrtPool)+(1|Pop), family,data=modeldata)#trt
+  model6<-lmer(modeldata[[trait]]  ~ Origin+ modeldata[[cov]] +Trt+ (Tmpt|PopTrtPool), family,data=modeldata) #(1|Pop)
+  
+  a1 <- anova(model2,model1) # is interaction sig?
+  a2 <- anova(model3,model2) # is covariate sig?
+  a3 <- anova(model4, model2) #is origin sig?
+  a4 <- anova(model5, model2) #is trt sig?
+  a5 <- anova(model6, model2) #is pop sig?
+  
+  pval <- as.data.frame(cbind(Contig=trait,intLRT=a1[[7]][2],covLRT=a2[[7]][2],originLRT=a3[[7]][2],trtLRT=a4[[7]][2],popLRT=a5[[7]][2]))
+  
+  return(pval)
+}
+
+#test!
+test <- read.table("test_lme4dat.txt", header=T, sep="\t") 
+
+# test <- exprs.df[, c(1:20)]
+test.LRT <- do.call(rbind,lapply(names(test)[15:20],function(n) exprs.originByCov.LR(n,df=test,cov="PC1")))#apply func to all things in list
+
+
+
+
 ####corrections for multiple tests####
 #using:
 # test <- exprs.df[, c(1:20)]
@@ -284,7 +316,6 @@ write.table(test, file="lme4_qval_PC1.txt", sep="\t")
 #pop sig w/ PC1
 exprs.pop.LRT.PC1 <- do.call(rbind,lapply(names(exprs.df)[15:61038],function(n) exprs.pop.LR(n,df=exprs.df,cov="PC1")))#apply func to all things in list
 
-#start here
 popQ <- qvalue(p=as.numeric(as.vector(exprs.pop.LRT.PC1$popLRT)), lambda=seq(0,0.90,0.05), pi0.method="smoother", fdr.level=0.05, robust=FALSE, gui=FALSE, 
                smooth.df=3, smooth.log.pi0=FALSE)
 
@@ -300,3 +331,26 @@ PC1qpop <- read.table("lme4_qval_PC1_pop.txt", header=T, sep="\t")
 #check numbers
 test <- merge(PC1q[,1:10], PC1qdr)
 write.table(test, file="lme4_qval_PC1.txt", sep="\t")
+
+
+####run Origin*PC1 models####
+exprs.oByPC1.LRT <- do.call(rbind,lapply(names(exprs.df)[15:61038],function(n) exprs.originByCov.LR(n,df=exprs.df,cov="PC1")))#apply func to all things in list
+
+intQ <- qvalue(p=as.numeric(as.vector(exprs.oByPC1.LRT$intLRT)), lambda=seq(0,0.90,0.05), pi0.method="smoother", fdr.level=0.05, robust=FALSE, gui=FALSE, 
+               smooth.df=3, smooth.log.pi0=FALSE)
+covQ <- qvalue(p=as.numeric(as.vector(exprs.oByPC1.LRT$covLRT)), lambda=seq(0,0.90,0.05), pi0.method="smoother", fdr.level=0.05, robust=FALSE, gui=FALSE, 
+               smooth.df=3, smooth.log.pi0=FALSE)
+originQ <- qvalue(p=as.numeric(as.vector(exprs.oByPC1.LRT$originLRT)), lambda=seq(0,0.90,0.05), pi0.method="smoother", fdr.level=0.05, robust=FALSE, gui=FALSE, 
+                  smooth.df=3, smooth.log.pi0=FALSE)
+trtQ <- qvalue(p=as.numeric(as.vector(exprs.oByPC1.LRT$trtLRT)), lambda=seq(0,0.90,0.05), pi0.method="smoother", fdr.level=0.05, robust=FALSE, gui=FALSE, 
+               smooth.df=3, smooth.log.pi0=FALSE)
+popQ <- qvalue(p=as.numeric(as.vector(exprs.oByPC1.LRT$popLRT)), lambda=seq(0,0.90,0.05), pi0.method="smoother", fdr.level=0.05, robust=FALSE, gui=FALSE, 
+               smooth.df=3, smooth.log.pi0=FALSE)
+
+
+exprs.oByPC1.LRT.Q <- cbind(exprs.oByPC1.LRT, intQ=intQ$qvalues, intQsig=intQ$significant,covQ=covQ$qvalues, covQsig=covQ$significant,
+                         originQ=originQ$qvalues, originQsig=originQ$significant,
+                         trtQ=trtQ$qvalues, trtQsig=trtQ$significant,popQ=popQ$qvalues, popQsig=popQ$significant)
+#write pval table. slow? Be sure to include cov name
+write.table(exprs.oByPC1.LRT.Q, file="lme4_qval_OriginByPC1.txt", sep="\t")
+
