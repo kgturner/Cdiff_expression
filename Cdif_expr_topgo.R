@@ -495,6 +495,19 @@ mget(opcRes[,1], GOTERM)
 mget(invUpoT0_pcRes[,1], GOTERM)
 mget(invDnoT0_pcRes[,1], GOTERM)
 
+####compare to InvSyn results####
+#GO terms enriched for rapidly evolving genes in invasive diffusa
+invsyn <- read.table("GOterm_InvSyn.txt", header=T, sep="\t")
+
+intpcRes$GO.ID %in% invsyn$GO.ID
+opcRes$GO.ID %in% invsyn$GO.ID
+invUp2d_pcRes$GO.ID %in% invsyn$GO.ID
+invDn2d_pcRes$GO.ID %in% invsyn$GO.ID
+invUpoT0_pcRes$GO.ID %in% invsyn$GO.ID
+invDnoT0_pcRes$GO.ID %in% invsyn$GO.ID
+
+PC1pcRes <- read.table(file="GOresults_sigPC1_pc.txt", header=T)
+PC1pcRes$GO.ID %in% invsyn$GO.ID
 
 ####Origin AND trt sig???####
 #identify genes of interest

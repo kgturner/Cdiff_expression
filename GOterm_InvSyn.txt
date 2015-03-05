@@ -1,0 +1,11 @@
+Species	GO.ID	Term	Annotated	Significant	Expected	parentchildFisher P value
+C. diffusa	GO:0017126	nucleologenesis	1	1	0	0.0075
+C. diffusa	GO:0010019	chloroplast-nucleus signaling pathway	2	1	0.01	0.01
+C. diffusa	GO:0051302	regulation of cell division	7	1	0.03	0.0248
+C. diffusa	GO:0009451	RNA modification	20	1	0.08	0.0281
+C. diffusa	GO:0051202	phytochromobilin metabolic process	2	1	0.01	0.0294
+C. diffusa	GO:0033014	tetrapyrrole biosynthetic process	17	1	0.07	0.0355
+C. diffusa	GO:0006997	nucleus organization	7	1	0.03	0.0383
+C. diffusa	GO:0010024	phytochromobilin biosynthetic process	2	1	0.01	0.04
+C. diffusa	GO:0006413	translational initiation	17	1	0.07	0.0482
+
