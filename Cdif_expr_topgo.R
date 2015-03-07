@@ -170,7 +170,7 @@ invUp2dGOdata <- new("topGOdata", description = "GO analysis of Cdif microarrays
                   nodeSize=10, #to prune smaller GO terms, which may be artifacts; use range 5 - 10
                   gene2GO=GOmap) #our gene->GO term mapping file
 invUp2dGOdata
-# ------------------------- topGOdata object -------------------------
+------------------------- topGOdata object -------------------------
 #   
 #   Description:
 #   -  GO analysis of Cdif microarrays; genes with sig Origin*Trt effect 
@@ -191,7 +191,7 @@ invUp2dGOdata
 # - number of nodes = 2748 
 # - number of edges = 5862 
 # 
-# ------------------------- topGOdata object -------------------------
+------------------------- topGOdata object -------------------------
   
 resultpc <- runTest(invUp2dGOdata, algorithm = "parentchild", statistic = "fisher")
 resultpc
@@ -207,6 +207,8 @@ resultpc
 
 invUp2d_pcRes <- GenTable(invUp2dGOdata, parentchild = resultpc, topNodes=32)
 write.table(invUp2d_pcRes, file="GOresults_sigint_invUp2drought_pc.txt", sep="\t")
+
+invUp2d_pcRes.more <- GenTable(invUp2dGOdata, parentchild = resultpc, topNodes=70)
 
 # get more info on specific terms, here, top 3 
 mget(pcRes[1:3,1], GOTERM)
@@ -272,6 +274,8 @@ resultpc
 
 invDn2d_pcRes <- GenTable(invDn2dGOdata, parentchild = resultpc, topNodes=8)
 write.table(invDn2d_pcRes, file="GOresults_sigint_invDn2drought_pc.txt", sep="\t")
+
+invDn2d_pcRes.more<- GenTable(invDn2dGOdata, parentchild = resultpc, topNodes=50)
 
 # get more info on specific terms, here, top 3 
 # mget(pcRes[1:3,1], GOTERM)
@@ -409,6 +413,8 @@ resultpc
 invUpoT0_pcRes <- GenTable(invUpoT0GOdata, parentchild = resultpc, topNodes=29)
 write.table(invUpoT0_pcRes, file="GOresults_sigorigin_invUpT0_pc.txt", sep="\t")
 
+invUpoT0_pcRes.more <- GenTable(invUpoT0GOdata, parentchild = resultpc, topNodes=100)
+
 # get more info on specific terms, here, top 3 
 # mget(pcRes[1:3,1], GOTERM)
 
@@ -471,6 +477,8 @@ resultpc
 invDnoT0_pcRes <- GenTable(invDnoT0GOdata, parentchild = resultpc, topNodes=13)
 write.table(invDnoT0_pcRes, file="GOresults_sigorigin_invDnT0_pc.txt", sep="\t")
 
+invDnoT0_pcRes.more <- GenTable(invDnoT0GOdata, parentchild = resultpc, topNodes=70)
+
 # get more info on specific terms, here, top 3 
 # mget(pcRes[1:3,1], GOTERM)
 
@@ -483,6 +491,18 @@ invUp2d_pcRes
 invDn2d_pcRes
 invUpoT0_pcRes
 invDnoT0_pcRes
+
+invDn2d_pcRes.more
+subset(invDn2d_pcRes, GO.ID %in% intpcRes$GO.ID)
+subset(invDn2d_pcRes.more, GO.ID %in% intpcRes$GO.ID)
+invUp2d_pcRes.more
+subset(invUp2d_pcRes, GO.ID %in% intpcRes$GO.ID)
+subset(invUp2d_pcRes.more, GO.ID %in% intpcRes$GO.ID)
+
+invUpoT0_pcRes.more
+subset(invUpoT0_pcRes.more, GO.ID %in% opcRes$GO.ID)
+invDnoT0_pcRes.more
+subset(invDnoT0_pcRes.more, GO.ID %in% opcRes$GO.ID)
 
 # get more info on specific terms, here, top 3 
 mget(intpcRes[,1], GOTERM)

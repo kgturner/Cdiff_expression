@@ -25,27 +25,32 @@
 ##500813_Cycle10##
 #high signal range, uniformity CV a bit high
 #upper margin missing; dust/fiber lower right quadrant
-1,1 460,32; 289,457 317,493
+1,1 460,32; 
+289,457 317,493
 
 ##500813_Cycle11##
 #high signal range, uniformity CV a bit high
 #upper margin missing; other piece of margin
-1,1 460,32; 161,32 392,48
+1,1 460,32;
+161,32 392,48
 
 ##500813_Cycle12##
 #high signal range
 #upper margin missing;bright spot upper right quadrant
-1,1 460,48; 289,168 297,184
+1,1 460,48;
+289,168 297,184
 
 ##500813_Cycle1##
 #high signal range
 #upper margin missing; other piece of margin
-1,1 460,24; 169,24 345,40
+1,1 460,24;
+169,24 345,40
 
 ##500813_Cycle2##
 #high signal range
 #upper margin missing; bright spot lower right corner
-1,1 460,32; 409,560 416,568
+1,1 460,32;
+409,560 416,568
 
 ##500813_Cycle3##
 #high signal range, uniformity CV a bit high
@@ -55,32 +60,38 @@
 ##500813_Cycle4##
 #high signal range
 #upper margin missing; other piece of margin
-1,1 460,40; 113,40 240,48
+1,1 460,40;
+113,40 240,48
 
 ##500813_Cycle5##
 #high signal range
 #upper margin missing; other piece of margin
-1,1 460,32; 217,32 344,40
+1,1 460,32;
+217,32 344,40
 
 ##500813_Cycle6##
 #high signal range
 #upper margin missing; other piece of margin
-1,1 460,24; 104,24 248,32
+1,1 460,24;
+104,24 248,32
 
 ##500813_Cycle7##
 #high signal range, uniformity CV a bit high
 #upper margin missing; other piece of margin
-1,1 460,48;305,48 336,64
+1,1 460,48;
+305,48 336,64
 
 ##500813_Cycle8##
 #high signal range
 #upper margin missing; other piece of margin
-1,1 460,41; 121,41 256,48
+1,1 460,41;
+121,41 256,48
 
 ##500813_Cycle9##
 #high signal range
 #upper margin missing; other piece of margin
-1,1 460,33; 201,33 360,40
+1,1 460,33;
+201,33 360,40
 
 ##500952_Cycle11##
 #small bright spot lower right quadrant
@@ -92,11 +103,13 @@
 
 ##500952_Cycle8##
 #missing upper right corner; bright spot upper right quadrant
-425,1 460,24; 305,137 320,160
+425,1 460,24;
+305,137 320,160
 
 ##500970_Cycle1##
 #fiber upper right quadrant; dust mid right edge
-369,1 400,48; 441,329 449,344
+369,1 400,48;
+441,329 449,344
 
 ##500970_Cycle3##
 #bright spot lower right quadrant (also some sort of drip pattern on lower right edge? very faint, did not remove)
@@ -127,7 +140,8 @@
 ##501081_Cycle9##
 #high mean empty
 #two bright streaks lower right quadrant
-297,528 425,635; 329,441 400,528
+297,528 425,635;
+329,441 400,528
 
 ##501192_Cycle10##
 #bright spot, upper right quadrant
@@ -135,7 +149,8 @@
 
 ##501192_Cycle12##
 #bright spot right side mid; smear right corner
-104,361 120,376; 25,585 33,625
+104,361 120,376;
+25,585 33,625
 
 ##501192_Cycle4##
 #bright spot
@@ -147,15 +162,20 @@
 
 ##501192_Cycle8##
 #2 bright spots, upper right quadrant
-297,65 312,80; 329,233 336,249
+297,65 312,80;
+329,233 336,249
 
 ##509183_Cycle1##
 #4 blobs (plus several small spots, not removed)
-330,441 344,464; 313,513 329,528; 377,529 400,560; 305,545 337,569
+330,441 344,464;
+313,513 329,528;
+377,529 400,560; 
+305,545 337,569
 
 ##509185_Cycle2##
 #2 blobs
-146,457 153,473; 112,575 140,596
+146,457 153,473;
+112,575 140,596
 
 ##509185_Cycle4##
 #blob upper edge
@@ -164,7 +184,8 @@
 ##509192_Cycle12##
 #high signal range
 #large empty space upper left quadrant; small empty space right mid
-153,1 193,329; 321,313 353,345
+153,1 193,329; 
+321,313 353,345
 
 ##509192_Cycle2##
 #small empty space
@@ -182,12 +203,15 @@
 ##509192_Cycle7##
 #high signal range
 #large empty space; high background spot
-49,272 185,384; 1,305 40,343
+49,272 185,384;
+1,305 40,343
 
 ##509192_Cycle8##
 #high signal range
 #3 empty streaks
-313,1 360,56; 162,129 192,488;322,529 535,560
+313,1 360,56;
+162,129 192,488;
+322,529 535,560
 
 ##509192_Cycle9##
 #empty patch
@@ -195,7 +219,8 @@
 
 ##509195_Cycle12##
 #2 bright patches lower left quadrant
-28,611 57,635; 71,602 88,635
+28,611 57,635;
+71,602 88,635
 
 ##509195_Cycle2##
 #bright spot
@@ -207,4 +232,5 @@
 
 ##509196_Cycle2##
 #streak in 2 parts
-188,73 207,135; 200,1 209,72
+188,73 207,135;
+200,1 209,72
