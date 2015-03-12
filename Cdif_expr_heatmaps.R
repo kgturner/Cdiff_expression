@@ -50,7 +50,8 @@ row_cluster = hclust(row_distance, method = "complete")
 col_distance = dist(t(exprs(inteset2_sc)), method = "euclidean")
 col_cluster = hclust(col_distance, method = "complete")
 
-pdf("SigInt_control_tmpt2_heatmap.pdf", useDingbats=FALSE)
+# pdf("SigInt_control_tmpt2_heatmap.pdf", useDingbats=FALSE)
+png("SigInt_control_tmpt2_heatmap.png")
 # par(mar=c(12,12,12,12))
 heatmap.2(exprs(inteset2_sc), trace="none", ColSideColors = cols, 
           dendrogram="both", na.color="grey50",
@@ -95,7 +96,8 @@ row_cluster = hclust(row_distance, method = "complete")
 col_distance = dist(t(exprs(inteset2_sc)), method = "euclidean")
 col_cluster = hclust(col_distance, method = "complete")
 
-pdf("SigInt_drought_tmpt2_heatmap.pdf", useDingbats=FALSE)
+# pdf("SigInt_drought_tmpt2_heatmap.pdf", useDingbats=FALSE)
+png("SigInt_drought_tmpt2_heatmap.png")
 # par(mar=c(12,12,12,12))
 heatmap.2(exprs(inteset2_sc), trace="none", ColSideColors = cols, 
           dendrogram="both", na.color="grey50",
@@ -134,7 +136,8 @@ row_cluster = hclust(row_distance, method = "complete")
 col_distance = dist(t(exprs(oeset2_sc)), method = "euclidean")
 col_cluster = hclust(col_distance, method = "complete")
 
-pdf("SigOrigin_bothtrt_tmpt0_heatmap.pdf", useDingbats=FALSE)
+# pdf("SigOrigin_bothtrt_tmpt0_heatmap.pdf", useDingbats=FALSE)
+png("SigOrigin_bothtrt_tmpt0_heatmap.png")
 # par(mar=c(12,12,12,12))
 
 heatmap.2(exprs(oeset2_sc), trace="none", ColSideColors = cols, 
@@ -181,7 +184,8 @@ row_cluster = hclust(row_distance, method = "complete")
 col_distance = dist(t(exprs(inteset2_sc)), method = "euclidean")
 col_cluster = hclust(col_distance, method = "complete")
 # 
-pdf("SigInt_bothtrt_tmpt2_heatmap.pdf", useDingbats=FALSE)
+# pdf("SigInt_bothtrt_tmpt2_heatmap.pdf", useDingbats=FALSE)
+png("SigInt_bothtrt_tmpt2_heatmap.png")
 # # par(mar=c(12,12,12,12))
 # par(cex.main=1)
 heatmap.2(exprs(inteset2_sc), trace="none", 
