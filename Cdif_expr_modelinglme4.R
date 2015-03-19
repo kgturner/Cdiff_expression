@@ -230,6 +230,36 @@ test <- read.table("test_lme4dat.txt", header=T, sep="\t")
 # test <- exprs.df[, c(1:20)]
 test.LRT <- do.call(rbind,lapply(names(test)[15:20],function(n) exprs.originByCov.LR(n,df=test,cov="PC1")))#apply func to all things in list
 
+####tradeoff models?####
+# #add mean population shoot mass in ctrl treatment from mat fx garden to data
+# exprs.tradeoff.LR<- function(trait,df,cov, family=gaussian){
+#   modeldata<-df[!is.na(df[[trait]]),]
+#   
+#   #browser()
+#   
+#   model1<-lmer(modeldata[[trait]]  ~ Origin*modeldata[[cov]]+ (Tmpt|PopTrtPool)+(1|Pop), family,data=modeldata)#full
+#   model2<-lmer(modeldata[[trait]]  ~ Origin+ modeldata[[cov]] + (Tmpt|PopTrtPool)+(1|Pop), family,data=modeldata)#interaction
+#   model3<-lmer(modeldata[[trait]]  ~ Origin+ (Tmpt|PopTrtPool)+(1|Pop), family,data=modeldata)#cov
+#   model4<-lmer(modeldata[[trait]]  ~ modeldata[[cov]]+ (Tmpt|PopTrtPool)+(1|Pop), family,data=modeldata)#origin
+
+#   model6<-lmer(modeldata[[trait]]  ~ Origin+ modeldata[[cov]] + (Tmpt|PopTrtPool), family,data=modeldata) #(1|Pop)
+#   
+#   a1 <- anova(model2,model1) # is interaction sig?
+#   a2 <- anova(model3,model2) # is covariate sig?
+#   a3 <- anova(model4, model2) #is origin sig?
+#   a4 <- anova(model5, model2) #is trt sig?
+#   a5 <- anova(model6, model2) #is pop sig?
+#   
+#   pval <- as.data.frame(cbind(Contig=trait,intLRT=a1[[7]][2],covLRT=a2[[7]][2],originLRT=a3[[7]][2],trtLRT=a4[[7]][2],popLRT=a5[[7]][2]))
+#   
+#   return(pval)
+# }
+# 
+# #test!
+# test <- read.table("test_lme4dat.txt", header=T, sep="\t") 
+# 
+# # test <- exprs.df[, c(1:20)]
+# test.LRT <- do.call(rbind,lapply(names(test)[15:20],function(n) exprs.originByCov.LR(n,df=test,cov="PC1")))#apply func to all things in list
 
 
 
