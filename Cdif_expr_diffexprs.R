@@ -143,3 +143,9 @@ sigOT0summary <- testdir6
 head(sigOT0summary)
 summary(sigOT0summary)
 write.table(sigOT0summary, file="sigOrigin_popMeans_sumT0.txt", sep="\t")
+
+
+####random effect pop####
+PC1q_pop <- read.table("lme4_qval_PC1_pop.txt", header=T, sep="\t") 
+head(PC1q_pop)
+summary(PC1q_pop)
