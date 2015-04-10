@@ -62,8 +62,8 @@ heatmap.2(exprs(inteset2_sc), trace="none", ColSideColors = cols,
 #           symm=TRUE, cexRow = 0.6,
           cexCol = 1.2, key = TRUE, keysize=1,labRow=NA,
 #           lwid=c(1,15), lhei=c(1,4),
-          labCol=intdes2$PopTrtPool,
-          main = "Genes with significant Origin*Trt \nControl, Tmpt 2")
+          labCol=intdes2$PopTrtPool)
+#           main = "Genes with significant Origin*Treatment effect \ncontrol, final time point")
 dev.off()
 
 
@@ -108,8 +108,8 @@ heatmap.2(exprs(inteset2_sc), trace="none", ColSideColors = cols,
 #           symm=TRUE, cexRow = 0.6,
           cexCol = 1.2, key = TRUE, keysize=1,labRow=NA,
 #           lwid=c(1,15), lhei=c(1,4),
-          labCol=intdes2$PopTrtPool,
-          main = "Genes with significant Origin*Trt \nDrought, Tmpt 2")
+          labCol=intdes2$PopTrtPool)
+#           main = "Genes with significant Origin*Treatmentt effect \ndrought, final time point")
 dev.off()
 
 ####scaled first time point, both trt equivalent, sig O only####
@@ -151,8 +151,8 @@ heatmap.2(exprs(oeset2_sc), trace="none", ColSideColors = cols,
           cexCol = 1.2, 
           key = TRUE, keysize=1,
 #           lwid=c(1,15), lhei=c(1,4),
-          labCol=odes2$PopTrtPool,
-          main = "Genes with significant effect of Origin \nBoth Trt, Tmpt 0")
+          labCol=odes2$PopTrtPool)
+#           main = "Genes with a constitutive Origin effect \nboth treatments, first time point")
 dev.off()
 
 ####scaled last time point, both trt, sig int only####
@@ -201,8 +201,8 @@ heatmap.2(exprs(inteset2_sc), trace="none",
 #           symm=TRUE, cexRow = 0.6,
           cexCol = 1, key = TRUE, keysize=1,
 #           lwid=c(1,15), lhei=c(1,4),
-          labCol=intdes2$SampleID,labRow=NA,
-          main = "Genes with significant effect of Origin*Trt \nBoth Trt, Tmpt 2")
+          labCol=intdes2$SampleID,labRow=NA)
+#           main = "Genes with drought induced origin effect \nboth treatments, final time point")
 dev.off()
 
 
