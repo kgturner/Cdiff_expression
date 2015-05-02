@@ -58,27 +58,27 @@ intqGOdata <- new("topGOdata", description = "GO analysis of Cdif microarrays; g
 
 intqGOdata
 ------------------------- topGOdata object -------------------------
-  
-  Description:
-  -  GO analysis of Cdif microarrays; genes with sig Origin*Trt effect 
-
-Ontology:
-  -  BP 
-
-61024 available genes (all genes from the array):
-  - symbol:  Contig1 Contig10 Contig100 Contig1000 Contig10000  ...
-- score :  0.7364 0.761989 0.5792765 0.78036662 0.471659746  ...
-- 227  significant genes. 
-
-37373 feasible genes (genes that can be used in the analysis):
-  - symbol:  Contig1 Contig10 Contig100 Contig1000 Contig10000  ...
-- score :  0.7364 0.761989 0.5792765 0.78036662 0.471659746  ...
-- 180  significant genes. 
-
-GO graph (nodes with at least  10  genes):
-  - a graph with directed edges
-- number of nodes = 2483 
-- number of edges = 5282 
+#   
+#   Description:
+#   -  GO analysis of Cdif microarrays; genes with sig Origin*Trt effect 
+# 
+# Ontology:
+#   -  BP 
+# 
+# 61024 available genes (all genes from the array):
+#   - symbol:  Contig1 Contig10 Contig100 Contig1000 Contig10000  ...
+# - score :  0.7364 0.761989 0.5792765 0.78036662 0.471659746  ...
+# - 227  significant genes. 
+# 
+# 37373 feasible genes (genes that can be used in the analysis):
+#   - symbol:  Contig1 Contig10 Contig100 Contig1000 Contig10000  ...
+# - score :  0.7364 0.761989 0.5792765 0.78036662 0.471659746  ...
+# - 180  significant genes. 
+# 
+# GO graph (nodes with at least  10  genes):
+#   - a graph with directed edges
+# - number of nodes = 2483 
+# - number of edges = 5282 
 
 ------------------------- topGOdata object -------------------------
 
@@ -93,10 +93,10 @@ GO graph (nodes with at least  10  genes):
 resultpc <- runTest(intqGOdata, algorithm = "parentchild", statistic = "fisher")
 
 # 
-allRes <- GenTable(intqGOdata, classic = resultclas, elim=resultelim, weight=resultwt, 
-                   weight01=resultwt01, lea=resultlea, parentchild=resultpc,
-                   orderBy = "weight", ranksOf = "classic", topNodes = 50) #can summarize multiple result obj
-write.table(allRes, file="GOresults_sigint.txt", sep="\t")
+# allRes <- GenTable(intqGOdata, classic = resultclas, elim=resultelim, weight=resultwt, 
+#                    weight01=resultwt01, lea=resultlea, parentchild=resultpc,
+#                    orderBy = "weight", ranksOf = "classic", topNodes = 50) #can summarize multiple result obj
+# write.table(allRes, file="GOresults_sigint.txt", sep="\t")
 
 #multiple testing correction needed?
 # pvalFis <- score(resultclas)
@@ -130,17 +130,17 @@ write.table(allRes, file="GOresults_sigint.txt", sep="\t")
 # "Expected" changes. 
 
 # Used parentchild in InvSyn paper, so...
->resultpc
-
-Description: GO analysis of Cdif microarrays; genes with sig Origin*Trt effect 
-Ontology: BP 
-'parentchild' algorithm with the 'fisher : joinFun = union' test
-2483 GO terms scored: 33 terms with p < 0.01
-Annotation data:
-  Annotated genes: 37373 
-Significant genes: 180 
-Min. no. of genes annotated to a GO: 10 
-Nontrivial nodes: 639 
+resultpc
+# 
+# Description: GO analysis of Cdif microarrays; genes with sig Origin*Trt effect 
+# Ontology: BP 
+# 'parentchild' algorithm with the 'fisher : joinFun = union' test
+# 2483 GO terms scored: 33 terms with p < 0.01
+# Annotation data:
+#   Annotated genes: 37373 
+# Significant genes: 180 
+# Min. no. of genes annotated to a GO: 10 
+# Nontrivial nodes: 639 
 
 pcRes <- GenTable(intqGOdata, parentchild = resultpc, topNodes=33)
 write.table(pcRes, file="GOresults_sigint_pc.txt", sep="\t")
@@ -718,11 +718,11 @@ MFresultpc
 # Min. no. of genes annotated to a GO: 10 
 # Nontrivial nodes: 239 
 
-MFpcRes <- GenTable(MFintqGOdata, parentchild = MFresultpc, topNodes=7)
-MFpcRes
+(MFpcRes <- GenTable(MFintqGOdata, parentchild = MFresultpc, topNodes=7))
+# MFpcRes
 write.table(MFpcRes, file="GOresults_MFsigint_pc.txt", sep="\t")
 
-mget(MFpcRes[,1], GOTERM)
+(MFpcRes.more <- GenTable(MFintqGOdata, parentchild = MFresultpc, topNodes=23))
 
 ####MF int sig, up in inv, tmpt 2, drought####
 int2dsummary <- read.table(file="sigint_popMeans_sumT2drought.txt", header=T)
@@ -1003,11 +1003,11 @@ CCintresultpc
 # Min. no. of genes annotated to a GO: 10 
 # Nontrivial nodes: 178 
 
-CCintpcRes <- GenTable(CCintqGOdata, parentchild = CCintresultpc, topNodes=34)
-CCintpcRes
+(CCintpcRes <- GenTable(CCintqGOdata, parentchild = CCintresultpc, topNodes=34))
+# CCintpcRes
 write.table(CCintpcRes, file="GOresults_CCsigint_pc.txt", sep="\t")
 
-mget(CCintpcRes[,1], GOTERM)
+(CCintpcRes.more <- GenTable(CCintqGOdata, parentchild = CCintresultpc, topNodes=40))
 
 ####cc int sig, up in inv, tmpt 2, drought####
 # int2dsummary <- read.table(file="sigint_popMeans_sumT2drought.txt", header=T)

@@ -82,7 +82,7 @@ write.table(popOdf, file="PC1_sigOrigin_popMeans.txt", sep="\t")
 popOdf <- read.table("PC1_sigOrigin_popMeans.txt", header=T)
 
 
-####up and down expr in invasive pops, sig int####
+####up and down expr in invasive pops vs control, tmpt 2, sig int####
 #int using pop means, tmpt 2,control
 popintdf2c <- subset(popintdf, Tmpt==2&Trt=="control", select=c(1,2,10:236))
 head(popintdf2c)
@@ -110,9 +110,9 @@ write.table(int2csummary, file="sigint_popMeans_sumT2Control.txt", sep="\t")
 popintdf2d <- subset(popintdf, Tmpt==2&Trt=="drought", select=c(1,2,10:236))
 # head(popintdf2d)
 testdir <- reshape(popintdf2d,direction="long", varying=list(ExprVal=c(3:229)), times=colnames(popintdf2c[3:229]))
-# head(testdir)
+head(testdir)
 testdir5 <- ddply(testdir, .(time,Origin), summarise, mean(Contig1007))
-# head(testdir5)
+head(testdir5)
 testdir6 <- reshape(testdir5, direction="wide", idvar="time", timevar="Origin")
 # head(testdir6)
 colnames(testdir6)[2] <- "InvExprVal"

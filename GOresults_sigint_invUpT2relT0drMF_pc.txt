@@ -1,0 +1,8 @@
+"GO.ID"	"Term"	"Annotated"	"Significant"	"Expected"	"parentchild"
+"1"	"GO:0003723"	"RNA binding"	2210	8	2.42	"0.00036"
+"2"	"GO:1901363"	"heterocyclic compound binding"	12238	25	13.4	"0.00137"
+"3"	"GO:0097159"	"organic cyclic compound binding"	12282	25	13.45	"0.00146"
+"4"	"GO:0008453"	"alanine-glyoxylate transaminase activity"	22	3	0.02	"0.00151"
+"5"	"GO:0016769"	"transferase activity, transferring nitro..."	185	3	0.2	"0.00252"
+"6"	"GO:0043167"	"ion binding"	10853	22	11.88	"0.00541"
+"7"	"GO:0097367"	"carbohydrate derivative binding"	5000	13	5.47	"0.00768"
