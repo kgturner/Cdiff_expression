@@ -125,7 +125,7 @@ head(int2dsummary)
 summary(int2dsummary)
 write.table(int2dsummary, file="sigint_popMeans_sumT2drought.txt", sep="\t")
 
-####allowing for nearly equal things####
+####allowing for nearly equal things, sig int####
 #floating points in comparisons... don't do equals, just think of less than
 close_enough <- function(x, y, tolerance=sqrt(.Machine$double.eps)) {
   abs(x - y) <= tolerance
@@ -158,6 +158,21 @@ sigOT0summary <- testdir6
 head(sigOT0summary)
 summary(sigOT0summary)
 write.table(sigOT0summary, file="sigOrigin_popMeans_sumT0.txt", sep="\t")
+
+####allowing for nearly equal things, sig origin####
+#floating points in comparisons... don't do equals, just think of less than
+close_enough <- function(x, y, tolerance=sqrt(.Machine$double.eps)) {
+  abs(x - y) <= tolerance
+}
+
+sigOT0summary <- read.table(file="sigOrigin_popMeans_sumT0.txt", header=T)
+sigOT0summaryNE <- sigOT0summary
+sigOT0summaryNE$OriginsEq <- close_enough(sigOT0summaryNE$InvExprVal, sigOT0summaryNE$NatExprVal, tolerance=0.1)
+sigOT0summaryNE$InvDefUp <- sigOT0summaryNE$InvUp 
+sigOT0summaryNE[sigOT0summaryNE$OriginsEq==TRUE,]$InvDefUp <- FALSE
+sigOT0summaryNE$InvDefDn <- sigOT0summaryNE$InvUp#FALSE means down
+sigOT0summaryNE[sigOT0summaryNE$OriginsEq==TRUE,]$InvDefDn <- TRUE
+write.table(sigOT0summaryNE, file="sigOrigin_popMeans_sumT0NE.txt", sep="\t")
 
 
 ####random effect pop####

@@ -1,0 +1,8 @@
+"GO.ID"	"Term"	"Annotated"	"Significant"	"Expected"	"parentchild"
+"1"	"GO:0051213"	"dioxygenase activity"	375	7	1.05	"0.00048"
+"2"	"GO:0008233"	"peptidase activity"	1835	14	5.15	"0.00076"
+"3"	"GO:0016706"	"oxidoreductase activity, acting on paire..."	262	7	0.74	"0.00227"
+"4"	"GO:0004842"	"ubiquitin-protein transferase activity"	768	8	2.16	"0.00264"
+"5"	"GO:0016679"	"oxidoreductase activity, acting on diphe..."	77	3	0.22	"0.00342"
+"6"	"GO:0016705"	"oxidoreductase activity, acting on paire..."	683	8	1.92	"0.00376"
+"7"	"GO:0016868"	"intramolecular transferase activity, pho..."	63	4	0.18	"0.00701"
