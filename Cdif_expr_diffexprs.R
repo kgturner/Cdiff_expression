@@ -82,8 +82,8 @@ write.table(popOdf, file="PC1_sigOrigin_popMeans.txt", sep="\t")
 popOdf <- read.table("PC1_sigOrigin_popMeans.txt", header=T)
 
 
-####up and down expr in invasive pops vs control, tmpt 2, sig int####
-#int using pop means, tmpt 2,control
+####up and down expr between ranges tmpt 2, sig int####
+####int using pop means, tmpt 2,control####
 popintdf2c <- subset(popintdf, Tmpt==2&Trt=="control", select=c(1,2,10:236))
 head(popintdf2c)
 
@@ -106,15 +106,15 @@ int2csummary <- testdir6
 summary(int2csummary)
 write.table(int2csummary, file="sigint_popMeans_sumT2Control.txt", sep="\t")
 
-#int using pop means, tmpt 2,drought
-popintdf2d <- subset(popintdf, Tmpt==2&Trt=="drought", select=c(1,2,10:236))
-# head(popintdf2d)
-testdir <- reshape(popintdf2d,direction="long", varying=list(ExprVal=c(3:229)), times=colnames(popintdf2c[3:229]))
+####int using pop means, tmpt 2,drought####
+popintdf2d <- subset(popintdf, Tmpt==2&Trt=="drought", select=c(1,2,10:236)) #last 2 cols are compound names, i.e. OriginTrt
+head(popintdf2d[,1:6])
+testdir <- reshape(popintdf2d,direction="long", varying=list(3:229), times=colnames(popintdf2c[3:229]))
 head(testdir)
 testdir5 <- ddply(testdir, .(time,Origin), summarise, mean(Contig1007))
 head(testdir5)
 testdir6 <- reshape(testdir5, direction="wide", idvar="time", timevar="Origin")
-# head(testdir6)
+head(testdir6)
 colnames(testdir6)[2] <- "InvExprVal"
 colnames(testdir6)[3] <- "NatExprVal"
 colnames(testdir6)[1] <- "Contig"
@@ -125,7 +125,22 @@ head(int2dsummary)
 summary(int2dsummary)
 write.table(int2dsummary, file="sigint_popMeans_sumT2drought.txt", sep="\t")
 
-#sig Origin using pop means, time point 0, both trt (equivalent)
+####allowing for nearly equal things####
+#floating points in comparisons... don't do equals, just think of less than
+close_enough <- function(x, y, tolerance=sqrt(.Machine$double.eps)) {
+  abs(x - y) <= tolerance
+}
+
+int2dsummary <- read.table(file="sigint_popMeans_sumT2drought.txt", header=T)
+int2dsummaryNE <- int2dsummary
+int2dsummaryNE$OriginsEq <- close_enough(int2dsummaryNE$InvExprVal, int2dsummaryNE$NatExprVal, tolerance=0.1)
+int2dsummaryNE$InvDefUp <- int2dsummaryNE$InvUp 
+int2dsummaryNE[int2dsummaryNE$OriginsEq==TRUE,]$InvDefUp <- FALSE
+int2dsummaryNE$InvDefDn <- int2dsummaryNE$InvUp#FALSE means down
+int2dsummaryNE[int2dsummaryNE$OriginsEq==TRUE,]$InvDefDn <- TRUE
+write.table(int2dsummaryNE, file="sigint_popMeans_sumT2droughtNE.txt", sep="\t")
+
+#####sig Origin using pop means, time point 0, both trt (equivalent)####
 popOdf0 <- subset(popOdf, Tmpt==0, select=c(1,2,10:594))
 popOdf0[1:6,1:20]
 testdir <- reshape(popOdf0,direction="long", varying=list(ExprVal=c(3:587)), times=colnames(popOdf0[3:587]))

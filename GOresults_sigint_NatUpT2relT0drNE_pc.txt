@@ -1,0 +1,2 @@
+"GO.ID"	"Term"	"Annotated"	"Significant"	"Expected"	"apply(l, 2, format.FUN, dig = 2, eps = 1e-30)"
+"1"	"GO:0008152"	"metabolic process"	30488	44	32.65	"0.0023"
