@@ -54,19 +54,23 @@ close_enough <- function(x, y, tolerance=sqrt(.Machine$double.eps)) {
   abs(x - y) <= tolerance
 }
 
+intdrInvsummary <- read.table(file="sigint_popMeans_sumT2droughtInv.txt", header=T)
 intdrInvsum <- intdrInvsummary
 intdrInvsum$T2eq <- close_enough(intdrInvsum$InvExprValT2, intdrInvsum$InvExprValT0, tolerance=0.1)
 intdrInvsum$T2DefUp <- intdrInvsum$T2Up 
 intdrInvsum[intdrInvsum$T2eq==TRUE,]$T2DefUp <- FALSE
 intdrInvsum$T2DefDn <- intdrInvsum$T2Up#FALSE means down
 intdrInvsum[intdrInvsum$T2eq==TRUE,]$T2DefDn <- TRUE
+write.table(intdrInvsum, file="sigint_popMeansNE_sumT2droughtInv.txt", sep="\t")
 
+intdrNatsummary <- read.table(file="sigint_popMeans_sumT2droughtNat.txt", header=T)
 intdrNatsum <- intdrNatsummary
 intdrNatsum$T2eq <- close_enough(intdrNatsum$NatExprValT2, intdrNatsum$NatExprValT0, tolerance=0.1)
 intdrNatsum$T2DefUp <- intdrNatsum$T2Up 
 intdrNatsum[intdrNatsum$T2eq==TRUE,]$T2DefUp <- FALSE
 intdrNatsum$T2DefDn <- intdrNatsum$T2Up#FALSE means down
 intdrNatsum[intdrNatsum$T2eq==TRUE,]$T2DefDn <- TRUE
+write.table(intdrNatsum, file="sigint_popMeansNE_sumT2droughtNat.txt", sep="\t")
 
 ####topGO analysis of subsets####
 source("http://bioconductor.org/biocLite.R")

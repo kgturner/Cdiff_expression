@@ -2211,6 +2211,14 @@ subset(invUpopcRes_mf.more, GO.ID %in% opcRes_mf$GO.ID)
 invDno_pcRes_mf.more$GO.ID %in% opcRes_mf$GO.ID
 subset(invDno_pcRes_mf.more, GO.ID %in% opcRes_mf$GO.ID)
 
+#invsyn
+#GO terms enriched for rapidly evolving genes in invasive diffusa
+invsyn <- read.table("GOterm_InvSyn.txt", header=T, sep="\t")
+opcRes_mf$GO.ID %in% invsyn$GO.ID
+opcRes_cc$GO.ID %in% invsyn$GO.ID
+opcRes$GO.ID %in% invsyn$GO.ID
+
+
 ##################################################
 ####scanning GO terms####
 # OpcRes <- read.table(file="GOresults_sigint_pc.txt", header=T)
