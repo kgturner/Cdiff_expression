@@ -72,3 +72,7 @@ write.table(final, file="MarchandGRNoverlap.txt", sep="\t")
 final.1 <- subset(final, AGI_ID.from.HU == AGI_ID.from.HaT13l) #some NAs in once col but not other
 final.1 <- subset(final, name.from.Hu == name.from.HaT13l) #some NAs in once col but not other
 
+##for discussion:
+disList <- c("AT5G50810", "AT2G29530", "AT1G52710", "AT1G80230", "AT3G15640", 
+             "AT4G33030", "AT2G07050", "AT4G39660")
+intersect(inGRNlist, disList)
