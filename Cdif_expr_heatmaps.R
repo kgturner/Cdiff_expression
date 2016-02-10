@@ -4,6 +4,7 @@
 ####heatmaps and clustering####
 PC1q_intsigdf <- read.table("PC1_sigint_df.txt", header=T)
 PC1q_Osigdf <- read.table("PC1_sigOrigin_df.txt", header=T)
+
 PC1q_sigdf <- read.table("PC1_sigPC1_df.txt", header=T)
 PC1q_trtsigdf <- read.table("PC1_sigtrt_df.txt", header=T)
 # 
@@ -112,7 +113,7 @@ heatmap.2(exprs(inteset2_sc), trace="none", ColSideColors = cols,
 #           main = "Genes with significant Origin*Treatmentt effect \ndrought, final time point")
 dev.off()
 
-####scaled first time point, both trt equivalent, sig O only####
+####Fig 2. scaled first time point, both trt equivalent, sig O only####
 oM2 <- as.matrix(t(subset(PC1q_Osigdf, Tmpt==0,select=c(15:599))))
 odes2 <- subset(PC1q_Osigdf, Tmpt==0,select=c(1:14))
 oeset2 <- new("ExpressionSet", phenoData = as(odes2, "AnnotatedDataFrame"),exprs = as.matrix(oM2))
@@ -127,35 +128,36 @@ exprs(oeset2_sc)<- t(scale(t( exprs(oeset2_sc) )))
 cols<-as.character(as.integer(odes2$Origin))
 
 my_palette <- colorRampPalette(c("royalblue", "black", "gold"))(n = 299)
-col_breaks = c(seq(-3,-1,length=100), # for red
+col_breaks = c(seq(-3,-1.001,length=100), # for red
                seq(-1,1,length=100), # for yellow
-               seq(1,3,length=100)) # for green
+               seq(1.001,3,length=100)) # for green
 
 row_distance = dist(exprs(oeset2_sc), method = "euclidean")
 row_cluster = hclust(row_distance, method = "complete")
 col_distance = dist(t(exprs(oeset2_sc)), method = "euclidean")
 col_cluster = hclust(col_distance, method = "complete")
 
-# pdf("SigOrigin_bothtrt_tmpt0_heatmap.pdf", useDingbats=FALSE)
-png("SigOrigin_bothtrt_tmpt0_heatmap.png")
-# par(mar=c(12,12,12,12))
+pdf("Cdifexpr_Fig2.pdf", useDingbats=FALSE, width=6.65, height=6.65) #MolEcol sizes 3.149, 4.4 or 6.65
+# png("SigOrigin_bothtrt_tmpt0_heatmap.png")
+# par(mar=c(12,20,20,8))
 
 heatmap.2(exprs(oeset2_sc), trace="none", ColSideColors = cols, 
           dendrogram="both", na.color="grey50",
           margin=c(12,9),
           col= my_palette, 
           breaks=col_breaks, 
-          Rowv=as.dendrogram(row_cluster), Colv=as.dendrogram(col_cluster),
-#           cexRow = 0.6,
+          Rowv=as.dendrogram(row_cluster), Colv=as.dendrogram(col_cluster),#cexRow = 0.6,
           labRow=NA,
           cexCol = 1.2, 
           key = TRUE, keysize=1,
-#           lwid=c(1,15), lhei=c(1,4),
-          labCol=odes2$PopTrtPool)
+          labCol=odes2$PopTrtPool,
+          density.info='none') #,
+#           lmat=rbind(c(0, 3), c(2, 1), c(0,4)),lhei=c(1.5,4,1), lwid=c(1.5, 4))
 #           main = "Genes with a constitutive Origin effect \nboth treatments, first time point")
+# 
 dev.off()
 
-####scaled last time point, both trt, sig int only####
+####Fig 3. scaled last time point, both trt, sig int only####
 intM2 <- as.matrix(t(subset(PC1q_intsigdf, Tmpt==2,select=c(15:241))))
 intdes2 <- subset(PC1q_intsigdf, Tmpt==2,select=c(1:14))
 # intdes2$OriginTrt <- as.factor(paste0(intdes2$Origin, "_", intdes2$Trt))
@@ -172,9 +174,9 @@ exprs(inteset2_sc)<- t(scale(t( exprs(inteset2_sc) )))
 cols<-as.character(as.integer(intdes2$Origin))
 
 my_palette <- colorRampPalette(c("royalblue", "black", "gold"))(n = 299)
-col_breaks = c(seq(-2,-1,length=100), # for red
+col_breaks = c(seq(-2,-1.001,length=100), # for red
                seq(-1,1,length=100), # for yellow
-               seq(1,2,length=100)) # for green
+               seq(1.001,2,length=100)) # for green
 
 
 # # by.cols<-c("blue", "#0000DD",  "#0000BB", "#000099", "#000077","#000055",
@@ -184,8 +186,8 @@ row_cluster = hclust(row_distance, method = "complete")
 col_distance = dist(t(exprs(inteset2_sc)), method = "euclidean")
 col_cluster = hclust(col_distance, method = "complete")
 # 
-# pdf("SigInt_bothtrt_tmpt2_heatmap.pdf", useDingbats=FALSE)
-png("SigInt_bothtrt_tmpt2_heatmap.png")
+pdf("Cdifexpr_Fig3.pdf", useDingbats=FALSE, width=6.65, height=6.65) #MolEcol sizes 3.149, 4.4 or 6.65
+# png("SigInt_bothtrt_tmpt2_heatmap.png")
 # # par(mar=c(12,12,12,12))
 # par(cex.main=1)
 heatmap.2(exprs(inteset2_sc), trace="none", 
@@ -201,7 +203,8 @@ heatmap.2(exprs(inteset2_sc), trace="none",
 #           symm=TRUE, cexRow = 0.6,
           cexCol = 1, key = TRUE, keysize=1,
 #           lwid=c(1,15), lhei=c(1,4),
-          labCol=intdes2$SampleID,labRow=NA)
+          labCol=intdes2$SampleID,labRow=NA,
+          density.info='none')
 #           main = "Genes with drought induced origin effect \nboth treatments, final time point")
 dev.off()
 
