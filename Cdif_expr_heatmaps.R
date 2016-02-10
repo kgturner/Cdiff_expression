@@ -23,7 +23,7 @@ library("RColorBrewer")
 library("gplots")
 
 
-####scaled last time point, control, sig int only####
+####Fig S2. scaled last time point, control, sig int only####
 intM2 <- as.matrix(t(subset(PC1q_intsigdf, Trt=="control"&Tmpt==2,select=c(15:241))))
 intdes2 <- subset(PC1q_intsigdf, Trt=="control"&Tmpt==2,select=c(1:14))
 # intdes2$OriginTrt <- as.factor(paste0(intdes2$Origin, "_", intdes2$Trt))
@@ -40,9 +40,9 @@ exprs(inteset2_sc)<- t(scale(t( exprs(inteset2_sc) )))
 cols<-as.character(as.integer(intdes2$Origin))
 
 my_palette <- colorRampPalette(c("royalblue", "black", "gold"))(n = 299)
-col_breaks = c(seq(-2.5,-1,length=100), # for red
+col_breaks = c(seq(-2.5,-1.001,length=100), # for red
                seq(-1,1,length=100), # for yellow
-               seq(1,2.5,length=100)) # for green
+               seq(1.001,2.5,length=100)) # for green
 
 # by.cols<-c("blue", "#0000DD",  "#0000BB", "#000099", "#000077","#000055",
 #            "#000033", "black", "#333300","#555500", "#777700","#999900", "#BBBB00","#DDDD00", "yellow")
@@ -63,12 +63,13 @@ heatmap.2(exprs(inteset2_sc), trace="none", ColSideColors = cols,
 #           symm=TRUE, cexRow = 0.6,
           cexCol = 1.2, key = TRUE, keysize=1,labRow=NA,
 #           lwid=c(1,15), lhei=c(1,4),
-          labCol=intdes2$PopTrtPool)
+          labCol=intdes2$PopTrtPool,
+          density.info='none')
 #           main = "Genes with significant Origin*Treatment effect \ncontrol, final time point")
 dev.off()
 
 
-####scaled last time point, drought, sig int only####
+####Fig S1. scaled last time point, drought, sig int only####
 intM2 <- as.matrix(t(subset(PC1q_intsigdf, Trt=="drought"&Tmpt==2,select=c(15:241))))
 intdes2 <- subset(PC1q_intsigdf, Trt=="drought"&Tmpt==2,select=c(1:14))
 # intdes2$OriginTrt <- as.factor(paste0(intdes2$Origin, "_", intdes2$Trt))
@@ -85,9 +86,9 @@ exprs(inteset2_sc)<- t(scale(t( exprs(inteset2_sc) )))
 cols<-as.character(as.integer(intdes2$Origin))
 
 my_palette <- colorRampPalette(c("royalblue", "black", "gold"))(n = 299)
-col_breaks = c(seq(-2.5,-1,length=100), # for red
+col_breaks = c(seq(-2.5,-1.001,length=100), # for red
                seq(-1,1,length=100), # for yellow
-               seq(1,2.5,length=100)) # for green
+               seq(1.001,2.5,length=100)) # for green
 
 
 # by.cols<-c("blue", "#0000DD",  "#0000BB", "#000099", "#000077","#000055",
@@ -109,7 +110,8 @@ heatmap.2(exprs(inteset2_sc), trace="none", ColSideColors = cols,
 #           symm=TRUE, cexRow = 0.6,
           cexCol = 1.2, key = TRUE, keysize=1,labRow=NA,
 #           lwid=c(1,15), lhei=c(1,4),
-          labCol=intdes2$PopTrtPool)
+          labCol=intdes2$PopTrtPool,
+          density.info='none')
 #           main = "Genes with significant Origin*Treatmentt effect \ndrought, final time point")
 dev.off()
 
