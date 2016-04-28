@@ -48,7 +48,7 @@ pTradeTol <- ggplot(dat_incrTol,aes(x=StressTolerance, y=ControlSize)) +
   theme_bw()+
   theme(axis.ticks = element_blank(), axis.text = element_blank())+
   xlab("Breadth of environmental tolerance") + 
-  ylab("Magnitude of expression response to drought") +
+  ylab("Magnitude of response to drought") +
 #   annotate(geom="text", x=1.5, y=2.4, label="(b)",fontface="bold", size=3)+
   theme(legend.justification=c(0.95,0.95), legend.position=c(1,1),
                 legend.title = element_text(size=12, face="bold"),
@@ -65,8 +65,8 @@ pCurve <- ggplot(data = dat_incrTol, mapping = aes(x=StressTolerance, y=ControlS
 pCurve
 
 ####figure####
-png("Cdifexpr_Fig4.png",width=400, height = 400, pointsize = 16)
-# pdf("Cdifexpr_Fig4.pdf", useDingbats=FALSE, width=4.4, height=4.4, pointsize = 16) #MolEcol sizes 3.149, 4.4 or 6.65
+# png("Cdifexpr_Fig4.png",width=400, height = 400, pointsize = 16)
+pdf("Cdifexpr_Fig4.pdf", useDingbats=FALSE, width=3.3, height=3.3, pointsize = 16) #MolEcol sizes 3.149, 4.4 or 6.65; Biol Inv 1.53, 3.3, 5.05, 6.85
 
 pTradeTol
 dev.off()
