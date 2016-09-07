@@ -1,6 +1,0 @@
-"GO.ID"	"Term"	"Annotated"	"Significant"	"Expected"	"parentchild"
-"1"	"GO:0043167"	"ion binding"	10853	25	11.31	"2.2e-05"
-"2"	"GO:0003824"	"catalytic activity"	26187	40	27.28	"0.00068"
-"3"	"GO:0008453"	"alanine-glyoxylate transaminase activity"	22	3	0.02	"0.00151"
-"4"	"GO:0016769"	"transferase activity, transferring nitro..."	185	3	0.19	"0.00450"
-"5"	"GO:0030170"	"pyridoxal phosphate binding"	99	2	0.1	"0.00817"

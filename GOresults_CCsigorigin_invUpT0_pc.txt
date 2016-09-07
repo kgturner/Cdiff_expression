@@ -1,6 +1,0 @@
-"GO.ID"	"Term"	"Annotated"	"Significant"	"Expected"	"parentchild"
-"1"	"GO:0009654"	"photosystem II oxygen evolving complex"	113	5	0.36	"1.4e-05"
-"2"	"GO:0030095"	"chloroplast photosystem II"	154	5	0.49	"0.00073"
-"3"	"GO:0009521"	"photosystem"	792	8	2.52	"0.00233"
-"4"	"GO:1990204"	"oxidoreductase complex"	602	7	1.91	"0.00312"
-"5"	"GO:0009536"	"plastid"	14962	66	47.53	"0.00776"

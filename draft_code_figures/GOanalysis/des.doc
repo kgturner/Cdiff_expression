@@ -1,0 +1,11 @@
+join -j1 -j1 <(awk '{print $2"\t"$1"\t"$3}' sorted.out.ath_spruce_all_sequences_with_probes.fasta | sort -k1,1) <(sort -k1,1 /data/databases/TAIR10_functional_descriptions) >     sorted.out.ath_spruce_all_sequences_with_probes_des.txt
+
+join -j1 -j1 <(awk '{print $2"\t"$1"\t"$3}' sorted.out.ath_pine_all_sequences_with_probes.fasta | sort -k1,1) <(sort -k1,1 /data/databases/TAIR10_functi    onal_descriptions) >     sorted.out.ath_pine_all_sequences_with_probes_des.txt
+
+join -j1 -j1 <(awk '{print $2"\t"$1"\t"$3}' out.ath_Spruce_reference_16_2.fa | sort -k1,1) <(sort -k1,1 /data/databases/TAIR10_functional_descriptions) > out.ath_Spruce_reference_16_2.fa_des.txt
+
+join -j1 -j1 <(awk '{print $2"\t"$1"\t"$3}' unique.sorted.out.ath_Spruce_reference_16_2.fa | sort -k1,1) <(sort -k1,1 /data/databases/TAIR10_functional_descriptions) >     unique.sorted.out.ath_Spruce_reference_16_2.fa_des.txt
+
+join -j1 -j1 <(awk '{print $2"\t"$1"\t"$3}' unique.sorted.out.ath_sequences.transcripts_spruce.txt | sort -k1,1) <(sort -k1,1 /data/databases/TAIR10_functional_descriptions) > unique.sorted.out.ath_sequences.transcripts_spruce_des.txt
+
+join -j1 -j1 <(awk '{print $2"\t"$1"\t"$3}' unique.sorted.out.ath_sequences.transcripts_pine.txt | sort -k1,1) <(sort -k1,1 /data/databases/TAIR10_functional_descriptions) > unique.sorted.out.ath_sequences.transcripts_pine_des.txt

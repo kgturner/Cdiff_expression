@@ -1,0 +1,4 @@
+"GO.ID"	"Term"	"Annotated"	"Significant"	"Expected"	"parentchild"
+"1"	"GO:0031978"	"plastid thylakoid lumen"	524	4	0.49	"0.0024"
+"2"	"GO:0009543"	"chloroplast thylakoid lumen"	524	4	0.49	"0.0025"
+"3"	"GO:0044436"	"thylakoid part"	3336	9	3.1	"0.0060"

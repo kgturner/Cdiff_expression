@@ -1,0 +1,61 @@
+Pop	Origin	Group	ControlSize	StressTolerance
+N1	Native	Native	1	1
+N2	Native	Native	1	1
+N3	Native	Native	1	1
+N4	Native	Native	1	1
+N5	Native	Native	1	1
+N6	Native	Native	1	1
+N7	Native	Native	1	1
+N8	Native	Native	1	1
+N9	Native	Native	1	1
+N10	Native	Native	1	1
+N11	Native	Native	1	1
+N12	Native	Native	1	1
+N13	Native	Native	1	1
+N14	Native	Native	1	1
+N15	Native	Native	1	1
+N16	Native	Native	1	1
+N17	Native	Native	1	1
+N18	Native	Native	1	1
+N19	Native	Native	1	1
+N20	Native	Native	1	1
+IA1	Invasive	Invasive A	1	1
+IA2	Invasive	Invasive A	1	1
+IA3	Invasive	Invasive A	1	1
+IA4	Invasive	Invasive A	1	1
+IA5	Invasive	Invasive A	1	1
+IA6	Invasive	Invasive A	1	1
+IA7	Invasive	Invasive A	1	1
+IA8	Invasive	Invasive A	1	1
+IA9	Invasive	Invasive A	1	1
+IA10	Invasive	Invasive A	1	1
+IA11	Invasive	Invasive A	1	1
+IA12	Invasive	Invasive A	1	1
+IA13	Invasive	Invasive A	1	1
+IA14	Invasive	Invasive A	1	1
+IA15	Invasive	Invasive A	1	1
+IA16	Invasive	Invasive A	1	1
+IA17	Invasive	Invasive A	1	1
+IA18	Invasive	Invasive A	1	1
+IA19	Invasive	Invasive A	1	1
+IA20	Invasive	Invasive A	1	1
+IB1	Invasive	Invasive B	1	1
+IB2	Invasive	Invasive B	1	1
+IB3	Invasive	Invasive B	1	1
+IB4	Invasive	Invasive B	1	1
+IB5	Invasive	Invasive B	1	1
+IB6	Invasive	Invasive B	1	1
+IB7	Invasive	Invasive B	1	1
+IB8	Invasive	Invasive B	1	1
+IB9	Invasive	Invasive B	1	1
+IB10	Invasive	Invasive B	1	1
+IB11	Invasive	Invasive B	1	1
+IB12	Invasive	Invasive B	1	1
+IB13	Invasive	Invasive B	1	1
+IB14	Invasive	Invasive B	1	1
+IB15	Invasive	Invasive B	1	1
+IB16	Invasive	Invasive B	1	1
+IB17	Invasive	Invasive B	1	1
+IB18	Invasive	Invasive B	1	1
+IB19	Invasive	Invasive B	1	1
+IB20	Invasive	Invasive B	1	1

@@ -1,0 +1,6 @@
+"GO.ID"	"Term"	"Annotated"	"Significant"	"Expected"	"parentchild"
+"1"	"GO:0030095"	"chloroplast photosystem II"	99	6	0.99	"0.00054"
+"2"	"GO:0009654"	"photosystem II oxygen evolving complex"	77	5	0.77	"0.00112"
+"3"	"GO:0009521"	"photosystem"	451	11	4.52	"0.00326"
+"4"	"GO:0000315"	"organellar large ribosomal subunit"	45	3	0.45	"0.00484"
+"5"	"GO:0000311"	"plastid large ribosomal subunit"	42	3	0.42	"0.00926"

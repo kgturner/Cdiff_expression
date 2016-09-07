@@ -1,7 +1,0 @@
-"GO.ID"	"Term"	"Annotated"	"Significant"	"Expected"	"parentchild"
-"1"	"GO:0008453"	"alanine-glyoxylate transaminase activity"	22	3	0.03	"0.0015"
-"2"	"GO:1901363"	"heterocyclic compound binding"	12238	25	14.05	"0.0028"
-"3"	"GO:0097159"	"organic cyclic compound binding"	12282	25	14.1	"0.0030"
-"4"	"GO:0016769"	"transferase activity, transferring nitro..."	185	3	0.21	"0.0031"
-"5"	"GO:0003723"	"RNA binding"	2210	7	2.54	"0.0052"
-"6"	"GO:0043167"	"ion binding"	10853	22	12.46	"0.0091"

@@ -1,4 +1,0 @@
-"GO.ID"	"Term"	"Annotated"	"Significant"	"Expected"	"parentchild"
-"1"	"GO:0008453"	"alanine-glyoxylate transaminase activity"	22	3	0.02	"0.0015"
-"2"	"GO:0016769"	"transferase activity, transferring nitro..."	185	3	0.17	"0.0020"
-"3"	"GO:0003723"	"RNA binding"	2210	6	2.07	"0.0026"

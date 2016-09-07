@@ -1,0 +1,17099 @@
+AT1G01020 ortho_group3389_cds ER
+AT1G01020 ortho_group3389_cds other cellular processes
+AT1G01020 ortho_group3389_cds other membranes
+AT1G01020 ortho_group3389_cds other metabolic processes
+AT1G01020 ortho_group3389_cds unknown molecular functions
+AT1G01050 ortho_group3392_cds cytosol
+AT1G01050 ortho_group3392_cds hydrolase activity
+AT1G01050 ortho_group3392_cds nucleus
+AT1G01050 ortho_group3392_cds other cellular processes
+AT1G01050 ortho_group3392_cds other cytoplasmic components
+AT1G01050 ortho_group3392_cds other membranes
+AT1G01050 ortho_group3392_cds other metabolic processes
+AT1G01140 ortho_group4195_cds kinase activity
+AT1G01140 ortho_group4195_cds nucleotide binding
+AT1G01140 ortho_group4195_cds other biological processes
+AT1G01140 ortho_group4195_cds other cellular processes
+AT1G01140 ortho_group4195_cds response to abiotic or biotic stimulus
+AT1G01140 ortho_group4195_cds response to stress
+AT1G01140 ortho_group4195_cds transferase activity
+AT1G01140 ortho_group4195_cds transport
+AT1G01470 ortho_group3276_cds cytosol
+AT1G01470 ortho_group3276_cds developmental processes
+AT1G01470 ortho_group3276_cds response to abiotic or biotic stimulus
+AT1G01470 ortho_group3276_cds response to stress
+AT1G01470 ortho_group3276_cds unknown molecular functions
+AT1G01490 ortho_group3819_cds other binding
+AT1G01490 ortho_group3819_cds transport
+AT1G01490 ortho_group3819_cds unknown cellular components
+AT1G01520 ortho_group3310_cds DNA or RNA binding
+AT1G01520 ortho_group3310_cds other cellular processes
+AT1G01520 ortho_group3310_cds other metabolic processes
+AT1G01520 ortho_group3310_cds response to abiotic or biotic stimulus
+AT1G01520 ortho_group3310_cds response to stress
+AT1G01520 ortho_group3310_cds transcription factor activity
+AT1G01540 ortho_group2971_cds kinase activity
+AT1G01540 ortho_group2971_cds other cellular processes
+AT1G01540 ortho_group2971_cds other metabolic processes
+AT1G01540 ortho_group2971_cds plasma membrane
+AT1G01540 ortho_group2971_cds protein metabolism
+AT1G01540 ortho_group2971_cds transferase activity
+AT1G01560 ortho_group3838_cds cytosol
+AT1G01560 ortho_group3838_cds kinase activity
+AT1G01560 ortho_group3838_cds other biological processes
+AT1G01560 ortho_group3838_cds protein binding
+AT1G01560 ortho_group3838_cds signal transduction
+AT1G01560 ortho_group3838_cds transferase activity
+AT1G01620 ortho_group3316_cds chloroplast
+AT1G01620 ortho_group3316_cds other membranes
+AT1G01620 ortho_group3316_cds plasma membrane
+AT1G01620 ortho_group3316_cds protein binding
+AT1G01620 ortho_group3316_cds response to abiotic or biotic stimulus
+AT1G01620 ortho_group3316_cds response to stress
+AT1G01620 ortho_group3316_cds transport
+AT1G01620 ortho_group3316_cds transporter activity
+AT1G01630 ortho_group5520_cds transport
+AT1G01630 ortho_group5520_cds transporter activity
+AT1G01630 ortho_group5520_cds unknown cellular components
+AT1G01780 ortho_group3886_cds cell organization and biogenesis
+AT1G01780 ortho_group3886_cds other cellular processes
+AT1G01780 ortho_group3886_cds other intracellular components
+AT1G01780 ortho_group3886_cds protein binding
+AT1G01790 ortho_group3463_cds chloroplast
+AT1G01790 ortho_group3463_cds other cellular processes
+AT1G01790 ortho_group3463_cds other cytoplasmic components
+AT1G01790 ortho_group3463_cds other intracellular components
+AT1G01790 ortho_group3463_cds other metabolic processes
+AT1G01790 ortho_group3463_cds plastid
+AT1G01790 ortho_group3463_cds transport
+AT1G01790 ortho_group3463_cds transporter activity
+AT1G01910 ortho_group3790_cds nucleotide binding
+AT1G01910 ortho_group3790_cds other cellular processes
+AT1G01910 ortho_group3790_cds other membranes
+AT1G01910 ortho_group3790_cds protein binding
+AT1G01910 ortho_group3790_cds transport
+AT1G01940 ortho_group4674_cds other cellular processes
+AT1G01940 ortho_group4674_cds other enzyme activity
+AT1G01940 ortho_group4674_cds other metabolic processes
+AT1G01940 ortho_group4674_cds protein metabolism
+AT1G01940 ortho_group4674_cds unknown cellular components
+AT1G02130 ortho_group3294_cds Golgi apparatus
+AT1G02130 ortho_group3294_cds nucleotide binding
+AT1G02130 ortho_group3294_cds other biological processes
+AT1G02130 ortho_group3294_cds other cellular processes
+AT1G02130 ortho_group3294_cds other cytoplasmic components
+AT1G02130 ortho_group3294_cds other intracellular components
+AT1G02130 ortho_group3294_cds other membranes
+AT1G02130 ortho_group3294_cds plasma membrane
+AT1G02130 ortho_group3294_cds transport
+AT1G02140 ortho_group5142_cds chloroplast
+AT1G02140 ortho_group5142_cds developmental processes
+AT1G02140 ortho_group5142_cds nucleus
+AT1G02140 ortho_group5142_cds other biological processes
+AT1G02140 ortho_group5142_cds other intracellular components
+AT1G02140 ortho_group5142_cds protein binding
+AT1G02150 ortho_group2693_cds chloroplast
+AT1G02150 ortho_group2693_cds other binding
+AT1G02180 ortho_group2663_cds unknown biological processes
+AT1G02180 ortho_group2663_cds unknown molecular functions
+AT1G02205 ortho_group2782_cds developmental processes
+AT1G02205 ortho_group2782_cds ER
+AT1G02205 ortho_group2782_cds other cellular components
+AT1G02205 ortho_group2782_cds other cellular processes
+AT1G02205 ortho_group2782_cds other enzyme activity
+AT1G02205 ortho_group2782_cds other metabolic processes
+AT1G02205 ortho_group2782_cds response to abiotic or biotic stimulus
+AT1G02205 ortho_group2782_cds response to stress
+AT1G02330 ortho_group3211_cds unknown biological processes
+AT1G02330 ortho_group3211_cds unknown molecular functions
+AT1G02410 ortho_group2901_cds other binding
+AT1G02410 ortho_group2901_cds unknown biological processes
+AT1G02560 ortho_group3280_cds chloroplast
+AT1G02560 ortho_group3280_cds hydrolase activity
+AT1G02560 ortho_group3280_cds other cellular processes
+AT1G02560 ortho_group3280_cds other cytoplasmic components
+AT1G02560 ortho_group3280_cds other intracellular components
+AT1G02560 ortho_group3280_cds other metabolic processes
+AT1G02560 ortho_group3280_cds plastid
+AT1G02560 ortho_group3280_cds protein metabolism
+AT1G02680 ortho_group4308_cds DNA or RNA binding
+AT1G02680 ortho_group4308_cds nucleus
+AT1G02680 ortho_group4308_cds other cellular processes
+AT1G02680 ortho_group4308_cds other intracellular components
+AT1G02680 ortho_group4308_cds other metabolic processes
+AT1G02780 ortho_group4064_cds cytosol
+AT1G02780 ortho_group4064_cds developmental processes
+AT1G02780 ortho_group4064_cds nucleus
+AT1G02780 ortho_group4064_cds other cellular components
+AT1G02780 ortho_group4064_cds other cellular processes
+AT1G02780 ortho_group4064_cds other cytoplasmic components
+AT1G02780 ortho_group4064_cds other intracellular components
+AT1G02780 ortho_group4064_cds other membranes
+AT1G02780 ortho_group4064_cds other metabolic processes
+AT1G02780 ortho_group4064_cds plasma membrane
+AT1G02780 ortho_group4064_cds protein metabolism
+AT1G02780 ortho_group4064_cds ribosome
+AT1G02780 ortho_group4064_cds structural molecule activity
+AT1G02870 ortho_group5264_cds unknown biological processes
+AT1G02870 ortho_group5264_cds unknown molecular functions
+AT1G02880 ortho_group4329_cds cytosol
+AT1G02880 ortho_group4329_cds other cellular processes
+AT1G02880 ortho_group4329_cds other metabolic processes
+AT1G02880 ortho_group4329_cds transferase activity
+AT1G02890 ortho_group3684_cds hydrolase activity
+AT1G02890 ortho_group3684_cds nucleotide binding
+AT1G02900 ortho_group4577_cds extracellular
+AT1G02900 ortho_group4577_cds other cellular processes
+AT1G02900 ortho_group4577_cds other molecular functions
+AT1G02900 ortho_group4577_cds signal transduction
+AT1G03020 ortho_group4960_cds other cellular processes
+AT1G03020 ortho_group4960_cds other enzyme activity
+AT1G03020 ortho_group4960_cds other molecular functions
+AT1G03020 ortho_group4960_cds unknown cellular components
+AT1G03030 ortho_group2632_cds chloroplast
+AT1G03030 ortho_group2632_cds kinase activity
+AT1G03030 ortho_group2632_cds nucleotide binding
+AT1G03030 ortho_group2632_cds other metabolic processes
+AT1G03030 ortho_group2632_cds transferase activity
+AT1G03210 ortho_group4434_cds other enzyme activity
+AT1G03210 ortho_group4434_cds other metabolic processes
+AT1G03250 ortho_group4090_cds unknown biological processes
+AT1G03250 ortho_group4090_cds unknown molecular functions
+AT1G03260 ortho_group2712_cds cytosol
+AT1G03290 ortho_group5336_cds unknown biological processes
+AT1G03290 ortho_group5336_cds unknown cellular components
+AT1G03290 ortho_group5336_cds unknown molecular functions
+AT1G03330 ortho_group5311_cds cytosol
+AT1G03330 ortho_group5311_cds nucleus
+AT1G03330 ortho_group5311_cds other intracellular components
+AT1G03330 ortho_group5311_cds unknown molecular functions
+AT1G03370 ortho_group2575_cds unknown biological processes
+AT1G03470 ortho_group3692_cds unknown biological processes
+AT1G03470 ortho_group3692_cds unknown cellular components
+AT1G03470 ortho_group3692_cds unknown molecular functions
+AT1G03475 ortho_group5181_cds chloroplast
+AT1G03475 ortho_group5181_cds extracellular
+AT1G03475 ortho_group5181_cds other cellular processes
+AT1G03475 ortho_group5181_cds other cytoplasmic components
+AT1G03475 ortho_group5181_cds other enzyme activity
+AT1G03475 ortho_group5181_cds other intracellular components
+AT1G03475 ortho_group5181_cds other metabolic processes
+AT1G03475 ortho_group5181_cds plastid
+AT1G03520 ortho_group4874_cds other membranes
+AT1G03520 ortho_group4874_cds other metabolic processes
+AT1G03520 ortho_group4874_cds transferase activity
+AT1G03620 ortho_group5376_cds cell organization and biogenesis
+AT1G03620 ortho_group5376_cds other cellular processes
+AT1G03620 ortho_group5376_cds transport
+AT1G03620 ortho_group5376_cds unknown molecular functions
+AT1G03650 ortho_group2698_cds other metabolic processes
+AT1G03650 ortho_group2698_cds transferase activity
+AT1G03650 ortho_group2698_cds unknown cellular components
+AT1G03860 ortho_group5069_cds cell wall
+AT1G03860 ortho_group5069_cds chloroplast
+AT1G03860 ortho_group5069_cds mitochondria
+AT1G03860 ortho_group5069_cds other cytoplasmic components
+AT1G03860 ortho_group5069_cds other intracellular components
+AT1G03860 ortho_group5069_cds other membranes
+AT1G03860 ortho_group5069_cds plastid
+AT1G03860 ortho_group5069_cds unknown biological processes
+AT1G03905 ortho_group5203_cds hydrolase activity
+AT1G03905 ortho_group5203_cds nucleotide binding
+AT1G03920 ortho_group5444_cds cytosol
+AT1G03920 ortho_group5444_cds kinase activity
+AT1G03920 ortho_group5444_cds other cellular processes
+AT1G03920 ortho_group5444_cds other metabolic processes
+AT1G03920 ortho_group5444_cds plasma membrane
+AT1G03920 ortho_group5444_cds protein metabolism
+AT1G03950 ortho_group4810_cds other cellular processes
+AT1G03950 ortho_group4810_cds other cytoplasmic components
+AT1G03950 ortho_group4810_cds other intracellular components
+AT1G03950 ortho_group4810_cds other membranes
+AT1G03950 ortho_group4810_cds transport
+AT1G04290 ortho_group4894_cds hydrolase activity
+AT1G04290 ortho_group4894_cds other cytoplasmic components
+AT1G04290 ortho_group4894_cds other intracellular components
+AT1G04290 ortho_group4894_cds unknown biological processes
+AT1G04340 ortho_group4607_cds unknown biological processes
+AT1G04340 ortho_group4607_cds unknown molecular functions
+AT1G04400 ortho_group5377_cds cell organization and biogenesis
+AT1G04400 ortho_group5377_cds developmental processes
+AT1G04400 ortho_group5377_cds nucleus
+AT1G04400 ortho_group5377_cds other cellular processes
+AT1G04400 ortho_group5377_cds other cytoplasmic components
+AT1G04400 ortho_group5377_cds other intracellular components
+AT1G04400 ortho_group5377_cds protein binding
+AT1G04400 ortho_group5377_cds receptor binding or activity
+AT1G04400 ortho_group5377_cds response to abiotic or biotic stimulus
+AT1G04400 ortho_group5377_cds response to stress
+AT1G04500 ortho_group4122_cds unknown biological processes
+AT1G04500 ortho_group4122_cds unknown molecular functions
+AT1G04520 ortho_group5285_cds other biological processes
+AT1G04520 ortho_group5285_cds other cellular components
+AT1G04520 ortho_group5285_cds other cellular processes
+AT1G04520 ortho_group5285_cds other metabolic processes
+AT1G04520 ortho_group5285_cds protein metabolism
+AT1G04520 ortho_group5285_cds transport
+AT1G04520 ortho_group5285_cds unknown molecular functions
+AT1G04590 ortho_group5279_cds unknown molecular functions
+AT1G04640 ortho_group3629_cds mitochondria
+AT1G04640 ortho_group3629_cds other cellular processes
+AT1G04640 ortho_group3629_cds other metabolic processes
+AT1G04640 ortho_group3629_cds protein metabolism
+AT1G04640 ortho_group3629_cds transferase activity
+AT1G04690 ortho_group4759_cds other cellular components
+AT1G04690 ortho_group4759_cds other cellular processes
+AT1G04690 ortho_group4759_cds other enzyme activity
+AT1G04690 ortho_group4759_cds other membranes
+AT1G04690 ortho_group4759_cds other metabolic processes
+AT1G04690 ortho_group4759_cds plasma membrane
+AT1G04690 ortho_group4759_cds transport
+AT1G04690 ortho_group4759_cds transporter activity
+AT1G04850 ortho_group3107_cds cytosol
+AT1G04850 ortho_group3107_cds other binding
+AT1G04850 ortho_group3107_cds unknown biological processes
+AT1G04940 ortho_group2637_cds chloroplast
+AT1G04940 ortho_group2637_cds other cellular processes
+AT1G04940 ortho_group2637_cds other cytoplasmic components
+AT1G04940 ortho_group2637_cds other intracellular components
+AT1G04940 ortho_group2637_cds other membranes
+AT1G04940 ortho_group2637_cds plastid
+AT1G04940 ortho_group2637_cds transport
+AT1G04945 ortho_group2637_cds other membranes
+AT1G04945 ortho_group2637_cds unknown biological processes
+AT1G04945 ortho_group2637_cds unknown molecular functions
+AT1G04960 ortho_group4045_cds other cellular components
+AT1G04960 ortho_group4045_cds unknown biological processes
+AT1G04960 ortho_group4045_cds unknown molecular functions
+AT1G05000 ortho_group4848_cds hydrolase activity
+AT1G05000 ortho_group4848_cds other cellular processes
+AT1G05000 ortho_group4848_cds other metabolic processes
+AT1G05000 ortho_group4848_cds unknown cellular components
+AT1G05010 ortho_group3763_cds other cellular processes
+AT1G05010 ortho_group3763_cds other enzyme activity
+AT1G05010 ortho_group3763_cds other metabolic processes
+AT1G05010 ortho_group3763_cds response to abiotic or biotic stimulus
+AT1G05160 ortho_group4029_cds ER
+AT1G05160 ortho_group4029_cds other binding
+AT1G05160 ortho_group4029_cds other cellular processes
+AT1G05160 ortho_group4029_cds other enzyme activity
+AT1G05160 ortho_group4029_cds other metabolic processes
+AT1G05170 ortho_group5359_cds other cellular components
+AT1G05170 ortho_group5359_cds other cellular processes
+AT1G05170 ortho_group5359_cds other membranes
+AT1G05170 ortho_group5359_cds other metabolic processes
+AT1G05170 ortho_group5359_cds protein metabolism
+AT1G05170 ortho_group5359_cds transferase activity
+AT1G05180 ortho_group3047_cds cytosol
+AT1G05180 ortho_group3047_cds developmental processes
+AT1G05180 ortho_group3047_cds DNA or RNA metabolism
+AT1G05180 ortho_group3047_cds nucleus
+AT1G05180 ortho_group3047_cds other biological processes
+AT1G05180 ortho_group3047_cds other cellular processes
+AT1G05180 ortho_group3047_cds other enzyme activity
+AT1G05180 ortho_group3047_cds other metabolic processes
+AT1G05180 ortho_group3047_cds protein metabolism
+AT1G05180 ortho_group3047_cds response to abiotic or biotic stimulus
+AT1G05180 ortho_group3047_cds response to stress
+AT1G05180 ortho_group3047_cds signal transduction
+AT1G05350 ortho_group5363_cds cytosol
+AT1G05350 ortho_group5363_cds other binding
+AT1G05350 ortho_group5363_cds other enzyme activity
+AT1G05350 ortho_group5363_cds other metabolic processes
+AT1G05380 ortho_group3624_cds DNA or RNA binding
+AT1G05380 ortho_group3624_cds nucleus
+AT1G05380 ortho_group3624_cds other cellular processes
+AT1G05380 ortho_group3624_cds other metabolic processes
+AT1G05385 ortho_group3143_cds cell organization and biogenesis
+AT1G05385 ortho_group3143_cds chloroplast
+AT1G05385 ortho_group3143_cds electron transport or energy pathways
+AT1G05385 ortho_group3143_cds other cellular processes
+AT1G05385 ortho_group3143_cds other cytoplasmic components
+AT1G05385 ortho_group3143_cds other intracellular components
+AT1G05385 ortho_group3143_cds other metabolic processes
+AT1G05385 ortho_group3143_cds plastid
+AT1G05385 ortho_group3143_cds unknown molecular functions
+AT1G05500 ortho_group4684_cds other cellular components
+AT1G05500 ortho_group4684_cds plasma membrane
+AT1G05500 ortho_group4684_cds unknown biological processes
+AT1G05500 ortho_group4684_cds unknown molecular functions
+AT1G05570 ortho_group5494_cds other cellular components
+AT1G05570 ortho_group5494_cds other cellular processes
+AT1G05570 ortho_group5494_cds other cytoplasmic components
+AT1G05570 ortho_group5494_cds other intracellular components
+AT1G05570 ortho_group5494_cds other membranes
+AT1G05570 ortho_group5494_cds other metabolic processes
+AT1G05570 ortho_group5494_cds plasma membrane
+AT1G05570 ortho_group5494_cds transferase activity
+AT1G05620 ortho_group5481_cds cytosol
+AT1G05620 ortho_group5481_cds developmental processes
+AT1G05620 ortho_group5481_cds hydrolase activity
+AT1G05620 ortho_group5481_cds other cellular processes
+AT1G05620 ortho_group5481_cds other metabolic processes
+AT1G05620 ortho_group5481_cds transferase activity
+AT1G05720 ortho_group4871_cds other binding
+AT1G05720 ortho_group4871_cds other cellular components
+AT1G05720 ortho_group4871_cds unknown biological processes
+AT1G05730 ortho_group3090_cds unknown biological processes
+AT1G05730 ortho_group3090_cds unknown cellular components
+AT1G05730 ortho_group3090_cds unknown molecular functions
+AT1G05830 ortho_group4129_cds cell organization and biogenesis
+AT1G05830 ortho_group4129_cds DNA or RNA binding
+AT1G05830 ortho_group4129_cds nucleus
+AT1G05830 ortho_group4129_cds other cellular processes
+AT1G05830 ortho_group4129_cds other metabolic processes
+AT1G05830 ortho_group4129_cds protein metabolism
+AT1G05830 ortho_group4129_cds transferase activity
+AT1G05840 ortho_group4380_cds hydrolase activity
+AT1G05840 ortho_group4380_cds other membranes
+AT1G05840 ortho_group4380_cds protein metabolism
+AT1G05870 ortho_group3576_cds other cellular processes
+AT1G05870 ortho_group3576_cds other metabolic processes
+AT1G05870 ortho_group3576_cds protein metabolism
+AT1G05870 ortho_group3576_cds unknown cellular components
+AT1G05870 ortho_group3576_cds unknown molecular functions
+AT1G05960 ortho_group4104_cds other binding
+AT1G05960 ortho_group4104_cds plasma membrane
+AT1G05960 ortho_group4104_cds unknown biological processes
+AT1G06180 ortho_group4524_cds DNA or RNA binding
+AT1G06180 ortho_group4524_cds other biological processes
+AT1G06180 ortho_group4524_cds other cellular processes
+AT1G06180 ortho_group4524_cds other metabolic processes
+AT1G06180 ortho_group4524_cds response to abiotic or biotic stimulus
+AT1G06180 ortho_group4524_cds response to stress
+AT1G06180 ortho_group4524_cds transcription factor activity
+AT1G06550 ortho_group4358_cds hydrolase activity
+AT1G06550 ortho_group4358_cds other cellular processes
+AT1G06550 ortho_group4358_cds other enzyme activity
+AT1G06550 ortho_group4358_cds other metabolic processes
+AT1G06550 ortho_group4358_cds response to abiotic or biotic stimulus
+AT1G06550 ortho_group4358_cds unknown cellular components
+AT1G06620 ortho_group3580_cds other enzyme activity
+AT1G06620 ortho_group3580_cds unknown biological processes
+AT1G06620 ortho_group3580_cds unknown cellular components
+AT1G06680 ortho_group4317_cds chloroplast
+AT1G06680 ortho_group4317_cds DNA or RNA binding
+AT1G06680 ortho_group4317_cds electron transport or energy pathways
+AT1G06680 ortho_group4317_cds extracellular
+AT1G06680 ortho_group4317_cds other cellular processes
+AT1G06680 ortho_group4317_cds other cytoplasmic components
+AT1G06680 ortho_group4317_cds other intracellular components
+AT1G06680 ortho_group4317_cds other membranes
+AT1G06680 ortho_group4317_cds other metabolic processes
+AT1G06680 ortho_group4317_cds plastid
+AT1G06680 ortho_group4317_cds response to abiotic or biotic stimulus
+AT1G06680 ortho_group4317_cds response to stress
+AT1G06760 ortho_group3430_cds cell organization and biogenesis
+AT1G06760 ortho_group3430_cds DNA or RNA binding
+AT1G06760 ortho_group3430_cds DNA or RNA metabolism
+AT1G06760 ortho_group3430_cds nucleus
+AT1G06760 ortho_group3430_cds other cellular processes
+AT1G06760 ortho_group3430_cds other intracellular components
+AT1G06790 ortho_group5312_cds other cellular processes
+AT1G06790 ortho_group5312_cds other metabolic processes
+AT1G06790 ortho_group5312_cds transferase activity
+AT1G06790 ortho_group5312_cds unknown cellular components
+AT1G06850 ortho_group2708_cds DNA or RNA binding
+AT1G06850 ortho_group2708_cds other cellular processes
+AT1G06850 ortho_group2708_cds other metabolic processes
+AT1G06850 ortho_group2708_cds transcription factor activity
+AT1G07010 ortho_group5546_cds hydrolase activity
+AT1G07010 ortho_group5546_cds other cytoplasmic components
+AT1G07010 ortho_group5546_cds other intracellular components
+AT1G07010 ortho_group5546_cds unknown biological processes
+AT1G07050 ortho_group3785_cds unknown biological processes
+AT1G07050 ortho_group3785_cds unknown cellular components
+AT1G07050 ortho_group3785_cds unknown molecular functions
+AT1G07070 ortho_group2823_cds cytosol
+AT1G07070 ortho_group2823_cds other cellular processes
+AT1G07070 ortho_group2823_cds other cytoplasmic components
+AT1G07070 ortho_group2823_cds other intracellular components
+AT1G07070 ortho_group2823_cds other metabolic processes
+AT1G07070 ortho_group2823_cds protein metabolism
+AT1G07070 ortho_group2823_cds ribosome
+AT1G07070 ortho_group2823_cds structural molecule activity
+AT1G07080 ortho_group5298_cds other cytoplasmic components
+AT1G07080 ortho_group5298_cds other enzyme activity
+AT1G07080 ortho_group5298_cds other intracellular components
+AT1G07080 ortho_group5298_cds unknown biological processes
+AT1G07220 ortho_group5362_cds mitochondria
+AT1G07220 ortho_group5362_cds unknown biological processes
+AT1G07220 ortho_group5362_cds unknown molecular functions
+AT1G07280 ortho_group3720_cds chloroplast
+AT1G07280 ortho_group3720_cds other binding
+AT1G07280 ortho_group3720_cds unknown biological processes
+AT1G07380 ortho_group5038_cds hydrolase activity
+AT1G07380 ortho_group5038_cds other cytoplasmic components
+AT1G07380 ortho_group5038_cds other intracellular components
+AT1G07380 ortho_group5038_cds other membranes
+AT1G07380 ortho_group5038_cds unknown biological processes
+AT1G07410 ortho_group2838_cds hydrolase activity
+AT1G07410 ortho_group2838_cds nucleotide binding
+AT1G07410 ortho_group2838_cds other cellular processes
+AT1G07410 ortho_group2838_cds other cytoplasmic components
+AT1G07410 ortho_group2838_cds other intracellular components
+AT1G07410 ortho_group2838_cds plasma membrane
+AT1G07410 ortho_group2838_cds signal transduction
+AT1G07410 ortho_group2838_cds transport
+AT1G07650 ortho_group3418_cds kinase activity
+AT1G07650 ortho_group3418_cds nucleotide binding
+AT1G07650 ortho_group3418_cds other cellular components
+AT1G07650 ortho_group3418_cds other cellular processes
+AT1G07650 ortho_group3418_cds other metabolic processes
+AT1G07650 ortho_group3418_cds protein metabolism
+AT1G07650 ortho_group3418_cds signal transduction
+AT1G07650 ortho_group3418_cds transferase activity
+AT1G07670 ortho_group3964_cds ER
+AT1G07670 ortho_group3964_cds hydrolase activity
+AT1G07670 ortho_group3964_cds other cellular processes
+AT1G07670 ortho_group3964_cds other metabolic processes
+AT1G07670 ortho_group3964_cds plasma membrane
+AT1G07670 ortho_group3964_cds transport
+AT1G07670 ortho_group3964_cds transporter activity
+AT1G07700 ortho_group3773_cds chloroplast
+AT1G07700 ortho_group3773_cds other cellular processes
+AT1G07700 ortho_group3773_cds other cytoplasmic components
+AT1G07700 ortho_group3773_cds other intracellular components
+AT1G07700 ortho_group3773_cds plastid
+AT1G07710 ortho_group5368_cds unknown biological processes
+AT1G07710 ortho_group5368_cds unknown cellular components
+AT1G07720 ortho_group5071_cds ER
+AT1G07720 ortho_group5071_cds other enzyme activity
+AT1G07720 ortho_group5071_cds response to abiotic or biotic stimulus
+AT1G07720 ortho_group5071_cds response to stress
+AT1G07720 ortho_group5071_cds transferase activity
+AT1G07770 ortho_group5386_cds cell wall
+AT1G07770 ortho_group5386_cds cytosol
+AT1G07770 ortho_group5386_cds other cellular components
+AT1G07770 ortho_group5386_cds other cellular processes
+AT1G07770 ortho_group5386_cds other cytoplasmic components
+AT1G07770 ortho_group5386_cds other intracellular components
+AT1G07770 ortho_group5386_cds other membranes
+AT1G07770 ortho_group5386_cds other metabolic processes
+AT1G07770 ortho_group5386_cds plasma membrane
+AT1G07770 ortho_group5386_cds protein metabolism
+AT1G07770 ortho_group5386_cds ribosome
+AT1G07770 ortho_group5386_cds structural molecule activity
+AT1G07780 ortho_group4899_cds chloroplast
+AT1G07780 ortho_group4899_cds other cellular processes
+AT1G07780 ortho_group4899_cds other enzyme activity
+AT1G07780 ortho_group4899_cds other metabolic processes
+AT1G07810 ortho_group3964_cds ER
+AT1G07810 ortho_group3964_cds hydrolase activity
+AT1G07810 ortho_group3964_cds other biological processes
+AT1G07810 ortho_group3964_cds other cellular processes
+AT1G07810 ortho_group3964_cds other cytoplasmic components
+AT1G07810 ortho_group3964_cds other intracellular components
+AT1G07810 ortho_group3964_cds other membranes
+AT1G07810 ortho_group3964_cds plasma membrane
+AT1G07810 ortho_group3964_cds transport
+AT1G07810 ortho_group3964_cds transporter activity
+AT1G07880 ortho_group3838_cds kinase activity
+AT1G07880 ortho_group3838_cds protein binding
+AT1G07880 ortho_group3838_cds signal transduction
+AT1G07880 ortho_group3838_cds transferase activity
+AT1G07890 ortho_group2707_cds cell wall
+AT1G07890 ortho_group2707_cds chloroplast
+AT1G07890 ortho_group2707_cds cytosol
+AT1G07890 ortho_group2707_cds developmental processes
+AT1G07890 ortho_group2707_cds other biological processes
+AT1G07890 ortho_group2707_cds other cellular components
+AT1G07890 ortho_group2707_cds other cellular processes
+AT1G07890 ortho_group2707_cds other cytoplasmic components
+AT1G07890 ortho_group2707_cds other enzyme activity
+AT1G07890 ortho_group2707_cds other intracellular components
+AT1G07890 ortho_group2707_cds other metabolic processes
+AT1G07890 ortho_group2707_cds plasma membrane
+AT1G07890 ortho_group2707_cds plastid
+AT1G07890 ortho_group2707_cds response to abiotic or biotic stimulus
+AT1G07890 ortho_group2707_cds response to stress
+AT1G07920 ortho_group3776_cds chloroplast
+AT1G07920 ortho_group3776_cds cytosol
+AT1G07920 ortho_group3776_cds DNA or RNA binding
+AT1G07920 ortho_group3776_cds mitochondria
+AT1G07920 ortho_group3776_cds nucleus
+AT1G07920 ortho_group3776_cds other biological processes
+AT1G07920 ortho_group3776_cds other cellular components
+AT1G07920 ortho_group3776_cds other cytoplasmic components
+AT1G07920 ortho_group3776_cds other intracellular components
+AT1G07920 ortho_group3776_cds other membranes
+AT1G07920 ortho_group3776_cds plasma membrane
+AT1G07920 ortho_group3776_cds protein binding
+AT1G07980 ortho_group4583_cds chloroplast
+AT1G07980 ortho_group4583_cds other cellular processes
+AT1G07980 ortho_group4583_cds other intracellular components
+AT1G07980 ortho_group4583_cds other metabolic processes
+AT1G07980 ortho_group4583_cds transcription factor activity
+AT1G08040 ortho_group3414_cds unknown biological processes
+AT1G08040 ortho_group3414_cds unknown molecular functions
+AT1G08110 ortho_group4501_cds chloroplast
+AT1G08110 ortho_group4501_cds cytosol
+AT1G08110 ortho_group4501_cds other biological processes
+AT1G08110 ortho_group4501_cds other enzyme activity
+AT1G08110 ortho_group4501_cds other metabolic processes
+AT1G08110 ortho_group4501_cds protein binding
+AT1G08200 ortho_group4024_cds cytosol
+AT1G08200 ortho_group4024_cds extracellular
+AT1G08200 ortho_group4024_cds other cellular processes
+AT1G08200 ortho_group4024_cds other cytoplasmic components
+AT1G08200 ortho_group4024_cds other enzyme activity
+AT1G08200 ortho_group4024_cds other metabolic processes
+AT1G08220 ortho_group4544_cds cell organization and biogenesis
+AT1G08220 ortho_group4544_cds other cellular processes
+AT1G08220 ortho_group4544_cds unknown molecular functions
+AT1G08370 ortho_group3522_cds other cellular processes
+AT1G08370 ortho_group3522_cds other cytoplasmic components
+AT1G08370 ortho_group3522_cds other intracellular components
+AT1G08370 ortho_group3522_cds other metabolic processes
+AT1G08370 ortho_group3522_cds protein binding
+AT1G08450 ortho_group3942_cds ER
+AT1G08450 ortho_group3942_cds other binding
+AT1G08450 ortho_group3942_cds other biological processes
+AT1G08450 ortho_group3942_cds other cellular processes
+AT1G08450 ortho_group3942_cds other cytoplasmic components
+AT1G08450 ortho_group3942_cds other intracellular components
+AT1G08450 ortho_group3942_cds other membranes
+AT1G08450 ortho_group3942_cds other metabolic processes
+AT1G08450 ortho_group3942_cds protein binding
+AT1G08450 ortho_group3942_cds protein metabolism
+AT1G08450 ortho_group3942_cds response to abiotic or biotic stimulus
+AT1G08450 ortho_group3942_cds response to stress
+AT1G08450 ortho_group3942_cds signal transduction
+AT1G08480 ortho_group3152_cds mitochondria
+AT1G08480 ortho_group3152_cds other cytoplasmic components
+AT1G08480 ortho_group3152_cds other intracellular components
+AT1G08480 ortho_group3152_cds other membranes
+AT1G08480 ortho_group3152_cds plastid
+AT1G08480 ortho_group3152_cds unknown biological processes
+AT1G08480 ortho_group3152_cds unknown molecular functions
+AT1G08510 ortho_group3065_cds hydrolase activity
+AT1G08510 ortho_group3065_cds other cellular processes
+AT1G08510 ortho_group3065_cds other metabolic processes
+AT1G08510 ortho_group3065_cds plastid
+AT1G08510 ortho_group3065_cds transferase activity
+AT1G08510 ortho_group3065_cds transporter activity
+AT1G08570 ortho_group4676_cds chloroplast
+AT1G08570 ortho_group4676_cds other cellular processes
+AT1G08570 ortho_group4676_cds other cytoplasmic components
+AT1G08570 ortho_group4676_cds other enzyme activity
+AT1G08570 ortho_group4676_cds other intracellular components
+AT1G08570 ortho_group4676_cds other membranes
+AT1G08570 ortho_group4676_cds plastid
+AT1G08600 ortho_group3144_cds DNA or RNA binding
+AT1G08600 ortho_group3144_cds hydrolase activity
+AT1G08600 ortho_group3144_cds nucleic acid binding
+AT1G08600 ortho_group3144_cds nucleotide binding
+AT1G08640 ortho_group5371_cds chloroplast
+AT1G08640 ortho_group5371_cds other cellular processes
+AT1G08640 ortho_group5371_cds other cytoplasmic components
+AT1G08640 ortho_group5371_cds other intracellular components
+AT1G08640 ortho_group5371_cds other membranes
+AT1G08640 ortho_group5371_cds other metabolic processes
+AT1G08640 ortho_group5371_cds plastid
+AT1G08750 ortho_group5292_cds hydrolase activity
+AT1G08750 ortho_group5292_cds other cellular components
+AT1G08750 ortho_group5292_cds protein metabolism
+AT1G08810 ortho_group3201_cds DNA or RNA binding
+AT1G08810 ortho_group3201_cds other biological processes
+AT1G08810 ortho_group3201_cds other cellular processes
+AT1G08810 ortho_group3201_cds other metabolic processes
+AT1G08810 ortho_group3201_cds response to abiotic or biotic stimulus
+AT1G08810 ortho_group3201_cds response to stress
+AT1G08810 ortho_group3201_cds transcription factor activity
+AT1G08820 ortho_group3346_cds ER
+AT1G08820 ortho_group3346_cds other cellular processes
+AT1G08820 ortho_group3346_cds other cytoplasmic components
+AT1G08820 ortho_group3346_cds other intracellular components
+AT1G08820 ortho_group3346_cds other membranes
+AT1G08820 ortho_group3346_cds plasma membrane
+AT1G08820 ortho_group3346_cds structural molecule activity
+AT1G08820 ortho_group3346_cds transport
+AT1G08830 ortho_group4857_cds cytosol
+AT1G08830 ortho_group4857_cds extracellular
+AT1G08830 ortho_group4857_cds other binding
+AT1G08830 ortho_group4857_cds other biological processes
+AT1G08830 ortho_group4857_cds other cellular processes
+AT1G08830 ortho_group4857_cds other cytoplasmic components
+AT1G08830 ortho_group4857_cds other enzyme activity
+AT1G08830 ortho_group4857_cds other metabolic processes
+AT1G08830 ortho_group4857_cds response to abiotic or biotic stimulus
+AT1G08830 ortho_group4857_cds response to stress
+AT1G08845 ortho_group4683_cds other cellular components
+AT1G08845 ortho_group4683_cds other cellular processes
+AT1G08845 ortho_group4683_cds other intracellular components
+AT1G08845 ortho_group4683_cds other metabolic processes
+AT1G08845 ortho_group4683_cds protein metabolism
+AT1G08845 ortho_group4683_cds ribosome
+AT1G08845 ortho_group4683_cds structural molecule activity
+AT1G08980 ortho_group2540_cds cytosol
+AT1G08980 ortho_group2540_cds hydrolase activity
+AT1G08980 ortho_group2540_cds other cellular processes
+AT1G08980 ortho_group2540_cds other cytoplasmic components
+AT1G08980 ortho_group2540_cds other metabolic processes
+AT1G09020 ortho_group4877_cds kinase activity
+AT1G09020 ortho_group4877_cds other cellular processes
+AT1G09020 ortho_group4877_cds other metabolic processes
+AT1G09020 ortho_group4877_cds other molecular functions
+AT1G09020 ortho_group4877_cds protein binding
+AT1G09020 ortho_group4877_cds protein metabolism
+AT1G09020 ortho_group4877_cds response to stress
+AT1G09020 ortho_group4877_cds transferase activity
+AT1G09060 ortho_group4423_cds other binding
+AT1G09060 ortho_group4423_cds transcription factor activity
+AT1G09130 ortho_group4115_cds chloroplast
+AT1G09130 ortho_group4115_cds hydrolase activity
+AT1G09130 ortho_group4115_cds mitochondria
+AT1G09130 ortho_group4115_cds other cytoplasmic components
+AT1G09130 ortho_group4115_cds other intracellular components
+AT1G09130 ortho_group4115_cds plastid
+AT1G09130 ortho_group4115_cds protein metabolism
+AT1G09150 ortho_group2982_cds cytosol
+AT1G09150 ortho_group2982_cds DNA or RNA binding
+AT1G09150 ortho_group2982_cds unknown biological processes
+AT1G09160 ortho_group5132_cds hydrolase activity
+AT1G09160 ortho_group5132_cds other enzyme activity
+AT1G09160 ortho_group5132_cds plasma membrane
+AT1G09330 ortho_group2577_cds cell organization and biogenesis
+AT1G09330 ortho_group2577_cds Golgi apparatus
+AT1G09330 ortho_group2577_cds other cellular processes
+AT1G09330 ortho_group2577_cds other cytoplasmic components
+AT1G09330 ortho_group2577_cds other intracellular components
+AT1G09330 ortho_group2577_cds transport
+AT1G09330 ortho_group2577_cds unknown molecular functions
+AT1G09390 ortho_group2834_cds chloroplast
+AT1G09390 ortho_group2834_cds electron transport or energy pathways
+AT1G09390 ortho_group2834_cds hydrolase activity
+AT1G09390 ortho_group2834_cds other cellular processes
+AT1G09390 ortho_group2834_cds other cytoplasmic components
+AT1G09390 ortho_group2834_cds other intracellular components
+AT1G09390 ortho_group2834_cds other metabolic processes
+AT1G09390 ortho_group2834_cds plastid
+AT1G09400 ortho_group4117_cds mitochondria
+AT1G09400 ortho_group4117_cds nucleotide binding
+AT1G09400 ortho_group4117_cds other binding
+AT1G09400 ortho_group4117_cds other enzyme activity
+AT1G09400 ortho_group4117_cds other metabolic processes
+AT1G09430 ortho_group3300_cds cytosol
+AT1G09430 ortho_group3300_cds other cellular processes
+AT1G09430 ortho_group3300_cds other cytoplasmic components
+AT1G09430 ortho_group3300_cds other intracellular components
+AT1G09430 ortho_group3300_cds other metabolic processes
+AT1G09430 ortho_group3300_cds transferase activity
+AT1G09490 ortho_group2796_cds other cellular components
+AT1G09490 ortho_group2796_cds other cellular processes
+AT1G09490 ortho_group2796_cds other enzyme activity
+AT1G09490 ortho_group2796_cds other metabolic processes
+AT1G09620 ortho_group3164_cds chloroplast
+AT1G09620 ortho_group3164_cds cytosol
+AT1G09620 ortho_group3164_cds nucleotide binding
+AT1G09620 ortho_group3164_cds other cellular components
+AT1G09620 ortho_group3164_cds other cellular processes
+AT1G09620 ortho_group3164_cds other enzyme activity
+AT1G09620 ortho_group3164_cds other metabolic processes
+AT1G09620 ortho_group3164_cds protein metabolism
+AT1G09640 ortho_group4982_cds cytosol
+AT1G09640 ortho_group4982_cds DNA or RNA binding
+AT1G09640 ortho_group4982_cds other cellular components
+AT1G09640 ortho_group4982_cds other cellular processes
+AT1G09640 ortho_group4982_cds other metabolic processes
+AT1G09640 ortho_group4982_cds plasma membrane
+AT1G09640 ortho_group4982_cds protein metabolism
+AT1G09660 ortho_group5168_cds DNA or RNA binding
+AT1G09660 ortho_group5168_cds nucleic acid binding
+AT1G09660 ortho_group5168_cds unknown biological processes
+AT1G09660 ortho_group5168_cds unknown cellular components
+AT1G09760 ortho_group3768_cds chloroplast
+AT1G09760 ortho_group3768_cds cytosol
+AT1G09760 ortho_group3768_cds nucleus
+AT1G09760 ortho_group3768_cds other cellular processes
+AT1G09760 ortho_group3768_cds other cytoplasmic components
+AT1G09760 ortho_group3768_cds other intracellular components
+AT1G09760 ortho_group3768_cds other metabolic processes
+AT1G09760 ortho_group3768_cds response to abiotic or biotic stimulus
+AT1G09760 ortho_group3768_cds response to stress
+AT1G09770 ortho_group3617_cds chloroplast
+AT1G09770 ortho_group3617_cds DNA or RNA binding
+AT1G09770 ortho_group3617_cds other cellular processes
+AT1G09770 ortho_group3617_cds other metabolic processes
+AT1G09770 ortho_group3617_cds protein binding
+AT1G09770 ortho_group3617_cds response to abiotic or biotic stimulus
+AT1G09770 ortho_group3617_cds response to stress
+AT1G09770 ortho_group3617_cds signal transduction
+AT1G09770 ortho_group3617_cds transcription factor activity
+AT1G09795 ortho_group3306_cds chloroplast
+AT1G09795 ortho_group3306_cds other cellular processes
+AT1G09795 ortho_group3306_cds other cytoplasmic components
+AT1G09795 ortho_group3306_cds other intracellular components
+AT1G09795 ortho_group3306_cds other metabolic processes
+AT1G09795 ortho_group3306_cds plastid
+AT1G09795 ortho_group3306_cds transferase activity
+AT1G09920 ortho_group5375_cds unknown biological processes
+AT1G10030 ortho_group4928_cds other cellular components
+AT1G10030 ortho_group4928_cds other membranes
+AT1G10030 ortho_group4928_cds unknown biological processes
+AT1G10130 ortho_group2990_cds developmental processes
+AT1G10130 ortho_group2990_cds Golgi apparatus
+AT1G10130 ortho_group2990_cds hydrolase activity
+AT1G10130 ortho_group2990_cds other biological processes
+AT1G10130 ortho_group2990_cds other cellular components
+AT1G10130 ortho_group2990_cds protein binding
+AT1G10130 ortho_group2990_cds transport
+AT1G10130 ortho_group2990_cds transporter activity
+AT1G10210 ortho_group5417_cds kinase activity
+AT1G10210 ortho_group5417_cds other cellular processes
+AT1G10210 ortho_group5417_cds signal transduction
+AT1G10210 ortho_group5417_cds transferase activity
+AT1G10250 ortho_group4032_cds unknown biological processes
+AT1G10250 ortho_group4032_cds unknown cellular components
+AT1G10250 ortho_group4032_cds unknown molecular functions
+AT1G10350 ortho_group5034_cds other cellular processes
+AT1G10350 ortho_group5034_cds other metabolic processes
+AT1G10350 ortho_group5034_cds protein binding
+AT1G10350 ortho_group5034_cds protein metabolism
+AT1G10350 ortho_group5034_cds unknown cellular components
+AT1G10410 ortho_group5055_cds other cellular processes
+AT1G10410 ortho_group5055_cds other metabolic processes
+AT1G10410 ortho_group5055_cds protein metabolism
+AT1G10480 ortho_group3961_cds chloroplast
+AT1G10480 ortho_group3961_cds developmental processes
+AT1G10480 ortho_group3961_cds nucleic acid binding
+AT1G10480 ortho_group3961_cds other binding
+AT1G10480 ortho_group3961_cds other cellular processes
+AT1G10480 ortho_group3961_cds other intracellular components
+AT1G10480 ortho_group3961_cds other metabolic processes
+AT1G10480 ortho_group3961_cds signal transduction
+AT1G10480 ortho_group3961_cds transcription factor activity
+AT1G10490 ortho_group3531_cds unknown cellular components
+AT1G10500 ortho_group4089_cds chloroplast
+AT1G10500 ortho_group4089_cds other cellular processes
+AT1G10500 ortho_group4089_cds other cytoplasmic components
+AT1G10500 ortho_group4089_cds other intracellular components
+AT1G10500 ortho_group4089_cds other metabolic processes
+AT1G10500 ortho_group4089_cds plastid
+AT1G10500 ortho_group4089_cds structural molecule activity
+AT1G10580 ortho_group5103_cds nucleotide binding
+AT1G10580 ortho_group5103_cds other intracellular components
+AT1G10630 ortho_group5143_cds cytosol
+AT1G10630 ortho_group5143_cds nucleotide binding
+AT1G10630 ortho_group5143_cds other binding
+AT1G10630 ortho_group5143_cds other cellular processes
+AT1G10630 ortho_group5143_cds other cytoplasmic components
+AT1G10630 ortho_group5143_cds other intracellular components
+AT1G10630 ortho_group5143_cds other membranes
+AT1G10630 ortho_group5143_cds other metabolic processes
+AT1G10630 ortho_group5143_cds other molecular functions
+AT1G10630 ortho_group5143_cds plasma membrane
+AT1G10630 ortho_group5143_cds protein metabolism
+AT1G10657 ortho_group2936_cds unknown biological processes
+AT1G10657 ortho_group2936_cds unknown cellular components
+AT1G10657 ortho_group2936_cds unknown molecular functions
+AT1G10660 ortho_group4701_cds unknown biological processes
+AT1G10660 ortho_group4701_cds unknown cellular components
+AT1G10660 ortho_group4701_cds unknown molecular functions
+AT1G10680 ortho_group5490_cds hydrolase activity
+AT1G10680 ortho_group5490_cds mitochondria
+AT1G10680 ortho_group5490_cds other cellular processes
+AT1G10680 ortho_group5490_cds other membranes
+AT1G10680 ortho_group5490_cds other metabolic processes
+AT1G10680 ortho_group5490_cds plasma membrane
+AT1G10680 ortho_group5490_cds signal transduction
+AT1G10680 ortho_group5490_cds transport
+AT1G10680 ortho_group5490_cds transporter activity
+AT1G10760 ortho_group3319_cds chloroplast
+AT1G10760 ortho_group3319_cds kinase activity
+AT1G10760 ortho_group3319_cds mitochondria
+AT1G10760 ortho_group3319_cds other biological processes
+AT1G10760 ortho_group3319_cds other cellular processes
+AT1G10760 ortho_group3319_cds other cytoplasmic components
+AT1G10760 ortho_group3319_cds other intracellular components
+AT1G10760 ortho_group3319_cds other metabolic processes
+AT1G10760 ortho_group3319_cds plastid
+AT1G10760 ortho_group3319_cds protein binding
+AT1G10760 ortho_group3319_cds response to abiotic or biotic stimulus
+AT1G10760 ortho_group3319_cds response to stress
+AT1G10760 ortho_group3319_cds transferase activity
+AT1G10830 ortho_group3711_cds chloroplast
+AT1G10830 ortho_group3711_cds other cellular processes
+AT1G10830 ortho_group3711_cds other metabolic processes
+AT1G10840 ortho_group4584_cds cytosol
+AT1G10840 ortho_group4584_cds DNA or RNA binding
+AT1G10840 ortho_group4584_cds other cellular processes
+AT1G10840 ortho_group4584_cds other cytoplasmic components
+AT1G10840 ortho_group4584_cds other intracellular components
+AT1G10840 ortho_group4584_cds other metabolic processes
+AT1G10840 ortho_group4584_cds protein metabolism
+AT1G10910 ortho_group5526_cds unknown biological processes
+AT1G10940 ortho_group5273_cds cytosol
+AT1G10940 ortho_group5273_cds kinase activity
+AT1G10940 ortho_group5273_cds nucleus
+AT1G10940 ortho_group5273_cds other biological processes
+AT1G10940 ortho_group5273_cds other cellular processes
+AT1G10940 ortho_group5273_cds other metabolic processes
+AT1G10940 ortho_group5273_cds protein binding
+AT1G10940 ortho_group5273_cds protein metabolism
+AT1G10940 ortho_group5273_cds response to abiotic or biotic stimulus
+AT1G10940 ortho_group5273_cds response to stress
+AT1G10950 ortho_group4839_cds Golgi apparatus
+AT1G10950 ortho_group4839_cds other membranes
+AT1G11020 ortho_group3228_cds other binding
+AT1G11170 ortho_group3868_cds unknown biological processes
+AT1G11170 ortho_group3868_cds unknown molecular functions
+AT1G11180 ortho_group4880_cds other membranes
+AT1G11180 ortho_group4880_cds transport
+AT1G11180 ortho_group4880_cds transporter activity
+AT1G11190 ortho_group3313_cds DNA or RNA metabolism
+AT1G11190 ortho_group3313_cds hydrolase activity
+AT1G11190 ortho_group3313_cds nucleic acid binding
+AT1G11190 ortho_group3313_cds other cellular components
+AT1G11190 ortho_group3313_cds other cellular processes
+AT1G11190 ortho_group3313_cds other metabolic processes
+AT1G11200 ortho_group5297_cds other cellular components
+AT1G11200 ortho_group5297_cds unknown biological processes
+AT1G11240 ortho_group3781_cds unknown biological processes
+AT1G11240 ortho_group3781_cds unknown cellular components
+AT1G11240 ortho_group3781_cds unknown molecular functions
+AT1G11250 ortho_group2870_cds cell organization and biogenesis
+AT1G11250 ortho_group2870_cds other cellular processes
+AT1G11250 ortho_group2870_cds protein binding
+AT1G11250 ortho_group2870_cds transport
+AT1G11400 ortho_group5556_cds nucleus
+AT1G11400 ortho_group5556_cds other cytoplasmic components
+AT1G11400 ortho_group5556_cds other intracellular components
+AT1G11400 ortho_group5556_cds protein binding
+AT1G11400 ortho_group5556_cds unknown biological processes
+AT1G11430 ortho_group4155_cds chloroplast
+AT1G11430 ortho_group4155_cds other cytoplasmic components
+AT1G11430 ortho_group4155_cds other intracellular components
+AT1G11430 ortho_group4155_cds plastid
+AT1G11545 ortho_group4768_cds cell wall
+AT1G11545 ortho_group4768_cds extracellular
+AT1G11545 ortho_group4768_cds hydrolase activity
+AT1G11545 ortho_group4768_cds other cellular components
+AT1G11545 ortho_group4768_cds other cellular processes
+AT1G11545 ortho_group4768_cds other metabolic processes
+AT1G11545 ortho_group4768_cds transferase activity
+AT1G11650 ortho_group4529_cds DNA or RNA binding
+AT1G11650 ortho_group4529_cds other biological processes
+AT1G11660 ortho_group5313_cds nucleotide binding
+AT1G11660 ortho_group5313_cds other cellular processes
+AT1G11660 ortho_group5313_cds other metabolic processes
+AT1G11660 ortho_group5313_cds protein metabolism
+AT1G11750 ortho_group4297_cds cell organization and biogenesis
+AT1G11750 ortho_group4297_cds chloroplast
+AT1G11750 ortho_group4297_cds hydrolase activity
+AT1G11750 ortho_group4297_cds other cellular processes
+AT1G11750 ortho_group4297_cds other cytoplasmic components
+AT1G11750 ortho_group4297_cds other intracellular components
+AT1G11750 ortho_group4297_cds other metabolic processes
+AT1G11750 ortho_group4297_cds plastid
+AT1G11840 ortho_group3900_cds chloroplast
+AT1G11840 ortho_group3900_cds cytosol
+AT1G11840 ortho_group3900_cds other binding
+AT1G11840 ortho_group3900_cds other biological processes
+AT1G11840 ortho_group3900_cds other cytoplasmic components
+AT1G11840 ortho_group3900_cds other enzyme activity
+AT1G11840 ortho_group3900_cds other intracellular components
+AT1G11840 ortho_group3900_cds other metabolic processes
+AT1G11840 ortho_group3900_cds plasma membrane
+AT1G11840 ortho_group3900_cds plastid
+AT1G11910 ortho_group2820_cds cytosol
+AT1G11910 ortho_group2820_cds hydrolase activity
+AT1G11910 ortho_group2820_cds other cellular components
+AT1G11910 ortho_group2820_cds other cytoplasmic components
+AT1G11910 ortho_group2820_cds other intracellular components
+AT1G11910 ortho_group2820_cds protein metabolism
+AT1G11910 ortho_group2820_cds response to abiotic or biotic stimulus
+AT1G11910 ortho_group2820_cds response to stress
+AT1G11930 ortho_group4772_cds other binding
+AT1G11930 ortho_group4772_cds unknown biological processes
+AT1G12000 ortho_group5195_cds cell wall
+AT1G12000 ortho_group5195_cds cytosol
+AT1G12000 ortho_group5195_cds electron transport or energy pathways
+AT1G12000 ortho_group5195_cds kinase activity
+AT1G12000 ortho_group5195_cds other biological processes
+AT1G12000 ortho_group5195_cds other cellular components
+AT1G12000 ortho_group5195_cds other cellular processes
+AT1G12000 ortho_group5195_cds other membranes
+AT1G12000 ortho_group5195_cds other metabolic processes
+AT1G12000 ortho_group5195_cds transferase activity
+AT1G12070 ortho_group3543_cds other cytoplasmic components
+AT1G12070 ortho_group3543_cds other molecular functions
+AT1G12070 ortho_group3543_cds unknown biological processes
+AT1G12240 ortho_group4320_cds cell wall
+AT1G12240 ortho_group4320_cds hydrolase activity
+AT1G12240 ortho_group4320_cds other cytoplasmic components
+AT1G12240 ortho_group4320_cds other intracellular components
+AT1G12240 ortho_group4320_cds other metabolic processes
+AT1G12250 ortho_group2703_cds chloroplast
+AT1G12250 ortho_group2703_cds other cytoplasmic components
+AT1G12250 ortho_group2703_cds other intracellular components
+AT1G12250 ortho_group2703_cds other membranes
+AT1G12250 ortho_group2703_cds plastid
+AT1G12250 ortho_group2703_cds unknown biological processes
+AT1G12250 ortho_group2703_cds unknown molecular functions
+AT1G12340 ortho_group5105_cds other membranes
+AT1G12340 ortho_group5105_cds signal transduction
+AT1G12340 ortho_group5105_cds unknown molecular functions
+AT1G12350 ortho_group4338_cds chloroplast
+AT1G12350 ortho_group4338_cds other cellular processes
+AT1G12350 ortho_group4338_cds other enzyme activity
+AT1G12350 ortho_group4338_cds other metabolic processes
+AT1G12360 ortho_group3826_cds cytosol
+AT1G12360 ortho_group3826_cds other cellular components
+AT1G12360 ortho_group3826_cds other cellular processes
+AT1G12360 ortho_group3826_cds other cytoplasmic components
+AT1G12360 ortho_group3826_cds other intracellular components
+AT1G12360 ortho_group3826_cds plasma membrane
+AT1G12360 ortho_group3826_cds protein binding
+AT1G12360 ortho_group3826_cds transport
+AT1G12360 ortho_group3826_cds transporter activity
+AT1G12410 ortho_group3262_cds cell organization and biogenesis
+AT1G12410 ortho_group3262_cds chloroplast
+AT1G12410 ortho_group3262_cds hydrolase activity
+AT1G12410 ortho_group3262_cds other cellular processes
+AT1G12410 ortho_group3262_cds other cytoplasmic components
+AT1G12410 ortho_group3262_cds other intracellular components
+AT1G12410 ortho_group3262_cds plastid
+AT1G12570 ortho_group3860_cds other binding
+AT1G12570 ortho_group3860_cds other cellular components
+AT1G12570 ortho_group3860_cds other enzyme activity
+AT1G12570 ortho_group3860_cds other metabolic processes
+AT1G12640 ortho_group4627_cds other membranes
+AT1G12640 ortho_group4627_cds plasma membrane
+AT1G12640 ortho_group4627_cds transferase activity
+AT1G12640 ortho_group4627_cds unknown biological processes
+AT1G12650 ortho_group4072_cds unknown biological processes
+AT1G12650 ortho_group4072_cds unknown cellular components
+AT1G12650 ortho_group4072_cds unknown molecular functions
+AT1G12700 ortho_group4424_cds hydrolase activity
+AT1G12700 ortho_group4424_cds nucleic acid binding
+AT1G12700 ortho_group4424_cds nucleotide binding
+AT1G12700 ortho_group4424_cds other cellular processes
+AT1G12700 ortho_group4424_cds other metabolic processes
+AT1G12800 ortho_group4461_cds chloroplast
+AT1G12800 ortho_group4461_cds DNA or RNA binding
+AT1G12840 ortho_group4658_cds cell organization and biogenesis
+AT1G12840 ortho_group4658_cds chloroplast
+AT1G12840 ortho_group4658_cds hydrolase activity
+AT1G12840 ortho_group4658_cds other cellular processes
+AT1G12840 ortho_group4658_cds other cytoplasmic components
+AT1G12840 ortho_group4658_cds other intracellular components
+AT1G12840 ortho_group4658_cds other membranes
+AT1G12840 ortho_group4658_cds other metabolic processes
+AT1G12840 ortho_group4658_cds plasma membrane
+AT1G12840 ortho_group4658_cds transporter activity
+AT1G12950 ortho_group5549_cds other cellular processes
+AT1G12950 ortho_group5549_cds other membranes
+AT1G12950 ortho_group5549_cds transport
+AT1G12950 ortho_group5549_cds transporter activity
+AT1G12990 ortho_group3641_cds other cellular processes
+AT1G12990 ortho_group3641_cds other membranes
+AT1G12990 ortho_group3641_cds other metabolic processes
+AT1G12990 ortho_group3641_cds protein metabolism
+AT1G12990 ortho_group3641_cds transferase activity
+AT1G13170 ortho_group4604_cds other binding
+AT1G13170 ortho_group4604_cds other metabolic processes
+AT1G13195 ortho_group2602_cds other binding
+AT1G13380 ortho_group5317_cds other cellular components
+AT1G13380 ortho_group5317_cds unknown biological processes
+AT1G13380 ortho_group5317_cds unknown molecular functions
+AT1G13440 ortho_group5011_cds cell wall
+AT1G13440 ortho_group5011_cds chloroplast
+AT1G13440 ortho_group5011_cds cytosol
+AT1G13440 ortho_group5011_cds electron transport or energy pathways
+AT1G13440 ortho_group5011_cds mitochondria
+AT1G13440 ortho_group5011_cds nucleus
+AT1G13440 ortho_group5011_cds other binding
+AT1G13440 ortho_group5011_cds other biological processes
+AT1G13440 ortho_group5011_cds other cellular components
+AT1G13440 ortho_group5011_cds other cellular processes
+AT1G13440 ortho_group5011_cds other intracellular components
+AT1G13440 ortho_group5011_cds other membranes
+AT1G13440 ortho_group5011_cds other metabolic processes
+AT1G13440 ortho_group5011_cds plasma membrane
+AT1G13440 ortho_group5011_cds response to abiotic or biotic stimulus
+AT1G13440 ortho_group5011_cds response to stress
+AT1G13460 ortho_group3825_cds other cytoplasmic components
+AT1G13460 ortho_group3825_cds other intracellular components
+AT1G13460 ortho_group3825_cds other molecular functions
+AT1G13460 ortho_group3825_cds signal transduction
+AT1G13570 ortho_group5524_cds unknown biological processes
+AT1G13570 ortho_group5524_cds unknown molecular functions
+AT1G14000 ortho_group3950_cds developmental processes
+AT1G14000 ortho_group3950_cds kinase activity
+AT1G14000 ortho_group3950_cds nucleotide binding
+AT1G14000 ortho_group3950_cds other cellular processes
+AT1G14000 ortho_group3950_cds other metabolic processes
+AT1G14000 ortho_group3950_cds protein metabolism
+AT1G14000 ortho_group3950_cds signal transduction
+AT1G14000 ortho_group3950_cds transferase activity
+AT1G14130 ortho_group5422_cds nucleus
+AT1G14130 ortho_group5422_cds other enzyme activity
+AT1G14130 ortho_group5422_cds unknown biological processes
+AT1G14185 ortho_group3956_cds other binding
+AT1G14185 ortho_group3956_cds other cellular components
+AT1G14185 ortho_group3956_cds other enzyme activity
+AT1G14185 ortho_group3956_cds other metabolic processes
+AT1G14190 ortho_group3956_cds other binding
+AT1G14190 ortho_group3956_cds other enzyme activity
+AT1G14190 ortho_group3956_cds other metabolic processes
+AT1G14190 ortho_group3956_cds unknown cellular components
+AT1G14230 ortho_group5315_cds hydrolase activity
+AT1G14270 ortho_group3157_cds protein metabolism
+AT1G14310 ortho_group3448_cds hydrolase activity
+AT1G14310 ortho_group3448_cds other enzyme activity
+AT1G14310 ortho_group3448_cds other metabolic processes
+AT1G14310 ortho_group3448_cds unknown cellular components
+AT1G14520 ortho_group4184_cds other cellular processes
+AT1G14520 ortho_group4184_cds other cytoplasmic components
+AT1G14520 ortho_group4184_cds other enzyme activity
+AT1G14610 ortho_group5567_cds chloroplast
+AT1G14610 ortho_group5567_cds cytosol
+AT1G14610 ortho_group5567_cds developmental processes
+AT1G14610 ortho_group5567_cds mitochondria
+AT1G14610 ortho_group5567_cds nucleotide binding
+AT1G14610 ortho_group5567_cds other cellular processes
+AT1G14610 ortho_group5567_cds other enzyme activity
+AT1G14610 ortho_group5567_cds other metabolic processes
+AT1G14610 ortho_group5567_cds protein metabolism
+AT1G14620 ortho_group4057_cds unknown biological processes
+AT1G14620 ortho_group4057_cds unknown cellular components
+AT1G14620 ortho_group4057_cds unknown molecular functions
+AT1G14700 ortho_group3845_cds hydrolase activity
+AT1G14700 ortho_group3845_cds other cytoplasmic components
+AT1G14700 ortho_group3845_cds other intracellular components
+AT1G14740 ortho_group3109_cds protein binding
+AT1G14740 ortho_group3109_cds unknown cellular components
+AT1G14810 ortho_group5492_cds chloroplast
+AT1G14810 ortho_group5492_cds mitochondria
+AT1G14810 ortho_group5492_cds other cellular processes
+AT1G14810 ortho_group5492_cds other cytoplasmic components
+AT1G14810 ortho_group5492_cds other enzyme activity
+AT1G14810 ortho_group5492_cds other intracellular components
+AT1G14810 ortho_group5492_cds other metabolic processes
+AT1G14810 ortho_group5492_cds plastid
+AT1G14820 ortho_group4702_cds transport
+AT1G14820 ortho_group4702_cds transporter activity
+AT1G14820 ortho_group4702_cds unknown cellular components
+AT1G14860 ortho_group2582_cds hydrolase activity
+AT1G14860 ortho_group2582_cds unknown biological processes
+AT1G14870 ortho_group5314_cds plasma membrane
+AT1G14870 ortho_group5314_cds response to stress
+AT1G14870 ortho_group5314_cds unknown molecular functions
+AT1G15000 ortho_group4946_cds hydrolase activity
+AT1G15000 ortho_group4946_cds other cytoplasmic components
+AT1G15000 ortho_group4946_cds other intracellular components
+AT1G15000 ortho_group4946_cds protein metabolism
+AT1G15370 ortho_group2655_cds transport
+AT1G15370 ortho_group2655_cds unknown molecular functions
+AT1G15380 ortho_group5561_cds other enzyme activity
+AT1G15380 ortho_group5561_cds other metabolic processes
+AT1G15420 ortho_group2939_cds other cellular components
+AT1G15420 ortho_group2939_cds unknown biological processes
+AT1G15420 ortho_group2939_cds unknown molecular functions
+AT1G15520 ortho_group5450_cds hydrolase activity
+AT1G15520 ortho_group5450_cds other biological processes
+AT1G15520 ortho_group5450_cds other cellular processes
+AT1G15520 ortho_group5450_cds plasma membrane
+AT1G15520 ortho_group5450_cds response to abiotic or biotic stimulus
+AT1G15520 ortho_group5450_cds transport
+AT1G15520 ortho_group5450_cds transporter activity
+AT1G15580 ortho_group3054_cds nucleus
+AT1G15580 ortho_group3054_cds other biological processes
+AT1G15580 ortho_group3054_cds transcription factor activity
+AT1G15750 ortho_group5166_cds cytosol
+AT1G15750 ortho_group5166_cds developmental processes
+AT1G15750 ortho_group5166_cds nucleus
+AT1G15750 ortho_group5166_cds other biological processes
+AT1G15750 ortho_group5166_cds other cellular processes
+AT1G15750 ortho_group5166_cds other metabolic processes
+AT1G15750 ortho_group5166_cds protein binding
+AT1G15750 ortho_group5166_cds signal transduction
+AT1G15860 ortho_group4715_cds unknown biological processes
+AT1G15880 ortho_group4611_cds cell organization and biogenesis
+AT1G15880 ortho_group4611_cds other cellular processes
+AT1G15880 ortho_group4611_cds other membranes
+AT1G15880 ortho_group4611_cds protein binding
+AT1G15880 ortho_group4611_cds transport
+AT1G15930 ortho_group4747_cds cytosol
+AT1G15930 ortho_group4747_cds other biological processes
+AT1G15930 ortho_group4747_cds other cellular processes
+AT1G15930 ortho_group4747_cds other cytoplasmic components
+AT1G15930 ortho_group4747_cds other intracellular components
+AT1G15930 ortho_group4747_cds other metabolic processes
+AT1G15930 ortho_group4747_cds protein metabolism
+AT1G15930 ortho_group4747_cds response to abiotic or biotic stimulus
+AT1G15930 ortho_group4747_cds response to stress
+AT1G15930 ortho_group4747_cds ribosome
+AT1G15930 ortho_group4747_cds structural molecule activity
+AT1G15980 ortho_group2724_cds chloroplast
+AT1G15980 ortho_group2724_cds electron transport or energy pathways
+AT1G15980 ortho_group2724_cds other cellular processes
+AT1G15980 ortho_group2724_cds other cytoplasmic components
+AT1G15980 ortho_group2724_cds other intracellular components
+AT1G15980 ortho_group2724_cds other membranes
+AT1G15980 ortho_group2724_cds other metabolic processes
+AT1G15980 ortho_group2724_cds plastid
+AT1G16080 ortho_group3679_cds chloroplast
+AT1G16080 ortho_group3679_cds extracellular
+AT1G16080 ortho_group3679_cds other cytoplasmic components
+AT1G16080 ortho_group3679_cds other intracellular components
+AT1G16080 ortho_group3679_cds plastid
+AT1G16110 ortho_group5261_cds kinase activity
+AT1G16110 ortho_group5261_cds other cellular components
+AT1G16110 ortho_group5261_cds other cellular processes
+AT1G16110 ortho_group5261_cds other membranes
+AT1G16110 ortho_group5261_cds other metabolic processes
+AT1G16110 ortho_group5261_cds protein metabolism
+AT1G16120 ortho_group5261_cds cell wall
+AT1G16120 ortho_group5261_cds kinase activity
+AT1G16120 ortho_group5261_cds other cellular components
+AT1G16120 ortho_group5261_cds other cellular processes
+AT1G16120 ortho_group5261_cds other membranes
+AT1G16120 ortho_group5261_cds other metabolic processes
+AT1G16120 ortho_group5261_cds protein metabolism
+AT1G16130 ortho_group5261_cds kinase activity
+AT1G16130 ortho_group5261_cds other cellular processes
+AT1G16130 ortho_group5261_cds other membranes
+AT1G16130 ortho_group5261_cds other metabolic processes
+AT1G16130 ortho_group5261_cds protein metabolism
+AT1G16130 ortho_group5261_cds transferase activity
+AT1G16445 ortho_group4170_cds chloroplast
+AT1G16445 ortho_group4170_cds unknown biological processes
+AT1G16460 ortho_group4693_cds cytosol
+AT1G16460 ortho_group4693_cds other biological processes
+AT1G16460 ortho_group4693_cds other cytoplasmic components
+AT1G16460 ortho_group4693_cds transferase activity
+AT1G16460 ortho_group4693_cds transport
+AT1G16470 ortho_group5525_cds cytosol
+AT1G16470 ortho_group5525_cds hydrolase activity
+AT1G16470 ortho_group5525_cds other biological processes
+AT1G16470 ortho_group5525_cds other cellular processes
+AT1G16470 ortho_group5525_cds other cytoplasmic components
+AT1G16470 ortho_group5525_cds other intracellular components
+AT1G16470 ortho_group5525_cds other metabolic processes
+AT1G16470 ortho_group5525_cds protein metabolism
+AT1G16470 ortho_group5525_cds ribosome
+AT1G16490 ortho_group5529_cds DNA or RNA binding
+AT1G16490 ortho_group5529_cds other cellular processes
+AT1G16490 ortho_group5529_cds other metabolic processes
+AT1G16490 ortho_group5529_cds transcription factor activity
+AT1G16570 ortho_group5548_cds mitochondria
+AT1G16570 ortho_group5548_cds other metabolic processes
+AT1G16570 ortho_group5548_cds transferase activity
+AT1G16590 ortho_group2792_cds cell organization and biogenesis
+AT1G16590 ortho_group2792_cds DNA or RNA binding
+AT1G16590 ortho_group2792_cds other cellular processes
+AT1G16590 ortho_group2792_cds response to abiotic or biotic stimulus
+AT1G16590 ortho_group2792_cds response to stress
+AT1G16590 ortho_group2792_cds unknown cellular components
+AT1G16690 ortho_group3738_cds other cellular processes
+AT1G16690 ortho_group3738_cds other metabolic processes
+AT1G16690 ortho_group3738_cds transcription factor activity
+AT1G16710 ortho_group3963_cds developmental processes
+AT1G16710 ortho_group3963_cds nucleus
+AT1G16710 ortho_group3963_cds other cellular processes
+AT1G16710 ortho_group3963_cds other metabolic processes
+AT1G16710 ortho_group3963_cds other molecular functions
+AT1G16710 ortho_group3963_cds protein metabolism
+AT1G16710 ortho_group3963_cds transferase activity
+AT1G16810 ortho_group3467_cds unknown biological processes
+AT1G16810 ortho_group3467_cds unknown cellular components
+AT1G16810 ortho_group3467_cds unknown molecular functions
+AT1G16880 ortho_group3481_cds chloroplast
+AT1G16880 ortho_group3481_cds other biological processes
+AT1G16880 ortho_group3481_cds other cytoplasmic components
+AT1G16880 ortho_group3481_cds other intracellular components
+AT1G16880 ortho_group3481_cds other membranes
+AT1G16880 ortho_group3481_cds plastid
+AT1G16880 ortho_group3481_cds response to abiotic or biotic stimulus
+AT1G16880 ortho_group3481_cds response to stress
+AT1G16890 ortho_group4397_cds cytosol
+AT1G16890 ortho_group4397_cds developmental processes
+AT1G16890 ortho_group4397_cds other biological processes
+AT1G16890 ortho_group4397_cds other cellular processes
+AT1G16890 ortho_group4397_cds other enzyme activity
+AT1G16890 ortho_group4397_cds other intracellular components
+AT1G16890 ortho_group4397_cds other metabolic processes
+AT1G16890 ortho_group4397_cds plasma membrane
+AT1G16890 ortho_group4397_cds protein binding
+AT1G16890 ortho_group4397_cds protein metabolism
+AT1G17010 ortho_group4371_cds other binding
+AT1G17010 ortho_group4371_cds other cellular processes
+AT1G17010 ortho_group4371_cds other enzyme activity
+AT1G17010 ortho_group4371_cds other metabolic processes
+AT1G17010 ortho_group4371_cds unknown cellular components
+AT1G17020 ortho_group4371_cds developmental processes
+AT1G17020 ortho_group4371_cds other cellular processes
+AT1G17020 ortho_group4371_cds other enzyme activity
+AT1G17020 ortho_group4371_cds other metabolic processes
+AT1G17020 ortho_group4371_cds unknown cellular components
+AT1G17130 ortho_group2874_cds unknown biological processes
+AT1G17130 ortho_group2874_cds unknown molecular functions
+AT1G17180 ortho_group5275_cds other cellular processes
+AT1G17180 ortho_group5275_cds other cytoplasmic components
+AT1G17180 ortho_group5275_cds other metabolic processes
+AT1G17180 ortho_group5275_cds transferase activity
+AT1G17280 ortho_group2748_cds other cellular processes
+AT1G17280 ortho_group2748_cds other enzyme activity
+AT1G17280 ortho_group2748_cds other metabolic processes
+AT1G17280 ortho_group2748_cds protein metabolism
+AT1G17330 ortho_group4640_cds other enzyme activity
+AT1G17330 ortho_group4640_cds unknown biological processes
+AT1G17330 ortho_group4640_cds unknown cellular components
+AT1G17350 ortho_group5342_cds mitochondria
+AT1G17350 ortho_group5342_cds unknown biological processes
+AT1G17350 ortho_group5342_cds unknown molecular functions
+AT1G17410 ortho_group4049_cds kinase activity
+AT1G17410 ortho_group4049_cds nucleotide binding
+AT1G17410 ortho_group4049_cds other cellular components
+AT1G17410 ortho_group4049_cds other cellular processes
+AT1G17410 ortho_group4049_cds other metabolic processes
+AT1G17410 ortho_group4049_cds transferase activity
+AT1G17590 ortho_group3257_cds chloroplast
+AT1G17590 ortho_group3257_cds nucleus
+AT1G17590 ortho_group3257_cds other cellular processes
+AT1G17590 ortho_group3257_cds other intracellular components
+AT1G17590 ortho_group3257_cds other metabolic processes
+AT1G17590 ortho_group3257_cds transcription factor activity
+AT1G17650 ortho_group5542_cds chloroplast
+AT1G17650 ortho_group5542_cds other cellular processes
+AT1G17650 ortho_group5542_cds other cytoplasmic components
+AT1G17650 ortho_group5542_cds other enzyme activity
+AT1G17650 ortho_group5542_cds other intracellular components
+AT1G17650 ortho_group5542_cds other metabolic processes
+AT1G17650 ortho_group5542_cds plastid
+AT1G17690 ortho_group3460_cds developmental processes
+AT1G17690 ortho_group3460_cds nucleus
+AT1G17690 ortho_group3460_cds other cellular processes
+AT1G17690 ortho_group3460_cds other intracellular components
+AT1G17690 ortho_group3460_cds other metabolic processes
+AT1G17690 ortho_group3460_cds unknown molecular functions
+AT1G17720 ortho_group2758_cds cytosol
+AT1G17720 ortho_group2758_cds nucleotide binding
+AT1G17720 ortho_group2758_cds other cellular processes
+AT1G17720 ortho_group2758_cds other intracellular components
+AT1G17720 ortho_group2758_cds other metabolic processes
+AT1G17720 ortho_group2758_cds other molecular functions
+AT1G17720 ortho_group2758_cds protein metabolism
+AT1G17840 ortho_group4638_cds hydrolase activity
+AT1G17840 ortho_group4638_cds other biological processes
+AT1G17840 ortho_group4638_cds other membranes
+AT1G17840 ortho_group4638_cds plasma membrane
+AT1G17840 ortho_group4638_cds response to abiotic or biotic stimulus
+AT1G17840 ortho_group4638_cds response to stress
+AT1G17840 ortho_group4638_cds transport
+AT1G17840 ortho_group4638_cds transporter activity
+AT1G17980 ortho_group3560_cds nucleus
+AT1G17980 ortho_group3560_cds other cellular processes
+AT1G17980 ortho_group3560_cds other metabolic processes
+AT1G17980 ortho_group3560_cds protein binding
+AT1G17980 ortho_group3560_cds transferase activity
+AT1G18170 ortho_group4889_cds chloroplast
+AT1G18170 ortho_group4889_cds other binding
+AT1G18170 ortho_group4889_cds other cellular processes
+AT1G18170 ortho_group4889_cds other cytoplasmic components
+AT1G18170 ortho_group4889_cds other enzyme activity
+AT1G18170 ortho_group4889_cds other intracellular components
+AT1G18170 ortho_group4889_cds other membranes
+AT1G18170 ortho_group4889_cds other metabolic processes
+AT1G18170 ortho_group4889_cds plastid
+AT1G18170 ortho_group4889_cds protein metabolism
+AT1G18180 ortho_group3155_cds other enzyme activity
+AT1G18180 ortho_group3155_cds other metabolic processes
+AT1G18180 ortho_group3155_cds plasma membrane
+AT1G18335 ortho_group5438_cds other metabolic processes
+AT1G18335 ortho_group5438_cds transferase activity
+AT1G18335 ortho_group5438_cds unknown cellular components
+AT1G18410 ortho_group2863_cds hydrolase activity
+AT1G18410 ortho_group2863_cds nucleotide binding
+AT1G18410 ortho_group2863_cds other cellular processes
+AT1G18450 ortho_group4542_cds cell organization and biogenesis
+AT1G18450 ortho_group4542_cds developmental processes
+AT1G18450 ortho_group4542_cds nucleus
+AT1G18450 ortho_group4542_cds other cellular processes
+AT1G18450 ortho_group4542_cds other intracellular components
+AT1G18450 ortho_group4542_cds response to abiotic or biotic stimulus
+AT1G18450 ortho_group4542_cds structural molecule activity
+AT1G18490 ortho_group3528_cds other enzyme activity
+AT1G18490 ortho_group3528_cds other metabolic processes
+AT1G18490 ortho_group3528_cds unknown cellular components
+AT1G18640 ortho_group4922_cds chloroplast
+AT1G18640 ortho_group4922_cds hydrolase activity
+AT1G18640 ortho_group4922_cds other binding
+AT1G18640 ortho_group4922_cds other cellular processes
+AT1G18640 ortho_group4922_cds other metabolic processes
+AT1G18720 ortho_group4812_cds unknown biological processes
+AT1G18720 ortho_group4812_cds unknown molecular functions
+AT1G18740 ortho_group3013_cds unknown biological processes
+AT1G18740 ortho_group3013_cds unknown molecular functions
+AT1G18800 ortho_group4034_cds cell organization and biogenesis
+AT1G18800 ortho_group4034_cds developmental processes
+AT1G18800 ortho_group4034_cds DNA or RNA binding
+AT1G18800 ortho_group4034_cds DNA or RNA metabolism
+AT1G18800 ortho_group4034_cds nucleus
+AT1G18800 ortho_group4034_cds other binding
+AT1G18800 ortho_group4034_cds other biological processes
+AT1G18800 ortho_group4034_cds other cellular processes
+AT1G18800 ortho_group4034_cds other cytoplasmic components
+AT1G18800 ortho_group4034_cds protein binding
+AT1G18860 ortho_group4190_cds other cellular processes
+AT1G18860 ortho_group4190_cds other metabolic processes
+AT1G18860 ortho_group4190_cds transcription factor activity
+AT1G18880 ortho_group4003_cds other membranes
+AT1G18880 ortho_group4003_cds plasma membrane
+AT1G18880 ortho_group4003_cds transport
+AT1G18880 ortho_group4003_cds transporter activity
+AT1G19010 ortho_group3137_cds unknown biological processes
+AT1G19010 ortho_group3137_cds unknown molecular functions
+AT1G19080 ortho_group3889_cds developmental processes
+AT1G19080 ortho_group3889_cds DNA or RNA metabolism
+AT1G19080 ortho_group3889_cds nucleus
+AT1G19080 ortho_group3889_cds other cellular processes
+AT1G19080 ortho_group3889_cds other intracellular components
+AT1G19080 ortho_group3889_cds other metabolic processes
+AT1G19080 ortho_group3889_cds unknown molecular functions
+AT1G19130 ortho_group4352_cds cytosol
+AT1G19130 ortho_group4352_cds unknown biological processes
+AT1G19130 ortho_group4352_cds unknown molecular functions
+AT1G19140 ortho_group4605_cds mitochondria
+AT1G19140 ortho_group4605_cds other cellular processes
+AT1G19140 ortho_group4605_cds other metabolic processes
+AT1G19140 ortho_group4605_cds unknown molecular functions
+AT1G19150 ortho_group2620_cds chloroplast
+AT1G19150 ortho_group2620_cds other binding
+AT1G19150 ortho_group2620_cds other cellular processes
+AT1G19150 ortho_group2620_cds other intracellular components
+AT1G19150 ortho_group2620_cds other metabolic processes
+AT1G19150 ortho_group2620_cds response to abiotic or biotic stimulus
+AT1G19580 ortho_group3149_cds mitochondria
+AT1G19580 ortho_group3149_cds other cellular processes
+AT1G19580 ortho_group3149_cds other cytoplasmic components
+AT1G19580 ortho_group3149_cds other enzyme activity
+AT1G19580 ortho_group3149_cds other intracellular components
+AT1G19580 ortho_group3149_cds other membranes
+AT1G19580 ortho_group3149_cds other metabolic processes
+AT1G19610 ortho_group3433_cds other cellular components
+AT1G19610 ortho_group3433_cds response to stress
+AT1G19610 ortho_group3433_cds unknown molecular functions
+AT1G19640 ortho_group4444_cds other cellular processes
+AT1G19640 ortho_group4444_cds other cytoplasmic components
+AT1G19640 ortho_group4444_cds other metabolic processes
+AT1G19640 ortho_group4444_cds response to stress
+AT1G19640 ortho_group4444_cds signal transduction
+AT1G19640 ortho_group4444_cds transferase activity
+AT1G19660 ortho_group5146_cds DNA or RNA binding
+AT1G19660 ortho_group5146_cds DNA or RNA metabolism
+AT1G19660 ortho_group5146_cds hydrolase activity
+AT1G19660 ortho_group5146_cds other cellular processes
+AT1G19660 ortho_group5146_cds other metabolic processes
+AT1G19660 ortho_group5146_cds response to stress
+AT1G19780 ortho_group3424_cds nucleotide binding
+AT1G19780 ortho_group3424_cds other cellular processes
+AT1G19780 ortho_group3424_cds protein binding
+AT1G19780 ortho_group3424_cds transport
+AT1G19780 ortho_group3424_cds transporter activity
+AT1G19835 ortho_group4763_cds plasma membrane
+AT1G19835 ortho_group4763_cds unknown biological processes
+AT1G19835 ortho_group4763_cds unknown molecular functions
+AT1G19850 ortho_group4699_cds developmental processes
+AT1G19850 ortho_group4699_cds DNA or RNA binding
+AT1G19850 ortho_group4699_cds nucleic acid binding
+AT1G19850 ortho_group4699_cds nucleus
+AT1G19850 ortho_group4699_cds other biological processes
+AT1G19850 ortho_group4699_cds other cellular processes
+AT1G19850 ortho_group4699_cds other membranes
+AT1G19850 ortho_group4699_cds other metabolic processes
+AT1G19850 ortho_group4699_cds protein binding
+AT1G19850 ortho_group4699_cds transcription factor activity
+AT1G19870 ortho_group2827_cds chloroplast
+AT1G19870 ortho_group2827_cds cytosol
+AT1G19870 ortho_group2827_cds nucleus
+AT1G19870 ortho_group2827_cds other biological processes
+AT1G19870 ortho_group2827_cds other cytoplasmic components
+AT1G19870 ortho_group2827_cds other intracellular components
+AT1G19870 ortho_group2827_cds plasma membrane
+AT1G19870 ortho_group2827_cds plastid
+AT1G19870 ortho_group2827_cds protein binding
+AT1G19990 ortho_group5398_cds unknown biological processes
+AT1G19990 ortho_group5398_cds unknown cellular components
+AT1G19990 ortho_group5398_cds unknown molecular functions
+AT1G20050 ortho_group2885_cds other enzyme activity
+AT1G20050 ortho_group2885_cds other metabolic processes
+AT1G20050 ortho_group2885_cds plasma membrane
+AT1G20080 ortho_group4300_cds Golgi apparatus
+AT1G20080 ortho_group4300_cds other cellular components
+AT1G20080 ortho_group4300_cds other cellular processes
+AT1G20080 ortho_group4300_cds transport
+AT1G20080 ortho_group4300_cds unknown molecular functions
+AT1G20090 ortho_group4455_cds cell organization and biogenesis
+AT1G20090 ortho_group4455_cds developmental processes
+AT1G20090 ortho_group4455_cds nucleotide binding
+AT1G20090 ortho_group4455_cds nucleus
+AT1G20090 ortho_group4455_cds other cellular processes
+AT1G20090 ortho_group4455_cds other cytoplasmic components
+AT1G20090 ortho_group4455_cds other intracellular components
+AT1G20090 ortho_group4455_cds plasma membrane
+AT1G20090 ortho_group4455_cds response to abiotic or biotic stimulus
+AT1G20160 ortho_group4103_cds cell wall
+AT1G20160 ortho_group4103_cds extracellular
+AT1G20160 ortho_group4103_cds hydrolase activity
+AT1G20160 ortho_group4103_cds other metabolic processes
+AT1G20160 ortho_group4103_cds protein binding
+AT1G20160 ortho_group4103_cds protein metabolism
+AT1G20260 ortho_group4910_cds chloroplast
+AT1G20260 ortho_group4910_cds hydrolase activity
+AT1G20260 ortho_group4910_cds nucleotide binding
+AT1G20260 ortho_group4910_cds other cellular processes
+AT1G20260 ortho_group4910_cds other cytoplasmic components
+AT1G20260 ortho_group4910_cds other intracellular components
+AT1G20260 ortho_group4910_cds other membranes
+AT1G20260 ortho_group4910_cds other metabolic processes
+AT1G20260 ortho_group4910_cds transport
+AT1G20260 ortho_group4910_cds transporter activity
+AT1G20270 ortho_group2761_cds other binding
+AT1G20270 ortho_group2761_cds other cellular processes
+AT1G20270 ortho_group2761_cds other enzyme activity
+AT1G20270 ortho_group2761_cds other metabolic processes
+AT1G20270 ortho_group2761_cds protein metabolism
+AT1G20330 ortho_group4755_cds developmental processes
+AT1G20330 ortho_group4755_cds DNA or RNA metabolism
+AT1G20330 ortho_group4755_cds ER
+AT1G20330 ortho_group4755_cds other cellular processes
+AT1G20330 ortho_group4755_cds other metabolic processes
+AT1G20330 ortho_group4755_cds transferase activity
+AT1G20380 ortho_group4655_cds hydrolase activity
+AT1G20380 ortho_group4655_cds protein metabolism
+AT1G20470 ortho_group2580_cds other biological processes
+AT1G20470 ortho_group2580_cds unknown cellular components
+AT1G20470 ortho_group2580_cds unknown molecular functions
+AT1G20510 ortho_group2681_cds other cellular processes
+AT1G20510 ortho_group2681_cds other cytoplasmic components
+AT1G20510 ortho_group2681_cds other enzyme activity
+AT1G20510 ortho_group2681_cds other intracellular components
+AT1G20510 ortho_group2681_cds other metabolic processes
+AT1G20510 ortho_group2681_cds response to stress
+AT1G20540 ortho_group3146_cds nucleotide binding
+AT1G20540 ortho_group3146_cds other intracellular components
+AT1G20540 ortho_group3146_cds unknown biological processes
+AT1G20560 ortho_group3487_cds nucleotide binding
+AT1G20560 ortho_group3487_cds other cytoplasmic components
+AT1G20560 ortho_group3487_cds other intracellular components
+AT1G20560 ortho_group3487_cds other metabolic processes
+AT1G20630 ortho_group4958_cds cell wall
+AT1G20630 ortho_group4958_cds chloroplast
+AT1G20630 ortho_group4958_cds cytosol
+AT1G20630 ortho_group4958_cds mitochondria
+AT1G20630 ortho_group4958_cds other binding
+AT1G20630 ortho_group4958_cds other biological processes
+AT1G20630 ortho_group4958_cds other cellular processes
+AT1G20630 ortho_group4958_cds other cytoplasmic components
+AT1G20630 ortho_group4958_cds other enzyme activity
+AT1G20630 ortho_group4958_cds other intracellular components
+AT1G20630 ortho_group4958_cds plastid
+AT1G20630 ortho_group4958_cds response to abiotic or biotic stimulus
+AT1G20630 ortho_group4958_cds response to stress
+AT1G20630 ortho_group4958_cds ribosome
+AT1G20696 ortho_group3002_cds cell organization and biogenesis
+AT1G20696 ortho_group3002_cds DNA or RNA binding
+AT1G20696 ortho_group3002_cds other binding
+AT1G20696 ortho_group3002_cds other cellular processes
+AT1G20696 ortho_group3002_cds other intracellular components
+AT1G20696 ortho_group3002_cds structural molecule activity
+AT1G20696 ortho_group3002_cds transcription factor activity
+AT1G20920 ortho_group5267_cds hydrolase activity
+AT1G20920 ortho_group5267_cds nucleic acid binding
+AT1G20920 ortho_group5267_cds nucleotide binding
+AT1G20925 ortho_group4334_cds other cellular processes
+AT1G20925 ortho_group4334_cds other membranes
+AT1G20925 ortho_group4334_cds transport
+AT1G20925 ortho_group4334_cds transporter activity
+AT1G20950 ortho_group5226_cds cytosol
+AT1G20950 ortho_group5226_cds kinase activity
+AT1G20950 ortho_group5226_cds other biological processes
+AT1G20950 ortho_group5226_cds other cellular components
+AT1G20950 ortho_group5226_cds other cellular processes
+AT1G20950 ortho_group5226_cds other metabolic processes
+AT1G20950 ortho_group5226_cds transferase activity
+AT1G21230 ortho_group4863_cds kinase activity
+AT1G21230 ortho_group4863_cds other cellular processes
+AT1G21230 ortho_group4863_cds other metabolic processes
+AT1G21230 ortho_group4863_cds plasma membrane
+AT1G21230 ortho_group4863_cds protein metabolism
+AT1G21230 ortho_group4863_cds transferase activity
+AT1G21240 ortho_group4863_cds kinase activity
+AT1G21240 ortho_group4863_cds other cellular processes
+AT1G21240 ortho_group4863_cds other metabolic processes
+AT1G21240 ortho_group4863_cds plasma membrane
+AT1G21240 ortho_group4863_cds protein metabolism
+AT1G21240 ortho_group4863_cds transferase activity
+AT1G21320 ortho_group2749_cds nucleic acid binding
+AT1G21320 ortho_group2749_cds nucleotide binding
+AT1G21320 ortho_group2749_cds unknown biological processes
+AT1G21320 ortho_group2749_cds unknown cellular components
+AT1G21350 ortho_group5153_cds chloroplast
+AT1G21350 ortho_group5153_cds other cellular processes
+AT1G21350 ortho_group5153_cds other enzyme activity
+AT1G21350 ortho_group5153_cds other molecular functions
+AT1G21400 ortho_group3387_cds other enzyme activity
+AT1G21400 ortho_group3387_cds other metabolic processes
+AT1G21600 ortho_group2665_cds cell organization and biogenesis
+AT1G21600 ortho_group2665_cds chloroplast
+AT1G21600 ortho_group2665_cds other cellular processes
+AT1G21600 ortho_group2665_cds other cytoplasmic components
+AT1G21600 ortho_group2665_cds other intracellular components
+AT1G21600 ortho_group2665_cds other metabolic processes
+AT1G21600 ortho_group2665_cds plastid
+AT1G21600 ortho_group2665_cds unknown molecular functions
+AT1G21650 ortho_group3972_cds chloroplast
+AT1G21650 ortho_group3972_cds developmental processes
+AT1G21650 ortho_group3972_cds hydrolase activity
+AT1G21650 ortho_group3972_cds nucleotide binding
+AT1G21650 ortho_group3972_cds other binding
+AT1G21650 ortho_group3972_cds other cellular processes
+AT1G21650 ortho_group3972_cds other cytoplasmic components
+AT1G21650 ortho_group3972_cds other intracellular components
+AT1G21650 ortho_group3972_cds plastid
+AT1G21650 ortho_group3972_cds transport
+AT1G21650 ortho_group3972_cds transporter activity
+AT1G21690 ortho_group3243_cds developmental processes
+AT1G21690 ortho_group3243_cds DNA or RNA binding
+AT1G21690 ortho_group3243_cds hydrolase activity
+AT1G21690 ortho_group3243_cds nucleotide binding
+AT1G21690 ortho_group3243_cds nucleus
+AT1G21690 ortho_group3243_cds other intracellular components
+AT1G21710 ortho_group5531_cds chloroplast
+AT1G21710 ortho_group5531_cds DNA or RNA metabolism
+AT1G21710 ortho_group5531_cds hydrolase activity
+AT1G21710 ortho_group5531_cds other cellular processes
+AT1G21710 ortho_group5531_cds other enzyme activity
+AT1G21710 ortho_group5531_cds response to stress
+AT1G21760 ortho_group5002_cds mitochondria
+AT1G21760 ortho_group5002_cds nucleus
+AT1G21760 ortho_group5002_cds other cellular components
+AT1G21760 ortho_group5002_cds other cellular processes
+AT1G21760 ortho_group5002_cds other metabolic processes
+AT1G21760 ortho_group5002_cds protein metabolism
+AT1G21760 ortho_group5002_cds response to abiotic or biotic stimulus
+AT1G21760 ortho_group5002_cds response to stress
+AT1G21760 ortho_group5002_cds unknown molecular functions
+AT1G21790 ortho_group2788_cds unknown biological processes
+AT1G21790 ortho_group2788_cds unknown molecular functions
+AT1G21890 ortho_group4962_cds other membranes
+AT1G22050 ortho_group4433_cds unknown cellular components
+AT1G22050 ortho_group4433_cds unknown molecular functions
+AT1G22070 ortho_group2753_cds DNA or RNA binding
+AT1G22070 ortho_group2753_cds other cellular processes
+AT1G22070 ortho_group2753_cds protein binding
+AT1G22070 ortho_group2753_cds response to abiotic or biotic stimulus
+AT1G22070 ortho_group2753_cds response to stress
+AT1G22070 ortho_group2753_cds signal transduction
+AT1G22070 ortho_group2753_cds transcription factor activity
+AT1G22100 ortho_group5058_cds kinase activity
+AT1G22100 ortho_group5058_cds nucleotide binding
+AT1G22100 ortho_group5058_cds transferase activity
+AT1G22100 ortho_group5058_cds unknown biological processes
+AT1G22100 ortho_group5058_cds unknown cellular components
+AT1G22150 ortho_group3525_cds transporter activity
+AT1G22170 ortho_group3245_cds chloroplast
+AT1G22170 ortho_group3245_cds electron transport or energy pathways
+AT1G22170 ortho_group3245_cds other cellular processes
+AT1G22170 ortho_group3245_cds other enzyme activity
+AT1G22170 ortho_group3245_cds other metabolic processes
+AT1G22180 ortho_group4711_cds unknown biological processes
+AT1G22180 ortho_group4711_cds unknown cellular components
+AT1G22180 ortho_group4711_cds unknown molecular functions
+AT1G22380 ortho_group5475_cds other metabolic processes
+AT1G22380 ortho_group5475_cds transferase activity
+AT1G22380 ortho_group5475_cds unknown cellular components
+AT1G22450 ortho_group5487_cds chloroplast
+AT1G22450 ortho_group5487_cds mitochondria
+AT1G22450 ortho_group5487_cds other binding
+AT1G22450 ortho_group5487_cds other cytoplasmic components
+AT1G22450 ortho_group5487_cds other enzyme activity
+AT1G22450 ortho_group5487_cds other intracellular components
+AT1G22450 ortho_group5487_cds other membranes
+AT1G22450 ortho_group5487_cds other metabolic processes
+AT1G22450 ortho_group5487_cds plastid
+AT1G22450 ortho_group5487_cds response to abiotic or biotic stimulus
+AT1G22450 ortho_group5487_cds response to stress
+AT1G22450 ortho_group5487_cds transporter activity
+AT1G22460 ortho_group4934_cds unknown biological processes
+AT1G22460 ortho_group4934_cds unknown molecular functions
+AT1G22480 ortho_group4547_cds other binding
+AT1G22480 ortho_group4547_cds other membranes
+AT1G22480 ortho_group4547_cds other molecular functions
+AT1G22510 ortho_group4102_cds other binding
+AT1G22510 ortho_group4102_cds other cytoplasmic components
+AT1G22510 ortho_group4102_cds other intracellular components
+AT1G22510 ortho_group4102_cds other membranes
+AT1G22510 ortho_group4102_cds plasma membrane
+AT1G22700 ortho_group4606_cds cell organization and biogenesis
+AT1G22700 ortho_group4606_cds chloroplast
+AT1G22700 ortho_group4606_cds electron transport or energy pathways
+AT1G22700 ortho_group4606_cds other binding
+AT1G22700 ortho_group4606_cds other cellular processes
+AT1G22700 ortho_group4606_cds other cytoplasmic components
+AT1G22700 ortho_group4606_cds other intracellular components
+AT1G22700 ortho_group4606_cds other membranes
+AT1G22700 ortho_group4606_cds other metabolic processes
+AT1G22700 ortho_group4606_cds plastid
+AT1G22740 ortho_group3947_cds nucleotide binding
+AT1G22740 ortho_group3947_cds other biological processes
+AT1G22740 ortho_group3947_cds other cellular processes
+AT1G22740 ortho_group3947_cds other cytoplasmic components
+AT1G22740 ortho_group3947_cds other intracellular components
+AT1G22740 ortho_group3947_cds other metabolic processes
+AT1G22770 ortho_group4163_cds developmental processes
+AT1G22770 ortho_group4163_cds nucleus
+AT1G22770 ortho_group4163_cds other biological processes
+AT1G22770 ortho_group4163_cds other cellular processes
+AT1G22770 ortho_group4163_cds other intracellular components
+AT1G22770 ortho_group4163_cds other metabolic processes
+AT1G22770 ortho_group4163_cds protein binding
+AT1G22770 ortho_group4163_cds response to abiotic or biotic stimulus
+AT1G22770 ortho_group4163_cds response to stress
+AT1G22840 ortho_group2718_cds cytosol
+AT1G22840 ortho_group2718_cds mitochondria
+AT1G22840 ortho_group2718_cds other binding
+AT1G22840 ortho_group2718_cds other biological processes
+AT1G22840 ortho_group2718_cds other cytoplasmic components
+AT1G22840 ortho_group2718_cds other intracellular components
+AT1G22840 ortho_group2718_cds other membranes
+AT1G22840 ortho_group2718_cds other molecular functions
+AT1G22850 ortho_group4303_cds chloroplast
+AT1G22850 ortho_group4303_cds unknown biological processes
+AT1G23010 ortho_group4516_cds developmental processes
+AT1G23010 ortho_group4516_cds ER
+AT1G23010 ortho_group4516_cds other binding
+AT1G23010 ortho_group4516_cds other cellular processes
+AT1G23010 ortho_group4516_cds other enzyme activity
+AT1G23010 ortho_group4516_cds response to abiotic or biotic stimulus
+AT1G23010 ortho_group4516_cds response to stress
+AT1G23090 ortho_group2980_cds other cellular processes
+AT1G23090 ortho_group2980_cds other membranes
+AT1G23090 ortho_group2980_cds transport
+AT1G23090 ortho_group2980_cds transporter activity
+AT1G23100 ortho_group3704_cds mitochondria
+AT1G23100 ortho_group3704_cds nucleotide binding
+AT1G23100 ortho_group3704_cds other cellular processes
+AT1G23100 ortho_group3704_cds other metabolic processes
+AT1G23100 ortho_group3704_cds protein metabolism
+AT1G23280 ortho_group4490_cds unknown biological processes
+AT1G23280 ortho_group4490_cds unknown cellular components
+AT1G23280 ortho_group4490_cds unknown molecular functions
+AT1G23340 ortho_group2656_cds other cellular components
+AT1G23340 ortho_group2656_cds unknown biological processes
+AT1G23340 ortho_group2656_cds unknown molecular functions
+AT1G23360 ortho_group3759_cds chloroplast
+AT1G23360 ortho_group3759_cds other cellular processes
+AT1G23360 ortho_group3759_cds other metabolic processes
+AT1G23360 ortho_group3759_cds transferase activity
+AT1G23440 ortho_group3651_cds hydrolase activity
+AT1G23440 ortho_group3651_cds protein metabolism
+AT1G23440 ortho_group3651_cds unknown cellular components
+AT1G23460 ortho_group5152_cds hydrolase activity
+AT1G23460 ortho_group5152_cds other cellular components
+AT1G23460 ortho_group5152_cds other metabolic processes
+AT1G23465 ortho_group4969_cds hydrolase activity
+AT1G23465 ortho_group4969_cds other membranes
+AT1G23465 ortho_group4969_cds protein metabolism
+AT1G23740 ortho_group3323_cds chloroplast
+AT1G23740 ortho_group3323_cds extracellular
+AT1G23740 ortho_group3323_cds other binding
+AT1G23740 ortho_group3323_cds other cytoplasmic components
+AT1G23740 ortho_group3323_cds other enzyme activity
+AT1G23740 ortho_group3323_cds other intracellular components
+AT1G23740 ortho_group3323_cds other metabolic processes
+AT1G23740 ortho_group3323_cds plastid
+AT1G23740 ortho_group3323_cds response to abiotic or biotic stimulus
+AT1G23740 ortho_group3323_cds response to stress
+AT1G23800 ortho_group3565_cds mitochondria
+AT1G23800 ortho_group3565_cds other enzyme activity
+AT1G23800 ortho_group3565_cds other metabolic processes
+AT1G24050 ortho_group4721_cds unknown biological processes
+AT1G24050 ortho_group4721_cds unknown molecular functions
+AT1G24090 ortho_group4186_cds hydrolase activity
+AT1G24090 ortho_group4186_cds nucleic acid binding
+AT1G24090 ortho_group4186_cds other cellular processes
+AT1G24090 ortho_group4186_cds other metabolic processes
+AT1G24120 ortho_group3564_cds other cellular processes
+AT1G24120 ortho_group3564_cds other metabolic processes
+AT1G24120 ortho_group3564_cds protein binding
+AT1G24120 ortho_group3564_cds protein metabolism
+AT1G24160 ortho_group3145_cds other cellular components
+AT1G24160 ortho_group3145_cds unknown biological processes
+AT1G24160 ortho_group3145_cds unknown molecular functions
+AT1G24360 ortho_group5466_cds chloroplast
+AT1G24360 ortho_group5466_cds other binding
+AT1G24360 ortho_group5466_cds other cellular processes
+AT1G24360 ortho_group5466_cds other cytoplasmic components
+AT1G24360 ortho_group5466_cds other enzyme activity
+AT1G24360 ortho_group5466_cds other intracellular components
+AT1G24360 ortho_group5466_cds other metabolic processes
+AT1G24360 ortho_group5466_cds plastid
+AT1G24360 ortho_group5466_cds transferase activity
+AT1G24440 ortho_group2955_cds other binding
+AT1G24510 ortho_group2454_cds cytosol
+AT1G24510 ortho_group2454_cds other cellular components
+AT1G24510 ortho_group2454_cds other cellular processes
+AT1G24510 ortho_group2454_cds other metabolic processes
+AT1G24510 ortho_group2454_cds plasma membrane
+AT1G24510 ortho_group2454_cds protein binding
+AT1G24510 ortho_group2454_cds protein metabolism
+AT1G24764 ortho_group4541_cds cell organization and biogenesis
+AT1G24764 ortho_group4541_cds other cellular processes
+AT1G24764 ortho_group4541_cds other intracellular components
+AT1G24764 ortho_group4541_cds protein binding
+AT1G25340 ortho_group3504_cds DNA or RNA binding
+AT1G25340 ortho_group3504_cds other cellular processes
+AT1G25340 ortho_group3504_cds other metabolic processes
+AT1G25340 ortho_group3504_cds transcription factor activity
+AT1G25350 ortho_group4458_cds cytosol
+AT1G25350 ortho_group4458_cds developmental processes
+AT1G25350 ortho_group4458_cds other cellular processes
+AT1G25350 ortho_group4458_cds other enzyme activity
+AT1G25350 ortho_group4458_cds other metabolic processes
+AT1G25350 ortho_group4458_cds protein metabolism
+AT1G25570 ortho_group5098_cds other cytoplasmic components
+AT1G25570 ortho_group5098_cds other intracellular components
+AT1G25570 ortho_group5098_cds plasma membrane
+AT1G25682 ortho_group5387_cds unknown biological processes
+AT1G25682 ortho_group5387_cds unknown cellular components
+AT1G25682 ortho_group5387_cds unknown molecular functions
+AT1G25988 ortho_group5387_cds unknown biological processes
+AT1G25988 ortho_group5387_cds unknown molecular functions
+AT1G26190 ortho_group4028_cds kinase activity
+AT1G26190 ortho_group4028_cds nucleotide binding
+AT1G26190 ortho_group4028_cds other cellular processes
+AT1G26190 ortho_group4028_cds other enzyme activity
+AT1G26190 ortho_group4028_cds other metabolic processes
+AT1G26190 ortho_group4028_cds transferase activity
+AT1G26190 ortho_group4028_cds unknown cellular components
+AT1G26300 ortho_group4445_cds unknown biological processes
+AT1G26300 ortho_group4445_cds unknown cellular components
+AT1G26300 ortho_group4445_cds unknown molecular functions
+AT1G26340 ortho_group4175_cds chloroplast
+AT1G26340 ortho_group4175_cds other binding
+AT1G26340 ortho_group4175_cds other cytoplasmic components
+AT1G26340 ortho_group4175_cds other intracellular components
+AT1G26340 ortho_group4175_cds other membranes
+AT1G26340 ortho_group4175_cds plastid
+AT1G26480 ortho_group4679_cds protein binding
+AT1G26690 ortho_group4903_cds other cellular components
+AT1G26690 ortho_group4903_cds other cellular processes
+AT1G26690 ortho_group4903_cds other membranes
+AT1G26690 ortho_group4903_cds transport
+AT1G26690 ortho_group4903_cds transporter activity
+AT1G26830 ortho_group3015_cds cytosol
+AT1G26830 ortho_group3015_cds developmental processes
+AT1G26830 ortho_group3015_cds other cellular processes
+AT1G26830 ortho_group3015_cds other enzyme activity
+AT1G26830 ortho_group3015_cds other intracellular components
+AT1G26830 ortho_group3015_cds other metabolic processes
+AT1G26830 ortho_group3015_cds protein binding
+AT1G26830 ortho_group3015_cds protein metabolism
+AT1G26830 ortho_group3015_cds response to abiotic or biotic stimulus
+AT1G26850 ortho_group5144_cds Golgi apparatus
+AT1G26850 ortho_group5144_cds other membranes
+AT1G26945 ortho_group4044_cds chloroplast
+AT1G26945 ortho_group4044_cds nucleus
+AT1G26945 ortho_group4044_cds response to abiotic or biotic stimulus
+AT1G27000 ortho_group3016_cds DNA or RNA binding
+AT1G27000 ortho_group3016_cds other cellular processes
+AT1G27000 ortho_group3016_cds other metabolic processes
+AT1G27160 ortho_group5567_cds nucleotide binding
+AT1G27160 ortho_group5567_cds other cellular processes
+AT1G27160 ortho_group5567_cds other cytoplasmic components
+AT1G27160 ortho_group5567_cds other enzyme activity
+AT1G27160 ortho_group5567_cds other metabolic processes
+AT1G27160 ortho_group5567_cds protein metabolism
+AT1G27300 ortho_group4370_cds protein binding
+AT1G27300 ortho_group4370_cds unknown biological processes
+AT1G27300 ortho_group4370_cds unknown cellular components
+AT1G27380 ortho_group4162_cds cell organization and biogenesis
+AT1G27380 ortho_group4162_cds developmental processes
+AT1G27380 ortho_group4162_cds other cellular processes
+AT1G27380 ortho_group4162_cds plasma membrane
+AT1G27380 ortho_group4162_cds unknown molecular functions
+AT1G27385 ortho_group2862_cds unknown biological processes
+AT1G27385 ortho_group2862_cds unknown molecular functions
+AT1G27390 ortho_group5092_cds cell organization and biogenesis
+AT1G27390 ortho_group5092_cds cytosol
+AT1G27390 ortho_group5092_cds mitochondria
+AT1G27390 ortho_group5092_cds other binding
+AT1G27390 ortho_group5092_cds other cellular processes
+AT1G27390 ortho_group5092_cds other cytoplasmic components
+AT1G27390 ortho_group5092_cds other intracellular components
+AT1G27390 ortho_group5092_cds other membranes
+AT1G27390 ortho_group5092_cds ribosome
+AT1G27390 ortho_group5092_cds transport
+AT1G27390 ortho_group5092_cds transporter activity
+AT1G27450 ortho_group3021_cds cell wall
+AT1G27450 ortho_group3021_cds chloroplast
+AT1G27450 ortho_group3021_cds cytosol
+AT1G27450 ortho_group3021_cds other biological processes
+AT1G27450 ortho_group3021_cds other cellular processes
+AT1G27450 ortho_group3021_cds other cytoplasmic components
+AT1G27450 ortho_group3021_cds other intracellular components
+AT1G27450 ortho_group3021_cds other metabolic processes
+AT1G27450 ortho_group3021_cds plasma membrane
+AT1G27450 ortho_group3021_cds plastid
+AT1G27450 ortho_group3021_cds transferase activity
+AT1G27460 ortho_group4703_cds plasma membrane
+AT1G27460 ortho_group4703_cds protein binding
+AT1G27460 ortho_group4703_cds unknown biological processes
+AT1G27520 ortho_group2775_cds hydrolase activity
+AT1G27520 ortho_group2775_cds other binding
+AT1G27520 ortho_group2775_cds other cellular components
+AT1G27520 ortho_group2775_cds other cellular processes
+AT1G27520 ortho_group2775_cds other membranes
+AT1G27520 ortho_group2775_cds other metabolic processes
+AT1G27520 ortho_group2775_cds protein metabolism
+AT1G27530 ortho_group4197_cds unknown biological processes
+AT1G27530 ortho_group4197_cds unknown molecular functions
+AT1G27760 ortho_group5593_cds nucleus
+AT1G27760 ortho_group5593_cds other binding
+AT1G27760 ortho_group5593_cds other cytoplasmic components
+AT1G27760 ortho_group5593_cds response to abiotic or biotic stimulus
+AT1G27760 ortho_group5593_cds response to stress
+AT1G27770 ortho_group3869_cds chloroplast
+AT1G27770 ortho_group3869_cds ER
+AT1G27770 ortho_group3869_cds hydrolase activity
+AT1G27770 ortho_group3869_cds other cellular processes
+AT1G27770 ortho_group3869_cds other cytoplasmic components
+AT1G27770 ortho_group3869_cds other intracellular components
+AT1G27770 ortho_group3869_cds other membranes
+AT1G27770 ortho_group3869_cds other metabolic processes
+AT1G27770 ortho_group3869_cds plasma membrane
+AT1G27770 ortho_group3869_cds plastid
+AT1G27770 ortho_group3869_cds protein binding
+AT1G27770 ortho_group3869_cds transport
+AT1G27770 ortho_group3869_cds transporter activity
+AT1G27970 ortho_group4225_cds cytosol
+AT1G27970 ortho_group4225_cds nucleus
+AT1G27970 ortho_group4225_cds other cellular processes
+AT1G27970 ortho_group4225_cds other intracellular components
+AT1G27970 ortho_group4225_cds plasma membrane
+AT1G27970 ortho_group4225_cds protein binding
+AT1G27970 ortho_group4225_cds transport
+AT1G27970 ortho_group4225_cds transporter activity
+AT1G28100 ortho_group5184_cds unknown biological processes
+AT1G28100 ortho_group5184_cds unknown cellular components
+AT1G28100 ortho_group5184_cds unknown molecular functions
+AT1G28220 ortho_group4502_cds other cellular processes
+AT1G28220 ortho_group4502_cds other membranes
+AT1G28220 ortho_group4502_cds transport
+AT1G28220 ortho_group4502_cds transporter activity
+AT1G28230 ortho_group4502_cds other cellular processes
+AT1G28230 ortho_group4502_cds other membranes
+AT1G28230 ortho_group4502_cds plasma membrane
+AT1G28230 ortho_group4502_cds transport
+AT1G28230 ortho_group4502_cds transporter activity
+AT1G28250 ortho_group4079_cds protein binding
+AT1G28250 ortho_group4079_cds unknown biological processes
+AT1G28470 ortho_group4951_cds developmental processes
+AT1G28470 ortho_group4951_cds nucleus
+AT1G28470 ortho_group4951_cds other cellular processes
+AT1G28470 ortho_group4951_cds other metabolic processes
+AT1G28470 ortho_group4951_cds transcription factor activity
+AT1G28490 ortho_group5172_cds cell organization and biogenesis
+AT1G28490 ortho_group5172_cds Golgi apparatus
+AT1G28490 ortho_group5172_cds other cellular processes
+AT1G28490 ortho_group5172_cds other cytoplasmic components
+AT1G28490 ortho_group5172_cds other intracellular components
+AT1G28490 ortho_group5172_cds protein binding
+AT1G28490 ortho_group5172_cds transport
+AT1G28510 ortho_group3235_cds unknown biological processes
+AT1G28510 ortho_group3235_cds unknown molecular functions
+AT1G28570 ortho_group4006_cds hydrolase activity
+AT1G28570 ortho_group4006_cds other cellular components
+AT1G28570 ortho_group4006_cds other metabolic processes
+AT1G28590 ortho_group2921_cds hydrolase activity
+AT1G28590 ortho_group2921_cds other cellular components
+AT1G28590 ortho_group2921_cds other metabolic processes
+AT1G28960 ortho_group4473_cds hydrolase activity
+AT1G28960 ortho_group4473_cds mitochondria
+AT1G28960 ortho_group4473_cds unknown biological processes
+AT1G29060 ortho_group5425_cds unknown biological processes
+AT1G29060 ortho_group5425_cds unknown molecular functions
+AT1G29120 ortho_group4648_cds chloroplast
+AT1G29120 ortho_group4648_cds unknown biological processes
+AT1G29120 ortho_group4648_cds unknown molecular functions
+AT1G29470 ortho_group3752_cds Golgi apparatus
+AT1G29470 ortho_group3752_cds unknown biological processes
+AT1G29520 ortho_group2826_cds other cellular components
+AT1G29520 ortho_group2826_cds other membranes
+AT1G29520 ortho_group2826_cds unknown biological processes
+AT1G29520 ortho_group2826_cds unknown molecular functions
+AT1G29810 ortho_group5351_cds other cellular processes
+AT1G29810 ortho_group5351_cds other enzyme activity
+AT1G29810 ortho_group5351_cds other metabolic processes
+AT1G29850 ortho_group3566_cds cytosol
+AT1G29850 ortho_group3566_cds DNA or RNA binding
+AT1G29850 ortho_group3566_cds unknown biological processes
+AT1G29990 ortho_group5208_cds cell organization and biogenesis
+AT1G29990 ortho_group5208_cds cytosol
+AT1G29990 ortho_group5208_cds other cellular processes
+AT1G29990 ortho_group5208_cds other cytoplasmic components
+AT1G29990 ortho_group5208_cds other intracellular components
+AT1G29990 ortho_group5208_cds other metabolic processes
+AT1G29990 ortho_group5208_cds protein binding
+AT1G29990 ortho_group5208_cds protein metabolism
+AT1G30110 ortho_group3232_cds hydrolase activity
+AT1G30110 ortho_group3232_cds other cellular processes
+AT1G30110 ortho_group3232_cds other metabolic processes
+AT1G30110 ortho_group3232_cds unknown cellular components
+AT1G30380 ortho_group4646_cds chloroplast
+AT1G30380 ortho_group4646_cds other cellular processes
+AT1G30380 ortho_group4646_cds other cytoplasmic components
+AT1G30380 ortho_group4646_cds other intracellular components
+AT1G30380 ortho_group4646_cds other membranes
+AT1G30380 ortho_group4646_cds other metabolic processes
+AT1G30380 ortho_group4646_cds plastid
+AT1G30380 ortho_group4646_cds unknown molecular functions
+AT1G30400 ortho_group5270_cds hydrolase activity
+AT1G30400 ortho_group5270_cds other biological processes
+AT1G30400 ortho_group5270_cds other cellular components
+AT1G30400 ortho_group5270_cds other cytoplasmic components
+AT1G30400 ortho_group5270_cds other intracellular components
+AT1G30400 ortho_group5270_cds other membranes
+AT1G30400 ortho_group5270_cds protein binding
+AT1G30400 ortho_group5270_cds transport
+AT1G30400 ortho_group5270_cds transporter activity
+AT1G30520 ortho_group2978_cds chloroplast
+AT1G30520 ortho_group2978_cds nucleotide binding
+AT1G30520 ortho_group2978_cds other cellular processes
+AT1G30520 ortho_group2978_cds other cytoplasmic components
+AT1G30520 ortho_group2978_cds other enzyme activity
+AT1G30520 ortho_group2978_cds other intracellular components
+AT1G30520 ortho_group2978_cds other metabolic processes
+AT1G30580 ortho_group4378_cds cytosol
+AT1G30580 ortho_group4378_cds nucleotide binding
+AT1G30580 ortho_group4378_cds other biological processes
+AT1G30580 ortho_group4378_cds other cellular components
+AT1G30630 ortho_group5047_cds other binding
+AT1G30630 ortho_group5047_cds other cellular processes
+AT1G30630 ortho_group5047_cds other cytoplasmic components
+AT1G30630 ortho_group5047_cds other intracellular components
+AT1G30630 ortho_group5047_cds other membranes
+AT1G30630 ortho_group5047_cds structural molecule activity
+AT1G30630 ortho_group5047_cds transport
+AT1G30630 ortho_group5047_cds transporter activity
+AT1G30755 ortho_group3879_cds unknown biological processes
+AT1G30755 ortho_group3879_cds unknown cellular components
+AT1G30845 ortho_group4169_cds unknown biological processes
+AT1G30845 ortho_group4169_cds unknown cellular components
+AT1G30845 ortho_group4169_cds unknown molecular functions
+AT1G30910 ortho_group5073_cds chloroplast
+AT1G30910 ortho_group5073_cds other binding
+AT1G30910 ortho_group5073_cds other enzyme activity
+AT1G30910 ortho_group5073_cds unknown biological processes
+AT1G30960 ortho_group3092_cds cytosol
+AT1G30960 ortho_group3092_cds DNA or RNA binding
+AT1G30960 ortho_group3092_cds nucleotide binding
+AT1G31020 ortho_group2860_cds other cellular processes
+AT1G31020 ortho_group2860_cds other enzyme activity
+AT1G31160 ortho_group5126_cds chloroplast
+AT1G31160 ortho_group5126_cds other binding
+AT1G31160 ortho_group5126_cds other enzyme activity
+AT1G31160 ortho_group5126_cds protein binding
+AT1G31160 ortho_group5126_cds unknown biological processes
+AT1G31180 ortho_group3026_cds chloroplast
+AT1G31180 ortho_group3026_cds other cellular processes
+AT1G31180 ortho_group3026_cds other cytoplasmic components
+AT1G31180 ortho_group3026_cds other enzyme activity
+AT1G31180 ortho_group3026_cds other intracellular components
+AT1G31180 ortho_group3026_cds other metabolic processes
+AT1G31180 ortho_group3026_cds plastid
+AT1G31180 ortho_group3026_cds response to abiotic or biotic stimulus
+AT1G31180 ortho_group3026_cds response to stress
+AT1G31190 ortho_group3167_cds chloroplast
+AT1G31190 ortho_group3167_cds cytosol
+AT1G31190 ortho_group3167_cds hydrolase activity
+AT1G31190 ortho_group3167_cds other cellular processes
+AT1G31190 ortho_group3167_cds other cytoplasmic components
+AT1G31190 ortho_group3167_cds other intracellular components
+AT1G31190 ortho_group3167_cds other metabolic processes
+AT1G31190 ortho_group3167_cds plastid
+AT1G31330 ortho_group3861_cds chloroplast
+AT1G31330 ortho_group3861_cds other cellular processes
+AT1G31330 ortho_group3861_cds other cytoplasmic components
+AT1G31330 ortho_group3861_cds other intracellular components
+AT1G31330 ortho_group3861_cds other membranes
+AT1G31330 ortho_group3861_cds other metabolic processes
+AT1G31330 ortho_group3861_cds plastid
+AT1G31330 ortho_group3861_cds unknown molecular functions
+AT1G31340 ortho_group4943_cds cytosol
+AT1G31340 ortho_group4943_cds developmental processes
+AT1G31340 ortho_group4943_cds other biological processes
+AT1G31340 ortho_group4943_cds other cellular processes
+AT1G31340 ortho_group4943_cds other metabolic processes
+AT1G31340 ortho_group4943_cds plasma membrane
+AT1G31340 ortho_group4943_cds protein metabolism
+AT1G31440 ortho_group4250_cds other cellular components
+AT1G31440 ortho_group4250_cds plasma membrane
+AT1G31440 ortho_group4250_cds protein binding
+AT1G31540 ortho_group2559_cds hydrolase activity
+AT1G31540 ortho_group2559_cds nucleotide binding
+AT1G31540 ortho_group2559_cds other cellular components
+AT1G31540 ortho_group2559_cds receptor binding or activity
+AT1G31540 ortho_group2559_cds response to stress
+AT1G31540 ortho_group2559_cds signal transduction
+AT1G31660 ortho_group5056_cds unknown biological processes
+AT1G31660 ortho_group5056_cds unknown cellular components
+AT1G31660 ortho_group5056_cds unknown molecular functions
+AT1G31817 ortho_group3419_cds cytosol
+AT1G31817 ortho_group3419_cds other cellular processes
+AT1G31817 ortho_group3419_cds other cytoplasmic components
+AT1G31817 ortho_group3419_cds other intracellular components
+AT1G31817 ortho_group3419_cds other metabolic processes
+AT1G31817 ortho_group3419_cds protein metabolism
+AT1G31817 ortho_group3419_cds ribosome
+AT1G31817 ortho_group3419_cds structural molecule activity
+AT1G31860 ortho_group4827_cds chloroplast
+AT1G31860 ortho_group4827_cds hydrolase activity
+AT1G31860 ortho_group4827_cds other cellular processes
+AT1G31860 ortho_group4827_cds other cytoplasmic components
+AT1G31860 ortho_group4827_cds other intracellular components
+AT1G31860 ortho_group4827_cds other metabolic processes
+AT1G31860 ortho_group4827_cds plastid
+AT1G31970 ortho_group4114_cds cytosol
+AT1G31970 ortho_group4114_cds hydrolase activity
+AT1G31970 ortho_group4114_cds nucleic acid binding
+AT1G31970 ortho_group4114_cds nucleotide binding
+AT1G32050 ortho_group2809_cds mitochondria
+AT1G32050 ortho_group2809_cds plasma membrane
+AT1G32050 ortho_group2809_cds transport
+AT1G32050 ortho_group2809_cds transporter activity
+AT1G32060 ortho_group5207_cds chloroplast
+AT1G32060 ortho_group5207_cds extracellular
+AT1G32060 ortho_group5207_cds kinase activity
+AT1G32060 ortho_group5207_cds nucleotide binding
+AT1G32060 ortho_group5207_cds other cellular processes
+AT1G32060 ortho_group5207_cds other cytoplasmic components
+AT1G32060 ortho_group5207_cds other intracellular components
+AT1G32060 ortho_group5207_cds other membranes
+AT1G32060 ortho_group5207_cds other metabolic processes
+AT1G32060 ortho_group5207_cds plastid
+AT1G32060 ortho_group5207_cds protein binding
+AT1G32060 ortho_group5207_cds protein metabolism
+AT1G32060 ortho_group5207_cds response to abiotic or biotic stimulus
+AT1G32060 ortho_group5207_cds response to stress
+AT1G32060 ortho_group5207_cds transferase activity
+AT1G32070 ortho_group5409_cds chloroplast
+AT1G32070 ortho_group5409_cds nucleus
+AT1G32070 ortho_group5409_cds other biological processes
+AT1G32070 ortho_group5409_cds other metabolic processes
+AT1G32070 ortho_group5409_cds transferase activity
+AT1G32100 ortho_group5149_cds other cellular processes
+AT1G32100 ortho_group5149_cds other enzyme activity
+AT1G32100 ortho_group5149_cds other metabolic processes
+AT1G32100 ortho_group5149_cds unknown cellular components
+AT1G32130 ortho_group5089_cds other cellular processes
+AT1G32130 ortho_group5089_cds other metabolic processes
+AT1G32130 ortho_group5089_cds signal transduction
+AT1G32130 ortho_group5089_cds unknown molecular functions
+AT1G32170 ortho_group2657_cds hydrolase activity
+AT1G32170 ortho_group2657_cds other cellular processes
+AT1G32170 ortho_group2657_cds other metabolic processes
+AT1G32170 ortho_group2657_cds transferase activity
+AT1G32200 ortho_group3545_cds chloroplast
+AT1G32200 ortho_group3545_cds other cellular processes
+AT1G32200 ortho_group3545_cds other cytoplasmic components
+AT1G32200 ortho_group3545_cds other intracellular components
+AT1G32200 ortho_group3545_cds other metabolic processes
+AT1G32200 ortho_group3545_cds plastid
+AT1G32200 ortho_group3545_cds transferase activity
+AT1G32210 ortho_group4976_cds ER
+AT1G32210 ortho_group4976_cds other cellular processes
+AT1G32210 ortho_group4976_cds other membranes
+AT1G32210 ortho_group4976_cds unknown molecular functions
+AT1G32230 ortho_group3136_cds developmental processes
+AT1G32230 ortho_group3136_cds nucleus
+AT1G32230 ortho_group3136_cds other biological processes
+AT1G32230 ortho_group3136_cds other cellular processes
+AT1G32230 ortho_group3136_cds other cytoplasmic components
+AT1G32230 ortho_group3136_cds other metabolic processes
+AT1G32230 ortho_group3136_cds protein binding
+AT1G32230 ortho_group3136_cds response to abiotic or biotic stimulus
+AT1G32230 ortho_group3136_cds response to stress
+AT1G32230 ortho_group3136_cds signal transduction
+AT1G32540 ortho_group4858_cds DNA or RNA binding
+AT1G32540 ortho_group4858_cds other cellular components
+AT1G32540 ortho_group4858_cds other cellular processes
+AT1G32540 ortho_group4858_cds other metabolic processes
+AT1G32540 ortho_group4858_cds response to abiotic or biotic stimulus
+AT1G32540 ortho_group4858_cds response to stress
+AT1G32550 ortho_group5353_cds chloroplast
+AT1G32550 ortho_group5353_cds electron transport or energy pathways
+AT1G32550 ortho_group5353_cds other metabolic processes
+AT1G32550 ortho_group5353_cds other molecular functions
+AT1G32750 ortho_group3574_cds DNA or RNA binding
+AT1G32750 ortho_group3574_cds other biological processes
+AT1G32750 ortho_group3574_cds transferase activity
+AT1G32790 ortho_group3180_cds DNA or RNA binding
+AT1G32790 ortho_group3180_cds nucleic acid binding
+AT1G32790 ortho_group3180_cds nucleotide binding
+AT1G32790 ortho_group3180_cds unknown biological processes
+AT1G32930 ortho_group5359_cds other cellular processes
+AT1G32930 ortho_group5359_cds other membranes
+AT1G32930 ortho_group5359_cds other metabolic processes
+AT1G32930 ortho_group5359_cds protein metabolism
+AT1G32930 ortho_group5359_cds transferase activity
+AT1G33090 ortho_group3932_cds other cellular processes
+AT1G33090 ortho_group3932_cds other membranes
+AT1G33090 ortho_group3932_cds transport
+AT1G33090 ortho_group3932_cds transporter activity
+AT1G33120 ortho_group3500_cds chloroplast
+AT1G33120 ortho_group3500_cds cytosol
+AT1G33120 ortho_group3500_cds DNA or RNA binding
+AT1G33120 ortho_group3500_cds nucleus
+AT1G33120 ortho_group3500_cds other cellular components
+AT1G33120 ortho_group3500_cds other cellular processes
+AT1G33120 ortho_group3500_cds other cytoplasmic components
+AT1G33120 ortho_group3500_cds other intracellular components
+AT1G33120 ortho_group3500_cds other membranes
+AT1G33120 ortho_group3500_cds other metabolic processes
+AT1G33120 ortho_group3500_cds plasma membrane
+AT1G33120 ortho_group3500_cds protein metabolism
+AT1G33120 ortho_group3500_cds ribosome
+AT1G33120 ortho_group3500_cds structural molecule activity
+AT1G33240 ortho_group3441_cds cell organization and biogenesis
+AT1G33240 ortho_group3441_cds developmental processes
+AT1G33240 ortho_group3441_cds DNA or RNA binding
+AT1G33240 ortho_group3441_cds DNA or RNA metabolism
+AT1G33240 ortho_group3441_cds nucleus
+AT1G33240 ortho_group3441_cds other cellular processes
+AT1G33240 ortho_group3441_cds other metabolic processes
+AT1G33240 ortho_group3441_cds response to abiotic or biotic stimulus
+AT1G33240 ortho_group3441_cds response to stress
+AT1G33240 ortho_group3441_cds transcription factor activity
+AT1G33490 ortho_group5452_cds unknown biological processes
+AT1G33490 ortho_group5452_cds unknown cellular components
+AT1G33490 ortho_group5452_cds unknown molecular functions
+AT1G33540 ortho_group4253_cds hydrolase activity
+AT1G33540 ortho_group4253_cds other cellular components
+AT1G33540 ortho_group4253_cds protein metabolism
+AT1G33730 ortho_group5440_cds other binding
+AT1G33730 ortho_group5440_cds other enzyme activity
+AT1G33730 ortho_group5440_cds other metabolic processes
+AT1G33730 ortho_group5440_cds other molecular functions
+AT1G33730 ortho_group5440_cds unknown cellular components
+AT1G33970 ortho_group4589_cds nucleotide binding
+AT1G33970 ortho_group4589_cds response to abiotic or biotic stimulus
+AT1G33970 ortho_group4589_cds unknown cellular components
+AT1G34020 ortho_group3983_cds other membranes
+AT1G34020 ortho_group3983_cds plasma membrane
+AT1G34110 ortho_group3801_cds kinase activity
+AT1G34110 ortho_group3801_cds nucleotide binding
+AT1G34110 ortho_group3801_cds other cellular components
+AT1G34110 ortho_group3801_cds other cellular processes
+AT1G34110 ortho_group3801_cds other metabolic processes
+AT1G34110 ortho_group3801_cds protein metabolism
+AT1G34110 ortho_group3801_cds signal transduction
+AT1G34110 ortho_group3801_cds transferase activity
+AT1G34320 ortho_group3879_cds other cellular processes
+AT1G34320 ortho_group3879_cds other metabolic processes
+AT1G34320 ortho_group3879_cds plasma membrane
+AT1G34320 ortho_group3879_cds protein metabolism
+AT1G34340 ortho_group3749_cds other enzyme activity
+AT1G34340 ortho_group3749_cds unknown biological processes
+AT1G34340 ortho_group3749_cds unknown cellular components
+AT1G34350 ortho_group5106_cds unknown biological processes
+AT1G34350 ortho_group5106_cds unknown cellular components
+AT1G34350 ortho_group5106_cds unknown molecular functions
+AT1G34380 ortho_group5202_cds chloroplast
+AT1G34380 ortho_group5202_cds DNA or RNA binding
+AT1G34380 ortho_group5202_cds hydrolase activity
+AT1G34380 ortho_group5202_cds other cellular processes
+AT1G34380 ortho_group5202_cds other enzyme activity
+AT1G34380 ortho_group5202_cds other metabolic processes
+AT1G34550 ortho_group3570_cds developmental processes
+AT1G34550 ortho_group3570_cds other biological processes
+AT1G34760 ortho_group4679_cds other binding
+AT1G34760 ortho_group4679_cds protein binding
+AT1G34760 ortho_group4679_cds unknown cellular components
+AT1G35180 ortho_group5523_cds other membranes
+AT1G35180 ortho_group5523_cds unknown biological processes
+AT1G35180 ortho_group5523_cds unknown molecular functions
+AT1G35510 ortho_group3676_cds chloroplast
+AT1G35510 ortho_group3676_cds unknown biological processes
+AT1G35510 ortho_group3676_cds unknown molecular functions
+AT1G35620 ortho_group3744_cds cell wall
+AT1G35620 ortho_group3744_cds ER
+AT1G35620 ortho_group3744_cds other cellular components
+AT1G35620 ortho_group3744_cds other cellular processes
+AT1G35620 ortho_group3744_cds other cytoplasmic components
+AT1G35620 ortho_group3744_cds other enzyme activity
+AT1G35620 ortho_group3744_cds other intracellular components
+AT1G35620 ortho_group3744_cds other membranes
+AT1G35680 ortho_group5151_cds cell organization and biogenesis
+AT1G35680 ortho_group5151_cds chloroplast
+AT1G35680 ortho_group5151_cds developmental processes
+AT1G35680 ortho_group5151_cds DNA or RNA binding
+AT1G35680 ortho_group5151_cds nucleus
+AT1G35680 ortho_group5151_cds other cellular processes
+AT1G35680 ortho_group5151_cds other cytoplasmic components
+AT1G35680 ortho_group5151_cds other intracellular components
+AT1G35680 ortho_group5151_cds other metabolic processes
+AT1G35680 ortho_group5151_cds plastid
+AT1G35680 ortho_group5151_cds protein metabolism
+AT1G35680 ortho_group5151_cds response to abiotic or biotic stimulus
+AT1G35680 ortho_group5151_cds response to stress
+AT1G35680 ortho_group5151_cds ribosome
+AT1G35680 ortho_group5151_cds structural molecule activity
+AT1G35720 ortho_group5007_cds cell wall
+AT1G35720 ortho_group5007_cds chloroplast
+AT1G35720 ortho_group5007_cds cytosol
+AT1G35720 ortho_group5007_cds extracellular
+AT1G35720 ortho_group5007_cds mitochondria
+AT1G35720 ortho_group5007_cds nucleotide binding
+AT1G35720 ortho_group5007_cds other binding
+AT1G35720 ortho_group5007_cds other biological processes
+AT1G35720 ortho_group5007_cds other cellular components
+AT1G35720 ortho_group5007_cds other cytoplasmic components
+AT1G35720 ortho_group5007_cds other enzyme activity
+AT1G35720 ortho_group5007_cds other intracellular components
+AT1G35720 ortho_group5007_cds other membranes
+AT1G35720 ortho_group5007_cds plasma membrane
+AT1G35720 ortho_group5007_cds plastid
+AT1G35720 ortho_group5007_cds protein binding
+AT1G35720 ortho_group5007_cds response to abiotic or biotic stimulus
+AT1G35720 ortho_group5007_cds response to stress
+AT1G35780 ortho_group3034_cds unknown biological processes
+AT1G35780 ortho_group3034_cds unknown cellular components
+AT1G35780 ortho_group3034_cds unknown molecular functions
+AT1G36050 ortho_group3239_cds other cellular processes
+AT1G36050 ortho_group3239_cds other cytoplasmic components
+AT1G36050 ortho_group3239_cds other intracellular components
+AT1G36050 ortho_group3239_cds other membranes
+AT1G36050 ortho_group3239_cds other metabolic processes
+AT1G36050 ortho_group3239_cds unknown molecular functions
+AT1G36320 ortho_group3199_cds unknown biological processes
+AT1G36320 ortho_group3199_cds unknown molecular functions
+AT1G37130 ortho_group3640_cds cytosol
+AT1G37130 ortho_group3640_cds other cellular processes
+AT1G37130 ortho_group3640_cds other cytoplasmic components
+AT1G37130 ortho_group3640_cds other enzyme activity
+AT1G37130 ortho_group3640_cds other intracellular components
+AT1G37130 ortho_group3640_cds other metabolic processes
+AT1G37130 ortho_group3640_cds plasma membrane
+AT1G37130 ortho_group3640_cds response to abiotic or biotic stimulus
+AT1G42470 ortho_group5507_cds other cellular components
+AT1G42470 ortho_group5507_cds other membranes
+AT1G42470 ortho_group5507_cds plasma membrane
+AT1G42470 ortho_group5507_cds receptor binding or activity
+AT1G42480 ortho_group3945_cds unknown biological processes
+AT1G42480 ortho_group3945_cds unknown molecular functions
+AT1G42960 ortho_group3939_cds chloroplast
+AT1G42960 ortho_group3939_cds mitochondria
+AT1G42960 ortho_group3939_cds other cytoplasmic components
+AT1G42960 ortho_group3939_cds other intracellular components
+AT1G42960 ortho_group3939_cds other membranes
+AT1G42960 ortho_group3939_cds plastid
+AT1G42960 ortho_group3939_cds unknown biological processes
+AT1G42960 ortho_group3939_cds unknown molecular functions
+AT1G42990 ortho_group4851_cds DNA or RNA binding
+AT1G42990 ortho_group4851_cds ER
+AT1G42990 ortho_group4851_cds nucleus
+AT1G42990 ortho_group4851_cds other biological processes
+AT1G42990 ortho_group4851_cds other cellular processes
+AT1G42990 ortho_group4851_cds other cytoplasmic components
+AT1G42990 ortho_group4851_cds other intracellular components
+AT1G42990 ortho_group4851_cds other membranes
+AT1G42990 ortho_group4851_cds other metabolic processes
+AT1G42990 ortho_group4851_cds response to stress
+AT1G42990 ortho_group4851_cds signal transduction
+AT1G42990 ortho_group4851_cds transcription factor activity
+AT1G43170 ortho_group2601_cds cell wall
+AT1G43170 ortho_group2601_cds cytosol
+AT1G43170 ortho_group2601_cds developmental processes
+AT1G43170 ortho_group2601_cds nucleus
+AT1G43170 ortho_group2601_cds other cellular components
+AT1G43170 ortho_group2601_cds other cellular processes
+AT1G43170 ortho_group2601_cds other cytoplasmic components
+AT1G43170 ortho_group2601_cds other intracellular components
+AT1G43170 ortho_group2601_cds other membranes
+AT1G43170 ortho_group2601_cds other metabolic processes
+AT1G43170 ortho_group2601_cds plasma membrane
+AT1G43170 ortho_group2601_cds protein metabolism
+AT1G43170 ortho_group2601_cds ribosome
+AT1G43170 ortho_group2601_cds structural molecule activity
+AT1G43670 ortho_group4467_cds cytosol
+AT1G43670 ortho_group4467_cds hydrolase activity
+AT1G43670 ortho_group4467_cds nucleus
+AT1G43670 ortho_group4467_cds other biological processes
+AT1G43670 ortho_group4467_cds other cellular processes
+AT1G43670 ortho_group4467_cds other cytoplasmic components
+AT1G43670 ortho_group4467_cds other metabolic processes
+AT1G43860 ortho_group4965_cds DNA or RNA binding
+AT1G43860 ortho_group4965_cds nucleus
+AT1G43860 ortho_group4965_cds other cellular processes
+AT1G43860 ortho_group4965_cds other cytoplasmic components
+AT1G43860 ortho_group4965_cds other metabolic processes
+AT1G43860 ortho_group4965_cds transcription factor activity
+AT1G43890 ortho_group5509_cds nucleotide binding
+AT1G43890 ortho_group5509_cds plasma membrane
+AT1G43890 ortho_group5509_cds signal transduction
+AT1G43890 ortho_group5509_cds transport
+AT1G44130 ortho_group3859_cds cell wall
+AT1G44130 ortho_group3859_cds hydrolase activity
+AT1G44130 ortho_group3859_cds protein metabolism
+AT1G44170 ortho_group4662_cds ER
+AT1G44170 ortho_group4662_cds other biological processes
+AT1G44170 ortho_group4662_cds other cellular components
+AT1G44170 ortho_group4662_cds other cytoplasmic components
+AT1G44170 ortho_group4662_cds other enzyme activity
+AT1G44170 ortho_group4662_cds other intracellular components
+AT1G44170 ortho_group4662_cds other membranes
+AT1G44170 ortho_group4662_cds plastid
+AT1G44170 ortho_group4662_cds response to abiotic or biotic stimulus
+AT1G44170 ortho_group4662_cds response to stress
+AT1G44446 ortho_group2771_cds chloroplast
+AT1G44446 ortho_group2771_cds other cellular processes
+AT1G44446 ortho_group2771_cds other cytoplasmic components
+AT1G44446 ortho_group2771_cds other enzyme activity
+AT1G44446 ortho_group2771_cds other intracellular components
+AT1G44446 ortho_group2771_cds other membranes
+AT1G44446 ortho_group2771_cds other metabolic processes
+AT1G44446 ortho_group2771_cds plastid
+AT1G44575 ortho_group5495_cds chloroplast
+AT1G44575 ortho_group5495_cds other binding
+AT1G44575 ortho_group5495_cds other cytoplasmic components
+AT1G44575 ortho_group5495_cds other intracellular components
+AT1G44575 ortho_group5495_cds other membranes
+AT1G44575 ortho_group5495_cds plastid
+AT1G44575 ortho_group5495_cds response to abiotic or biotic stimulus
+AT1G44750 ortho_group4630_cds other cellular processes
+AT1G44750 ortho_group4630_cds other membranes
+AT1G44750 ortho_group4630_cds transport
+AT1G44750 ortho_group4630_cds transporter activity
+AT1G44760 ortho_group4228_cds response to stress
+AT1G44760 ortho_group4228_cds unknown molecular functions
+AT1G44790 ortho_group2639_cds cytosol
+AT1G44790 ortho_group2639_cds unknown biological processes
+AT1G44790 ortho_group2639_cds unknown molecular functions
+AT1G44835 ortho_group4464_cds cytosol
+AT1G44835 ortho_group4464_cds unknown biological processes
+AT1G44835 ortho_group4464_cds unknown molecular functions
+AT1G44900 ortho_group4850_cds cytosol
+AT1G44900 ortho_group4850_cds developmental processes
+AT1G44900 ortho_group4850_cds DNA or RNA binding
+AT1G44900 ortho_group4850_cds DNA or RNA metabolism
+AT1G44900 ortho_group4850_cds hydrolase activity
+AT1G44900 ortho_group4850_cds nucleotide binding
+AT1G44900 ortho_group4850_cds nucleus
+AT1G44900 ortho_group4850_cds other biological processes
+AT1G44900 ortho_group4850_cds other cellular processes
+AT1G44900 ortho_group4850_cds other intracellular components
+AT1G44900 ortho_group4850_cds other metabolic processes
+AT1G45000 ortho_group2964_cds cell wall
+AT1G45000 ortho_group2964_cds hydrolase activity
+AT1G45000 ortho_group2964_cds nucleotide binding
+AT1G45000 ortho_group2964_cds nucleus
+AT1G45000 ortho_group2964_cds other cellular components
+AT1G45000 ortho_group2964_cds other intracellular components
+AT1G45000 ortho_group2964_cds other membranes
+AT1G45000 ortho_group2964_cds other metabolic processes
+AT1G45000 ortho_group2964_cds plasma membrane
+AT1G45000 ortho_group2964_cds protein metabolism
+AT1G45130 ortho_group4639_cds hydrolase activity
+AT1G45130 ortho_group4639_cds other binding
+AT1G45130 ortho_group4639_cds other cellular components
+AT1G45130 ortho_group4639_cds other cellular processes
+AT1G45130 ortho_group4639_cds other enzyme activity
+AT1G45130 ortho_group4639_cds other metabolic processes
+AT1G45230 ortho_group4735_cds chloroplast
+AT1G45230 ortho_group4735_cds unknown biological processes
+AT1G45230 ortho_group4735_cds unknown molecular functions
+AT1G45231 ortho_group5003_cds other cellular processes
+AT1G45231 ortho_group5003_cds other metabolic processes
+AT1G45231 ortho_group5003_cds transferase activity
+AT1G45231 ortho_group5003_cds unknown cellular components
+AT1G45332 ortho_group3644_cds DNA or RNA binding
+AT1G45332 ortho_group3644_cds mitochondria
+AT1G45332 ortho_group3644_cds nucleotide binding
+AT1G45332 ortho_group3644_cds other cellular processes
+AT1G45332 ortho_group3644_cds other metabolic processes
+AT1G45332 ortho_group3644_cds protein metabolism
+AT1G47220 ortho_group2765_cds other cellular processes
+AT1G47220 ortho_group2765_cds other molecular functions
+AT1G47220 ortho_group2765_cds protein binding
+AT1G47260 ortho_group3149_cds chloroplast
+AT1G47260 ortho_group3149_cds developmental processes
+AT1G47260 ortho_group3149_cds mitochondria
+AT1G47260 ortho_group3149_cds other cellular processes
+AT1G47260 ortho_group3149_cds other cytoplasmic components
+AT1G47260 ortho_group3149_cds other enzyme activity
+AT1G47260 ortho_group3149_cds other intracellular components
+AT1G47260 ortho_group3149_cds other membranes
+AT1G47260 ortho_group3149_cds other metabolic processes
+AT1G47260 ortho_group3149_cds response to abiotic or biotic stimulus
+AT1G47260 ortho_group3149_cds response to stress
+AT1G47271 ortho_group2679_cds unknown biological processes
+AT1G47271 ortho_group2679_cds unknown cellular components
+AT1G47271 ortho_group2679_cds unknown molecular functions
+AT1G47420 ortho_group4333_cds mitochondria
+AT1G47420 ortho_group4333_cds nucleus
+AT1G47420 ortho_group4333_cds other cytoplasmic components
+AT1G47420 ortho_group4333_cds other intracellular components
+AT1G47420 ortho_group4333_cds other membranes
+AT1G47420 ortho_group4333_cds unknown biological processes
+AT1G47420 ortho_group4333_cds unknown molecular functions
+AT1G47490 ortho_group3296_cds DNA or RNA binding
+AT1G47530 ortho_group4418_cds developmental processes
+AT1G47530 ortho_group4418_cds other cellular processes
+AT1G47530 ortho_group4418_cds other cytoplasmic components
+AT1G47530 ortho_group4418_cds other intracellular components
+AT1G47530 ortho_group4418_cds other membranes
+AT1G47530 ortho_group4418_cds transport
+AT1G47530 ortho_group4418_cds transporter activity
+AT1G47550 ortho_group4536_cds other cytoplasmic components
+AT1G47550 ortho_group4536_cds other intracellular components
+AT1G47550 ortho_group4536_cds plasma membrane
+AT1G47550 ortho_group4536_cds unknown biological processes
+AT1G47620 ortho_group5552_cds other binding
+AT1G47620 ortho_group5552_cds other cellular components
+AT1G47620 ortho_group5552_cds other enzyme activity
+AT1G47620 ortho_group5552_cds other molecular functions
+AT1G47640 ortho_group3936_cds mitochondria
+AT1G47640 ortho_group3936_cds unknown biological processes
+AT1G47640 ortho_group3936_cds unknown molecular functions
+AT1G47740 ortho_group3472_cds unknown biological processes
+AT1G47740 ortho_group3472_cds unknown cellular components
+AT1G47740 ortho_group3472_cds unknown molecular functions
+AT1G47980 ortho_group4353_cds other cellular components
+AT1G47980 ortho_group4353_cds unknown biological processes
+AT1G47980 ortho_group4353_cds unknown molecular functions
+AT1G48160 ortho_group4720_cds DNA or RNA binding
+AT1G48160 ortho_group4720_cds other cellular processes
+AT1G48160 ortho_group4720_cds other cytoplasmic components
+AT1G48160 ortho_group4720_cds other intracellular components
+AT1G48160 ortho_group4720_cds transport
+AT1G48175 ortho_group4106_cds developmental processes
+AT1G48175 ortho_group4106_cds hydrolase activity
+AT1G48175 ortho_group4106_cds other binding
+AT1G48175 ortho_group4106_cds other enzyme activity
+AT1G48175 ortho_group4106_cds unknown cellular components
+AT1G48195 ortho_group3495_cds nucleic acid binding
+AT1G48195 ortho_group3495_cds other binding
+AT1G48195 ortho_group3495_cds unknown biological processes
+AT1G48195 ortho_group3495_cds unknown cellular components
+AT1G48320 ortho_group3842_cds hydrolase activity
+AT1G48350 ortho_group4301_cds chloroplast
+AT1G48350 ortho_group4301_cds other cellular processes
+AT1G48350 ortho_group4301_cds other cytoplasmic components
+AT1G48350 ortho_group4301_cds other intracellular components
+AT1G48350 ortho_group4301_cds other metabolic processes
+AT1G48350 ortho_group4301_cds plastid
+AT1G48350 ortho_group4301_cds protein metabolism
+AT1G48350 ortho_group4301_cds ribosome
+AT1G48350 ortho_group4301_cds structural molecule activity
+AT1G48520 ortho_group2948_cds chloroplast
+AT1G48520 ortho_group2948_cds other cellular processes
+AT1G48520 ortho_group2948_cds other cytoplasmic components
+AT1G48520 ortho_group2948_cds other enzyme activity
+AT1G48520 ortho_group2948_cds other intracellular components
+AT1G48520 ortho_group2948_cds other metabolic processes
+AT1G48520 ortho_group2948_cds plastid
+AT1G48520 ortho_group2948_cds protein metabolism
+AT1G48550 ortho_group3085_cds other cellular processes
+AT1G48550 ortho_group3085_cds other membranes
+AT1G48550 ortho_group3085_cds transport
+AT1G48550 ortho_group3085_cds unknown molecular functions
+AT1G48600 ortho_group2573_cds other cellular processes
+AT1G48600 ortho_group2573_cds other metabolic processes
+AT1G48600 ortho_group2573_cds transferase activity
+AT1G48635 ortho_group3855_cds cell organization and biogenesis
+AT1G48635 ortho_group3855_cds mitochondria
+AT1G48635 ortho_group3855_cds other cellular processes
+AT1G48635 ortho_group3855_cds other cytoplasmic components
+AT1G48635 ortho_group3855_cds other intracellular components
+AT1G48635 ortho_group3855_cds other membranes
+AT1G48635 ortho_group3855_cds unknown molecular functions
+AT1G48650 ortho_group4023_cds DNA or RNA binding
+AT1G48650 ortho_group4023_cds hydrolase activity
+AT1G48650 ortho_group4023_cds nucleic acid binding
+AT1G48650 ortho_group4023_cds nucleotide binding
+AT1G48650 ortho_group4023_cds other intracellular components
+AT1G48850 ortho_group3799_cds chloroplast
+AT1G48850 ortho_group3799_cds developmental processes
+AT1G48850 ortho_group3799_cds nucleus
+AT1G48850 ortho_group3799_cds other cellular processes
+AT1G48850 ortho_group3799_cds other cytoplasmic components
+AT1G48850 ortho_group3799_cds other enzyme activity
+AT1G48850 ortho_group3799_cds other intracellular components
+AT1G48850 ortho_group3799_cds other metabolic processes
+AT1G48850 ortho_group3799_cds plastid
+AT1G49050 ortho_group3586_cds hydrolase activity
+AT1G49050 ortho_group3586_cds protein metabolism
+AT1G49140 ortho_group3959_cds mitochondria
+AT1G49140 ortho_group3959_cds other cellular processes
+AT1G49140 ortho_group3959_cds other cytoplasmic components
+AT1G49140 ortho_group3959_cds other intracellular components
+AT1G49140 ortho_group3959_cds other membranes
+AT1G49140 ortho_group3959_cds other metabolic processes
+AT1G49170 ortho_group4159_cds unknown biological processes
+AT1G49170 ortho_group4159_cds unknown molecular functions
+AT1G49230 ortho_group3370_cds other binding
+AT1G49340 ortho_group3193_cds kinase activity
+AT1G49340 ortho_group3193_cds other binding
+AT1G49340 ortho_group3193_cds other cellular components
+AT1G49340 ortho_group3193_cds other cellular processes
+AT1G49340 ortho_group3193_cds other cytoplasmic components
+AT1G49340 ortho_group3193_cds other intracellular components
+AT1G49340 ortho_group3193_cds other metabolic processes
+AT1G49340 ortho_group3193_cds plasma membrane
+AT1G49340 ortho_group3193_cds protein binding
+AT1G49340 ortho_group3193_cds protein metabolism
+AT1G49340 ortho_group3193_cds transferase activity
+AT1G49400 ortho_group3125_cds cytosol
+AT1G49400 ortho_group3125_cds developmental processes
+AT1G49400 ortho_group3125_cds other cellular processes
+AT1G49400 ortho_group3125_cds other cytoplasmic components
+AT1G49400 ortho_group3125_cds other intracellular components
+AT1G49400 ortho_group3125_cds other metabolic processes
+AT1G49400 ortho_group3125_cds protein metabolism
+AT1G49400 ortho_group3125_cds ribosome
+AT1G49400 ortho_group3125_cds structural molecule activity
+AT1G49405 ortho_group4842_cds other membranes
+AT1G49405 ortho_group4842_cds unknown biological processes
+AT1G49405 ortho_group4842_cds unknown molecular functions
+AT1G49430 ortho_group2917_cds developmental processes
+AT1G49430 ortho_group2917_cds ER
+AT1G49430 ortho_group2917_cds other cellular components
+AT1G49430 ortho_group2917_cds other cellular processes
+AT1G49430 ortho_group2917_cds other enzyme activity
+AT1G49430 ortho_group2917_cds other metabolic processes
+AT1G49430 ortho_group2917_cds response to abiotic or biotic stimulus
+AT1G49430 ortho_group2917_cds response to stress
+AT1G49510 ortho_group5291_cds developmental processes
+AT1G49510 ortho_group5291_cds unknown molecular functions
+AT1G49540 ortho_group3771_cds nucleotide binding
+AT1G49540 ortho_group3771_cds unknown biological processes
+AT1G49540 ortho_group3771_cds unknown cellular components
+AT1G49630 ortho_group5012_cds chloroplast
+AT1G49630 ortho_group5012_cds hydrolase activity
+AT1G49630 ortho_group5012_cds mitochondria
+AT1G49630 ortho_group5012_cds other binding
+AT1G49630 ortho_group5012_cds other enzyme activity
+AT1G49630 ortho_group5012_cds other metabolic processes
+AT1G49630 ortho_group5012_cds protein metabolism
+AT1G49740 ortho_group3803_cds hydrolase activity
+AT1G49740 ortho_group3803_cds other cellular components
+AT1G49740 ortho_group3803_cds other metabolic processes
+AT1G49740 ortho_group3803_cds signal transduction
+AT1G49970 ortho_group4304_cds chloroplast
+AT1G49970 ortho_group4304_cds hydrolase activity
+AT1G49970 ortho_group4304_cds other cytoplasmic components
+AT1G49970 ortho_group4304_cds other intracellular components
+AT1G49970 ortho_group4304_cds plastid
+AT1G49970 ortho_group4304_cds protein metabolism
+AT1G50020 ortho_group4257_cds chloroplast
+AT1G50020 ortho_group4257_cds other cytoplasmic components
+AT1G50020 ortho_group4257_cds other intracellular components
+AT1G50020 ortho_group4257_cds other membranes
+AT1G50020 ortho_group4257_cds plastid
+AT1G50020 ortho_group4257_cds unknown biological processes
+AT1G50020 ortho_group4257_cds unknown molecular functions
+AT1G50140 ortho_group2927_cds hydrolase activity
+AT1G50140 ortho_group2927_cds nucleotide binding
+AT1G50140 ortho_group2927_cds unknown biological processes
+AT1G50170 ortho_group4545_cds chloroplast
+AT1G50170 ortho_group4545_cds other cellular processes
+AT1G50170 ortho_group4545_cds other enzyme activity
+AT1G50170 ortho_group4545_cds other metabolic processes
+AT1G50170 ortho_group4545_cds response to stress
+AT1G50250 ortho_group4311_cds chloroplast
+AT1G50250 ortho_group4311_cds electron transport or energy pathways
+AT1G50250 ortho_group4311_cds hydrolase activity
+AT1G50250 ortho_group4311_cds other cellular processes
+AT1G50250 ortho_group4311_cds other cytoplasmic components
+AT1G50250 ortho_group4311_cds other intracellular components
+AT1G50250 ortho_group4311_cds other membranes
+AT1G50250 ortho_group4311_cds other metabolic processes
+AT1G50250 ortho_group4311_cds plastid
+AT1G50250 ortho_group4311_cds protein binding
+AT1G50250 ortho_group4311_cds protein metabolism
+AT1G50320 ortho_group4223_cds chloroplast
+AT1G50320 ortho_group4223_cds other cytoplasmic components
+AT1G50320 ortho_group4223_cds other intracellular components
+AT1G50320 ortho_group4223_cds other metabolic processes
+AT1G50320 ortho_group4223_cds other molecular functions
+AT1G50320 ortho_group4223_cds plastid
+AT1G50380 ortho_group4809_cds cytosol
+AT1G50380 ortho_group4809_cds hydrolase activity
+AT1G50380 ortho_group4809_cds protein metabolism
+AT1G50430 ortho_group4262_cds cell organization and biogenesis
+AT1G50430 ortho_group4262_cds ER
+AT1G50430 ortho_group4262_cds other cellular processes
+AT1G50430 ortho_group4262_cds other cytoplasmic components
+AT1G50430 ortho_group4262_cds other enzyme activity
+AT1G50430 ortho_group4262_cds other intracellular components
+AT1G50430 ortho_group4262_cds other membranes
+AT1G50430 ortho_group4262_cds other metabolic processes
+AT1G50430 ortho_group4262_cds plasma membrane
+AT1G50430 ortho_group4262_cds protein binding
+AT1G50510 ortho_group3907_cds other cytoplasmic components
+AT1G50510 ortho_group3907_cds other intracellular components
+AT1G50510 ortho_group3907_cds plasma membrane
+AT1G50510 ortho_group3907_cds unknown biological processes
+AT1G50910 ortho_group3660_cds unknown biological processes
+AT1G50910 ortho_group3660_cds unknown cellular components
+AT1G50910 ortho_group3660_cds unknown molecular functions
+AT1G50920 ortho_group4758_cds nucleotide binding
+AT1G50920 ortho_group4758_cds other membranes
+AT1G50940 ortho_group4695_cds mitochondria
+AT1G50940 ortho_group4695_cds other binding
+AT1G51440 ortho_group4067_cds chloroplast
+AT1G51440 ortho_group4067_cds hydrolase activity
+AT1G51440 ortho_group4067_cds other metabolic processes
+AT1G51460 ortho_group4638_cds developmental processes
+AT1G51460 ortho_group4638_cds hydrolase activity
+AT1G51460 ortho_group4638_cds other cellular components
+AT1G51460 ortho_group4638_cds response to abiotic or biotic stimulus
+AT1G51460 ortho_group4638_cds response to stress
+AT1G51460 ortho_group4638_cds transport
+AT1G51460 ortho_group4638_cds transporter activity
+AT1G51510 ortho_group5179_cds DNA or RNA binding
+AT1G51510 ortho_group5179_cds nucleus
+AT1G51510 ortho_group5179_cds other cellular processes
+AT1G51510 ortho_group5179_cds other cytoplasmic components
+AT1G51510 ortho_group5179_cds other intracellular components
+AT1G51510 ortho_group5179_cds other metabolic processes
+AT1G51510 ortho_group5179_cds protein binding
+AT1G51590 ortho_group5125_cds developmental processes
+AT1G51590 ortho_group5125_cds Golgi apparatus
+AT1G51590 ortho_group5125_cds hydrolase activity
+AT1G51590 ortho_group5125_cds other cellular processes
+AT1G51590 ortho_group5125_cds other metabolic processes
+AT1G51590 ortho_group5125_cds protein metabolism
+AT1G51610 ortho_group4539_cds other cellular processes
+AT1G51610 ortho_group4539_cds other membranes
+AT1G51610 ortho_group4539_cds transport
+AT1G51610 ortho_group4539_cds transporter activity
+AT1G51630 ortho_group3084_cds cell wall
+AT1G51630 ortho_group3084_cds Golgi apparatus
+AT1G51630 ortho_group3084_cds unknown biological processes
+AT1G51630 ortho_group3084_cds unknown molecular functions
+AT1G51730 ortho_group4022_cds unknown biological processes
+AT1G51730 ortho_group4022_cds unknown cellular components
+AT1G51950 ortho_group3282_cds nucleus
+AT1G51950 ortho_group3282_cds other biological processes
+AT1G51950 ortho_group3282_cds protein binding
+AT1G51950 ortho_group3282_cds transcription factor activity
+AT1G52230 ortho_group2738_cds chloroplast
+AT1G52230 ortho_group2738_cds other cellular processes
+AT1G52230 ortho_group2738_cds other cytoplasmic components
+AT1G52230 ortho_group2738_cds other intracellular components
+AT1G52230 ortho_group2738_cds other membranes
+AT1G52230 ortho_group2738_cds other metabolic processes
+AT1G52230 ortho_group2738_cds plastid
+AT1G52230 ortho_group2738_cds unknown molecular functions
+AT1G52510 ortho_group3396_cds chloroplast
+AT1G52510 ortho_group3396_cds hydrolase activity
+AT1G52510 ortho_group3396_cds other cytoplasmic components
+AT1G52510 ortho_group3396_cds other enzyme activity
+AT1G52510 ortho_group3396_cds other intracellular components
+AT1G52510 ortho_group3396_cds plastid
+AT1G52600 ortho_group4837_cds ER
+AT1G52600 ortho_group4837_cds hydrolase activity
+AT1G52600 ortho_group4837_cds other cellular processes
+AT1G52600 ortho_group4837_cds other membranes
+AT1G52600 ortho_group4837_cds other metabolic processes
+AT1G52600 ortho_group4837_cds plasma membrane
+AT1G52600 ortho_group4837_cds protein metabolism
+AT1G52700 ortho_group2568_cds hydrolase activity
+AT1G52700 ortho_group2568_cds unknown biological processes
+AT1G52710 ortho_group4367_cds mitochondria
+AT1G52710 ortho_group4367_cds other cytoplasmic components
+AT1G52710 ortho_group4367_cds other enzyme activity
+AT1G52710 ortho_group4367_cds other intracellular components
+AT1G52710 ortho_group4367_cds transporter activity
+AT1G52710 ortho_group4367_cds unknown biological processes
+AT1G52730 ortho_group4319_cds cytosol
+AT1G52730 ortho_group4319_cds nucleotide binding
+AT1G52730 ortho_group4319_cds other intracellular components
+AT1G52730 ortho_group4319_cds unknown biological processes
+AT1G52820 ortho_group4670_cds other enzyme activity
+AT1G52930 ortho_group3537_cds cytosol
+AT1G53025 ortho_group3486_cds other cellular processes
+AT1G53025 ortho_group3486_cds other enzyme activity
+AT1G53025 ortho_group3486_cds other metabolic processes
+AT1G53025 ortho_group3486_cds protein metabolism
+AT1G53090 ortho_group5083_cds other cellular processes
+AT1G53090 ortho_group5083_cds other intracellular components
+AT1G53090 ortho_group5083_cds other membranes
+AT1G53090 ortho_group5083_cds other metabolic processes
+AT1G53090 ortho_group5083_cds other molecular functions
+AT1G53090 ortho_group5083_cds plasma membrane
+AT1G53090 ortho_group5083_cds protein binding
+AT1G53090 ortho_group5083_cds protein metabolism
+AT1G53290 ortho_group4144_cds other cellular processes
+AT1G53290 ortho_group4144_cds other metabolic processes
+AT1G53290 ortho_group4144_cds protein metabolism
+AT1G53290 ortho_group4144_cds transferase activity
+AT1G53420 ortho_group3418_cds kinase activity
+AT1G53420 ortho_group3418_cds nucleotide binding
+AT1G53420 ortho_group3418_cds other cellular components
+AT1G53420 ortho_group3418_cds other cellular processes
+AT1G53420 ortho_group3418_cds other metabolic processes
+AT1G53420 ortho_group3418_cds protein metabolism
+AT1G53420 ortho_group3418_cds signal transduction
+AT1G53420 ortho_group3418_cds transferase activity
+AT1G53520 ortho_group3933_cds chloroplast
+AT1G53520 ortho_group3933_cds other cellular processes
+AT1G53520 ortho_group3933_cds other cytoplasmic components
+AT1G53520 ortho_group3933_cds other enzyme activity
+AT1G53520 ortho_group3933_cds other intracellular components
+AT1G53520 ortho_group3933_cds other metabolic processes
+AT1G53520 ortho_group3933_cds plastid
+AT1G53530 ortho_group4969_cds hydrolase activity
+AT1G53530 ortho_group4969_cds other membranes
+AT1G53530 ortho_group4969_cds protein metabolism
+AT1G53580 ortho_group4091_cds hydrolase activity
+AT1G53580 ortho_group4091_cds other cellular processes
+AT1G53580 ortho_group4091_cds other metabolic processes
+AT1G53580 ortho_group4091_cds response to abiotic or biotic stimulus
+AT1G53580 ortho_group4091_cds response to stress
+AT1G53670 ortho_group3423_cds chloroplast
+AT1G53670 ortho_group3423_cds other cellular processes
+AT1G53670 ortho_group3423_cds other cytoplasmic components
+AT1G53670 ortho_group3423_cds other enzyme activity
+AT1G53670 ortho_group3423_cds other intracellular components
+AT1G53670 ortho_group3423_cds other metabolic processes
+AT1G53670 ortho_group3423_cds plastid
+AT1G53670 ortho_group3423_cds protein metabolism
+AT1G53670 ortho_group3423_cds response to stress
+AT1G53760 ortho_group3883_cds mitochondria
+AT1G53760 ortho_group3883_cds other cytoplasmic components
+AT1G53760 ortho_group3883_cds other intracellular components
+AT1G53760 ortho_group3883_cds other membranes
+AT1G53760 ortho_group3883_cds plastid
+AT1G53760 ortho_group3883_cds unknown biological processes
+AT1G53760 ortho_group3883_cds unknown molecular functions
+AT1G54110 ortho_group4244_cds transport
+AT1G54110 ortho_group4244_cds transporter activity
+AT1G54217 ortho_group4680_cds other membranes
+AT1G54217 ortho_group4680_cds unknown biological processes
+AT1G54217 ortho_group4680_cds unknown molecular functions
+AT1G54390 ortho_group4417_cds nucleus
+AT1G54390 ortho_group4417_cds protein binding
+AT1G54450 ortho_group3761_cds other binding
+AT1G54450 ortho_group3761_cds unknown biological processes
+AT1G54570 ortho_group5594_cds chloroplast
+AT1G54570 ortho_group5594_cds other cytoplasmic components
+AT1G54570 ortho_group5594_cds other enzyme activity
+AT1G54570 ortho_group5594_cds other intracellular components
+AT1G54570 ortho_group5594_cds plastid
+AT1G54570 ortho_group5594_cds transferase activity
+AT1G54580 ortho_group5116_cds chloroplast
+AT1G54580 ortho_group5116_cds other cellular processes
+AT1G54580 ortho_group5116_cds other metabolic processes
+AT1G54580 ortho_group5116_cds transporter activity
+AT1G54650 ortho_group4704_cds transferase activity
+AT1G54650 ortho_group4704_cds unknown biological processes
+AT1G54650 ortho_group4704_cds unknown cellular components
+AT1G54690 ortho_group3459_cds cell organization and biogenesis
+AT1G54690 ortho_group3459_cds DNA or RNA binding
+AT1G54690 ortho_group3459_cds DNA or RNA metabolism
+AT1G54690 ortho_group3459_cds nucleus
+AT1G54690 ortho_group3459_cds other cellular processes
+AT1G54690 ortho_group3459_cds other intracellular components
+AT1G54730 ortho_group5330_cds other cellular processes
+AT1G54730 ortho_group5330_cds other membranes
+AT1G54730 ortho_group5330_cds transport
+AT1G54730 ortho_group5330_cds transporter activity
+AT1G54790 ortho_group2834_cds hydrolase activity
+AT1G54790 ortho_group2834_cds other cellular components
+AT1G54790 ortho_group2834_cds other metabolic processes
+AT1G55020 ortho_group4660_cds cell organization and biogenesis
+AT1G55020 ortho_group4660_cds developmental processes
+AT1G55020 ortho_group4660_cds other biological processes
+AT1G55020 ortho_group4660_cds other cellular processes
+AT1G55020 ortho_group4660_cds other enzyme activity
+AT1G55020 ortho_group4660_cds other metabolic processes
+AT1G55020 ortho_group4660_cds response to abiotic or biotic stimulus
+AT1G55020 ortho_group4660_cds response to stress
+AT1G55020 ortho_group4660_cds unknown cellular components
+AT1G55120 ortho_group4018_cds hydrolase activity
+AT1G55120 ortho_group4018_cds other cytoplasmic components
+AT1G55120 ortho_group4018_cds other intracellular components
+AT1G55120 ortho_group4018_cds other metabolic processes
+AT1G55140 ortho_group4406_cds chloroplast
+AT1G55140 ortho_group4406_cds DNA or RNA binding
+AT1G55140 ortho_group4406_cds hydrolase activity
+AT1G55140 ortho_group4406_cds other cellular processes
+AT1G55140 ortho_group4406_cds other metabolic processes
+AT1G55340 ortho_group4280_cds unknown biological processes
+AT1G55340 ortho_group4280_cds unknown cellular components
+AT1G55340 ortho_group4280_cds unknown molecular functions
+AT1G55360 ortho_group4245_cds other cellular components
+AT1G55360 ortho_group4245_cds unknown biological processes
+AT1G55480 ortho_group4410_cds chloroplast
+AT1G55480 ortho_group4410_cds other binding
+AT1G55480 ortho_group4410_cds other cytoplasmic components
+AT1G55480 ortho_group4410_cds other intracellular components
+AT1G55480 ortho_group4410_cds other membranes
+AT1G55480 ortho_group4410_cds plastid
+AT1G55480 ortho_group4410_cds response to stress
+AT1G55535 ortho_group4829_cds unknown biological processes
+AT1G55535 ortho_group4829_cds unknown cellular components
+AT1G55535 ortho_group4829_cds unknown molecular functions
+AT1G55670 ortho_group3022_cds chloroplast
+AT1G55670 ortho_group3022_cds electron transport or energy pathways
+AT1G55670 ortho_group3022_cds other cellular processes
+AT1G55670 ortho_group3022_cds other cytoplasmic components
+AT1G55670 ortho_group3022_cds other intracellular components
+AT1G55670 ortho_group3022_cds other membranes
+AT1G55670 ortho_group3022_cds other metabolic processes
+AT1G55670 ortho_group3022_cds plastid
+AT1G55670 ortho_group3022_cds unknown molecular functions
+AT1G55730 ortho_group4947_cds other cellular processes
+AT1G55730 ortho_group4947_cds other membranes
+AT1G55730 ortho_group4947_cds transport
+AT1G55730 ortho_group4947_cds transporter activity
+AT1G55805 ortho_group5522_cds chloroplast
+AT1G55805 ortho_group5522_cds unknown biological processes
+AT1G55840 ortho_group3219_cds transport
+AT1G55840 ortho_group3219_cds transporter activity
+AT1G55840 ortho_group3219_cds unknown cellular components
+AT1G55900 ortho_group3925_cds developmental processes
+AT1G55900 ortho_group3925_cds mitochondria
+AT1G55900 ortho_group3925_cds other cytoplasmic components
+AT1G55900 ortho_group3925_cds other intracellular components
+AT1G55900 ortho_group3925_cds other membranes
+AT1G55900 ortho_group3925_cds unknown molecular functions
+AT1G55928 ortho_group3831_cds unknown biological processes
+AT1G55928 ortho_group3831_cds unknown cellular components
+AT1G55928 ortho_group3831_cds unknown molecular functions
+AT1G56120 ortho_group3735_cds kinase activity
+AT1G56120 ortho_group3735_cds other cellular processes
+AT1G56120 ortho_group3735_cds other metabolic processes
+AT1G56120 ortho_group3735_cds protein metabolism
+AT1G56450 ortho_group4762_cds cytosol
+AT1G56450 ortho_group4762_cds hydrolase activity
+AT1G56450 ortho_group4762_cds other biological processes
+AT1G56450 ortho_group4762_cds other cellular processes
+AT1G56450 ortho_group4762_cds other cytoplasmic components
+AT1G56450 ortho_group4762_cds other intracellular components
+AT1G56450 ortho_group4762_cds other metabolic processes
+AT1G56450 ortho_group4762_cds protein metabolism
+AT1G56450 ortho_group4762_cds response to abiotic or biotic stimulus
+AT1G56450 ortho_group4762_cds response to stress
+AT1G56450 ortho_group4762_cds ribosome
+AT1G56580 ortho_group5193_cds cell organization and biogenesis
+AT1G56580 ortho_group5193_cds developmental processes
+AT1G56580 ortho_group5193_cds other cellular processes
+AT1G57720 ortho_group4982_cds cell wall
+AT1G57720 ortho_group4982_cds cytosol
+AT1G57720 ortho_group4982_cds DNA or RNA binding
+AT1G57720 ortho_group4982_cds other binding
+AT1G57720 ortho_group4982_cds other biological processes
+AT1G57720 ortho_group4982_cds other cellular components
+AT1G57720 ortho_group4982_cds other cytoplasmic components
+AT1G57720 ortho_group4982_cds other intracellular components
+AT1G57720 ortho_group4982_cds other membranes
+AT1G57720 ortho_group4982_cds plasma membrane
+AT1G57765 ortho_group2671_cds other cellular components
+AT1G57765 ortho_group2671_cds unknown biological processes
+AT1G57765 ortho_group2671_cds unknown molecular functions
+AT1G58025 ortho_group3999_cds DNA or RNA binding
+AT1G58025 ortho_group3999_cds unknown biological processes
+AT1G58025 ortho_group3999_cds unknown cellular components
+AT1G58110 ortho_group2708_cds DNA or RNA binding
+AT1G58110 ortho_group2708_cds other cellular processes
+AT1G58110 ortho_group2708_cds other metabolic processes
+AT1G58110 ortho_group2708_cds protein binding
+AT1G58110 ortho_group2708_cds transcription factor activity
+AT1G58110 ortho_group2708_cds unknown cellular components
+AT1G58170 ortho_group4760_cds other cellular components
+AT1G58170 ortho_group4760_cds other cellular processes
+AT1G58170 ortho_group4760_cds other metabolic processes
+AT1G58170 ortho_group4760_cds protein metabolism
+AT1G58170 ortho_group4760_cds response to stress
+AT1G58170 ortho_group4760_cds unknown molecular functions
+AT1G58280 ortho_group4413_cds chloroplast
+AT1G58290 ortho_group2919_cds chloroplast
+AT1G58290 ortho_group2919_cds other cellular processes
+AT1G58290 ortho_group2919_cds other enzyme activity
+AT1G58290 ortho_group2919_cds other metabolic processes
+AT1G58290 ortho_group2919_cds protein binding
+AT1G58290 ortho_group2919_cds response to abiotic or biotic stimulus
+AT1G59760 ortho_group3407_cds hydrolase activity
+AT1G59760 ortho_group3407_cds nucleic acid binding
+AT1G59760 ortho_group3407_cds nucleotide binding
+AT1G59760 ortho_group3407_cds nucleus
+AT1G59760 ortho_group3407_cds other cellular processes
+AT1G59760 ortho_group3407_cds other metabolic processes
+AT1G59760 ortho_group3407_cds protein metabolism
+AT1G59840 ortho_group4993_cds cell organization and biogenesis
+AT1G59840 ortho_group4993_cds chloroplast
+AT1G59840 ortho_group4993_cds other cellular processes
+AT1G59840 ortho_group4993_cds unknown molecular functions
+AT1G59900 ortho_group4084_cds cytosol
+AT1G59900 ortho_group4084_cds mitochondria
+AT1G59900 ortho_group4084_cds nucleus
+AT1G59900 ortho_group4084_cds other biological processes
+AT1G59900 ortho_group4084_cds other enzyme activity
+AT1G59900 ortho_group4084_cds other metabolic processes
+AT1G60010 ortho_group5426_cds other cellular processes
+AT1G60010 ortho_group5426_cds other metabolic processes
+AT1G60010 ortho_group5426_cds protein metabolism
+AT1G60010 ortho_group5426_cds unknown cellular components
+AT1G60010 ortho_group5426_cds unknown molecular functions
+AT1G60080 ortho_group4482_cds cytosol
+AT1G60080 ortho_group4482_cds DNA or RNA binding
+AT1G60080 ortho_group4482_cds hydrolase activity
+AT1G60080 ortho_group4482_cds other cellular processes
+AT1G60080 ortho_group4482_cds other metabolic processes
+AT1G60220 ortho_group3732_cds developmental processes
+AT1G60220 ortho_group3732_cds hydrolase activity
+AT1G60220 ortho_group3732_cds nucleus
+AT1G60220 ortho_group3732_cds other cellular processes
+AT1G60220 ortho_group3732_cds other metabolic processes
+AT1G60220 ortho_group3732_cds protein metabolism
+AT1G60220 ortho_group3732_cds response to abiotic or biotic stimulus
+AT1G60220 ortho_group3732_cds response to stress
+AT1G60230 ortho_group2928_cds other binding
+AT1G60230 ortho_group2928_cds other cellular processes
+AT1G60230 ortho_group2928_cds other cytoplasmic components
+AT1G60230 ortho_group2928_cds other enzyme activity
+AT1G60230 ortho_group2928_cds other metabolic processes
+AT1G60230 ortho_group2928_cds transferase activity
+AT1G60430 ortho_group4684_cds cell organization and biogenesis
+AT1G60430 ortho_group4684_cds other cellular processes
+AT1G60430 ortho_group4684_cds other intracellular components
+AT1G60430 ortho_group4684_cds protein binding
+AT1G60430 ortho_group4684_cds structural molecule activity
+AT1G60590 ortho_group5152_cds hydrolase activity
+AT1G60590 ortho_group5152_cds other metabolic processes
+AT1G60640 ortho_group3841_cds unknown biological processes
+AT1G60640 ortho_group3841_cds unknown cellular components
+AT1G60640 ortho_group3841_cds unknown molecular functions
+AT1G60730 ortho_group4998_cds cytosol
+AT1G60730 ortho_group4998_cds other enzyme activity
+AT1G60730 ortho_group4998_cds other metabolic processes
+AT1G60780 ortho_group2851_cds cytosol
+AT1G60780 ortho_group2851_cds other cellular processes
+AT1G60780 ortho_group2851_cds other cytoplasmic components
+AT1G60780 ortho_group2851_cds other intracellular components
+AT1G60780 ortho_group2851_cds other membranes
+AT1G60780 ortho_group2851_cds transport
+AT1G60890 ortho_group4281_cds kinase activity
+AT1G60890 ortho_group4281_cds nucleotide binding
+AT1G60890 ortho_group4281_cds other cellular processes
+AT1G60890 ortho_group4281_cds other metabolic processes
+AT1G60890 ortho_group4281_cds plasma membrane
+AT1G60890 ortho_group4281_cds transferase activity
+AT1G60940 ortho_group5273_cds kinase activity
+AT1G60940 ortho_group5273_cds other cellular processes
+AT1G60940 ortho_group5273_cds other metabolic processes
+AT1G60940 ortho_group5273_cds protein metabolism
+AT1G60940 ortho_group5273_cds response to abiotic or biotic stimulus
+AT1G60940 ortho_group5273_cds response to stress
+AT1G60990 ortho_group2603_cds chloroplast
+AT1G60990 ortho_group2603_cds other cellular processes
+AT1G60990 ortho_group2603_cds other metabolic processes
+AT1G60990 ortho_group2603_cds transferase activity
+AT1G61065 ortho_group4963_cds other cellular components
+AT1G61065 ortho_group4963_cds unknown biological processes
+AT1G61065 ortho_group4963_cds unknown molecular functions
+AT1G61110 ortho_group4432_cds developmental processes
+AT1G61110 ortho_group4432_cds other cellular processes
+AT1G61110 ortho_group4432_cds other metabolic processes
+AT1G61110 ortho_group4432_cds transcription factor activity
+AT1G61110 ortho_group4432_cds unknown cellular components
+AT1G61150 ortho_group4897_cds unknown biological processes
+AT1G61150 ortho_group4897_cds unknown cellular components
+AT1G61150 ortho_group4897_cds unknown molecular functions
+AT1G61240 ortho_group3868_cds unknown biological processes
+AT1G61240 ortho_group3868_cds unknown cellular components
+AT1G61240 ortho_group3868_cds unknown molecular functions
+AT1G61250 ortho_group4880_cds other membranes
+AT1G61250 ortho_group4880_cds plasma membrane
+AT1G61250 ortho_group4880_cds transport
+AT1G61250 ortho_group4880_cds transporter activity
+AT1G61520 ortho_group2846_cds chloroplast
+AT1G61520 ortho_group2846_cds electron transport or energy pathways
+AT1G61520 ortho_group2846_cds other binding
+AT1G61520 ortho_group2846_cds other cellular processes
+AT1G61520 ortho_group2846_cds other cytoplasmic components
+AT1G61520 ortho_group2846_cds other intracellular components
+AT1G61520 ortho_group2846_cds other membranes
+AT1G61520 ortho_group2846_cds other metabolic processes
+AT1G61520 ortho_group2846_cds plastid
+AT1G61680 ortho_group5430_cds other cellular processes
+AT1G61680 ortho_group5430_cds other enzyme activity
+AT1G61680 ortho_group5430_cds other metabolic processes
+AT1G61770 ortho_group3247_cds ER
+AT1G61770 ortho_group3247_cds other cellular processes
+AT1G61770 ortho_group3247_cds other metabolic processes
+AT1G61770 ortho_group3247_cds protein binding
+AT1G61770 ortho_group3247_cds protein metabolism
+AT1G61780 ortho_group5431_cds unknown biological processes
+AT1G61780 ortho_group5431_cds unknown molecular functions
+AT1G61795 ortho_group2968_cds unknown biological processes
+AT1G61795 ortho_group2968_cds unknown cellular components
+AT1G61795 ortho_group2968_cds unknown molecular functions
+AT1G61800 ortho_group3745_cds other biological processes
+AT1G61800 ortho_group3745_cds other cellular processes
+AT1G61800 ortho_group3745_cds other cytoplasmic components
+AT1G61800 ortho_group3745_cds other intracellular components
+AT1G61800 ortho_group3745_cds other membranes
+AT1G61800 ortho_group3745_cds other metabolic processes
+AT1G61800 ortho_group3745_cds response to abiotic or biotic stimulus
+AT1G61800 ortho_group3745_cds transport
+AT1G61800 ortho_group3745_cds transporter activity
+AT1G61870 ortho_group4565_cds mitochondria
+AT1G61870 ortho_group4565_cds other membranes
+AT1G62320 ortho_group3572_cds unknown biological processes
+AT1G62320 ortho_group3572_cds unknown molecular functions
+AT1G62380 ortho_group3763_cds cell wall
+AT1G62380 ortho_group3763_cds cytosol
+AT1G62380 ortho_group3763_cds developmental processes
+AT1G62380 ortho_group3763_cds other binding
+AT1G62380 ortho_group3763_cds other biological processes
+AT1G62380 ortho_group3763_cds other cellular components
+AT1G62380 ortho_group3763_cds other cellular processes
+AT1G62380 ortho_group3763_cds other enzyme activity
+AT1G62380 ortho_group3763_cds other metabolic processes
+AT1G62380 ortho_group3763_cds plasma membrane
+AT1G62380 ortho_group3763_cds response to abiotic or biotic stimulus
+AT1G62380 ortho_group3763_cds response to stress
+AT1G62450 ortho_group3567_cds other cytoplasmic components
+AT1G62450 ortho_group3567_cds other molecular functions
+AT1G62450 ortho_group3567_cds unknown biological processes
+AT1G62660 ortho_group4110_cds hydrolase activity
+AT1G62660 ortho_group4110_cds other cytoplasmic components
+AT1G62660 ortho_group4110_cds other intracellular components
+AT1G62660 ortho_group4110_cds other metabolic processes
+AT1G62880 ortho_group5105_cds other cellular components
+AT1G62880 ortho_group5105_cds other membranes
+AT1G62880 ortho_group5105_cds signal transduction
+AT1G62880 ortho_group5105_cds unknown molecular functions
+AT1G62990 ortho_group5022_cds DNA or RNA binding
+AT1G62990 ortho_group5022_cds nucleus
+AT1G62990 ortho_group5022_cds other biological processes
+AT1G62990 ortho_group5022_cds other cellular processes
+AT1G62990 ortho_group5022_cds other metabolic processes
+AT1G62990 ortho_group5022_cds transcription factor activity
+AT1G63110 ortho_group4017_cds other cellular processes
+AT1G63110 ortho_group4017_cds other metabolic processes
+AT1G63110 ortho_group4017_cds plasma membrane
+AT1G63110 ortho_group4017_cds protein metabolism
+AT1G63160 ortho_group3173_cds DNA or RNA binding
+AT1G63160 ortho_group3173_cds DNA or RNA metabolism
+AT1G63160 ortho_group3173_cds hydrolase activity
+AT1G63160 ortho_group3173_cds nucleotide binding
+AT1G63160 ortho_group3173_cds other cellular processes
+AT1G63160 ortho_group3173_cds other intracellular components
+AT1G63160 ortho_group3173_cds other metabolic processes
+AT1G63210 ortho_group4248_cds developmental processes
+AT1G63210 ortho_group4248_cds DNA or RNA binding
+AT1G63210 ortho_group4248_cds hydrolase activity
+AT1G63220 ortho_group4154_cds unknown biological processes
+AT1G63220 ortho_group4154_cds unknown molecular functions
+AT1G63260 ortho_group2868_cds other biological processes
+AT1G63260 ortho_group2868_cds other cellular components
+AT1G63260 ortho_group2868_cds other membranes
+AT1G63430 ortho_group2628_cds kinase activity
+AT1G63430 ortho_group2628_cds nucleotide binding
+AT1G63430 ortho_group2628_cds other cellular processes
+AT1G63430 ortho_group2628_cds other metabolic processes
+AT1G63430 ortho_group2628_cds plasma membrane
+AT1G63430 ortho_group2628_cds protein metabolism
+AT1G63430 ortho_group2628_cds signal transduction
+AT1G63430 ortho_group2628_cds transferase activity
+AT1G63460 ortho_group5465_cds other enzyme activity
+AT1G63460 ortho_group5465_cds other metabolic processes
+AT1G63460 ortho_group5465_cds response to stress
+AT1G63460 ortho_group5465_cds unknown cellular components
+AT1G63500 ortho_group3189_cds kinase activity
+AT1G63500 ortho_group3189_cds nucleotide binding
+AT1G63500 ortho_group3189_cds other binding
+AT1G63500 ortho_group3189_cds other cellular components
+AT1G63500 ortho_group3189_cds other cellular processes
+AT1G63500 ortho_group3189_cds other metabolic processes
+AT1G63500 ortho_group3189_cds plasma membrane
+AT1G63500 ortho_group3189_cds protein metabolism
+AT1G63500 ortho_group3189_cds transferase activity
+AT1G63610 ortho_group3958_cds chloroplast
+AT1G63610 ortho_group3958_cds other cytoplasmic components
+AT1G63610 ortho_group3958_cds other intracellular components
+AT1G63610 ortho_group3958_cds plastid
+AT1G63610 ortho_group3958_cds unknown biological processes
+AT1G63610 ortho_group3958_cds unknown molecular functions
+AT1G63640 ortho_group2863_cds hydrolase activity
+AT1G63640 ortho_group2863_cds nucleotide binding
+AT1G63640 ortho_group2863_cds other cellular processes
+AT1G63640 ortho_group2863_cds plasma membrane
+AT1G63690 ortho_group3499_cds hydrolase activity
+AT1G63690 ortho_group3499_cds other cytoplasmic components
+AT1G63690 ortho_group3499_cds other intracellular components
+AT1G63690 ortho_group3499_cds plasma membrane
+AT1G63690 ortho_group3499_cds protein metabolism
+AT1G63770 ortho_group4618_cds chloroplast
+AT1G63770 ortho_group4618_cds cytosol
+AT1G63770 ortho_group4618_cds extracellular
+AT1G63770 ortho_group4618_cds hydrolase activity
+AT1G63770 ortho_group4618_cds other binding
+AT1G63770 ortho_group4618_cds other biological processes
+AT1G63770 ortho_group4618_cds other cytoplasmic components
+AT1G63770 ortho_group4618_cds other intracellular components
+AT1G63770 ortho_group4618_cds plasma membrane
+AT1G63770 ortho_group4618_cds plastid
+AT1G63770 ortho_group4618_cds protein metabolism
+AT1G63800 ortho_group5393_cds cytosol
+AT1G63800 ortho_group5393_cds other cellular processes
+AT1G63800 ortho_group5393_cds other enzyme activity
+AT1G63800 ortho_group5393_cds other metabolic processes
+AT1G63800 ortho_group5393_cds protein metabolism
+AT1G63830 ortho_group3683_cds other membranes
+AT1G63830 ortho_group3683_cds plasma membrane
+AT1G63900 ortho_group4913_cds other binding
+AT1G64090 ortho_group5350_cds cell organization and biogenesis
+AT1G64090 ortho_group5350_cds ER
+AT1G64090 ortho_group5350_cds other cellular components
+AT1G64090 ortho_group5350_cds other cellular processes
+AT1G64090 ortho_group5350_cds other cytoplasmic components
+AT1G64090 ortho_group5350_cds other intracellular components
+AT1G64090 ortho_group5350_cds other membranes
+AT1G64150 ortho_group3805_cds chloroplast
+AT1G64150 ortho_group3805_cds other membranes
+AT1G64210 ortho_group3071_cds kinase activity
+AT1G64210 ortho_group3071_cds mitochondria
+AT1G64210 ortho_group3071_cds nucleotide binding
+AT1G64210 ortho_group3071_cds other cellular processes
+AT1G64210 ortho_group3071_cds other metabolic processes
+AT1G64210 ortho_group3071_cds protein metabolism
+AT1G64210 ortho_group3071_cds signal transduction
+AT1G64210 ortho_group3071_cds transferase activity
+AT1G64230 ortho_group3113_cds other cellular processes
+AT1G64230 ortho_group3113_cds other enzyme activity
+AT1G64230 ortho_group3113_cds other metabolic processes
+AT1G64230 ortho_group3113_cds plasma membrane
+AT1G64230 ortho_group3113_cds protein metabolism
+AT1G64355 ortho_group2545_cds chloroplast
+AT1G64355 ortho_group2545_cds unknown biological processes
+AT1G64355 ortho_group2545_cds unknown molecular functions
+AT1G64430 ortho_group3059_cds unknown biological processes
+AT1G64430 ortho_group3059_cds unknown molecular functions
+AT1G64510 ortho_group5268_cds chloroplast
+AT1G64510 ortho_group5268_cds DNA or RNA binding
+AT1G64510 ortho_group5268_cds other cellular processes
+AT1G64510 ortho_group5268_cds other cytoplasmic components
+AT1G64510 ortho_group5268_cds other intracellular components
+AT1G64510 ortho_group5268_cds other membranes
+AT1G64510 ortho_group5268_cds other metabolic processes
+AT1G64510 ortho_group5268_cds plastid
+AT1G64510 ortho_group5268_cds protein metabolism
+AT1G64510 ortho_group5268_cds ribosome
+AT1G64510 ortho_group5268_cds structural molecule activity
+AT1G64620 ortho_group5457_cds DNA or RNA binding
+AT1G64620 ortho_group5457_cds other cellular processes
+AT1G64620 ortho_group5457_cds other metabolic processes
+AT1G64620 ortho_group5457_cds transcription factor activity
+AT1G64620 ortho_group5457_cds unknown cellular components
+AT1G64720 ortho_group2932_cds other cytoplasmic components
+AT1G64720 ortho_group2932_cds other intracellular components
+AT1G64720 ortho_group2932_cds unknown biological processes
+AT1G64720 ortho_group2932_cds unknown molecular functions
+AT1G64970 ortho_group4939_cds chloroplast
+AT1G64970 ortho_group4939_cds other cellular processes
+AT1G64970 ortho_group4939_cds other metabolic processes
+AT1G64970 ortho_group4939_cds transferase activity
+AT1G65000 ortho_group3206_cds unknown biological processes
+AT1G65000 ortho_group3206_cds unknown molecular functions
+AT1G65020 ortho_group2900_cds ER
+AT1G65020 ortho_group2900_cds plasma membrane
+AT1G65020 ortho_group2900_cds unknown biological processes
+AT1G65020 ortho_group2900_cds unknown molecular functions
+AT1G65260 ortho_group5091_cds cell organization and biogenesis
+AT1G65260 ortho_group5091_cds chloroplast
+AT1G65260 ortho_group5091_cds other cellular processes
+AT1G65260 ortho_group5091_cds other cytoplasmic components
+AT1G65260 ortho_group5091_cds other intracellular components
+AT1G65260 ortho_group5091_cds other membranes
+AT1G65260 ortho_group5091_cds plastid
+AT1G65280 ortho_group4416_cds other cellular processes
+AT1G65280 ortho_group4416_cds other metabolic processes
+AT1G65280 ortho_group4416_cds protein binding
+AT1G65280 ortho_group4416_cds protein metabolism
+AT1G65290 ortho_group4575_cds mitochondria
+AT1G65290 ortho_group4575_cds other binding
+AT1G65290 ortho_group4575_cds other cellular processes
+AT1G65290 ortho_group4575_cds other cytoplasmic components
+AT1G65290 ortho_group4575_cds other intracellular components
+AT1G65290 ortho_group4575_cds other metabolic processes
+AT1G65290 ortho_group4575_cds protein binding
+AT1G65290 ortho_group4575_cds transporter activity
+AT1G65350 ortho_group4943_cds other cellular processes
+AT1G65350 ortho_group4943_cds other intracellular components
+AT1G65350 ortho_group4943_cds other metabolic processes
+AT1G65350 ortho_group4943_cds protein metabolism
+AT1G65380 ortho_group5151_cds developmental processes
+AT1G65380 ortho_group5151_cds other biological processes
+AT1G65380 ortho_group5151_cds other membranes
+AT1G65380 ortho_group5151_cds protein binding
+AT1G65380 ortho_group5151_cds receptor binding or activity
+AT1G65380 ortho_group5151_cds signal transduction
+AT1G65430 ortho_group2702_cds other enzyme activity
+AT1G65560 ortho_group3656_cds other binding
+AT1G65560 ortho_group3656_cds other enzyme activity
+AT1G65560 ortho_group3656_cds other metabolic processes
+AT1G65560 ortho_group3656_cds unknown cellular components
+AT1G65590 ortho_group2908_cds cell wall
+AT1G65590 ortho_group2908_cds hydrolase activity
+AT1G65590 ortho_group2908_cds other metabolic processes
+AT1G65590 ortho_group2908_cds plasma membrane
+AT1G65680 ortho_group3873_cds cell organization and biogenesis
+AT1G65680 ortho_group3873_cds extracellular
+AT1G65680 ortho_group3873_cds other cellular components
+AT1G65680 ortho_group3873_cds other cellular processes
+AT1G65820 ortho_group2541_cds ER
+AT1G65820 ortho_group2541_cds other cellular components
+AT1G65820 ortho_group2541_cds other cellular processes
+AT1G65820 ortho_group2541_cds other cytoplasmic components
+AT1G65820 ortho_group2541_cds other enzyme activity
+AT1G65820 ortho_group2541_cds other intracellular components
+AT1G65820 ortho_group2541_cds other membranes
+AT1G65820 ortho_group2541_cds other metabolic processes
+AT1G65820 ortho_group2541_cds response to stress
+AT1G65820 ortho_group2541_cds transferase activity
+AT1G65900 ortho_group3416_cds other cellular components
+AT1G65900 ortho_group3416_cds unknown biological processes
+AT1G65900 ortho_group3416_cds unknown molecular functions
+AT1G65910 ortho_group4432_cds developmental processes
+AT1G65910 ortho_group4432_cds other cellular processes
+AT1G65910 ortho_group4432_cds other metabolic processes
+AT1G65910 ortho_group4432_cds transcription factor activity
+AT1G65910 ortho_group4432_cds unknown cellular components
+AT1G65950 ortho_group5062_cds unknown biological processes
+AT1G65950 ortho_group5062_cds unknown cellular components
+AT1G65950 ortho_group5062_cds unknown molecular functions
+AT1G66200 ortho_group3182_cds chloroplast
+AT1G66200 ortho_group3182_cds cytosol
+AT1G66200 ortho_group3182_cds extracellular
+AT1G66200 ortho_group3182_cds other binding
+AT1G66200 ortho_group3182_cds other cytoplasmic components
+AT1G66200 ortho_group3182_cds other enzyme activity
+AT1G66200 ortho_group3182_cds other intracellular components
+AT1G66200 ortho_group3182_cds other metabolic processes
+AT1G66200 ortho_group3182_cds plastid
+AT1G66200 ortho_group3182_cds response to abiotic or biotic stimulus
+AT1G66200 ortho_group3182_cds response to stress
+AT1G66200 ortho_group3182_cds ribosome
+AT1G66430 ortho_group4316_cds chloroplast
+AT1G66430 ortho_group4316_cds electron transport or energy pathways
+AT1G66430 ortho_group4316_cds kinase activity
+AT1G66430 ortho_group4316_cds other cellular processes
+AT1G66430 ortho_group4316_cds other cytoplasmic components
+AT1G66430 ortho_group4316_cds other intracellular components
+AT1G66430 ortho_group4316_cds other metabolic processes
+AT1G66430 ortho_group4316_cds plastid
+AT1G66430 ortho_group4316_cds transferase activity
+AT1G66460 ortho_group3186_cds kinase activity
+AT1G66460 ortho_group3186_cds nucleotide binding
+AT1G66460 ortho_group3186_cds other cellular processes
+AT1G66460 ortho_group3186_cds other metabolic processes
+AT1G66460 ortho_group3186_cds protein metabolism
+AT1G66460 ortho_group3186_cds transferase activity
+AT1G66460 ortho_group3186_cds unknown cellular components
+AT1G66530 ortho_group4039_cds nucleotide binding
+AT1G66530 ortho_group4039_cds other cellular processes
+AT1G66530 ortho_group4039_cds other cytoplasmic components
+AT1G66530 ortho_group4039_cds other enzyme activity
+AT1G66530 ortho_group4039_cds other metabolic processes
+AT1G66530 ortho_group4039_cds protein metabolism
+AT1G66590 ortho_group3096_cds unknown biological processes
+AT1G66590 ortho_group3096_cds unknown cellular components
+AT1G66590 ortho_group3096_cds unknown molecular functions
+AT1G66670 ortho_group2999_cds chloroplast
+AT1G66670 ortho_group2999_cds hydrolase activity
+AT1G66670 ortho_group2999_cds other cytoplasmic components
+AT1G66670 ortho_group2999_cds other intracellular components
+AT1G66670 ortho_group2999_cds plastid
+AT1G66670 ortho_group2999_cds protein metabolism
+AT1G67060 ortho_group4891_cds plasma membrane
+AT1G67060 ortho_group4891_cds unknown biological processes
+AT1G67060 ortho_group4891_cds unknown molecular functions
+AT1G67080 ortho_group4475_cds chloroplast
+AT1G67080 ortho_group4475_cds other cellular processes
+AT1G67080 ortho_group4475_cds other cytoplasmic components
+AT1G67080 ortho_group4475_cds other intracellular components
+AT1G67080 ortho_group4475_cds other membranes
+AT1G67080 ortho_group4475_cds other metabolic processes
+AT1G67080 ortho_group4475_cds plastid
+AT1G67080 ortho_group4475_cds response to abiotic or biotic stimulus
+AT1G67250 ortho_group4312_cds unknown biological processes
+AT1G67250 ortho_group4312_cds unknown cellular components
+AT1G67250 ortho_group4312_cds unknown molecular functions
+AT1G67280 ortho_group4221_cds chloroplast
+AT1G67280 ortho_group4221_cds other binding
+AT1G67280 ortho_group4221_cds other cytoplasmic components
+AT1G67280 ortho_group4221_cds other enzyme activity
+AT1G67280 ortho_group4221_cds other intracellular components
+AT1G67280 ortho_group4221_cds other metabolic processes
+AT1G67280 ortho_group4221_cds plastid
+AT1G67280 ortho_group4221_cds response to abiotic or biotic stimulus
+AT1G67280 ortho_group4221_cds response to stress
+AT1G67300 ortho_group4797_cds other cellular processes
+AT1G67300 ortho_group4797_cds other membranes
+AT1G67300 ortho_group4797_cds transport
+AT1G67300 ortho_group4797_cds transporter activity
+AT1G67350 ortho_group5407_cds mitochondria
+AT1G67350 ortho_group5407_cds other cellular processes
+AT1G67350 ortho_group5407_cds other cytoplasmic components
+AT1G67350 ortho_group5407_cds other intracellular components
+AT1G67350 ortho_group5407_cds other membranes
+AT1G67350 ortho_group5407_cds other metabolic processes
+AT1G67350 ortho_group5407_cds unknown molecular functions
+AT1G67430 ortho_group4653_cds cytosol
+AT1G67430 ortho_group4653_cds nucleus
+AT1G67430 ortho_group4653_cds other cellular components
+AT1G67430 ortho_group4653_cds other cellular processes
+AT1G67430 ortho_group4653_cds other cytoplasmic components
+AT1G67430 ortho_group4653_cds other intracellular components
+AT1G67430 ortho_group4653_cds other membranes
+AT1G67430 ortho_group4653_cds other metabolic processes
+AT1G67430 ortho_group4653_cds protein metabolism
+AT1G67430 ortho_group4653_cds ribosome
+AT1G67430 ortho_group4653_cds structural molecule activity
+AT1G67580 ortho_group3001_cds cytosol
+AT1G67580 ortho_group3001_cds kinase activity
+AT1G67580 ortho_group3001_cds other cellular processes
+AT1G67580 ortho_group3001_cds other metabolic processes
+AT1G67580 ortho_group3001_cds protein binding
+AT1G67580 ortho_group3001_cds protein metabolism
+AT1G67680 ortho_group5597_cds DNA or RNA binding
+AT1G67680 ortho_group5597_cds other cellular processes
+AT1G67680 ortho_group5597_cds transport
+AT1G67720 ortho_group5582_cds kinase activity
+AT1G67720 ortho_group5582_cds other cellular components
+AT1G67720 ortho_group5582_cds other cellular processes
+AT1G67720 ortho_group5582_cds other metabolic processes
+AT1G67720 ortho_group5582_cds protein metabolism
+AT1G67720 ortho_group5582_cds transferase activity
+AT1G67750 ortho_group5550_cds other cellular components
+AT1G67750 ortho_group5550_cds other enzyme activity
+AT1G67750 ortho_group5550_cds unknown biological processes
+AT1G67940 ortho_group3606_cds other cytoplasmic components
+AT1G67940 ortho_group3606_cds other intracellular components
+AT1G67940 ortho_group3606_cds other membranes
+AT1G67940 ortho_group3606_cds plasma membrane
+AT1G67940 ortho_group3606_cds transport
+AT1G67940 ortho_group3606_cds transporter activity
+AT1G68010 ortho_group2660_cds chloroplast
+AT1G68010 ortho_group2660_cds DNA or RNA binding
+AT1G68010 ortho_group2660_cds extracellular
+AT1G68010 ortho_group2660_cds other cellular processes
+AT1G68010 ortho_group2660_cds other cytoplasmic components
+AT1G68010 ortho_group2660_cds other enzyme activity
+AT1G68010 ortho_group2660_cds other intracellular components
+AT1G68010 ortho_group2660_cds other metabolic processes
+AT1G68070 ortho_group3473_cds other binding
+AT1G68070 ortho_group3473_cds other cytoplasmic components
+AT1G68070 ortho_group3473_cds other intracellular components
+AT1G68070 ortho_group3473_cds other membranes
+AT1G68090 ortho_group5122_cds other binding
+AT1G68090 ortho_group5122_cds response to abiotic or biotic stimulus
+AT1G68090 ortho_group5122_cds response to stress
+AT1G68100 ortho_group3098_cds other cellular components
+AT1G68100 ortho_group3098_cds other cellular processes
+AT1G68100 ortho_group3098_cds other membranes
+AT1G68100 ortho_group3098_cds transport
+AT1G68100 ortho_group3098_cds transporter activity
+AT1G68290 ortho_group2972_cds DNA or RNA metabolism
+AT1G68290 ortho_group2972_cds hydrolase activity
+AT1G68290 ortho_group2972_cds nucleic acid binding
+AT1G68290 ortho_group2972_cds other cellular processes
+AT1G68290 ortho_group2972_cds other metabolic processes
+AT1G68310 ortho_group4493_cds developmental processes
+AT1G68310 ortho_group4493_cds other binding
+AT1G68310 ortho_group4493_cds other cellular processes
+AT1G68310 ortho_group4493_cds unknown cellular components
+AT1G68320 ortho_group3504_cds DNA or RNA binding
+AT1G68320 ortho_group3504_cds nucleus
+AT1G68320 ortho_group3504_cds other biological processes
+AT1G68320 ortho_group3504_cds other cellular processes
+AT1G68320 ortho_group3504_cds other metabolic processes
+AT1G68320 ortho_group3504_cds response to stress
+AT1G68320 ortho_group3504_cds transcription factor activity
+AT1G68370 ortho_group2617_cds other cellular processes
+AT1G68370 ortho_group2617_cds other metabolic processes
+AT1G68370 ortho_group2617_cds protein binding
+AT1G68370 ortho_group2617_cds protein metabolism
+AT1G68370 ortho_group2617_cds response to abiotic or biotic stimulus
+AT1G68520 ortho_group2914_cds other binding
+AT1G68520 ortho_group2914_cds other cellular processes
+AT1G68520 ortho_group2914_cds other intracellular components
+AT1G68520 ortho_group2914_cds other metabolic processes
+AT1G68520 ortho_group2914_cds transcription factor activity
+AT1G68560 ortho_group3295_cds cell wall
+AT1G68560 ortho_group3295_cds chloroplast
+AT1G68560 ortho_group3295_cds extracellular
+AT1G68560 ortho_group3295_cds hydrolase activity
+AT1G68560 ortho_group3295_cds other biological processes
+AT1G68560 ortho_group3295_cds other cellular components
+AT1G68560 ortho_group3295_cds other cellular processes
+AT1G68560 ortho_group3295_cds other metabolic processes
+AT1G68590 ortho_group3081_cds chloroplast
+AT1G68590 ortho_group3081_cds other cellular processes
+AT1G68590 ortho_group3081_cds other cytoplasmic components
+AT1G68590 ortho_group3081_cds other intracellular components
+AT1G68590 ortho_group3081_cds other membranes
+AT1G68590 ortho_group3081_cds other metabolic processes
+AT1G68590 ortho_group3081_cds plastid
+AT1G68590 ortho_group3081_cds protein metabolism
+AT1G68590 ortho_group3081_cds structural molecule activity
+AT1G68610 ortho_group3774_cds developmental processes
+AT1G68610 ortho_group3774_cds other cellular processes
+AT1G68610 ortho_group3774_cds unknown molecular functions
+AT1G68650 ortho_group2646_cds other membranes
+AT1G68650 ortho_group2646_cds unknown biological processes
+AT1G68650 ortho_group2646_cds unknown molecular functions
+AT1G68660 ortho_group4294_cds other metabolic processes
+AT1G68660 ortho_group4294_cds protein metabolism
+AT1G68660 ortho_group4294_cds unknown molecular functions
+AT1G68670 ortho_group5064_cds DNA or RNA binding
+AT1G68670 ortho_group5064_cds other cellular processes
+AT1G68670 ortho_group5064_cds other metabolic processes
+AT1G68670 ortho_group5064_cds transcription factor activity
+AT1G68730 ortho_group5539_cds chloroplast
+AT1G69030 ortho_group4445_cds unknown biological processes
+AT1G69230 ortho_group3863_cds unknown biological processes
+AT1G69230 ortho_group3863_cds unknown molecular functions
+AT1G69340 ortho_group5494_cds unknown biological processes
+AT1G69340 ortho_group5494_cds unknown molecular functions
+AT1G69380 ortho_group3748_cds developmental processes
+AT1G69380 ortho_group3748_cds DNA or RNA metabolism
+AT1G69380 ortho_group3748_cds mitochondria
+AT1G69380 ortho_group3748_cds other cellular processes
+AT1G69380 ortho_group3748_cds other metabolic processes
+AT1G69380 ortho_group3748_cds unknown molecular functions
+AT1G69460 ortho_group4903_cds ER
+AT1G69460 ortho_group4903_cds other cellular processes
+AT1G69460 ortho_group4903_cds other membranes
+AT1G69460 ortho_group4903_cds transport
+AT1G69460 ortho_group4903_cds transporter activity
+AT1G69490 ortho_group4432_cds developmental processes
+AT1G69490 ortho_group4432_cds nucleus
+AT1G69490 ortho_group4432_cds other cellular processes
+AT1G69490 ortho_group4432_cds transcription factor activity
+AT1G69510 ortho_group3736_cds unknown biological processes
+AT1G69510 ortho_group3736_cds unknown molecular functions
+AT1G69670 ortho_group3015_cds developmental processes
+AT1G69670 ortho_group3015_cds other cellular processes
+AT1G69670 ortho_group3015_cds other enzyme activity
+AT1G69670 ortho_group3015_cds other intracellular components
+AT1G69670 ortho_group3015_cds other metabolic processes
+AT1G69670 ortho_group3015_cds protein binding
+AT1G69670 ortho_group3015_cds protein metabolism
+AT1G69740 ortho_group2897_cds chloroplast
+AT1G69740 ortho_group2897_cds other binding
+AT1G69740 ortho_group2897_cds other cellular processes
+AT1G69740 ortho_group2897_cds other cytoplasmic components
+AT1G69740 ortho_group2897_cds other enzyme activity
+AT1G69740 ortho_group2897_cds other intracellular components
+AT1G69740 ortho_group2897_cds other metabolic processes
+AT1G69740 ortho_group2897_cds plastid
+AT1G69770 ortho_group3490_cds cell organization and biogenesis
+AT1G69770 ortho_group3490_cds developmental processes
+AT1G69770 ortho_group3490_cds DNA or RNA metabolism
+AT1G69770 ortho_group3490_cds nucleus
+AT1G69770 ortho_group3490_cds other cellular processes
+AT1G69770 ortho_group3490_cds other intracellular components
+AT1G69770 ortho_group3490_cds other metabolic processes
+AT1G69770 ortho_group3490_cds protein metabolism
+AT1G69770 ortho_group3490_cds transferase activity
+AT1G69780 ortho_group3222_cds developmental processes
+AT1G69780 ortho_group3222_cds DNA or RNA binding
+AT1G69780 ortho_group3222_cds nucleus
+AT1G69780 ortho_group3222_cds other biological processes
+AT1G69780 ortho_group3222_cds other cellular processes
+AT1G69780 ortho_group3222_cds other metabolic processes
+AT1G69780 ortho_group3222_cds transcription factor activity
+AT1G70000 ortho_group3939_cds nucleic acid binding
+AT1G70000 ortho_group3939_cds other biological processes
+AT1G70000 ortho_group3939_cds other cellular processes
+AT1G70000 ortho_group3939_cds other metabolic processes
+AT1G70000 ortho_group3939_cds response to abiotic or biotic stimulus
+AT1G70000 ortho_group3939_cds response to stress
+AT1G70000 ortho_group3939_cds transcription factor activity
+AT1G70060 ortho_group4602_cds nucleus
+AT1G70060 ortho_group4602_cds other cellular processes
+AT1G70060 ortho_group4602_cds other metabolic processes
+AT1G70160 ortho_group3888_cds unknown biological processes
+AT1G70160 ortho_group3888_cds unknown molecular functions
+AT1G70200 ortho_group5232_cds chloroplast
+AT1G70200 ortho_group5232_cds nucleic acid binding
+AT1G70310 ortho_group2737_cds other cellular processes
+AT1G70310 ortho_group2737_cds other metabolic processes
+AT1G70310 ortho_group2737_cds plasma membrane
+AT1G70310 ortho_group2737_cds protein binding
+AT1G70310 ortho_group2737_cds transferase activity
+AT1G70550 ortho_group2656_cds other cellular components
+AT1G70550 ortho_group2656_cds unknown biological processes
+AT1G70580 ortho_group5097_cds chloroplast
+AT1G70580 ortho_group5097_cds other cellular processes
+AT1G70580 ortho_group5097_cds other cytoplasmic components
+AT1G70580 ortho_group5097_cds other intracellular components
+AT1G70580 ortho_group5097_cds other metabolic processes
+AT1G70580 ortho_group5097_cds plastid
+AT1G70580 ortho_group5097_cds transferase activity
+AT1G70610 ortho_group3008_cds chloroplast
+AT1G70610 ortho_group3008_cds hydrolase activity
+AT1G70610 ortho_group3008_cds other cellular processes
+AT1G70610 ortho_group3008_cds other cytoplasmic components
+AT1G70610 ortho_group3008_cds other intracellular components
+AT1G70610 ortho_group3008_cds plastid
+AT1G70610 ortho_group3008_cds transport
+AT1G70610 ortho_group3008_cds transporter activity
+AT1G70750 ortho_group4497_cds other cellular components
+AT1G70750 ortho_group4497_cds unknown biological processes
+AT1G70750 ortho_group4497_cds unknown molecular functions
+AT1G70820 ortho_group3041_cds chloroplast
+AT1G70820 ortho_group3041_cds cytosol
+AT1G70820 ortho_group3041_cds other cellular processes
+AT1G70820 ortho_group3041_cds other cytoplasmic components
+AT1G70820 ortho_group3041_cds other enzyme activity
+AT1G70820 ortho_group3041_cds other intracellular components
+AT1G70820 ortho_group3041_cds other metabolic processes
+AT1G70820 ortho_group3041_cds plastid
+AT1G70900 ortho_group5235_cds unknown molecular functions
+AT1G71040 ortho_group4516_cds cell wall
+AT1G71040 ortho_group4516_cds cytosol
+AT1G71040 ortho_group4516_cds developmental processes
+AT1G71040 ortho_group4516_cds other binding
+AT1G71040 ortho_group4516_cds other cellular processes
+AT1G71040 ortho_group4516_cds other enzyme activity
+AT1G71040 ortho_group4516_cds other membranes
+AT1G71040 ortho_group4516_cds response to stress
+AT1G71190 ortho_group3558_cds hydrolase activity
+AT1G71190 ortho_group3558_cds other cellular processes
+AT1G71190 ortho_group3558_cds other metabolic processes
+AT1G71270 ortho_group3513_cds cell organization and biogenesis
+AT1G71270 ortho_group3513_cds developmental processes
+AT1G71270 ortho_group3513_cds Golgi apparatus
+AT1G71270 ortho_group3513_cds other biological processes
+AT1G71270 ortho_group3513_cds other cellular components
+AT1G71270 ortho_group3513_cds other cellular processes
+AT1G71270 ortho_group3513_cds other cytoplasmic components
+AT1G71270 ortho_group3513_cds other intracellular components
+AT1G71270 ortho_group3513_cds other membranes
+AT1G71270 ortho_group3513_cds unknown molecular functions
+AT1G71430 ortho_group5394_cds unknown biological processes
+AT1G71430 ortho_group5394_cds unknown cellular components
+AT1G71430 ortho_group5394_cds unknown molecular functions
+AT1G71480 ortho_group4805_cds chloroplast
+AT1G71480 ortho_group4805_cds nucleus
+AT1G71480 ortho_group4805_cds other cellular processes
+AT1G71480 ortho_group4805_cds other cytoplasmic components
+AT1G71480 ortho_group4805_cds other intracellular components
+AT1G71480 ortho_group4805_cds other membranes
+AT1G71480 ortho_group4805_cds plastid
+AT1G71480 ortho_group4805_cds transport
+AT1G71480 ortho_group4805_cds transporter activity
+AT1G71720 ortho_group3132_cds chloroplast
+AT1G71720 ortho_group3132_cds DNA or RNA binding
+AT1G71790 ortho_group3905_cds cell organization and biogenesis
+AT1G71790 ortho_group3905_cds other cellular processes
+AT1G71790 ortho_group3905_cds other intracellular components
+AT1G71790 ortho_group3905_cds protein binding
+AT1G71820 ortho_group4523_cds cell organization and biogenesis
+AT1G71820 ortho_group4523_cds cytosol
+AT1G71820 ortho_group4523_cds developmental processes
+AT1G71820 ortho_group4523_cds other biological processes
+AT1G71820 ortho_group4523_cds other cellular components
+AT1G71820 ortho_group4523_cds other cellular processes
+AT1G71820 ortho_group4523_cds other cytoplasmic components
+AT1G71820 ortho_group4523_cds other intracellular components
+AT1G71820 ortho_group4523_cds plasma membrane
+AT1G71820 ortho_group4523_cds protein binding
+AT1G71860 ortho_group2742_cds hydrolase activity
+AT1G71860 ortho_group2742_cds nucleus
+AT1G71860 ortho_group2742_cds other cytoplasmic components
+AT1G71860 ortho_group2742_cds plasma membrane
+AT1G71860 ortho_group2742_cds signal transduction
+AT1G71900 ortho_group5331_cds unknown biological processes
+AT1G71900 ortho_group5331_cds unknown cellular components
+AT1G71900 ortho_group5331_cds unknown molecular functions
+AT1G71940 ortho_group2680_cds unknown biological processes
+AT1G71940 ortho_group2680_cds unknown molecular functions
+AT1G71950 ortho_group3884_cds cytosol
+AT1G71950 ortho_group3884_cds hydrolase activity
+AT1G71950 ortho_group3884_cds other metabolic processes
+AT1G71950 ortho_group3884_cds plasma membrane
+AT1G71950 ortho_group3884_cds protein binding
+AT1G72030 ortho_group3241_cds other metabolic processes
+AT1G72030 ortho_group3241_cds transferase activity
+AT1G72040 ortho_group4549_cds nucleotide binding
+AT1G72040 ortho_group4549_cds nucleus
+AT1G72040 ortho_group4549_cds other cellular processes
+AT1G72040 ortho_group4549_cds other metabolic processes
+AT1G72040 ortho_group4549_cds transferase activity
+AT1G72050 ortho_group3681_cds DNA or RNA binding
+AT1G72050 ortho_group3681_cds nucleic acid binding
+AT1G72050 ortho_group3681_cds nucleus
+AT1G72050 ortho_group3681_cds other binding
+AT1G72050 ortho_group3681_cds other intracellular components
+AT1G72050 ortho_group3681_cds transcription factor activity
+AT1G72050 ortho_group3681_cds unknown biological processes
+AT1G72150 ortho_group2912_cds cell organization and biogenesis
+AT1G72150 ortho_group2912_cds chloroplast
+AT1G72150 ortho_group2912_cds developmental processes
+AT1G72150 ortho_group2912_cds extracellular
+AT1G72150 ortho_group2912_cds other cellular components
+AT1G72150 ortho_group2912_cds other cellular processes
+AT1G72150 ortho_group2912_cds other cytoplasmic components
+AT1G72150 ortho_group2912_cds other intracellular components
+AT1G72150 ortho_group2912_cds other membranes
+AT1G72150 ortho_group2912_cds plasma membrane
+AT1G72150 ortho_group2912_cds protein binding
+AT1G72150 ortho_group2912_cds transport
+AT1G72150 ortho_group2912_cds transporter activity
+AT1G72190 ortho_group3027_cds nucleotide binding
+AT1G72190 ortho_group3027_cds other binding
+AT1G72190 ortho_group3027_cds other cellular processes
+AT1G72190 ortho_group3027_cds other enzyme activity
+AT1G72190 ortho_group3027_cds other metabolic processes
+AT1G72300 ortho_group4734_cds kinase activity
+AT1G72300 ortho_group4734_cds nucleotide binding
+AT1G72300 ortho_group4734_cds other cellular processes
+AT1G72300 ortho_group4734_cds other metabolic processes
+AT1G72300 ortho_group4734_cds protein metabolism
+AT1G72300 ortho_group4734_cds receptor binding or activity
+AT1G72300 ortho_group4734_cds response to stress
+AT1G72300 ortho_group4734_cds signal transduction
+AT1G72300 ortho_group4734_cds transferase activity
+AT1G72300 ortho_group4734_cds unknown cellular components
+AT1G72330 ortho_group2537_cds electron transport or energy pathways
+AT1G72330 ortho_group2537_cds mitochondria
+AT1G72330 ortho_group2537_cds nucleotide binding
+AT1G72330 ortho_group2537_cds other binding
+AT1G72330 ortho_group2537_cds other cellular processes
+AT1G72330 ortho_group2537_cds other metabolic processes
+AT1G72330 ortho_group2537_cds transferase activity
+AT1G72416 ortho_group4069_cds protein binding
+AT1G72416 ortho_group4069_cds unknown biological processes
+AT1G72416 ortho_group4069_cds unknown cellular components
+AT1G72420 ortho_group5342_cds unknown biological processes
+AT1G72420 ortho_group5342_cds unknown cellular components
+AT1G72420 ortho_group5342_cds unknown molecular functions
+AT1G72480 ortho_group5553_cds Golgi apparatus
+AT1G72480 ortho_group5553_cds unknown biological processes
+AT1G72480 ortho_group5553_cds unknown molecular functions
+AT1G72550 ortho_group4174_cds cytosol
+AT1G72550 ortho_group4174_cds DNA or RNA binding
+AT1G72550 ortho_group4174_cds nucleotide binding
+AT1G72550 ortho_group4174_cds other binding
+AT1G72550 ortho_group4174_cds other cellular processes
+AT1G72550 ortho_group4174_cds other cytoplasmic components
+AT1G72550 ortho_group4174_cds other enzyme activity
+AT1G72550 ortho_group4174_cds other intracellular components
+AT1G72550 ortho_group4174_cds other metabolic processes
+AT1G72550 ortho_group4174_cds protein metabolism
+AT1G72640 ortho_group2937_cds chloroplast
+AT1G72640 ortho_group2937_cds other binding
+AT1G72640 ortho_group2937_cds other cytoplasmic components
+AT1G72640 ortho_group2937_cds other enzyme activity
+AT1G72640 ortho_group2937_cds other intracellular components
+AT1G72640 ortho_group2937_cds other membranes
+AT1G72640 ortho_group2937_cds other metabolic processes
+AT1G72640 ortho_group2937_cds plastid
+AT1G72840 ortho_group4302_cds nucleotide binding
+AT1G72840 ortho_group4302_cds other membranes
+AT1G72840 ortho_group4302_cds receptor binding or activity
+AT1G72840 ortho_group4302_cds response to stress
+AT1G72840 ortho_group4302_cds signal transduction
+AT1G72890 ortho_group4900_cds nucleotide binding
+AT1G72890 ortho_group4900_cds other membranes
+AT1G72890 ortho_group4900_cds receptor binding or activity
+AT1G72890 ortho_group4900_cds response to stress
+AT1G72890 ortho_group4900_cds signal transduction
+AT1G72970 ortho_group3956_cds developmental processes
+AT1G72970 ortho_group3956_cds extracellular
+AT1G72970 ortho_group3956_cds other binding
+AT1G72970 ortho_group3956_cds other cellular processes
+AT1G72970 ortho_group3956_cds other enzyme activity
+AT1G72970 ortho_group3956_cds other metabolic processes
+AT1G73270 ortho_group5220_cds hydrolase activity
+AT1G73270 ortho_group5220_cds other cellular components
+AT1G73270 ortho_group5220_cds protein metabolism
+AT1G73390 ortho_group2719_cds other cellular processes
+AT1G73390 ortho_group2719_cds other metabolic processes
+AT1G73390 ortho_group2719_cds protein metabolism
+AT1G73390 ortho_group2719_cds unknown molecular functions
+AT1G73430 ortho_group4628_cds cytosol
+AT1G73430 ortho_group4628_cds other cellular processes
+AT1G73430 ortho_group4628_cds transport
+AT1G73430 ortho_group4628_cds unknown molecular functions
+AT1G73540 ortho_group3335_cds hydrolase activity
+AT1G73540 ortho_group3335_cds unknown biological processes
+AT1G73600 ortho_group2573_cds other metabolic processes
+AT1G73600 ortho_group2573_cds transferase activity
+AT1G73650 ortho_group3155_cds other cellular components
+AT1G73650 ortho_group3155_cds other cytoplasmic components
+AT1G73650 ortho_group3155_cds other enzyme activity
+AT1G73650 ortho_group3155_cds other intracellular components
+AT1G73650 ortho_group3155_cds other membranes
+AT1G73650 ortho_group3155_cds other metabolic processes
+AT1G73650 ortho_group3155_cds plasma membrane
+AT1G73820 ortho_group3358_cds chloroplast
+AT1G73820 ortho_group3358_cds hydrolase activity
+AT1G73820 ortho_group3358_cds other cellular processes
+AT1G73820 ortho_group3358_cds other metabolic processes
+AT1G73875 ortho_group2640_cds unknown biological processes
+AT1G73875 ortho_group2640_cds unknown cellular components
+AT1G73875 ortho_group2640_cds unknown molecular functions
+AT1G73980 ortho_group4028_cds cytosol
+AT1G73980 ortho_group4028_cds kinase activity
+AT1G73980 ortho_group4028_cds nucleotide binding
+AT1G73980 ortho_group4028_cds other biological processes
+AT1G73980 ortho_group4028_cds other enzyme activity
+AT1G73980 ortho_group4028_cds other metabolic processes
+AT1G73980 ortho_group4028_cds transferase activity
+AT1G73990 ortho_group4267_cds chloroplast
+AT1G73990 ortho_group4267_cds hydrolase activity
+AT1G73990 ortho_group4267_cds other cytoplasmic components
+AT1G73990 ortho_group4267_cds other intracellular components
+AT1G73990 ortho_group4267_cds other membranes
+AT1G73990 ortho_group4267_cds plastid
+AT1G73990 ortho_group4267_cds protein metabolism
+AT1G73990 ortho_group4267_cds response to abiotic or biotic stimulus
+AT1G74240 ortho_group4095_cds mitochondria
+AT1G74240 ortho_group4095_cds other binding
+AT1G74240 ortho_group4095_cds other cellular processes
+AT1G74240 ortho_group4095_cds other cytoplasmic components
+AT1G74240 ortho_group4095_cds other intracellular components
+AT1G74240 ortho_group4095_cds other membranes
+AT1G74240 ortho_group4095_cds transport
+AT1G74270 ortho_group2823_cds cytosol
+AT1G74270 ortho_group2823_cds other cellular processes
+AT1G74270 ortho_group2823_cds other cytoplasmic components
+AT1G74270 ortho_group2823_cds other intracellular components
+AT1G74270 ortho_group2823_cds other metabolic processes
+AT1G74270 ortho_group2823_cds protein metabolism
+AT1G74270 ortho_group2823_cds ribosome
+AT1G74270 ortho_group2823_cds structural molecule activity
+AT1G74320 ortho_group4719_cds kinase activity
+AT1G74320 ortho_group4719_cds transferase activity
+AT1G74330 ortho_group4873_cds kinase activity
+AT1G74330 ortho_group4873_cds nucleotide binding
+AT1G74330 ortho_group4873_cds other cellular processes
+AT1G74330 ortho_group4873_cds other metabolic processes
+AT1G74330 ortho_group4873_cds protein metabolism
+AT1G74330 ortho_group4873_cds transferase activity
+AT1G74450 ortho_group2925_cds unknown biological processes
+AT1G74450 ortho_group2925_cds unknown molecular functions
+AT1G74520 ortho_group4744_cds other biological processes
+AT1G74520 ortho_group4744_cds other cellular components
+AT1G74520 ortho_group4744_cds response to abiotic or biotic stimulus
+AT1G74520 ortho_group4744_cds response to stress
+AT1G74520 ortho_group4744_cds unknown molecular functions
+AT1G74530 ortho_group4247_cds unknown biological processes
+AT1G74530 ortho_group4247_cds unknown molecular functions
+AT1G74560 ortho_group5199_cds cell organization and biogenesis
+AT1G74560 ortho_group5199_cds cytosol
+AT1G74560 ortho_group5199_cds developmental processes
+AT1G74560 ortho_group5199_cds DNA or RNA binding
+AT1G74560 ortho_group5199_cds DNA or RNA metabolism
+AT1G74560 ortho_group5199_cds nucleus
+AT1G74560 ortho_group5199_cds other binding
+AT1G74560 ortho_group5199_cds other biological processes
+AT1G74560 ortho_group5199_cds other cellular processes
+AT1G74560 ortho_group5199_cds other cytoplasmic components
+AT1G74560 ortho_group5199_cds protein binding
+AT1G74670 ortho_group3719_cds other biological processes
+AT1G74670 ortho_group3719_cds other cellular components
+AT1G74670 ortho_group3719_cds other cellular processes
+AT1G74670 ortho_group3719_cds response to abiotic or biotic stimulus
+AT1G74670 ortho_group3719_cds signal transduction
+AT1G74670 ortho_group3719_cds unknown molecular functions
+AT1G74840 ortho_group3939_cds chloroplast
+AT1G74840 ortho_group3939_cds DNA or RNA binding
+AT1G74840 ortho_group3939_cds other biological processes
+AT1G74840 ortho_group3939_cds other cellular processes
+AT1G74840 ortho_group3939_cds other metabolic processes
+AT1G74840 ortho_group3939_cds response to abiotic or biotic stimulus
+AT1G74840 ortho_group3939_cds response to stress
+AT1G74840 ortho_group3939_cds transcription factor activity
+AT1G74860 ortho_group3137_cds unknown biological processes
+AT1G74860 ortho_group3137_cds unknown molecular functions
+AT1G74880 ortho_group2574_cds cell organization and biogenesis
+AT1G74880 ortho_group2574_cds chloroplast
+AT1G74880 ortho_group2574_cds other cellular processes
+AT1G74880 ortho_group2574_cds other cytoplasmic components
+AT1G74880 ortho_group2574_cds other enzyme activity
+AT1G74880 ortho_group2574_cds other intracellular components
+AT1G74880 ortho_group2574_cds other membranes
+AT1G74880 ortho_group2574_cds plastid
+AT1G74910 ortho_group4555_cds cytosol
+AT1G74910 ortho_group4555_cds other biological processes
+AT1G74910 ortho_group4555_cds other cytoplasmic components
+AT1G74910 ortho_group4555_cds other intracellular components
+AT1G74910 ortho_group4555_cds other metabolic processes
+AT1G74910 ortho_group4555_cds transferase activity
+AT1G74970 ortho_group3703_cds chloroplast
+AT1G74970 ortho_group3703_cds cytosol
+AT1G74970 ortho_group3703_cds other cellular processes
+AT1G74970 ortho_group3703_cds other cytoplasmic components
+AT1G74970 ortho_group3703_cds other intracellular components
+AT1G74970 ortho_group3703_cds other membranes
+AT1G74970 ortho_group3703_cds other metabolic processes
+AT1G74970 ortho_group3703_cds plastid
+AT1G74970 ortho_group3703_cds protein metabolism
+AT1G74970 ortho_group3703_cds ribosome
+AT1G74970 ortho_group3703_cds structural molecule activity
+AT1G75020 ortho_group2595_cds other metabolic processes
+AT1G75020 ortho_group2595_cds transferase activity
+AT1G75090 ortho_group3217_cds DNA or RNA metabolism
+AT1G75090 ortho_group3217_cds hydrolase activity
+AT1G75090 ortho_group3217_cds other cellular processes
+AT1G75090 ortho_group3217_cds other enzyme activity
+AT1G75090 ortho_group3217_cds response to stress
+AT1G75170 ortho_group3515_cds transport
+AT1G75170 ortho_group3515_cds transporter activity
+AT1G75180 ortho_group4820_cds unknown biological processes
+AT1G75180 ortho_group4820_cds unknown molecular functions
+AT1G75270 ortho_group4137_cds cytosol
+AT1G75270 ortho_group4137_cds other binding
+AT1G75270 ortho_group4137_cds other cellular processes
+AT1G75270 ortho_group4137_cds other enzyme activity
+AT1G75270 ortho_group4137_cds other metabolic processes
+AT1G75270 ortho_group4137_cds plasma membrane
+AT1G75270 ortho_group4137_cds protein metabolism
+AT1G75330 ortho_group3758_cds chloroplast
+AT1G75330 ortho_group3758_cds other binding
+AT1G75330 ortho_group3758_cds other cellular processes
+AT1G75330 ortho_group3758_cds other cytoplasmic components
+AT1G75330 ortho_group3758_cds other intracellular components
+AT1G75330 ortho_group3758_cds other metabolic processes
+AT1G75330 ortho_group3758_cds plastid
+AT1G75330 ortho_group3758_cds transferase activity
+AT1G75390 ortho_group2849_cds chloroplast
+AT1G75390 ortho_group2849_cds DNA or RNA binding
+AT1G75390 ortho_group2849_cds other cellular processes
+AT1G75390 ortho_group2849_cds other metabolic processes
+AT1G75390 ortho_group2849_cds protein binding
+AT1G75390 ortho_group2849_cds transcription factor activity
+AT1G75510 ortho_group5259_cds hydrolase activity
+AT1G75510 ortho_group5259_cds mitochondria
+AT1G75510 ortho_group5259_cds nucleotide binding
+AT1G75510 ortho_group5259_cds nucleus
+AT1G75510 ortho_group5259_cds other cellular processes
+AT1G75510 ortho_group5259_cds other enzyme activity
+AT1G75510 ortho_group5259_cds other intracellular components
+AT1G75510 ortho_group5259_cds other metabolic processes
+AT1G75580 ortho_group4811_cds other biological processes
+AT1G75580 ortho_group4811_cds protein binding
+AT1G75580 ortho_group4811_cds unknown cellular components
+AT1G75840 ortho_group2704_cds hydrolase activity
+AT1G75840 ortho_group2704_cds nucleotide binding
+AT1G75840 ortho_group2704_cds nucleus
+AT1G75840 ortho_group2704_cds other biological processes
+AT1G75840 ortho_group2704_cds other cytoplasmic components
+AT1G75840 ortho_group2704_cds other intracellular components
+AT1G75840 ortho_group2704_cds plasma membrane
+AT1G75840 ortho_group2704_cds protein binding
+AT1G75900 ortho_group5360_cds extracellular
+AT1G75900 ortho_group5360_cds hydrolase activity
+AT1G75900 ortho_group5360_cds other biological processes
+AT1G75900 ortho_group5360_cds transferase activity
+AT1G75950 ortho_group4336_cds cell organization and biogenesis
+AT1G75950 ortho_group4336_cds cytosol
+AT1G75950 ortho_group4336_cds DNA or RNA metabolism
+AT1G75950 ortho_group4336_cds nucleus
+AT1G75950 ortho_group4336_cds other biological processes
+AT1G75950 ortho_group4336_cds other cellular processes
+AT1G75950 ortho_group4336_cds other cytoplasmic components
+AT1G75950 ortho_group4336_cds other enzyme activity
+AT1G75950 ortho_group4336_cds other intracellular components
+AT1G75950 ortho_group4336_cds other metabolic processes
+AT1G75950 ortho_group4336_cds plasma membrane
+AT1G75950 ortho_group4336_cds protein binding
+AT1G75950 ortho_group4336_cds protein metabolism
+AT1G75980 ortho_group5255_cds mitochondria
+AT1G75980 ortho_group5255_cds other cellular processes
+AT1G75980 ortho_group5255_cds other cytoplasmic components
+AT1G75980 ortho_group5255_cds other intracellular components
+AT1G75980 ortho_group5255_cds other metabolic processes
+AT1G75980 ortho_group5255_cds unknown molecular functions
+AT1G76030 ortho_group4910_cds chloroplast
+AT1G76030 ortho_group4910_cds hydrolase activity
+AT1G76030 ortho_group4910_cds nucleotide binding
+AT1G76030 ortho_group4910_cds other biological processes
+AT1G76030 ortho_group4910_cds other cellular components
+AT1G76030 ortho_group4910_cds other cellular processes
+AT1G76030 ortho_group4910_cds other cytoplasmic components
+AT1G76030 ortho_group4910_cds other intracellular components
+AT1G76030 ortho_group4910_cds other membranes
+AT1G76030 ortho_group4910_cds plasma membrane
+AT1G76030 ortho_group4910_cds signal transduction
+AT1G76030 ortho_group4910_cds transporter activity
+AT1G76080 ortho_group2799_cds chloroplast
+AT1G76080 ortho_group2799_cds other cellular processes
+AT1G76080 ortho_group2799_cds other cytoplasmic components
+AT1G76080 ortho_group2799_cds other intracellular components
+AT1G76080 ortho_group2799_cds plastid
+AT1G76080 ortho_group2799_cds protein binding
+AT1G76080 ortho_group2799_cds response to abiotic or biotic stimulus
+AT1G76080 ortho_group2799_cds response to stress
+AT1G76110 ortho_group4561_cds DNA or RNA binding
+AT1G76110 ortho_group4561_cds nucleus
+AT1G76110 ortho_group4561_cds other cellular processes
+AT1G76110 ortho_group4561_cds other metabolic processes
+AT1G76110 ortho_group4561_cds transcription factor activity
+AT1G76140 ortho_group4655_cds chloroplast
+AT1G76140 ortho_group4655_cds hydrolase activity
+AT1G76140 ortho_group4655_cds protein metabolism
+AT1G76150 ortho_group4537_cds other cellular processes
+AT1G76150 ortho_group4537_cds other cytoplasmic components
+AT1G76150 ortho_group4537_cds other enzyme activity
+AT1G76150 ortho_group4537_cds other intracellular components
+AT1G76150 ortho_group4537_cds other metabolic processes
+AT1G76260 ortho_group3146_cds nucleotide binding
+AT1G76260 ortho_group3146_cds nucleus
+AT1G76260 ortho_group3146_cds other cellular processes
+AT1G76260 ortho_group3146_cds other intracellular components
+AT1G76260 ortho_group3146_cds other metabolic processes
+AT1G76260 ortho_group3146_cds protein binding
+AT1G76260 ortho_group3146_cds protein metabolism
+AT1G76260 ortho_group3146_cds signal transduction
+AT1G76260 ortho_group3146_cds unknown biological processes
+AT1G76360 ortho_group2859_cds chloroplast
+AT1G76360 ortho_group2859_cds kinase activity
+AT1G76360 ortho_group2859_cds nucleotide binding
+AT1G76360 ortho_group2859_cds other cellular processes
+AT1G76360 ortho_group2859_cds other metabolic processes
+AT1G76360 ortho_group2859_cds protein metabolism
+AT1G76360 ortho_group2859_cds transferase activity
+AT1G76450 ortho_group5304_cds chloroplast
+AT1G76450 ortho_group5304_cds other binding
+AT1G76450 ortho_group5304_cds other cellular processes
+AT1G76450 ortho_group5304_cds other cytoplasmic components
+AT1G76450 ortho_group5304_cds other intracellular components
+AT1G76450 ortho_group5304_cds other membranes
+AT1G76450 ortho_group5304_cds other metabolic processes
+AT1G76450 ortho_group5304_cds plastid
+AT1G76520 ortho_group5109_cds other cellular components
+AT1G76520 ortho_group5109_cds other cellular processes
+AT1G76520 ortho_group5109_cds other membranes
+AT1G76520 ortho_group5109_cds transport
+AT1G76520 ortho_group5109_cds transporter activity
+AT1G76550 ortho_group5226_cds cytosol
+AT1G76550 ortho_group5226_cds electron transport or energy pathways
+AT1G76550 ortho_group5226_cds kinase activity
+AT1G76550 ortho_group5226_cds other cellular components
+AT1G76550 ortho_group5226_cds other cellular processes
+AT1G76550 ortho_group5226_cds other metabolic processes
+AT1G76550 ortho_group5226_cds transferase activity
+AT1G76570 ortho_group5269_cds chloroplast
+AT1G76570 ortho_group5269_cds other binding
+AT1G76570 ortho_group5269_cds other cellular processes
+AT1G76570 ortho_group5269_cds other intracellular components
+AT1G76570 ortho_group5269_cds other membranes
+AT1G76570 ortho_group5269_cds other metabolic processes
+AT1G76570 ortho_group5269_cds response to abiotic or biotic stimulus
+AT1G76680 ortho_group4117_cds cytosol
+AT1G76680 ortho_group4117_cds developmental processes
+AT1G76680 ortho_group4117_cds other biological processes
+AT1G76680 ortho_group4117_cds other cellular processes
+AT1G76680 ortho_group4117_cds other enzyme activity
+AT1G76680 ortho_group4117_cds other metabolic processes
+AT1G76680 ortho_group4117_cds response to stress
+AT1G76710 ortho_group2994_cds cell organization and biogenesis
+AT1G76710 ortho_group2994_cds developmental processes
+AT1G76710 ortho_group2994_cds DNA or RNA metabolism
+AT1G76710 ortho_group2994_cds nucleus
+AT1G76710 ortho_group2994_cds other cellular processes
+AT1G76710 ortho_group2994_cds other metabolic processes
+AT1G76710 ortho_group2994_cds protein metabolism
+AT1G76710 ortho_group2994_cds response to abiotic or biotic stimulus
+AT1G76710 ortho_group2994_cds response to stress
+AT1G76710 ortho_group2994_cds transferase activity
+AT1G76810 ortho_group4588_cds DNA or RNA binding
+AT1G76810 ortho_group4588_cds hydrolase activity
+AT1G76810 ortho_group4588_cds nucleotide binding
+AT1G76810 ortho_group4588_cds plasma membrane
+AT1G77090 ortho_group5241_cds chloroplast
+AT1G77090 ortho_group5241_cds other binding
+AT1G77090 ortho_group5241_cds other cellular processes
+AT1G77090 ortho_group5241_cds other cytoplasmic components
+AT1G77090 ortho_group5241_cds other intracellular components
+AT1G77090 ortho_group5241_cds other metabolic processes
+AT1G77090 ortho_group5241_cds plastid
+AT1G77140 ortho_group3710_cds Golgi apparatus
+AT1G77140 ortho_group3710_cds other cellular processes
+AT1G77140 ortho_group3710_cds other cytoplasmic components
+AT1G77140 ortho_group3710_cds other intracellular components
+AT1G77140 ortho_group3710_cds other membranes
+AT1G77140 ortho_group3710_cds protein binding
+AT1G77140 ortho_group3710_cds transport
+AT1G77140 ortho_group3710_cds transporter activity
+AT1G77260 ortho_group5310_cds unknown biological processes
+AT1G77350 ortho_group4430_cds other cellular components
+AT1G77350 ortho_group4430_cds unknown biological processes
+AT1G77350 ortho_group4430_cds unknown molecular functions
+AT1G77370 ortho_group4864_cds other cellular components
+AT1G77370 ortho_group4864_cds other cellular processes
+AT1G77370 ortho_group4864_cds other enzyme activity
+AT1G77370 ortho_group4864_cds other molecular functions
+AT1G77440 ortho_group3139_cds hydrolase activity
+AT1G77440 ortho_group3139_cds other cellular processes
+AT1G77440 ortho_group3139_cds other intracellular components
+AT1G77440 ortho_group3139_cds other metabolic processes
+AT1G77440 ortho_group3139_cds protein metabolism
+AT1G77480 ortho_group3859_cds hydrolase activity
+AT1G77480 ortho_group3859_cds protein metabolism
+AT1G77550 ortho_group2801_cds chloroplast
+AT1G77550 ortho_group2801_cds other cellular processes
+AT1G77550 ortho_group2801_cds other enzyme activity
+AT1G77550 ortho_group2801_cds other metabolic processes
+AT1G77550 ortho_group2801_cds protein metabolism
+AT1G77610 ortho_group5027_cds other cellular processes
+AT1G77610 ortho_group5027_cds other membranes
+AT1G77610 ortho_group5027_cds transport
+AT1G77610 ortho_group5027_cds transporter activity
+AT1G77760 ortho_group3640_cds cytosol
+AT1G77760 ortho_group3640_cds other cellular processes
+AT1G77760 ortho_group3640_cds other enzyme activity
+AT1G77760 ortho_group3640_cds other metabolic processes
+AT1G77760 ortho_group3640_cds protein binding
+AT1G77760 ortho_group3640_cds response to abiotic or biotic stimulus
+AT1G77800 ortho_group3170_cds other binding
+AT1G77800 ortho_group3170_cds other cellular components
+AT1G77930 ortho_group2998_cds chloroplast
+AT1G77930 ortho_group2998_cds other cellular processes
+AT1G77930 ortho_group2998_cds other metabolic processes
+AT1G77930 ortho_group2998_cds protein binding
+AT1G77930 ortho_group2998_cds protein metabolism
+AT1G77990 ortho_group2858_cds other cellular processes
+AT1G77990 ortho_group2858_cds other membranes
+AT1G77990 ortho_group2858_cds transport
+AT1G77990 ortho_group2858_cds transporter activity
+AT1G78050 ortho_group3245_cds other biological processes
+AT1G78050 ortho_group3245_cds other enzyme activity
+AT1G78050 ortho_group3245_cds other metabolic processes
+AT1G78150 ortho_group3034_cds unknown biological processes
+AT1G78150 ortho_group3034_cds unknown molecular functions
+AT1G78290 ortho_group4918_cds kinase activity
+AT1G78290 ortho_group4918_cds nucleotide binding
+AT1G78290 ortho_group4918_cds nucleus
+AT1G78290 ortho_group4918_cds other cytoplasmic components
+AT1G78290 ortho_group4918_cds response to abiotic or biotic stimulus
+AT1G78290 ortho_group4918_cds response to stress
+AT1G78290 ortho_group4918_cds transferase activity
+AT1G78530 ortho_group3933_cds kinase activity
+AT1G78530 ortho_group3933_cds nucleotide binding
+AT1G78530 ortho_group3933_cds other cellular components
+AT1G78530 ortho_group3933_cds other cellular processes
+AT1G78530 ortho_group3933_cds other metabolic processes
+AT1G78530 ortho_group3933_cds protein metabolism
+AT1G78530 ortho_group3933_cds transferase activity
+AT1G78790 ortho_group4307_cds unknown biological processes
+AT1G78790 ortho_group4307_cds unknown molecular functions
+AT1G78895 ortho_group4885_cds unknown biological processes
+AT1G79000 ortho_group3963_cds developmental processes
+AT1G79000 ortho_group3963_cds nucleus
+AT1G79000 ortho_group3963_cds other biological processes
+AT1G79000 ortho_group3963_cds other cellular processes
+AT1G79000 ortho_group3963_cds other metabolic processes
+AT1G79000 ortho_group3963_cds other molecular functions
+AT1G79000 ortho_group3963_cds protein metabolism
+AT1G79000 ortho_group3963_cds response to abiotic or biotic stimulus
+AT1G79000 ortho_group3963_cds transferase activity
+AT1G79020 ortho_group3738_cds other cellular processes
+AT1G79020 ortho_group3738_cds other metabolic processes
+AT1G79020 ortho_group3738_cds transcription factor activity
+AT1G79040 ortho_group2843_cds cell organization and biogenesis
+AT1G79040 ortho_group2843_cds chloroplast
+AT1G79040 ortho_group2843_cds electron transport or energy pathways
+AT1G79040 ortho_group2843_cds other cellular processes
+AT1G79040 ortho_group2843_cds other cytoplasmic components
+AT1G79040 ortho_group2843_cds other intracellular components
+AT1G79040 ortho_group2843_cds other membranes
+AT1G79040 ortho_group2843_cds other metabolic processes
+AT1G79040 ortho_group2843_cds plastid
+AT1G79040 ortho_group2843_cds protein binding
+AT1G79080 ortho_group2677_cds chloroplast
+AT1G79080 ortho_group2677_cds unknown biological processes
+AT1G79200 ortho_group2960_cds unknown biological processes
+AT1G79200 ortho_group2960_cds unknown cellular components
+AT1G79200 ortho_group2960_cds unknown molecular functions
+AT1G79230 ortho_group4693_cds chloroplast
+AT1G79230 ortho_group4693_cds mitochondria
+AT1G79230 ortho_group4693_cds other biological processes
+AT1G79230 ortho_group4693_cds transferase activity
+AT1G79230 ortho_group4693_cds transport
+AT1G79270 ortho_group5239_cds unknown biological processes
+AT1G79270 ortho_group5239_cds unknown molecular functions
+AT1G79330 ortho_group3142_cds chloroplast
+AT1G79330 ortho_group3142_cds hydrolase activity
+AT1G79330 ortho_group3142_cds other cellular processes
+AT1G79340 ortho_group3142_cds cytosol
+AT1G79340 ortho_group3142_cds hydrolase activity
+AT1G79340 ortho_group3142_cds other cellular components
+AT1G79340 ortho_group3142_cds other cellular processes
+AT1G79340 ortho_group3142_cds other cytoplasmic components
+AT1G79340 ortho_group3142_cds other metabolic processes
+AT1G79340 ortho_group3142_cds plasma membrane
+AT1G79340 ortho_group3142_cds protein metabolism
+AT1G79390 ortho_group4826_cds unknown biological processes
+AT1G79390 ortho_group4826_cds unknown molecular functions
+AT1G79440 ortho_group5405_cds chloroplast
+AT1G79440 ortho_group5405_cds mitochondria
+AT1G79440 ortho_group5405_cds nucleotide binding
+AT1G79440 ortho_group5405_cds other binding
+AT1G79440 ortho_group5405_cds other cellular processes
+AT1G79440 ortho_group5405_cds other cytoplasmic components
+AT1G79440 ortho_group5405_cds other enzyme activity
+AT1G79440 ortho_group5405_cds other intracellular components
+AT1G79440 ortho_group5405_cds other metabolic processes
+AT1G79440 ortho_group5405_cds plastid
+AT1G79440 ortho_group5405_cds response to abiotic or biotic stimulus
+AT1G79440 ortho_group5405_cds response to stress
+AT1G79450 ortho_group4846_cds chloroplast
+AT1G79450 ortho_group4846_cds other cytoplasmic components
+AT1G79450 ortho_group4846_cds other intracellular components
+AT1G79450 ortho_group4846_cds other membranes
+AT1G79450 ortho_group4846_cds plasma membrane
+AT1G79450 ortho_group4846_cds plastid
+AT1G79450 ortho_group4846_cds unknown biological processes
+AT1G79500 ortho_group5085_cds cytosol
+AT1G79500 ortho_group5085_cds other cellular processes
+AT1G79500 ortho_group5085_cds other cytoplasmic components
+AT1G79500 ortho_group5085_cds other metabolic processes
+AT1G79500 ortho_group5085_cds transferase activity
+AT1G79560 ortho_group5318_cds chloroplast
+AT1G79560 ortho_group5318_cds developmental processes
+AT1G79560 ortho_group5318_cds hydrolase activity
+AT1G79560 ortho_group5318_cds mitochondria
+AT1G79560 ortho_group5318_cds other cytoplasmic components
+AT1G79560 ortho_group5318_cds other intracellular components
+AT1G79560 ortho_group5318_cds plastid
+AT1G79570 ortho_group4759_cds cytosol
+AT1G79570 ortho_group4759_cds kinase activity
+AT1G79570 ortho_group4759_cds other cellular processes
+AT1G79570 ortho_group4759_cds other metabolic processes
+AT1G79570 ortho_group4759_cds protein metabolism
+AT1G79570 ortho_group4759_cds transferase activity
+AT1G79590 ortho_group5138_cds other cellular processes
+AT1G79590 ortho_group5138_cds other cytoplasmic components
+AT1G79590 ortho_group5138_cds other intracellular components
+AT1G79590 ortho_group5138_cds other membranes
+AT1G79590 ortho_group5138_cds protein binding
+AT1G79590 ortho_group5138_cds transport
+AT1G79600 ortho_group4181_cds chloroplast
+AT1G79600 ortho_group4181_cds kinase activity
+AT1G79600 ortho_group4181_cds nucleotide binding
+AT1G79600 ortho_group4181_cds other cellular processes
+AT1G79600 ortho_group4181_cds other cytoplasmic components
+AT1G79600 ortho_group4181_cds other intracellular components
+AT1G79600 ortho_group4181_cds other metabolic processes
+AT1G79600 ortho_group4181_cds plastid
+AT1G79600 ortho_group4181_cds protein metabolism
+AT1G79600 ortho_group4181_cds transferase activity
+AT1G79620 ortho_group3210_cds kinase activity
+AT1G79620 ortho_group3210_cds nucleotide binding
+AT1G79620 ortho_group3210_cds other cellular components
+AT1G79620 ortho_group3210_cds other cellular processes
+AT1G79620 ortho_group3210_cds other metabolic processes
+AT1G79620 ortho_group3210_cds protein metabolism
+AT1G79620 ortho_group3210_cds signal transduction
+AT1G79620 ortho_group3210_cds transferase activity
+AT1G79790 ortho_group3153_cds chloroplast
+AT1G79790 ortho_group3153_cds hydrolase activity
+AT1G79830 ortho_group4401_cds Golgi apparatus
+AT1G79830 ortho_group4401_cds nucleus
+AT1G79830 ortho_group4401_cds other cytoplasmic components
+AT1G79830 ortho_group4401_cds protein binding
+AT1G79830 ortho_group4401_cds unknown biological processes
+AT1G79910 ortho_group5541_cds unknown biological processes
+AT1G79910 ortho_group5541_cds unknown molecular functions
+AT1G79990 ortho_group3251_cds cytosol
+AT1G79990 ortho_group3251_cds Golgi apparatus
+AT1G79990 ortho_group3251_cds other cellular processes
+AT1G79990 ortho_group3251_cds other cytoplasmic components
+AT1G79990 ortho_group3251_cds other intracellular components
+AT1G79990 ortho_group3251_cds other membranes
+AT1G79990 ortho_group3251_cds structural molecule activity
+AT1G79990 ortho_group3251_cds transport
+AT1G80070 ortho_group4355_cds chloroplast
+AT1G80070 ortho_group4355_cds other cellular processes
+AT1G80070 ortho_group4355_cds other membranes
+AT1G80070 ortho_group4355_cds other metabolic processes
+AT1G80130 ortho_group3331_cds other binding
+AT1G80130 ortho_group3331_cds other membranes
+AT1G80130 ortho_group3331_cds response to stress
+AT1G80160 ortho_group5561_cds other enzyme activity
+AT1G80160 ortho_group5561_cds other metabolic processes
+AT1G80400 ortho_group4615_cds other binding
+AT1G80560 ortho_group3026_cds chloroplast
+AT1G80560 ortho_group3026_cds other cellular processes
+AT1G80560 ortho_group3026_cds other cytoplasmic components
+AT1G80560 ortho_group3026_cds other enzyme activity
+AT1G80560 ortho_group3026_cds other intracellular components
+AT1G80560 ortho_group3026_cds other metabolic processes
+AT1G80560 ortho_group3026_cds plastid
+AT1G80650 ortho_group5277_cds DNA or RNA binding
+AT1G80650 ortho_group5277_cds other intracellular components
+AT1G80650 ortho_group5277_cds unknown biological processes
+AT1G80770 ortho_group4758_cds nucleotide binding
+AT1G80770 ortho_group4758_cds other membranes
+AT1G80770 ortho_group4758_cds transport
+AT1G80770 ortho_group4758_cds transporter activity
+AT1G80780 ortho_group2610_cds hydrolase activity
+AT1G80780 ortho_group2610_cds nucleic acid binding
+AT1G80780 ortho_group2610_cds other cellular processes
+AT1G80780 ortho_group2610_cds other metabolic processes
+AT1G80860 ortho_group5197_cds other cellular components
+AT1G80860 ortho_group5197_cds other cellular processes
+AT1G80860 ortho_group5197_cds other metabolic processes
+AT1G80860 ortho_group5197_cds transferase activity
+AT1G80920 ortho_group5521_cds chloroplast
+AT1G80920 ortho_group5521_cds nucleus
+AT1G80920 ortho_group5521_cds other cellular processes
+AT1G80920 ortho_group5521_cds other cytoplasmic components
+AT1G80920 ortho_group5521_cds other intracellular components
+AT1G80920 ortho_group5521_cds other metabolic processes
+AT1G80920 ortho_group5521_cds plastid
+AT1G80920 ortho_group5521_cds protein binding
+AT1G80920 ortho_group5521_cds protein metabolism
+AT1G80920 ortho_group5521_cds response to abiotic or biotic stimulus
+AT1G80920 ortho_group5521_cds response to stress
+AT1G80950 ortho_group5121_cds ER
+AT1G80950 ortho_group5121_cds nucleus
+AT1G80950 ortho_group5121_cds other metabolic processes
+AT1G80950 ortho_group5121_cds transferase activity
+AT2G01110 ortho_group3255_cds cell organization and biogenesis
+AT2G01110 ortho_group3255_cds chloroplast
+AT2G01110 ortho_group3255_cds other biological processes
+AT2G01110 ortho_group3255_cds other cellular components
+AT2G01110 ortho_group3255_cds other cellular processes
+AT2G01110 ortho_group3255_cds other cytoplasmic components
+AT2G01110 ortho_group3255_cds other intracellular components
+AT2G01110 ortho_group3255_cds other membranes
+AT2G01110 ortho_group3255_cds plastid
+AT2G01110 ortho_group3255_cds transporter activity
+AT2G01130 ortho_group2720_cds DNA or RNA binding
+AT2G01130 ortho_group2720_cds hydrolase activity
+AT2G01130 ortho_group2720_cds nucleic acid binding
+AT2G01130 ortho_group2720_cds nucleotide binding
+AT2G01130 ortho_group2720_cds other intracellular components
+AT2G01130 ortho_group2720_cds unknown biological processes
+AT2G01220 ortho_group3698_cds chloroplast
+AT2G01220 ortho_group3698_cds other cytoplasmic components
+AT2G01220 ortho_group3698_cds other intracellular components
+AT2G01220 ortho_group3698_cds other metabolic processes
+AT2G01220 ortho_group3698_cds plastid
+AT2G01220 ortho_group3698_cds transferase activity
+AT2G01250 ortho_group4550_cds cell wall
+AT2G01250 ortho_group4550_cds chloroplast
+AT2G01250 ortho_group4550_cds cytosol
+AT2G01250 ortho_group4550_cds other cellular processes
+AT2G01250 ortho_group4550_cds other cytoplasmic components
+AT2G01250 ortho_group4550_cds other intracellular components
+AT2G01250 ortho_group4550_cds other membranes
+AT2G01250 ortho_group4550_cds other metabolic processes
+AT2G01250 ortho_group4550_cds plasma membrane
+AT2G01250 ortho_group4550_cds protein metabolism
+AT2G01250 ortho_group4550_cds ribosome
+AT2G01250 ortho_group4550_cds structural molecule activity
+AT2G01260 ortho_group5511_cds unknown biological processes
+AT2G01260 ortho_group5511_cds unknown molecular functions
+AT2G01350 ortho_group4327_cds chloroplast
+AT2G01350 ortho_group4327_cds other cellular processes
+AT2G01350 ortho_group4327_cds other metabolic processes
+AT2G01350 ortho_group4327_cds transferase activity
+AT2G01470 ortho_group2756_cds ER
+AT2G01470 ortho_group2756_cds nucleotide binding
+AT2G01470 ortho_group2756_cds other cellular processes
+AT2G01470 ortho_group2756_cds other cytoplasmic components
+AT2G01470 ortho_group2756_cds other intracellular components
+AT2G01470 ortho_group2756_cds other membranes
+AT2G01470 ortho_group2756_cds plasma membrane
+AT2G01470 ortho_group2756_cds transport
+AT2G01490 ortho_group2779_cds other cellular processes
+AT2G01490 ortho_group2779_cds other enzyme activity
+AT2G01490 ortho_group2779_cds other metabolic processes
+AT2G01490 ortho_group2779_cds plasma membrane
+AT2G01490 ortho_group2779_cds protein metabolism
+AT2G01600 ortho_group3469_cds cell organization and biogenesis
+AT2G01600 ortho_group3469_cds other binding
+AT2G01600 ortho_group3469_cds other cellular processes
+AT2G01600 ortho_group3469_cds other membranes
+AT2G01600 ortho_group3469_cds other metabolic processes
+AT2G01600 ortho_group3469_cds protein binding
+AT2G01600 ortho_group3469_cds protein metabolism
+AT2G01600 ortho_group3469_cds transport
+AT2G01670 ortho_group2582_cds hydrolase activity
+AT2G01670 ortho_group2582_cds unknown biological processes
+AT2G01880 ortho_group3845_cds hydrolase activity
+AT2G01880 ortho_group3845_cds other cellular components
+AT2G01890 ortho_group3845_cds hydrolase activity
+AT2G01890 ortho_group3845_cds other cellular components
+AT2G01890 ortho_group3845_cds other cellular processes
+AT2G01890 ortho_group3845_cds other metabolic processes
+AT2G01905 ortho_group4019_cds other cellular processes
+AT2G01970 ortho_group3550_cds cell wall
+AT2G01970 ortho_group3550_cds Golgi apparatus
+AT2G01970 ortho_group3550_cds other cellular components
+AT2G01970 ortho_group3550_cds other cytoplasmic components
+AT2G01970 ortho_group3550_cds other intracellular components
+AT2G01970 ortho_group3550_cds other membranes
+AT2G01970 ortho_group3550_cds transport
+AT2G02370 ortho_group4055_cds unknown biological processes
+AT2G02370 ortho_group4055_cds unknown cellular components
+AT2G02370 ortho_group4055_cds unknown molecular functions
+AT2G02390 ortho_group4994_cds cytosol
+AT2G02390 ortho_group4994_cds other cellular processes
+AT2G02390 ortho_group4994_cds other cytoplasmic components
+AT2G02390 ortho_group4994_cds other enzyme activity
+AT2G02390 ortho_group4994_cds other metabolic processes
+AT2G02390 ortho_group4994_cds transferase activity
+AT2G02410 ortho_group2979_cds unknown biological processes
+AT2G02410 ortho_group2979_cds unknown molecular functions
+AT2G02560 ortho_group2766_cds cell wall
+AT2G02560 ortho_group2766_cds cytosol
+AT2G02560 ortho_group2766_cds developmental processes
+AT2G02560 ortho_group2766_cds other biological processes
+AT2G02560 ortho_group2766_cds plasma membrane
+AT2G02560 ortho_group2766_cds protein binding
+AT2G02740 ortho_group3128_cds chloroplast
+AT2G02740 ortho_group3128_cds DNA or RNA binding
+AT2G02740 ortho_group3128_cds other cytoplasmic components
+AT2G02740 ortho_group3128_cds other intracellular components
+AT2G02740 ortho_group3128_cds plastid
+AT2G02740 ortho_group3128_cds response to stress
+AT2G02760 ortho_group5400_cds cell organization and biogenesis
+AT2G02760 ortho_group5400_cds cytosol
+AT2G02760 ortho_group5400_cds developmental processes
+AT2G02760 ortho_group5400_cds other cellular processes
+AT2G02760 ortho_group5400_cds other enzyme activity
+AT2G02760 ortho_group5400_cds other metabolic processes
+AT2G02760 ortho_group5400_cds protein metabolism
+AT2G02760 ortho_group5400_cds response to abiotic or biotic stimulus
+AT2G02910 ortho_group3570_cds unknown biological processes
+AT2G02910 ortho_group3570_cds unknown cellular components
+AT2G02910 ortho_group3570_cds unknown molecular functions
+AT2G02990 ortho_group3422_cds cell wall
+AT2G02990 ortho_group3422_cds extracellular
+AT2G02990 ortho_group3422_cds hydrolase activity
+AT2G02990 ortho_group3422_cds other biological processes
+AT2G02990 ortho_group3422_cds other cellular processes
+AT2G02990 ortho_group3422_cds other metabolic processes
+AT2G02990 ortho_group3422_cds plasma membrane
+AT2G02990 ortho_group3422_cds response to stress
+AT2G03120 ortho_group3695_cds developmental processes
+AT2G03120 ortho_group3695_cds ER
+AT2G03120 ortho_group3695_cds hydrolase activity
+AT2G03120 ortho_group3695_cds other biological processes
+AT2G03120 ortho_group3695_cds other cytoplasmic components
+AT2G03120 ortho_group3695_cds other intracellular components
+AT2G03120 ortho_group3695_cds other membranes
+AT2G03340 ortho_group2832_cds other cellular processes
+AT2G03340 ortho_group2832_cds other metabolic processes
+AT2G03340 ortho_group2832_cds transcription factor activity
+AT2G03350 ortho_group5365_cds unknown biological processes
+AT2G03350 ortho_group5365_cds unknown cellular components
+AT2G03390 ortho_group3062_cds chloroplast
+AT2G03390 ortho_group3062_cds DNA or RNA binding
+AT2G03390 ortho_group3062_cds DNA or RNA metabolism
+AT2G03390 ortho_group3062_cds hydrolase activity
+AT2G03390 ortho_group3062_cds other cellular processes
+AT2G03390 ortho_group3062_cds other metabolic processes
+AT2G03390 ortho_group3062_cds response to stress
+AT2G03420 ortho_group4562_cds unknown biological processes
+AT2G03420 ortho_group4562_cds unknown molecular functions
+AT2G03430 ortho_group4451_cds cell wall
+AT2G03430 ortho_group4451_cds unknown biological processes
+AT2G03500 ortho_group4026_cds DNA or RNA binding
+AT2G03500 ortho_group4026_cds other cellular processes
+AT2G03500 ortho_group4026_cds other metabolic processes
+AT2G03500 ortho_group4026_cds transcription factor activity
+AT2G03510 ortho_group3929_cds ER
+AT2G03510 ortho_group3929_cds nucleus
+AT2G03510 ortho_group3929_cds other cellular components
+AT2G03510 ortho_group3929_cds other cytoplasmic components
+AT2G03510 ortho_group3929_cds other intracellular components
+AT2G03510 ortho_group3929_cds other membranes
+AT2G03510 ortho_group3929_cds unknown biological processes
+AT2G03510 ortho_group3929_cds unknown molecular functions
+AT2G03620 ortho_group3769_cds other membranes
+AT2G03620 ortho_group3769_cds transport
+AT2G03620 ortho_group3769_cds transporter activity
+AT2G03760 ortho_group3834_cds other biological processes
+AT2G03760 ortho_group3834_cds other metabolic processes
+AT2G03760 ortho_group3834_cds response to abiotic or biotic stimulus
+AT2G03760 ortho_group3834_cds response to stress
+AT2G03760 ortho_group3834_cds transferase activity
+AT2G03760 ortho_group3834_cds unknown cellular components
+AT2G03870 ortho_group5544_cds nucleus
+AT2G03870 ortho_group5544_cds other intracellular components
+AT2G03870 ortho_group5544_cds unknown molecular functions
+AT2G04030 ortho_group5469_cds chloroplast
+AT2G04030 ortho_group5469_cds developmental processes
+AT2G04030 ortho_group5469_cds mitochondria
+AT2G04030 ortho_group5469_cds nucleotide binding
+AT2G04030 ortho_group5469_cds other biological processes
+AT2G04030 ortho_group5469_cds other cellular processes
+AT2G04030 ortho_group5469_cds other cytoplasmic components
+AT2G04030 ortho_group5469_cds other intracellular components
+AT2G04030 ortho_group5469_cds other membranes
+AT2G04030 ortho_group5469_cds other metabolic processes
+AT2G04030 ortho_group5469_cds plastid
+AT2G04030 ortho_group5469_cds protein metabolism
+AT2G04030 ortho_group5469_cds response to abiotic or biotic stimulus
+AT2G04030 ortho_group5469_cds response to stress
+AT2G04240 ortho_group3461_cds other binding
+AT2G04240 ortho_group3461_cds other biological processes
+AT2G04240 ortho_group3461_cds other cellular processes
+AT2G04240 ortho_group3461_cds other metabolic processes
+AT2G04240 ortho_group3461_cds protein binding
+AT2G04240 ortho_group3461_cds response to abiotic or biotic stimulus
+AT2G04240 ortho_group3461_cds response to stress
+AT2G04360 ortho_group5485_cds chloroplast
+AT2G04360 ortho_group5485_cds unknown molecular functions
+AT2G04400 ortho_group3216_cds chloroplast
+AT2G04400 ortho_group3216_cds cytosol
+AT2G04400 ortho_group3216_cds other binding
+AT2G04400 ortho_group3216_cds other cellular processes
+AT2G04400 ortho_group3216_cds other cytoplasmic components
+AT2G04400 ortho_group3216_cds other enzyme activity
+AT2G04400 ortho_group3216_cds other intracellular components
+AT2G04400 ortho_group3216_cds other metabolic processes
+AT2G04400 ortho_group3216_cds plastid
+AT2G04410 ortho_group4906_cds other cellular components
+AT2G04410 ortho_group4906_cds plasma membrane
+AT2G04410 ortho_group4906_cds unknown biological processes
+AT2G04410 ortho_group4906_cds unknown molecular functions
+AT2G04690 ortho_group4480_cds nucleotide binding
+AT2G04690 ortho_group4480_cds other binding
+AT2G04690 ortho_group4480_cds other cytoplasmic components
+AT2G04690 ortho_group4480_cds other intracellular components
+AT2G04690 ortho_group4480_cds unknown biological processes
+AT2G04845 ortho_group2750_cds other metabolic processes
+AT2G04845 ortho_group2750_cds transferase activity
+AT2G04845 ortho_group2750_cds unknown cellular components
+AT2G04880 ortho_group4190_cds other binding
+AT2G04880 ortho_group4190_cds other cellular processes
+AT2G04880 ortho_group4190_cds other metabolic processes
+AT2G04880 ortho_group4190_cds signal transduction
+AT2G04880 ortho_group4190_cds transcription factor activity
+AT2G05620 ortho_group3970_cds chloroplast
+AT2G05620 ortho_group3970_cds electron transport or energy pathways
+AT2G05620 ortho_group3970_cds other cellular processes
+AT2G05620 ortho_group3970_cds other cytoplasmic components
+AT2G05620 ortho_group3970_cds other intracellular components
+AT2G05620 ortho_group3970_cds other membranes
+AT2G05620 ortho_group3970_cds other metabolic processes
+AT2G05620 ortho_group3970_cds other molecular functions
+AT2G05620 ortho_group3970_cds plastid
+AT2G05620 ortho_group3970_cds response to abiotic or biotic stimulus
+AT2G05620 ortho_group3970_cds response to stress
+AT2G05840 ortho_group4005_cds cytosol
+AT2G05840 ortho_group4005_cds hydrolase activity
+AT2G05840 ortho_group4005_cds other cellular processes
+AT2G05840 ortho_group4005_cds other cytoplasmic components
+AT2G05840 ortho_group4005_cds other intracellular components
+AT2G05840 ortho_group4005_cds other metabolic processes
+AT2G05840 ortho_group4005_cds protein metabolism
+AT2G05840 ortho_group4005_cds ribosome
+AT2G05900 ortho_group4916_cds cell organization and biogenesis
+AT2G05900 ortho_group4916_cds nucleus
+AT2G05900 ortho_group4916_cds other binding
+AT2G05900 ortho_group4916_cds other cellular processes
+AT2G05900 ortho_group4916_cds transferase activity
+AT2G05990 ortho_group5210_cds chloroplast
+AT2G05990 ortho_group5210_cds cytosol
+AT2G05990 ortho_group5210_cds other binding
+AT2G05990 ortho_group5210_cds other cellular processes
+AT2G05990 ortho_group5210_cds other cytoplasmic components
+AT2G05990 ortho_group5210_cds other enzyme activity
+AT2G05990 ortho_group5210_cds other intracellular components
+AT2G05990 ortho_group5210_cds other metabolic processes
+AT2G05990 ortho_group5210_cds plastid
+AT2G05990 ortho_group5210_cds transferase activity
+AT2G06005 ortho_group2776_cds protein binding
+AT2G06005 ortho_group2776_cds unknown biological processes
+AT2G06010 ortho_group4520_cds other biological processes
+AT2G06010 ortho_group4520_cds unknown cellular components
+AT2G06010 ortho_group4520_cds unknown molecular functions
+AT2G06025 ortho_group3807_cds other metabolic processes
+AT2G06025 ortho_group3807_cds transferase activity
+AT2G06025 ortho_group3807_cds unknown cellular components
+AT2G06255 ortho_group5019_cds unknown biological processes
+AT2G06255 ortho_group5019_cds unknown cellular components
+AT2G06255 ortho_group5019_cds unknown molecular functions
+AT2G06530 ortho_group3965_cds other cellular processes
+AT2G06530 ortho_group3965_cds other cytoplasmic components
+AT2G06530 ortho_group3965_cds other intracellular components
+AT2G06530 ortho_group3965_cds other membranes
+AT2G06530 ortho_group3965_cds protein binding
+AT2G06530 ortho_group3965_cds transport
+AT2G06990 ortho_group3407_cds cytosol
+AT2G06990 ortho_group3407_cds developmental processes
+AT2G06990 ortho_group3407_cds hydrolase activity
+AT2G06990 ortho_group3407_cds nucleus
+AT2G06990 ortho_group3407_cds other cellular processes
+AT2G06990 ortho_group3407_cds other metabolic processes
+AT2G07180 ortho_group4792_cds kinase activity
+AT2G07180 ortho_group4792_cds nucleotide binding
+AT2G07180 ortho_group4792_cds other cellular processes
+AT2G07180 ortho_group4792_cds other metabolic processes
+AT2G07180 ortho_group4792_cds protein metabolism
+AT2G07180 ortho_group4792_cds transferase activity
+AT2G07340 ortho_group3992_cds cytosol
+AT2G07340 ortho_group3992_cds other cellular processes
+AT2G07340 ortho_group3992_cds other metabolic processes
+AT2G07340 ortho_group3992_cds protein binding
+AT2G07340 ortho_group3992_cds protein metabolism
+AT2G07440 ortho_group5332_cds unknown cellular components
+AT2G07640 ortho_group4659_cds other binding
+AT2G07640 ortho_group4659_cds other enzyme activity
+AT2G07640 ortho_group4659_cds other metabolic processes
+AT2G07675 ortho_group3321_cds other cellular processes
+AT2G07675 ortho_group3321_cds other intracellular components
+AT2G07675 ortho_group3321_cds other metabolic processes
+AT2G07675 ortho_group3321_cds protein metabolism
+AT2G07675 ortho_group3321_cds ribosome
+AT2G07675 ortho_group3321_cds structural molecule activity
+AT2G07690 ortho_group2651_cds DNA or RNA binding
+AT2G07690 ortho_group2651_cds DNA or RNA metabolism
+AT2G07690 ortho_group2651_cds hydrolase activity
+AT2G07690 ortho_group2651_cds nucleotide binding
+AT2G07690 ortho_group2651_cds nucleus
+AT2G07690 ortho_group2651_cds other biological processes
+AT2G07690 ortho_group2651_cds other cellular processes
+AT2G07690 ortho_group2651_cds other cytoplasmic components
+AT2G07690 ortho_group2651_cds other intracellular components
+AT2G07690 ortho_group2651_cds other metabolic processes
+AT2G07698 ortho_group4160_cds chloroplast
+AT2G07698 ortho_group4160_cds DNA or RNA binding
+AT2G07698 ortho_group4160_cds mitochondria
+AT2G07698 ortho_group4160_cds nucleus
+AT2G07698 ortho_group4160_cds other binding
+AT2G07698 ortho_group4160_cds other cellular processes
+AT2G07698 ortho_group4160_cds other cytoplasmic components
+AT2G07698 ortho_group4160_cds other intracellular components
+AT2G07698 ortho_group4160_cds other membranes
+AT2G07698 ortho_group4160_cds other metabolic processes
+AT2G07698 ortho_group4160_cds plastid
+AT2G07698 ortho_group4160_cds transport
+AT2G07698 ortho_group4160_cds transporter activity
+AT2G07734 ortho_group4736_cds DNA or RNA binding
+AT2G07734 ortho_group4736_cds other cellular processes
+AT2G07734 ortho_group4736_cds other intracellular components
+AT2G07734 ortho_group4736_cds other metabolic processes
+AT2G07734 ortho_group4736_cds protein metabolism
+AT2G07734 ortho_group4736_cds ribosome
+AT2G07734 ortho_group4736_cds structural molecule activity
+AT2G07741 ortho_group5583_cds other cellular processes
+AT2G07741 ortho_group5583_cds other intracellular components
+AT2G07741 ortho_group5583_cds other membranes
+AT2G07741 ortho_group5583_cds other metabolic processes
+AT2G07741 ortho_group5583_cds transport
+AT2G07741 ortho_group5583_cds transporter activity
+AT2G13560 ortho_group2694_cds chloroplast
+AT2G13560 ortho_group2694_cds mitochondria
+AT2G13560 ortho_group2694_cds nucleotide binding
+AT2G13560 ortho_group2694_cds other binding
+AT2G13560 ortho_group2694_cds other cellular processes
+AT2G13560 ortho_group2694_cds other enzyme activity
+AT2G13560 ortho_group2694_cds other metabolic processes
+AT2G13560 ortho_group2694_cds protein binding
+AT2G13560 ortho_group2694_cds response to abiotic or biotic stimulus
+AT2G13560 ortho_group2694_cds response to stress
+AT2G14110 ortho_group3012_cds unknown biological processes
+AT2G14110 ortho_group3012_cds unknown molecular functions
+AT2G14120 ortho_group4957_cds cell organization and biogenesis
+AT2G14120 ortho_group4957_cds cytosol
+AT2G14120 ortho_group4957_cds developmental processes
+AT2G14120 ortho_group4957_cds hydrolase activity
+AT2G14120 ortho_group4957_cds mitochondria
+AT2G14120 ortho_group4957_cds nucleotide binding
+AT2G14120 ortho_group4957_cds other cellular processes
+AT2G14120 ortho_group4957_cds other cytoplasmic components
+AT2G14120 ortho_group4957_cds other intracellular components
+AT2G14120 ortho_group4957_cds plasma membrane
+AT2G14120 ortho_group4957_cds protein binding
+AT2G14170 ortho_group4608_cds mitochondria
+AT2G14170 ortho_group4608_cds other binding
+AT2G14170 ortho_group4608_cds other enzyme activity
+AT2G14170 ortho_group4608_cds response to stress
+AT2G14210 ortho_group4931_cds developmental processes
+AT2G14210 ortho_group4931_cds DNA or RNA binding
+AT2G14210 ortho_group4931_cds nucleus
+AT2G14210 ortho_group4931_cds other biological processes
+AT2G14210 ortho_group4931_cds other cellular processes
+AT2G14210 ortho_group4931_cds protein binding
+AT2G14210 ortho_group4931_cds transcription factor activity
+AT2G14260 ortho_group2554_cds chloroplast
+AT2G14260 ortho_group2554_cds cytosol
+AT2G14260 ortho_group2554_cds hydrolase activity
+AT2G14260 ortho_group2554_cds protein metabolism
+AT2G14860 ortho_group4180_cds other cytoplasmic components
+AT2G14860 ortho_group4180_cds other intracellular components
+AT2G14860 ortho_group4180_cds other membranes
+AT2G14860 ortho_group4180_cds unknown biological processes
+AT2G15130 ortho_group4501_cds other cellular components
+AT2G15130 ortho_group4501_cds response to stress
+AT2G15130 ortho_group4501_cds unknown molecular functions
+AT2G15230 ortho_group2842_cds extracellular
+AT2G15230 ortho_group2842_cds hydrolase activity
+AT2G15290 ortho_group3382_cds chloroplast
+AT2G15290 ortho_group3382_cds other cellular processes
+AT2G15290 ortho_group3382_cds other cytoplasmic components
+AT2G15290 ortho_group3382_cds other intracellular components
+AT2G15290 ortho_group3382_cds other membranes
+AT2G15290 ortho_group3382_cds plastid
+AT2G15290 ortho_group3382_cds protein binding
+AT2G15290 ortho_group3382_cds transport
+AT2G15290 ortho_group3382_cds transporter activity
+AT2G15790 ortho_group3133_cds cytosol
+AT2G15790 ortho_group3133_cds developmental processes
+AT2G15790 ortho_group3133_cds other cytoplasmic components
+AT2G15790 ortho_group3133_cds other enzyme activity
+AT2G15890 ortho_group4199_cds chloroplast
+AT2G15890 ortho_group4199_cds developmental processes
+AT2G15890 ortho_group4199_cds response to abiotic or biotic stimulus
+AT2G15890 ortho_group4199_cds response to stress
+AT2G15890 ortho_group4199_cds unknown molecular functions
+AT2G15970 ortho_group4025_cds other biological processes
+AT2G15970 ortho_group4025_cds other cellular processes
+AT2G15970 ortho_group4025_cds other cytoplasmic components
+AT2G15970 ortho_group4025_cds other intracellular components
+AT2G15970 ortho_group4025_cds plasma membrane
+AT2G15970 ortho_group4025_cds response to abiotic or biotic stimulus
+AT2G15970 ortho_group4025_cds response to stress
+AT2G15970 ortho_group4025_cds unknown molecular functions
+AT2G16460 ortho_group4200_cds mitochondria
+AT2G16460 ortho_group4200_cds other binding
+AT2G16460 ortho_group4200_cds other cytoplasmic components
+AT2G16460 ortho_group4200_cds other intracellular components
+AT2G16460 ortho_group4200_cds other membranes
+AT2G16460 ortho_group4200_cds unknown biological processes
+AT2G16700 ortho_group5343_cds other intracellular components
+AT2G16700 ortho_group5343_cds protein binding
+AT2G16700 ortho_group5343_cds unknown biological processes
+AT2G16860 ortho_group5093_cds unknown biological processes
+AT2G16860 ortho_group5093_cds unknown molecular functions
+AT2G16890 ortho_group3539_cds other cellular components
+AT2G16890 ortho_group3539_cds other metabolic processes
+AT2G16890 ortho_group3539_cds transferase activity
+AT2G16920 ortho_group3486_cds cytosol
+AT2G16920 ortho_group3486_cds other cellular processes
+AT2G16920 ortho_group3486_cds other enzyme activity
+AT2G16920 ortho_group3486_cds other metabolic processes
+AT2G16920 ortho_group3486_cds protein metabolism
+AT2G17290 ortho_group3503_cds cytosol
+AT2G17290 ortho_group3503_cds kinase activity
+AT2G17290 ortho_group3503_cds other biological processes
+AT2G17290 ortho_group3503_cds other cellular processes
+AT2G17290 ortho_group3503_cds other membranes
+AT2G17290 ortho_group3503_cds other metabolic processes
+AT2G17290 ortho_group3503_cds plasma membrane
+AT2G17290 ortho_group3503_cds protein binding
+AT2G17290 ortho_group3503_cds protein metabolism
+AT2G17290 ortho_group3503_cds signal transduction
+AT2G17290 ortho_group3503_cds transferase activity
+AT2G17290 ortho_group3503_cds transport
+AT2G17340 ortho_group3303_cds unknown cellular components
+AT2G17340 ortho_group3303_cds unknown molecular functions
+AT2G17350 ortho_group2705_cds unknown biological processes
+AT2G17350 ortho_group2705_cds unknown cellular components
+AT2G17350 ortho_group2705_cds unknown molecular functions
+AT2G17360 ortho_group4376_cds chloroplast
+AT2G17360 ortho_group4376_cds cytosol
+AT2G17360 ortho_group4376_cds other cellular processes
+AT2G17360 ortho_group4376_cds other cytoplasmic components
+AT2G17360 ortho_group4376_cds other intracellular components
+AT2G17360 ortho_group4376_cds other membranes
+AT2G17360 ortho_group4376_cds other metabolic processes
+AT2G17360 ortho_group4376_cds plasma membrane
+AT2G17360 ortho_group4376_cds protein metabolism
+AT2G17360 ortho_group4376_cds ribosome
+AT2G17360 ortho_group4376_cds structural molecule activity
+AT2G17440 ortho_group4254_cds plasma membrane
+AT2G17510 ortho_group3258_cds DNA or RNA binding
+AT2G17510 ortho_group3258_cds hydrolase activity
+AT2G17510 ortho_group3258_cds other cellular components
+AT2G17510 ortho_group3258_cds other cellular processes
+AT2G17510 ortho_group3258_cds other metabolic processes
+AT2G17520 ortho_group5315_cds ER
+AT2G17520 ortho_group5315_cds hydrolase activity
+AT2G17520 ortho_group5315_cds kinase activity
+AT2G17520 ortho_group5315_cds other cellular processes
+AT2G17520 ortho_group5315_cds other cytoplasmic components
+AT2G17520 ortho_group5315_cds other intracellular components
+AT2G17520 ortho_group5315_cds other membranes
+AT2G17520 ortho_group5315_cds other metabolic processes
+AT2G17520 ortho_group5315_cds protein metabolism
+AT2G17520 ortho_group5315_cds response to stress
+AT2G17520 ortho_group5315_cds signal transduction
+AT2G17570 ortho_group3627_cds transferase activity
+AT2G17730 ortho_group5287_cds chloroplast
+AT2G17730 ortho_group5287_cds other binding
+AT2G17730 ortho_group5287_cds other cellular processes
+AT2G17730 ortho_group5287_cds other cytoplasmic components
+AT2G17730 ortho_group5287_cds other intracellular components
+AT2G17730 ortho_group5287_cds other membranes
+AT2G17730 ortho_group5287_cds other metabolic processes
+AT2G17730 ortho_group5287_cds plastid
+AT2G17730 ortho_group5287_cds protein binding
+AT2G17730 ortho_group5287_cds response to abiotic or biotic stimulus
+AT2G17800 ortho_group4455_cds nucleotide binding
+AT2G17800 ortho_group4455_cds nucleus
+AT2G17800 ortho_group4455_cds other cellular processes
+AT2G17800 ortho_group4455_cds other cytoplasmic components
+AT2G17800 ortho_group4455_cds other intracellular components
+AT2G17800 ortho_group4455_cds signal transduction
+AT2G17980 ortho_group3973_cds cytosol
+AT2G17980 ortho_group3973_cds other cellular processes
+AT2G17980 ortho_group3973_cds transport
+AT2G17980 ortho_group3973_cds transporter activity
+AT2G18250 ortho_group3269_cds cytosol
+AT2G18250 ortho_group3269_cds other biological processes
+AT2G18250 ortho_group3269_cds other cellular processes
+AT2G18250 ortho_group3269_cds other metabolic processes
+AT2G18250 ortho_group3269_cds response to abiotic or biotic stimulus
+AT2G18250 ortho_group3269_cds response to stress
+AT2G18250 ortho_group3269_cds transferase activity
+AT2G18290 ortho_group3524_cds DNA or RNA metabolism
+AT2G18290 ortho_group3524_cds nucleus
+AT2G18290 ortho_group3524_cds other biological processes
+AT2G18290 ortho_group3524_cds other cellular processes
+AT2G18290 ortho_group3524_cds other intracellular components
+AT2G18290 ortho_group3524_cds other metabolic processes
+AT2G18290 ortho_group3524_cds protein binding
+AT2G18390 ortho_group4321_cds cell organization and biogenesis
+AT2G18390 ortho_group4321_cds developmental processes
+AT2G18390 ortho_group4321_cds hydrolase activity
+AT2G18390 ortho_group4321_cds nucleotide binding
+AT2G18390 ortho_group4321_cds other cellular processes
+AT2G18390 ortho_group4321_cds response to abiotic or biotic stimulus
+AT2G18710 ortho_group5321_cds cell organization and biogenesis
+AT2G18710 ortho_group5321_cds chloroplast
+AT2G18710 ortho_group5321_cds other cellular processes
+AT2G18710 ortho_group5321_cds other membranes
+AT2G18710 ortho_group5321_cds protein binding
+AT2G18710 ortho_group5321_cds transport
+AT2G18710 ortho_group5321_cds transporter activity
+AT2G18990 ortho_group4158_cds other cellular processes
+AT2G19080 ortho_group5348_cds cell organization and biogenesis
+AT2G19080 ortho_group5348_cds mitochondria
+AT2G19080 ortho_group5348_cds other cellular processes
+AT2G19080 ortho_group5348_cds other cytoplasmic components
+AT2G19080 ortho_group5348_cds other intracellular components
+AT2G19080 ortho_group5348_cds other membranes
+AT2G19080 ortho_group5348_cds plastid
+AT2G19080 ortho_group5348_cds protein binding
+AT2G19080 ortho_group5348_cds transport
+AT2G19080 ortho_group5348_cds unknown molecular functions
+AT2G19385 ortho_group4393_cds other binding
+AT2G19385 ortho_group4393_cds other intracellular components
+AT2G19385 ortho_group4393_cds unknown biological processes
+AT2G19410 ortho_group5095_cds kinase activity
+AT2G19410 ortho_group5095_cds nucleotide binding
+AT2G19410 ortho_group5095_cds other cellular processes
+AT2G19410 ortho_group5095_cds other enzyme activity
+AT2G19410 ortho_group5095_cds other intracellular components
+AT2G19410 ortho_group5095_cds other metabolic processes
+AT2G19410 ortho_group5095_cds protein metabolism
+AT2G19410 ortho_group5095_cds transferase activity
+AT2G19670 ortho_group4208_cds cytosol
+AT2G19670 ortho_group4208_cds other cellular processes
+AT2G19670 ortho_group4208_cds other metabolic processes
+AT2G19670 ortho_group4208_cds protein metabolism
+AT2G19670 ortho_group4208_cds transferase activity
+AT2G19730 ortho_group2700_cds cell wall
+AT2G19730 ortho_group2700_cds chloroplast
+AT2G19730 ortho_group2700_cds cytosol
+AT2G19730 ortho_group2700_cds other cellular components
+AT2G19730 ortho_group2700_cds other cellular processes
+AT2G19730 ortho_group2700_cds other cytoplasmic components
+AT2G19730 ortho_group2700_cds other intracellular components
+AT2G19730 ortho_group2700_cds other metabolic processes
+AT2G19730 ortho_group2700_cds plasma membrane
+AT2G19730 ortho_group2700_cds protein metabolism
+AT2G19730 ortho_group2700_cds ribosome
+AT2G19730 ortho_group2700_cds structural molecule activity
+AT2G19760 ortho_group4148_cds cell organization and biogenesis
+AT2G19760 ortho_group4148_cds cell wall
+AT2G19760 ortho_group4148_cds cytosol
+AT2G19760 ortho_group4148_cds nucleus
+AT2G19760 ortho_group4148_cds other cellular components
+AT2G19760 ortho_group4148_cds other cellular processes
+AT2G19760 ortho_group4148_cds other cytoplasmic components
+AT2G19760 ortho_group4148_cds other intracellular components
+AT2G19760 ortho_group4148_cds plasma membrane
+AT2G19760 ortho_group4148_cds protein binding
+AT2G19830 ortho_group3029_cds other cellular processes
+AT2G19830 ortho_group3029_cds other cytoplasmic components
+AT2G19830 ortho_group3029_cds other intracellular components
+AT2G19830 ortho_group3029_cds other membranes
+AT2G19830 ortho_group3029_cds plasma membrane
+AT2G19830 ortho_group3029_cds protein binding
+AT2G19830 ortho_group3029_cds transport
+AT2G19880 ortho_group3866_cds transferase activity
+AT2G19880 ortho_group3866_cds unknown biological processes
+AT2G20120 ortho_group5040_cds developmental processes
+AT2G20120 ortho_group5040_cds other membranes
+AT2G20120 ortho_group5040_cds unknown molecular functions
+AT2G20130 ortho_group5074_cds unknown biological processes
+AT2G20130 ortho_group5074_cds unknown molecular functions
+AT2G20180 ortho_group4081_cds developmental processes
+AT2G20180 ortho_group4081_cds DNA or RNA binding
+AT2G20180 ortho_group4081_cds nucleus
+AT2G20180 ortho_group4081_cds other cellular processes
+AT2G20180 ortho_group4081_cds other metabolic processes
+AT2G20180 ortho_group4081_cds protein binding
+AT2G20180 ortho_group4081_cds response to abiotic or biotic stimulus
+AT2G20180 ortho_group4081_cds signal transduction
+AT2G20180 ortho_group4081_cds transcription factor activity
+AT2G20190 ortho_group4746_cds cell organization and biogenesis
+AT2G20190 ortho_group4746_cds other binding
+AT2G20190 ortho_group4746_cds other cellular components
+AT2G20190 ortho_group4746_cds other cellular processes
+AT2G20190 ortho_group4746_cds other intracellular components
+AT2G20190 ortho_group4746_cds other metabolic processes
+AT2G20190 ortho_group4746_cds plasma membrane
+AT2G20280 ortho_group4831_cds nucleic acid binding
+AT2G20280 ortho_group4831_cds other binding
+AT2G20280 ortho_group4831_cds unknown biological processes
+AT2G20280 ortho_group4831_cds unknown cellular components
+AT2G20360 ortho_group5079_cds mitochondria
+AT2G20360 ortho_group5079_cds other binding
+AT2G20360 ortho_group5079_cds other cytoplasmic components
+AT2G20360 ortho_group5079_cds other enzyme activity
+AT2G20360 ortho_group5079_cds other intracellular components
+AT2G20360 ortho_group5079_cds other membranes
+AT2G20360 ortho_group5079_cds response to abiotic or biotic stimulus
+AT2G20360 ortho_group5079_cds response to stress
+AT2G20470 ortho_group4678_cds kinase activity
+AT2G20470 ortho_group4678_cds other cellular processes
+AT2G20470 ortho_group4678_cds other metabolic processes
+AT2G20470 ortho_group4678_cds protein metabolism
+AT2G20740 ortho_group3432_cds unknown biological processes
+AT2G20740 ortho_group3432_cds unknown molecular functions
+AT2G20810 ortho_group2929_cds mitochondria
+AT2G20810 ortho_group2929_cds other metabolic processes
+AT2G20810 ortho_group2929_cds transferase activity
+AT2G20830 ortho_group3283_cds other binding
+AT2G20830 ortho_group3283_cds other metabolic processes
+AT2G20830 ortho_group3283_cds transferase activity
+AT2G20840 ortho_group3408_cds plasma membrane
+AT2G20840 ortho_group3408_cds transport
+AT2G20840 ortho_group3408_cds transporter activity
+AT2G20890 ortho_group2856_cds cell organization and biogenesis
+AT2G20890 ortho_group2856_cds chloroplast
+AT2G20890 ortho_group2856_cds electron transport or energy pathways
+AT2G20890 ortho_group2856_cds other cellular processes
+AT2G20890 ortho_group2856_cds other cytoplasmic components
+AT2G20890 ortho_group2856_cds other intracellular components
+AT2G20890 ortho_group2856_cds other membranes
+AT2G20890 ortho_group2856_cds other metabolic processes
+AT2G20890 ortho_group2856_cds plastid
+AT2G20890 ortho_group2856_cds protein binding
+AT2G20890 ortho_group2856_cds signal transduction
+AT2G20890 ortho_group2856_cds transport
+AT2G20890 ortho_group2856_cds unknown molecular functions
+AT2G20920 ortho_group4260_cds other membranes
+AT2G20930 ortho_group5589_cds other cellular processes
+AT2G20930 ortho_group5589_cds transport
+AT2G20930 ortho_group5589_cds unknown molecular functions
+AT2G21160 ortho_group5536_cds chloroplast
+AT2G21160 ortho_group5536_cds ER
+AT2G21160 ortho_group5536_cds other cytoplasmic components
+AT2G21160 ortho_group5536_cds other intracellular components
+AT2G21160 ortho_group5536_cds other membranes
+AT2G21160 ortho_group5536_cds plasma membrane
+AT2G21160 ortho_group5536_cds plastid
+AT2G21160 ortho_group5536_cds unknown biological processes
+AT2G21230 ortho_group4977_cds chloroplast
+AT2G21230 ortho_group4977_cds DNA or RNA binding
+AT2G21230 ortho_group4977_cds other biological processes
+AT2G21230 ortho_group4977_cds other cellular processes
+AT2G21230 ortho_group4977_cds other metabolic processes
+AT2G21230 ortho_group4977_cds transcription factor activity
+AT2G21280 ortho_group4803_cds cell organization and biogenesis
+AT2G21280 ortho_group4803_cds chloroplast
+AT2G21280 ortho_group4803_cds other binding
+AT2G21280 ortho_group4803_cds other cellular processes
+AT2G21280 ortho_group4803_cds other cytoplasmic components
+AT2G21280 ortho_group4803_cds other enzyme activity
+AT2G21280 ortho_group4803_cds other intracellular components
+AT2G21280 ortho_group4803_cds plastid
+AT2G21410 ortho_group4209_cds chloroplast
+AT2G21410 ortho_group4209_cds hydrolase activity
+AT2G21410 ortho_group4209_cds mitochondria
+AT2G21410 ortho_group4209_cds other cellular processes
+AT2G21410 ortho_group4209_cds other cytoplasmic components
+AT2G21410 ortho_group4209_cds other intracellular components
+AT2G21410 ortho_group4209_cds other membranes
+AT2G21410 ortho_group4209_cds other metabolic processes
+AT2G21410 ortho_group4209_cds transport
+AT2G21410 ortho_group4209_cds transporter activity
+AT2G21530 ortho_group4008_cds chloroplast
+AT2G21530 ortho_group4008_cds other cytoplasmic components
+AT2G21530 ortho_group4008_cds other intracellular components
+AT2G21530 ortho_group4008_cds other membranes
+AT2G21530 ortho_group4008_cds plastid
+AT2G21530 ortho_group4008_cds unknown biological processes
+AT2G21600 ortho_group3288_cds ER
+AT2G21600 ortho_group3288_cds Golgi apparatus
+AT2G21600 ortho_group3288_cds other cellular processes
+AT2G21600 ortho_group3288_cds other cytoplasmic components
+AT2G21600 ortho_group3288_cds other intracellular components
+AT2G21600 ortho_group3288_cds transport
+AT2G21600 ortho_group3288_cds unknown molecular functions
+AT2G21870 ortho_group2833_cds chloroplast
+AT2G21870 ortho_group2833_cds developmental processes
+AT2G21870 ortho_group2833_cds mitochondria
+AT2G21870 ortho_group2833_cds nucleus
+AT2G21870 ortho_group2833_cds other binding
+AT2G21870 ortho_group2833_cds other cytoplasmic components
+AT2G21870 ortho_group2833_cds other intracellular components
+AT2G21870 ortho_group2833_cds other membranes
+AT2G21880 ortho_group3947_cds nucleotide binding
+AT2G21880 ortho_group3947_cds signal transduction
+AT2G21880 ortho_group3947_cds transport
+AT2G21960 ortho_group5460_cds chloroplast
+AT2G21960 ortho_group5460_cds other cytoplasmic components
+AT2G21960 ortho_group5460_cds other intracellular components
+AT2G21960 ortho_group5460_cds plastid
+AT2G21980 ortho_group4980_cds unknown biological processes
+AT2G21980 ortho_group4980_cds unknown cellular components
+AT2G21980 ortho_group4980_cds unknown molecular functions
+AT2G22125 ortho_group2551_cds other binding
+AT2G22125 ortho_group2551_cds other cellular components
+AT2G22125 ortho_group2551_cds other cellular processes
+AT2G22125 ortho_group2551_cds other cytoplasmic components
+AT2G22125 ortho_group2551_cds other metabolic processes
+AT2G22125 ortho_group2551_cds plasma membrane
+AT2G22260 ortho_group3244_cds other enzyme activity
+AT2G22260 ortho_group3244_cds other metabolic processes
+AT2G22260 ortho_group3244_cds unknown cellular components
+AT2G22310 ortho_group4938_cds hydrolase activity
+AT2G22310 ortho_group4938_cds nucleus
+AT2G22310 ortho_group4938_cds other cellular processes
+AT2G22310 ortho_group4938_cds other metabolic processes
+AT2G22310 ortho_group4938_cds protein metabolism
+AT2G22360 ortho_group4116_cds chloroplast
+AT2G22360 ortho_group4116_cds nucleotide binding
+AT2G22360 ortho_group4116_cds other cellular processes
+AT2G22360 ortho_group4116_cds other cytoplasmic components
+AT2G22360 ortho_group4116_cds other intracellular components
+AT2G22360 ortho_group4116_cds other membranes
+AT2G22360 ortho_group4116_cds other metabolic processes
+AT2G22360 ortho_group4116_cds plastid
+AT2G22360 ortho_group4116_cds protein binding
+AT2G22360 ortho_group4116_cds protein metabolism
+AT2G22360 ortho_group4116_cds response to abiotic or biotic stimulus
+AT2G22360 ortho_group4116_cds response to stress
+AT2G22430 ortho_group2609_cds DNA or RNA binding
+AT2G22430 ortho_group2609_cds nucleus
+AT2G22430 ortho_group2609_cds other cellular processes
+AT2G22430 ortho_group2609_cds other metabolic processes
+AT2G22430 ortho_group2609_cds protein binding
+AT2G22430 ortho_group2609_cds response to abiotic or biotic stimulus
+AT2G22430 ortho_group2609_cds response to stress
+AT2G22430 ortho_group2609_cds signal transduction
+AT2G22430 ortho_group2609_cds transcription factor activity
+AT2G22480 ortho_group2589_cds chloroplast
+AT2G22480 ortho_group2589_cds cytosol
+AT2G22480 ortho_group2589_cds electron transport or energy pathways
+AT2G22480 ortho_group2589_cds kinase activity
+AT2G22480 ortho_group2589_cds other cellular processes
+AT2G22480 ortho_group2589_cds other cytoplasmic components
+AT2G22480 ortho_group2589_cds other intracellular components
+AT2G22480 ortho_group2589_cds other metabolic processes
+AT2G22480 ortho_group2589_cds transferase activity
+AT2G22540 ortho_group3369_cds developmental processes
+AT2G22540 ortho_group3369_cds nucleic acid binding
+AT2G22540 ortho_group3369_cds nucleus
+AT2G22540 ortho_group3369_cds other cellular processes
+AT2G22540 ortho_group3369_cds other metabolic processes
+AT2G22540 ortho_group3369_cds protein binding
+AT2G22540 ortho_group3369_cds response to abiotic or biotic stimulus
+AT2G22540 ortho_group3369_cds transcription factor activity
+AT2G22570 ortho_group5554_cds hydrolase activity
+AT2G22570 ortho_group5554_cds other biological processes
+AT2G22570 ortho_group5554_cds other cellular processes
+AT2G22570 ortho_group5554_cds other enzyme activity
+AT2G22570 ortho_group5554_cds other metabolic processes
+AT2G22570 ortho_group5554_cds unknown cellular components
+AT2G22670 ortho_group3238_cds nucleus
+AT2G22670 ortho_group3238_cds other biological processes
+AT2G22670 ortho_group3238_cds other cytoplasmic components
+AT2G22670 ortho_group3238_cds protein binding
+AT2G22670 ortho_group3238_cds transcription factor activity
+AT2G22750 ortho_group2606_cds DNA or RNA binding
+AT2G22750 ortho_group2606_cds nucleus
+AT2G22750 ortho_group2606_cds other cellular processes
+AT2G22750 ortho_group2606_cds other metabolic processes
+AT2G22750 ortho_group2606_cds transcription factor activity
+AT2G23070 ortho_group4687_cds cytosol
+AT2G23070 ortho_group4687_cds kinase activity
+AT2G23070 ortho_group4687_cds nucleotide binding
+AT2G23070 ortho_group4687_cds other cellular processes
+AT2G23070 ortho_group4687_cds other metabolic processes
+AT2G23070 ortho_group4687_cds protein metabolism
+AT2G23070 ortho_group4687_cds transferase activity
+AT2G23180 ortho_group5552_cds other binding
+AT2G23180 ortho_group5552_cds other cellular components
+AT2G23180 ortho_group5552_cds other enzyme activity
+AT2G23180 ortho_group5552_cds other metabolic processes
+AT2G23180 ortho_group5552_cds other molecular functions
+AT2G23420 ortho_group5013_cds other cellular processes
+AT2G23420 ortho_group5013_cds other metabolic processes
+AT2G23420 ortho_group5013_cds transferase activity
+AT2G23420 ortho_group5013_cds unknown cellular components
+AT2G23530 ortho_group4825_cds unknown biological processes
+AT2G23530 ortho_group4825_cds unknown cellular components
+AT2G23530 ortho_group4825_cds unknown molecular functions
+AT2G23820 ortho_group3583_cds cytosol
+AT2G23820 ortho_group3583_cds other enzyme activity
+AT2G23820 ortho_group3583_cds unknown biological processes
+AT2G23830 ortho_group4861_cds structural molecule activity
+AT2G23830 ortho_group4861_cds unknown biological processes
+AT2G23830 ortho_group4861_cds unknown cellular components
+AT2G23890 ortho_group4349_cds hydrolase activity
+AT2G23890 ortho_group4349_cds mitochondria
+AT2G23890 ortho_group4349_cds unknown biological processes
+AT2G23940 ortho_group4344_cds plasma membrane
+AT2G24060 ortho_group5145_cds chloroplast
+AT2G24060 ortho_group5145_cds DNA or RNA binding
+AT2G24060 ortho_group5145_cds other cellular processes
+AT2G24060 ortho_group5145_cds other metabolic processes
+AT2G24060 ortho_group5145_cds protein metabolism
+AT2G24170 ortho_group4492_cds other cellular components
+AT2G24170 ortho_group4492_cds other membranes
+AT2G24200 ortho_group3520_cds chloroplast
+AT2G24200 ortho_group3520_cds cytosol
+AT2G24200 ortho_group3520_cds hydrolase activity
+AT2G24200 ortho_group3520_cds other binding
+AT2G24200 ortho_group3520_cds other biological processes
+AT2G24200 ortho_group3520_cds other cytoplasmic components
+AT2G24200 ortho_group3520_cds other intracellular components
+AT2G24200 ortho_group3520_cds plastid
+AT2G24200 ortho_group3520_cds protein metabolism
+AT2G24270 ortho_group4469_cds other enzyme activity
+AT2G24270 ortho_group4469_cds other metabolic processes
+AT2G24290 ortho_group3927_cds other cellular components
+AT2G24290 ortho_group3927_cds unknown biological processes
+AT2G24290 ortho_group3927_cds unknown molecular functions
+AT2G24420 ortho_group4550_cds ER
+AT2G24420 ortho_group4550_cds other cytoplasmic components
+AT2G24420 ortho_group4550_cds other intracellular components
+AT2G24420 ortho_group4550_cds other membranes
+AT2G24765 ortho_group5463_cds Golgi apparatus
+AT2G24765 ortho_group5463_cds other biological processes
+AT2G24765 ortho_group5463_cds other cellular processes
+AT2G24765 ortho_group5463_cds other cytoplasmic components
+AT2G24765 ortho_group5463_cds other intracellular components
+AT2G24765 ortho_group5463_cds other membranes
+AT2G24765 ortho_group5463_cds other metabolic processes
+AT2G24765 ortho_group5463_cds plasma membrane
+AT2G24765 ortho_group5463_cds protein binding
+AT2G24765 ortho_group5463_cds protein metabolism
+AT2G24790 ortho_group4275_cds developmental processes
+AT2G24790 ortho_group4275_cds nucleus
+AT2G24790 ortho_group4275_cds other binding
+AT2G24790 ortho_group4275_cds other cellular processes
+AT2G24790 ortho_group4275_cds protein binding
+AT2G24790 ortho_group4275_cds response to abiotic or biotic stimulus
+AT2G24790 ortho_group4275_cds signal transduction
+AT2G24790 ortho_group4275_cds transcription factor activity
+AT2G24960 ortho_group3847_cds unknown biological processes
+AT2G24960 ortho_group3847_cds unknown cellular components
+AT2G24960 ortho_group3847_cds unknown molecular functions
+AT2G25080 ortho_group2938_cds chloroplast
+AT2G25080 ortho_group2938_cds other cytoplasmic components
+AT2G25080 ortho_group2938_cds other enzyme activity
+AT2G25080 ortho_group2938_cds other intracellular components
+AT2G25080 ortho_group2938_cds other membranes
+AT2G25080 ortho_group2938_cds other metabolic processes
+AT2G25080 ortho_group2938_cds plastid
+AT2G25080 ortho_group2938_cds response to stress
+AT2G25100 ortho_group2714_cds DNA or RNA binding
+AT2G25100 ortho_group2714_cds hydrolase activity
+AT2G25100 ortho_group2714_cds nucleic acid binding
+AT2G25100 ortho_group2714_cds other cellular processes
+AT2G25100 ortho_group2714_cds other enzyme activity
+AT2G25100 ortho_group2714_cds other metabolic processes
+AT2G25110 ortho_group3478_cds ER
+AT2G25110 ortho_group3478_cds other membranes
+AT2G25110 ortho_group3478_cds response to abiotic or biotic stimulus
+AT2G25110 ortho_group3478_cds response to stress
+AT2G25110 ortho_group3478_cds unknown molecular functions
+AT2G25180 ortho_group4196_cds developmental processes
+AT2G25180 ortho_group4196_cds nucleus
+AT2G25180 ortho_group4196_cds other biological processes
+AT2G25180 ortho_group4196_cds other cellular processes
+AT2G25180 ortho_group4196_cds other metabolic processes
+AT2G25180 ortho_group4196_cds other molecular functions
+AT2G25180 ortho_group4196_cds signal transduction
+AT2G25180 ortho_group4196_cds transcription factor activity
+AT2G25290 ortho_group4806_cds other binding
+AT2G25290 ortho_group4806_cds unknown biological processes
+AT2G25290 ortho_group4806_cds unknown cellular components
+AT2G25300 ortho_group3130_cds other cellular processes
+AT2G25300 ortho_group3130_cds other membranes
+AT2G25300 ortho_group3130_cds other metabolic processes
+AT2G25300 ortho_group3130_cds protein metabolism
+AT2G25300 ortho_group3130_cds transferase activity
+AT2G25310 ortho_group3893_cds other binding
+AT2G25310 ortho_group3893_cds other cellular components
+AT2G25310 ortho_group3893_cds unknown biological processes
+AT2G25355 ortho_group3946_cds other cellular processes
+AT2G25355 ortho_group3946_cds other metabolic processes
+AT2G25355 ortho_group3946_cds protein metabolism
+AT2G25355 ortho_group3946_cds unknown cellular components
+AT2G25500 ortho_group2926_cds other cytoplasmic components
+AT2G25500 ortho_group2926_cds unknown biological processes
+AT2G25500 ortho_group2926_cds unknown molecular functions
+AT2G25570 ortho_group2954_cds other binding
+AT2G25570 ortho_group2954_cds unknown biological processes
+AT2G25605 ortho_group2658_cds chloroplast
+AT2G25605 ortho_group2658_cds unknown biological processes
+AT2G25605 ortho_group2658_cds unknown molecular functions
+AT2G25610 ortho_group5082_cds hydrolase activity
+AT2G25610 ortho_group5082_cds other cellular processes
+AT2G25610 ortho_group5082_cds other cytoplasmic components
+AT2G25610 ortho_group5082_cds other intracellular components
+AT2G25610 ortho_group5082_cds other metabolic processes
+AT2G25610 ortho_group5082_cds transport
+AT2G25737 ortho_group4997_cds other cellular components
+AT2G25737 ortho_group4997_cds other membranes
+AT2G25850 ortho_group3560_cds nucleus
+AT2G25850 ortho_group3560_cds other cellular processes
+AT2G25850 ortho_group3560_cds other metabolic processes
+AT2G25850 ortho_group3560_cds protein binding
+AT2G25850 ortho_group3560_cds transferase activity
+AT2G25870 ortho_group3324_cds hydrolase activity
+AT2G25870 ortho_group3324_cds other binding
+AT2G25870 ortho_group3324_cds other cellular processes
+AT2G25870 ortho_group3324_cds other enzyme activity
+AT2G25870 ortho_group3324_cds other metabolic processes
+AT2G25910 ortho_group3926_cds DNA or RNA binding
+AT2G25910 ortho_group3926_cds hydrolase activity
+AT2G25910 ortho_group3926_cds nucleic acid binding
+AT2G25910 ortho_group3926_cds other cellular processes
+AT2G25910 ortho_group3926_cds other intracellular components
+AT2G25910 ortho_group3926_cds other metabolic processes
+AT2G25950 ortho_group4264_cds unknown biological processes
+AT2G25950 ortho_group4264_cds unknown cellular components
+AT2G25950 ortho_group4264_cds unknown molecular functions
+AT2G26060 ortho_group3194_cds developmental processes
+AT2G26060 ortho_group3194_cds nucleotide binding
+AT2G26060 ortho_group3194_cds other intracellular components
+AT2G26060 ortho_group3194_cds other membranes
+AT2G26060 ortho_group3194_cds plasma membrane
+AT2G26080 ortho_group2813_cds chloroplast
+AT2G26080 ortho_group2813_cds mitochondria
+AT2G26080 ortho_group2813_cds nucleotide binding
+AT2G26080 ortho_group2813_cds other cellular processes
+AT2G26080 ortho_group2813_cds other cytoplasmic components
+AT2G26080 ortho_group2813_cds other enzyme activity
+AT2G26080 ortho_group2813_cds other intracellular components
+AT2G26080 ortho_group2813_cds other metabolic processes
+AT2G26080 ortho_group2813_cds plastid
+AT2G26210 ortho_group3549_cds unknown biological processes
+AT2G26210 ortho_group3549_cds unknown cellular components
+AT2G26230 ortho_group2957_cds other cellular processes
+AT2G26230 ortho_group2957_cds other cytoplasmic components
+AT2G26230 ortho_group2957_cds other enzyme activity
+AT2G26230 ortho_group2957_cds other intracellular components
+AT2G26230 ortho_group2957_cds other metabolic processes
+AT2G26240 ortho_group3212_cds mitochondria
+AT2G26240 ortho_group3212_cds unknown biological processes
+AT2G26280 ortho_group4726_cds chloroplast
+AT2G26280 ortho_group4726_cds DNA or RNA binding
+AT2G26280 ortho_group4726_cds DNA or RNA metabolism
+AT2G26280 ortho_group4726_cds nucleotide binding
+AT2G26280 ortho_group4726_cds other cellular processes
+AT2G26280 ortho_group4726_cds protein binding
+AT2G26280 ortho_group4726_cds response to stress
+AT2G26300 ortho_group4299_cds cell organization and biogenesis
+AT2G26300 ortho_group4299_cds developmental processes
+AT2G26300 ortho_group4299_cds ER
+AT2G26300 ortho_group4299_cds hydrolase activity
+AT2G26300 ortho_group4299_cds nucleotide binding
+AT2G26300 ortho_group4299_cds other biological processes
+AT2G26300 ortho_group4299_cds other cellular components
+AT2G26300 ortho_group4299_cds other cellular processes
+AT2G26300 ortho_group4299_cds other cytoplasmic components
+AT2G26300 ortho_group4299_cds other intracellular components
+AT2G26300 ortho_group4299_cds other membranes
+AT2G26300 ortho_group4299_cds other metabolic processes
+AT2G26300 ortho_group4299_cds other molecular functions
+AT2G26300 ortho_group4299_cds plasma membrane
+AT2G26300 ortho_group4299_cds protein binding
+AT2G26300 ortho_group4299_cds protein metabolism
+AT2G26300 ortho_group4299_cds receptor binding or activity
+AT2G26300 ortho_group4299_cds response to abiotic or biotic stimulus
+AT2G26300 ortho_group4299_cds signal transduction
+AT2G26310 ortho_group5180_cds other cellular processes
+AT2G26310 ortho_group5180_cds other enzyme activity
+AT2G26310 ortho_group5180_cds other metabolic processes
+AT2G26310 ortho_group5180_cds unknown cellular components
+AT2G26340 ortho_group2763_cds chloroplast
+AT2G26340 ortho_group2763_cds other cytoplasmic components
+AT2G26340 ortho_group2763_cds other intracellular components
+AT2G26340 ortho_group2763_cds other membranes
+AT2G26340 ortho_group2763_cds plastid
+AT2G26340 ortho_group2763_cds unknown biological processes
+AT2G26340 ortho_group2763_cds unknown molecular functions
+AT2G26460 ortho_group5453_cds nucleus
+AT2G26460 ortho_group5453_cds other cellular processes
+AT2G26460 ortho_group5453_cds other metabolic processes
+AT2G26460 ortho_group5453_cds unknown molecular functions
+AT2G26560 ortho_group5493_cds hydrolase activity
+AT2G26560 ortho_group5493_cds other biological processes
+AT2G26560 ortho_group5493_cds other cellular processes
+AT2G26560 ortho_group5493_cds other cytoplasmic components
+AT2G26560 ortho_group5493_cds other membranes
+AT2G26560 ortho_group5493_cds other metabolic processes
+AT2G26560 ortho_group5493_cds other molecular functions
+AT2G26560 ortho_group5493_cds response to abiotic or biotic stimulus
+AT2G26560 ortho_group5493_cds response to stress
+AT2G26670 ortho_group3154_cds chloroplast
+AT2G26670 ortho_group3154_cds developmental processes
+AT2G26670 ortho_group3154_cds other binding
+AT2G26670 ortho_group3154_cds other cellular processes
+AT2G26670 ortho_group3154_cds other enzyme activity
+AT2G26670 ortho_group3154_cds other metabolic processes
+AT2G26670 ortho_group3154_cds response to abiotic or biotic stimulus
+AT2G26670 ortho_group3154_cds signal transduction
+AT2G26695 ortho_group2586_cds other binding
+AT2G26695 ortho_group2586_cds other intracellular components
+AT2G26695 ortho_group2586_cds unknown biological processes
+AT2G26740 ortho_group5347_cds cytosol
+AT2G26740 ortho_group5347_cds hydrolase activity
+AT2G26740 ortho_group5347_cds other biological processes
+AT2G26740 ortho_group5347_cds response to abiotic or biotic stimulus
+AT2G26740 ortho_group5347_cds response to stress
+AT2G26800 ortho_group3002_cds mitochondria
+AT2G26800 ortho_group3002_cds other cellular processes
+AT2G26800 ortho_group3002_cds other enzyme activity
+AT2G26800 ortho_group3002_cds other metabolic processes
+AT2G26810 ortho_group4868_cds unknown biological processes
+AT2G26810 ortho_group4868_cds unknown cellular components
+AT2G26810 ortho_group4868_cds unknown molecular functions
+AT2G26830 ortho_group2916_cds developmental processes
+AT2G26830 ortho_group2916_cds kinase activity
+AT2G26830 ortho_group2916_cds transferase activity
+AT2G26890 ortho_group5117_cds cell organization and biogenesis
+AT2G26890 ortho_group5117_cds developmental processes
+AT2G26890 ortho_group5117_cds ER
+AT2G26890 ortho_group5117_cds Golgi apparatus
+AT2G26890 ortho_group5117_cds other binding
+AT2G26890 ortho_group5117_cds other cellular components
+AT2G26890 ortho_group5117_cds other cellular processes
+AT2G26890 ortho_group5117_cds other cytoplasmic components
+AT2G26890 ortho_group5117_cds other intracellular components
+AT2G26890 ortho_group5117_cds other membranes
+AT2G26890 ortho_group5117_cds other metabolic processes
+AT2G26890 ortho_group5117_cds protein binding
+AT2G26890 ortho_group5117_cds protein metabolism
+AT2G26890 ortho_group5117_cds response to abiotic or biotic stimulus
+AT2G26890 ortho_group5117_cds response to stress
+AT2G26890 ortho_group5117_cds transport
+AT2G26970 ortho_group5435_cds hydrolase activity
+AT2G26970 ortho_group5435_cds nucleic acid binding
+AT2G26970 ortho_group5435_cds other cellular components
+AT2G26970 ortho_group5435_cds other cellular processes
+AT2G26970 ortho_group5435_cds other intracellular components
+AT2G26970 ortho_group5435_cds other metabolic processes
+AT2G26980 ortho_group2870_cds developmental processes
+AT2G26980 ortho_group2870_cds kinase activity
+AT2G26980 ortho_group2870_cds nucleus
+AT2G26980 ortho_group2870_cds other biological processes
+AT2G26980 ortho_group2870_cds other cellular processes
+AT2G26980 ortho_group2870_cds other cytoplasmic components
+AT2G26980 ortho_group2870_cds response to abiotic or biotic stimulus
+AT2G26980 ortho_group2870_cds signal transduction
+AT2G26980 ortho_group2870_cds transferase activity
+AT2G26990 ortho_group5159_cds cytosol
+AT2G26990 ortho_group5159_cds developmental processes
+AT2G26990 ortho_group5159_cds nucleus
+AT2G26990 ortho_group5159_cds other cellular processes
+AT2G26990 ortho_group5159_cds other intracellular components
+AT2G26990 ortho_group5159_cds other metabolic processes
+AT2G26990 ortho_group5159_cds protein binding
+AT2G26990 ortho_group5159_cds protein metabolism
+AT2G26990 ortho_group5159_cds response to abiotic or biotic stimulus
+AT2G27020 ortho_group2983_cds cytosol
+AT2G27020 ortho_group2983_cds extracellular
+AT2G27020 ortho_group2983_cds hydrolase activity
+AT2G27020 ortho_group2983_cds nucleus
+AT2G27020 ortho_group2983_cds other biological processes
+AT2G27020 ortho_group2983_cds other cellular processes
+AT2G27020 ortho_group2983_cds other cytoplasmic components
+AT2G27020 ortho_group2983_cds other intracellular components
+AT2G27020 ortho_group2983_cds other membranes
+AT2G27020 ortho_group2983_cds other metabolic processes
+AT2G27020 ortho_group2983_cds protein metabolism
+AT2G27020 ortho_group2983_cds response to abiotic or biotic stimulus
+AT2G27020 ortho_group2983_cds response to stress
+AT2G27030 ortho_group4644_cds other binding
+AT2G27030 ortho_group4644_cds other cytoplasmic components
+AT2G27030 ortho_group4644_cds other intracellular components
+AT2G27030 ortho_group4644_cds other membranes
+AT2G27030 ortho_group4644_cds plasma membrane
+AT2G27030 ortho_group4644_cds protein binding
+AT2G27040 ortho_group2814_cds cell organization and biogenesis
+AT2G27040 ortho_group2814_cds DNA or RNA binding
+AT2G27040 ortho_group2814_cds DNA or RNA metabolism
+AT2G27040 ortho_group2814_cds nucleus
+AT2G27040 ortho_group2814_cds other cellular processes
+AT2G27040 ortho_group2814_cds other intracellular components
+AT2G27040 ortho_group2814_cds other metabolic processes
+AT2G27040 ortho_group2814_cds protein binding
+AT2G27040 ortho_group2814_cds protein metabolism
+AT2G27040 ortho_group2814_cds response to abiotic or biotic stimulus
+AT2G27040 ortho_group2814_cds response to stress
+AT2G27090 ortho_group5437_cds other cellular components
+AT2G27090 ortho_group5437_cds other cellular processes
+AT2G27090 ortho_group5437_cds other metabolic processes
+AT2G27090 ortho_group5437_cds plasma membrane
+AT2G27090 ortho_group5437_cds protein metabolism
+AT2G27170 ortho_group5415_cds cell organization and biogenesis
+AT2G27170 ortho_group5415_cds nucleotide binding
+AT2G27170 ortho_group5415_cds nucleus
+AT2G27170 ortho_group5415_cds other cellular components
+AT2G27170 ortho_group5415_cds other cellular processes
+AT2G27170 ortho_group5415_cds other intracellular components
+AT2G27450 ortho_group3741_cds hydrolase activity
+AT2G27450 ortho_group3741_cds other cellular processes
+AT2G27450 ortho_group3741_cds other metabolic processes
+AT2G27490 ortho_group3278_cds chloroplast
+AT2G27490 ortho_group3278_cds kinase activity
+AT2G27490 ortho_group3278_cds nucleotide binding
+AT2G27490 ortho_group3278_cds other cellular processes
+AT2G27490 ortho_group3278_cds other cytoplasmic components
+AT2G27490 ortho_group3278_cds other intracellular components
+AT2G27490 ortho_group3278_cds other metabolic processes
+AT2G27490 ortho_group3278_cds transferase activity
+AT2G27600 ortho_group5527_cds cell organization and biogenesis
+AT2G27600 ortho_group5527_cds developmental processes
+AT2G27600 ortho_group5527_cds hydrolase activity
+AT2G27600 ortho_group5527_cds nucleotide binding
+AT2G27600 ortho_group5527_cds nucleus
+AT2G27600 ortho_group5527_cds other cellular components
+AT2G27600 ortho_group5527_cds other cellular processes
+AT2G27600 ortho_group5527_cds other cytoplasmic components
+AT2G27600 ortho_group5527_cds other intracellular components
+AT2G27600 ortho_group5527_cds protein binding
+AT2G27600 ortho_group5527_cds transport
+AT2G27900 ortho_group2697_cds unknown biological processes
+AT2G27900 ortho_group2697_cds unknown cellular components
+AT2G27900 ortho_group2697_cds unknown molecular functions
+AT2G28070 ortho_group5059_cds hydrolase activity
+AT2G28070 ortho_group5059_cds plasma membrane
+AT2G28070 ortho_group5059_cds transporter activity
+AT2G28230 ortho_group3254_cds nucleus
+AT2G28230 ortho_group3254_cds other cellular processes
+AT2G28230 ortho_group3254_cds other intracellular components
+AT2G28230 ortho_group3254_cds other metabolic processes
+AT2G28230 ortho_group3254_cds other molecular functions
+AT2G28290 ortho_group4991_cds cell organization and biogenesis
+AT2G28290 ortho_group4991_cds cytosol
+AT2G28290 ortho_group4991_cds developmental processes
+AT2G28290 ortho_group4991_cds hydrolase activity
+AT2G28290 ortho_group4991_cds nucleus
+AT2G28290 ortho_group4991_cds other binding
+AT2G28290 ortho_group4991_cds other cellular processes
+AT2G28290 ortho_group4991_cds other intracellular components
+AT2G28290 ortho_group4991_cds other metabolic processes
+AT2G28290 ortho_group4991_cds response to stress
+AT2G28520 ortho_group3102_cds Golgi apparatus
+AT2G28520 ortho_group3102_cds hydrolase activity
+AT2G28520 ortho_group3102_cds other cellular processes
+AT2G28520 ortho_group3102_cds other cytoplasmic components
+AT2G28520 ortho_group3102_cds other intracellular components
+AT2G28520 ortho_group3102_cds other membranes
+AT2G28520 ortho_group3102_cds other metabolic processes
+AT2G28520 ortho_group3102_cds transport
+AT2G28605 ortho_group4813_cds chloroplast
+AT2G28605 ortho_group4813_cds other binding
+AT2G28605 ortho_group4813_cds other cellular processes
+AT2G28605 ortho_group4813_cds other intracellular components
+AT2G28605 ortho_group4813_cds other metabolic processes
+AT2G28900 ortho_group3906_cds chloroplast
+AT2G28900 ortho_group3906_cds other biological processes
+AT2G28900 ortho_group3906_cds other cellular processes
+AT2G28900 ortho_group3906_cds other cytoplasmic components
+AT2G28900 ortho_group3906_cds other intracellular components
+AT2G28900 ortho_group3906_cds other membranes
+AT2G28900 ortho_group3906_cds plastid
+AT2G28900 ortho_group3906_cds response to abiotic or biotic stimulus
+AT2G28900 ortho_group3906_cds response to stress
+AT2G28900 ortho_group3906_cds transport
+AT2G28900 ortho_group3906_cds transporter activity
+AT2G29020 ortho_group2986_cds unknown biological processes
+AT2G29020 ortho_group2986_cds unknown cellular components
+AT2G29020 ortho_group2986_cds unknown molecular functions
+AT2G29070 ortho_group3716_cds other cellular processes
+AT2G29070 ortho_group3716_cds other metabolic processes
+AT2G29070 ortho_group3716_cds protein metabolism
+AT2G29070 ortho_group3716_cds unknown cellular components
+AT2G29260 ortho_group4313_cds chloroplast
+AT2G29260 ortho_group4313_cds other binding
+AT2G29260 ortho_group4313_cds other enzyme activity
+AT2G29260 ortho_group4313_cds other metabolic processes
+AT2G29350 ortho_group4059_cds other biological processes
+AT2G29350 ortho_group4059_cds other enzyme activity
+AT2G29350 ortho_group4059_cds response to abiotic or biotic stimulus
+AT2G29350 ortho_group4059_cds response to stress
+AT2G29390 ortho_group3620_cds other enzyme activity
+AT2G29390 ortho_group3620_cds other membranes
+AT2G29390 ortho_group3620_cds other metabolic processes
+AT2G29500 ortho_group3290_cds other cytoplasmic components
+AT2G29500 ortho_group3290_cds response to abiotic or biotic stimulus
+AT2G29500 ortho_group3290_cds response to stress
+AT2G29500 ortho_group3290_cds unknown molecular functions
+AT2G29560 ortho_group3328_cds cytosol
+AT2G29560 ortho_group3328_cds electron transport or energy pathways
+AT2G29560 ortho_group3328_cds nucleus
+AT2G29560 ortho_group3328_cds other binding
+AT2G29560 ortho_group3328_cds other cellular processes
+AT2G29560 ortho_group3328_cds other cytoplasmic components
+AT2G29560 ortho_group3328_cds other enzyme activity
+AT2G29560 ortho_group3328_cds other metabolic processes
+AT2G29570 ortho_group3124_cds DNA or RNA binding
+AT2G29570 ortho_group3124_cds DNA or RNA metabolism
+AT2G29570 ortho_group3124_cds nucleus
+AT2G29570 ortho_group3124_cds other cellular processes
+AT2G29570 ortho_group3124_cds other metabolic processes
+AT2G29570 ortho_group3124_cds other molecular functions
+AT2G29570 ortho_group3124_cds protein binding
+AT2G29570 ortho_group3124_cds response to stress
+AT2G29640 ortho_group4256_cds unknown biological processes
+AT2G29640 ortho_group4256_cds unknown cellular components
+AT2G29640 ortho_group4256_cds unknown molecular functions
+AT2G29670 ortho_group3720_cds other binding
+AT2G30060 ortho_group3280_cds other cellular processes
+AT2G30060 ortho_group3280_cds protein binding
+AT2G30060 ortho_group3280_cds transport
+AT2G30170 ortho_group3488_cds chloroplast
+AT2G30170 ortho_group3488_cds hydrolase activity
+AT2G30170 ortho_group3488_cds other cytoplasmic components
+AT2G30170 ortho_group3488_cds other enzyme activity
+AT2G30170 ortho_group3488_cds other intracellular components
+AT2G30170 ortho_group3488_cds plastid
+AT2G30170 ortho_group3488_cds unknown biological processes
+AT2G30330 ortho_group4233_cds other cellular processes
+AT2G30330 ortho_group4233_cds other cytoplasmic components
+AT2G30330 ortho_group4233_cds other intracellular components
+AT2G30330 ortho_group4233_cds protein binding
+AT2G30330 ortho_group4233_cds transport
+AT2G30400 ortho_group4519_cds other cellular processes
+AT2G30400 ortho_group4519_cds other metabolic processes
+AT2G30400 ortho_group4519_cds protein metabolism
+AT2G30410 ortho_group3561_cds cell organization and biogenesis
+AT2G30410 ortho_group3561_cds cytosol
+AT2G30410 ortho_group3561_cds other cellular processes
+AT2G30410 ortho_group3561_cds protein binding
+AT2G30520 ortho_group5162_cds nucleus
+AT2G30520 ortho_group5162_cds other molecular functions
+AT2G30520 ortho_group5162_cds response to abiotic or biotic stimulus
+AT2G30570 ortho_group4560_cds chloroplast
+AT2G30570 ortho_group4560_cds electron transport or energy pathways
+AT2G30570 ortho_group4560_cds other cellular processes
+AT2G30570 ortho_group4560_cds other cytoplasmic components
+AT2G30570 ortho_group4560_cds other intracellular components
+AT2G30570 ortho_group4560_cds other membranes
+AT2G30570 ortho_group4560_cds other metabolic processes
+AT2G30570 ortho_group4560_cds plastid
+AT2G30570 ortho_group4560_cds unknown molecular functions
+AT2G30590 ortho_group3527_cds nucleus
+AT2G30590 ortho_group3527_cds other cellular processes
+AT2G30590 ortho_group3527_cds other metabolic processes
+AT2G30590 ortho_group3527_cds protein binding
+AT2G30590 ortho_group3527_cds transcription factor activity
+AT2G30710 ortho_group3839_cds other cellular processes
+AT2G30710 ortho_group3839_cds other intracellular components
+AT2G30710 ortho_group3839_cds other metabolic processes
+AT2G30710 ortho_group3839_cds other molecular functions
+AT2G30710 ortho_group3839_cds signal transduction
+AT2G30800 ortho_group2720_cds hydrolase activity
+AT2G30800 ortho_group2720_cds nucleic acid binding
+AT2G30800 ortho_group2720_cds nucleotide binding
+AT2G30800 ortho_group2720_cds nucleus
+AT2G30800 ortho_group2720_cds unknown biological processes
+AT2G30860 ortho_group2544_cds chloroplast
+AT2G30860 ortho_group2544_cds cytosol
+AT2G30860 ortho_group2544_cds extracellular
+AT2G30860 ortho_group2544_cds other binding
+AT2G30860 ortho_group2544_cds other biological processes
+AT2G30860 ortho_group2544_cds other cellular components
+AT2G30860 ortho_group2544_cds other cellular processes
+AT2G30860 ortho_group2544_cds other cytoplasmic components
+AT2G30860 ortho_group2544_cds other enzyme activity
+AT2G30860 ortho_group2544_cds other intracellular components
+AT2G30860 ortho_group2544_cds other metabolic processes
+AT2G30860 ortho_group2544_cds plasma membrane
+AT2G30860 ortho_group2544_cds plastid
+AT2G30860 ortho_group2544_cds response to abiotic or biotic stimulus
+AT2G30860 ortho_group2544_cds response to stress
+AT2G30860 ortho_group2544_cds transferase activity
+AT2G30910 ortho_group3827_cds cell organization and biogenesis
+AT2G30910 ortho_group3827_cds nucleotide binding
+AT2G30910 ortho_group3827_cds nucleus
+AT2G30910 ortho_group3827_cds other cellular processes
+AT2G30910 ortho_group3827_cds other cytoplasmic components
+AT2G30910 ortho_group3827_cds other intracellular components
+AT2G30910 ortho_group3827_cds protein binding
+AT2G30970 ortho_group3783_cds mitochondria
+AT2G30970 ortho_group3783_cds other binding
+AT2G30970 ortho_group3783_cds other biological processes
+AT2G30970 ortho_group3783_cds transferase activity
+AT2G31140 ortho_group3112_cds other cytoplasmic components
+AT2G31140 ortho_group3112_cds other intracellular components
+AT2G31140 ortho_group3112_cds other membranes
+AT2G31140 ortho_group3112_cds unknown biological processes
+AT2G31140 ortho_group3112_cds unknown molecular functions
+AT2G31240 ortho_group4656_cds other binding
+AT2G31240 ortho_group4656_cds unknown biological processes
+AT2G31350 ortho_group4381_cds hydrolase activity
+AT2G31350 ortho_group4381_cds mitochondria
+AT2G31350 ortho_group4381_cds other binding
+AT2G31350 ortho_group4381_cds other cellular processes
+AT2G31350 ortho_group4381_cds other metabolic processes
+AT2G31370 ortho_group2708_cds DNA or RNA binding
+AT2G31370 ortho_group2708_cds other cellular processes
+AT2G31370 ortho_group2708_cds other metabolic processes
+AT2G31370 ortho_group2708_cds transcription factor activity
+AT2G31440 ortho_group4838_cds other metabolic processes
+AT2G31440 ortho_group4838_cds protein metabolism
+AT2G31560 ortho_group3576_cds unknown biological processes
+AT2G31560 ortho_group3576_cds unknown cellular components
+AT2G31560 ortho_group3576_cds unknown molecular functions
+AT2G31710 ortho_group5175_cds other cellular components
+AT2G31710 ortho_group5175_cds unknown biological processes
+AT2G31710 ortho_group5175_cds unknown molecular functions
+AT2G31725 ortho_group3090_cds unknown biological processes
+AT2G31725 ortho_group3090_cds unknown cellular components
+AT2G31725 ortho_group3090_cds unknown molecular functions
+AT2G31810 ortho_group2725_cds chloroplast
+AT2G31810 ortho_group2725_cds other binding
+AT2G31810 ortho_group2725_cds other cellular processes
+AT2G31810 ortho_group2725_cds other metabolic processes
+AT2G31810 ortho_group2725_cds transferase activity
+AT2G31840 ortho_group4782_cds cell organization and biogenesis
+AT2G31840 ortho_group4782_cds chloroplast
+AT2G31840 ortho_group4782_cds other cellular processes
+AT2G31840 ortho_group4782_cds other cytoplasmic components
+AT2G31840 ortho_group4782_cds other intracellular components
+AT2G31840 ortho_group4782_cds other metabolic processes
+AT2G31840 ortho_group4782_cds plastid
+AT2G31960 ortho_group3565_cds other cellular processes
+AT2G31960 ortho_group3565_cds other membranes
+AT2G31960 ortho_group3565_cds other metabolic processes
+AT2G31960 ortho_group3565_cds plasma membrane
+AT2G31960 ortho_group3565_cds transferase activity
+AT2G31970 ortho_group3104_cds cell organization and biogenesis
+AT2G31970 ortho_group3104_cds DNA or RNA metabolism
+AT2G31970 ortho_group3104_cds hydrolase activity
+AT2G31970 ortho_group3104_cds nucleotide binding
+AT2G31970 ortho_group3104_cds nucleus
+AT2G31970 ortho_group3104_cds other binding
+AT2G31970 ortho_group3104_cds other cellular processes
+AT2G31970 ortho_group3104_cds other cytoplasmic components
+AT2G31970 ortho_group3104_cds other intracellular components
+AT2G31970 ortho_group3104_cds other metabolic processes
+AT2G31970 ortho_group3104_cds response to stress
+AT2G32160 ortho_group2569_cds unknown biological processes
+AT2G32160 ortho_group2569_cds unknown cellular components
+AT2G32160 ortho_group2569_cds unknown molecular functions
+AT2G32180 ortho_group3604_cds other cytoplasmic components
+AT2G32180 ortho_group3604_cds other intracellular components
+AT2G32180 ortho_group3604_cds plastid
+AT2G32180 ortho_group3604_cds unknown biological processes
+AT2G32180 ortho_group3604_cds unknown molecular functions
+AT2G32280 ortho_group3596_cds other cellular components
+AT2G32280 ortho_group3596_cds unknown biological processes
+AT2G32280 ortho_group3596_cds unknown molecular functions
+AT2G32380 ortho_group3510_cds unknown biological processes
+AT2G32380 ortho_group3510_cds unknown molecular functions
+AT2G32410 ortho_group3047_cds developmental processes
+AT2G32410 ortho_group3047_cds other binding
+AT2G32410 ortho_group3047_cds other biological processes
+AT2G32410 ortho_group3047_cds other cellular processes
+AT2G32410 ortho_group3047_cds other cytoplasmic components
+AT2G32410 ortho_group3047_cds other enzyme activity
+AT2G32410 ortho_group3047_cds other intracellular components
+AT2G32410 ortho_group3047_cds other metabolic processes
+AT2G32410 ortho_group3047_cds protein metabolism
+AT2G32410 ortho_group3047_cds signal transduction
+AT2G32500 ortho_group5258_cds unknown biological processes
+AT2G32500 ortho_group5258_cds unknown molecular functions
+AT2G32520 ortho_group3588_cds chloroplast
+AT2G32520 ortho_group3588_cds cytosol
+AT2G32520 ortho_group3588_cds hydrolase activity
+AT2G32520 ortho_group3588_cds other biological processes
+AT2G32520 ortho_group3588_cds transferase activity
+AT2G32700 ortho_group3957_cds cell organization and biogenesis
+AT2G32700 ortho_group3957_cds developmental processes
+AT2G32700 ortho_group3957_cds other cellular processes
+AT2G32700 ortho_group3957_cds other metabolic processes
+AT2G32700 ortho_group3957_cds unknown cellular components
+AT2G32700 ortho_group3957_cds unknown molecular functions
+AT2G32720 ortho_group3010_cds other binding
+AT2G32720 ortho_group3010_cds protein binding
+AT2G32720 ortho_group3010_cds unknown cellular components
+AT2G32980 ortho_group4766_cds unknown biological processes
+AT2G32980 ortho_group4766_cds unknown molecular functions
+AT2G33040 ortho_group4830_cds cell wall
+AT2G33040 ortho_group4830_cds chloroplast
+AT2G33040 ortho_group4830_cds mitochondria
+AT2G33040 ortho_group4830_cds nucleus
+AT2G33040 ortho_group4830_cds other binding
+AT2G33040 ortho_group4830_cds other cellular processes
+AT2G33040 ortho_group4830_cds other cytoplasmic components
+AT2G33040 ortho_group4830_cds other intracellular components
+AT2G33040 ortho_group4830_cds other membranes
+AT2G33040 ortho_group4830_cds other metabolic processes
+AT2G33040 ortho_group4830_cds transport
+AT2G33120 ortho_group5555_cds cell organization and biogenesis
+AT2G33120 ortho_group5555_cds other cellular components
+AT2G33120 ortho_group5555_cds other cellular processes
+AT2G33120 ortho_group5555_cds other cytoplasmic components
+AT2G33120 ortho_group5555_cds other intracellular components
+AT2G33120 ortho_group5555_cds other membranes
+AT2G33120 ortho_group5555_cds plasma membrane
+AT2G33120 ortho_group5555_cds transport
+AT2G33120 ortho_group5555_cds unknown molecular functions
+AT2G33150 ortho_group4673_cds cell organization and biogenesis
+AT2G33150 ortho_group4673_cds chloroplast
+AT2G33150 ortho_group4673_cds mitochondria
+AT2G33150 ortho_group4673_cds nucleus
+AT2G33150 ortho_group4673_cds other cellular processes
+AT2G33150 ortho_group4673_cds other cytoplasmic components
+AT2G33150 ortho_group4673_cds other intracellular components
+AT2G33150 ortho_group4673_cds other membranes
+AT2G33150 ortho_group4673_cds other metabolic processes
+AT2G33150 ortho_group4673_cds response to stress
+AT2G33150 ortho_group4673_cds signal transduction
+AT2G33150 ortho_group4673_cds transferase activity
+AT2G33205 ortho_group2536_cds other membranes
+AT2G33205 ortho_group2536_cds unknown biological processes
+AT2G33205 ortho_group2536_cds unknown molecular functions
+AT2G33210 ortho_group5530_cds chloroplast
+AT2G33210 ortho_group5530_cds mitochondria
+AT2G33210 ortho_group5530_cds nucleotide binding
+AT2G33210 ortho_group5530_cds other binding
+AT2G33210 ortho_group5530_cds other cytoplasmic components
+AT2G33210 ortho_group5530_cds other intracellular components
+AT2G33210 ortho_group5530_cds other membranes
+AT2G33210 ortho_group5530_cds plasma membrane
+AT2G33210 ortho_group5530_cds plastid
+AT2G33210 ortho_group5530_cds response to stress
+AT2G33255 ortho_group2696_cds chloroplast
+AT2G33255 ortho_group2696_cds hydrolase activity
+AT2G33255 ortho_group2696_cds other enzyme activity
+AT2G33255 ortho_group2696_cds other metabolic processes
+AT2G33310 ortho_group3568_cds nucleus
+AT2G33310 ortho_group3568_cds other biological processes
+AT2G33310 ortho_group3568_cds transcription factor activity
+AT2G33470 ortho_group3937_cds cytosol
+AT2G33470 ortho_group3937_cds other binding
+AT2G33470 ortho_group3937_cds plasma membrane
+AT2G33470 ortho_group3937_cds transport
+AT2G33470 ortho_group3937_cds transporter activity
+AT2G33480 ortho_group5491_cds developmental processes
+AT2G33480 ortho_group5491_cds other cellular processes
+AT2G33480 ortho_group5491_cds other metabolic processes
+AT2G33480 ortho_group5491_cds transcription factor activity
+AT2G33490 ortho_group4375_cds plasma membrane
+AT2G33490 ortho_group4375_cds unknown biological processes
+AT2G33490 ortho_group4375_cds unknown molecular functions
+AT2G33735 ortho_group4414_cds other cellular processes
+AT2G33735 ortho_group4414_cds other metabolic processes
+AT2G33735 ortho_group4414_cds protein binding
+AT2G33735 ortho_group4414_cds protein metabolism
+AT2G33735 ortho_group4414_cds unknown cellular components
+AT2G33793 ortho_group3277_cds unknown cellular components
+AT2G33793 ortho_group3277_cds unknown molecular functions
+AT2G33820 ortho_group4988_cds mitochondria
+AT2G33820 ortho_group4988_cds other binding
+AT2G33820 ortho_group4988_cds other cellular processes
+AT2G33820 ortho_group4988_cds other cytoplasmic components
+AT2G33820 ortho_group4988_cds other intracellular components
+AT2G33820 ortho_group4988_cds other membranes
+AT2G33820 ortho_group4988_cds transport
+AT2G33820 ortho_group4988_cds transporter activity
+AT2G33845 ortho_group5186_cds chloroplast
+AT2G33845 ortho_group5186_cds unknown biological processes
+AT2G33845 ortho_group5186_cds unknown molecular functions
+AT2G33990 ortho_group2678_cds plasma membrane
+AT2G33990 ortho_group2678_cds protein binding
+AT2G33990 ortho_group2678_cds unknown biological processes
+AT2G34050 ortho_group3754_cds cell organization and biogenesis
+AT2G34050 ortho_group3754_cds chloroplast
+AT2G34050 ortho_group3754_cds mitochondria
+AT2G34300 ortho_group3752_cds Golgi apparatus
+AT2G34300 ortho_group3752_cds other cellular components
+AT2G34300 ortho_group3752_cds unknown biological processes
+AT2G34420 ortho_group3928_cds chloroplast
+AT2G34420 ortho_group3928_cds electron transport or energy pathways
+AT2G34420 ortho_group3928_cds other binding
+AT2G34420 ortho_group3928_cds other cellular processes
+AT2G34420 ortho_group3928_cds other cytoplasmic components
+AT2G34420 ortho_group3928_cds other intracellular components
+AT2G34420 ortho_group3928_cds other membranes
+AT2G34420 ortho_group3928_cds other metabolic processes
+AT2G34420 ortho_group3928_cds plastid
+AT2G34460 ortho_group4586_cds chloroplast
+AT2G34460 ortho_group4586_cds other binding
+AT2G34460 ortho_group4586_cds other cytoplasmic components
+AT2G34460 ortho_group4586_cds other enzyme activity
+AT2G34460 ortho_group4586_cds other intracellular components
+AT2G34460 ortho_group4586_cds other membranes
+AT2G34460 ortho_group4586_cds other metabolic processes
+AT2G34460 ortho_group4586_cds plastid
+AT2G34470 ortho_group4232_cds nucleotide binding
+AT2G34470 ortho_group4232_cds other binding
+AT2G34470 ortho_group4232_cds other membranes
+AT2G34470 ortho_group4232_cds other metabolic processes
+AT2G34560 ortho_group3740_cds hydrolase activity
+AT2G34560 ortho_group3740_cds nucleotide binding
+AT2G34560 ortho_group3740_cds protein metabolism
+AT2G34630 ortho_group3881_cds chloroplast
+AT2G34630 ortho_group3881_cds developmental processes
+AT2G34630 ortho_group3881_cds mitochondria
+AT2G34630 ortho_group3881_cds other cellular processes
+AT2G34630 ortho_group3881_cds other metabolic processes
+AT2G34630 ortho_group3881_cds plastid
+AT2G34630 ortho_group3881_cds transferase activity
+AT2G34640 ortho_group4504_cds cell organization and biogenesis
+AT2G34640 ortho_group4504_cds chloroplast
+AT2G34640 ortho_group4504_cds other cellular processes
+AT2G34640 ortho_group4504_cds other cytoplasmic components
+AT2G34640 ortho_group4504_cds other intracellular components
+AT2G34640 ortho_group4504_cds other metabolic processes
+AT2G34640 ortho_group4504_cds plastid
+AT2G34640 ortho_group4504_cds unknown molecular functions
+AT2G34660 ortho_group3714_cds hydrolase activity
+AT2G34660 ortho_group3714_cds other cytoplasmic components
+AT2G34660 ortho_group3714_cds other intracellular components
+AT2G34660 ortho_group3714_cds other membranes
+AT2G34660 ortho_group3714_cds transporter activity
+AT2G34680 ortho_group4506_cds developmental processes
+AT2G34680 ortho_group4506_cds other biological processes
+AT2G34680 ortho_group4506_cds other cellular components
+AT2G34680 ortho_group4506_cds plasma membrane
+AT2G34690 ortho_group4292_cds other biological processes
+AT2G34690 ortho_group4292_cds other cellular processes
+AT2G34690 ortho_group4292_cds protein binding
+AT2G34690 ortho_group4292_cds response to abiotic or biotic stimulus
+AT2G34690 ortho_group4292_cds response to stress
+AT2G34690 ortho_group4292_cds transporter activity
+AT2G34750 ortho_group4743_cds other cellular processes
+AT2G34750 ortho_group4743_cds other metabolic processes
+AT2G34750 ortho_group4743_cds unknown biological processes
+AT2G34750 ortho_group4743_cds unknown cellular components
+AT2G34770 ortho_group3857_cds other cellular processes
+AT2G34770 ortho_group3857_cds other enzyme activity
+AT2G34770 ortho_group3857_cds other metabolic processes
+AT2G34790 ortho_group4942_cds cell organization and biogenesis
+AT2G34790 ortho_group4942_cds cell wall
+AT2G34790 ortho_group4942_cds developmental processes
+AT2G34790 ortho_group4942_cds other binding
+AT2G34790 ortho_group4942_cds other cellular components
+AT2G34790 ortho_group4942_cds other cellular processes
+AT2G34790 ortho_group4942_cds other enzyme activity
+AT2G34790 ortho_group4942_cds other molecular functions
+AT2G34840 ortho_group5047_cds cytosol
+AT2G34840 ortho_group5047_cds other binding
+AT2G34840 ortho_group5047_cds other cellular processes
+AT2G34840 ortho_group5047_cds structural molecule activity
+AT2G34840 ortho_group5047_cds transport
+AT2G34840 ortho_group5047_cds transporter activity
+AT2G35040 ortho_group4173_cds chloroplast
+AT2G35040 ortho_group4173_cds hydrolase activity
+AT2G35040 ortho_group4173_cds other cellular processes
+AT2G35040 ortho_group4173_cds other cytoplasmic components
+AT2G35040 ortho_group4173_cds other enzyme activity
+AT2G35040 ortho_group4173_cds other intracellular components
+AT2G35040 ortho_group4173_cds other metabolic processes
+AT2G35040 ortho_group4173_cds plastid
+AT2G35040 ortho_group4173_cds response to abiotic or biotic stimulus
+AT2G35040 ortho_group4173_cds response to stress
+AT2G35040 ortho_group4173_cds transferase activity
+AT2G35120 ortho_group3575_cds mitochondria
+AT2G35120 ortho_group3575_cds nucleotide binding
+AT2G35120 ortho_group3575_cds other cellular processes
+AT2G35120 ortho_group3575_cds other cytoplasmic components
+AT2G35120 ortho_group3575_cds other enzyme activity
+AT2G35120 ortho_group3575_cds other intracellular components
+AT2G35120 ortho_group3575_cds other metabolic processes
+AT2G35190 ortho_group2682_cds other cellular processes
+AT2G35190 ortho_group2682_cds other cytoplasmic components
+AT2G35190 ortho_group2682_cds other intracellular components
+AT2G35190 ortho_group2682_cds plasma membrane
+AT2G35190 ortho_group2682_cds protein binding
+AT2G35190 ortho_group2682_cds transporter activity
+AT2G35360 ortho_group2980_cds unknown molecular functions
+AT2G35410 ortho_group2923_cds chloroplast
+AT2G35410 ortho_group2923_cds DNA or RNA binding
+AT2G35410 ortho_group2923_cds nucleic acid binding
+AT2G35410 ortho_group2923_cds nucleotide binding
+AT2G35410 ortho_group2923_cds other cytoplasmic components
+AT2G35410 ortho_group2923_cds other intracellular components
+AT2G35410 ortho_group2923_cds plastid
+AT2G35450 ortho_group2638_cds chloroplast
+AT2G35450 ortho_group2638_cds hydrolase activity
+AT2G35450 ortho_group2638_cds other enzyme activity
+AT2G35450 ortho_group2638_cds other metabolic processes
+AT2G35550 ortho_group2943_cds DNA or RNA binding
+AT2G35550 ortho_group2943_cds nucleus
+AT2G35550 ortho_group2943_cds other cellular processes
+AT2G35550 ortho_group2943_cds other metabolic processes
+AT2G35550 ortho_group2943_cds transcription factor activity
+AT2G35720 ortho_group4343_cds developmental processes
+AT2G35720 ortho_group4343_cds other cellular processes
+AT2G35720 ortho_group4343_cds other metabolic processes
+AT2G35720 ortho_group4343_cds protein binding
+AT2G35720 ortho_group4343_cds protein metabolism
+AT2G35720 ortho_group4343_cds response to abiotic or biotic stimulus
+AT2G35760 ortho_group3622_cds unknown biological processes
+AT2G35760 ortho_group3622_cds unknown cellular components
+AT2G35760 ortho_group3622_cds unknown molecular functions
+AT2G35790 ortho_group5293_cds unknown biological processes
+AT2G35790 ortho_group5293_cds unknown molecular functions
+AT2G36060 ortho_group4718_cds cytosol
+AT2G36060 ortho_group4718_cds DNA or RNA metabolism
+AT2G36060 ortho_group4718_cds other cellular processes
+AT2G36060 ortho_group4718_cds other enzyme activity
+AT2G36060 ortho_group4718_cds other intracellular components
+AT2G36060 ortho_group4718_cds protein binding
+AT2G36060 ortho_group4718_cds response to stress
+AT2G36070 ortho_group4309_cds cell organization and biogenesis
+AT2G36070 ortho_group4309_cds hydrolase activity
+AT2G36070 ortho_group4309_cds mitochondria
+AT2G36070 ortho_group4309_cds other cellular processes
+AT2G36070 ortho_group4309_cds other cytoplasmic components
+AT2G36070 ortho_group4309_cds other intracellular components
+AT2G36070 ortho_group4309_cds other membranes
+AT2G36070 ortho_group4309_cds transport
+AT2G36070 ortho_group4309_cds transporter activity
+AT2G36130 ortho_group4972_cds cytosol
+AT2G36130 ortho_group4972_cds other cellular processes
+AT2G36130 ortho_group4972_cds other enzyme activity
+AT2G36130 ortho_group4972_cds other metabolic processes
+AT2G36130 ortho_group4972_cds protein metabolism
+AT2G36145 ortho_group5078_cds chloroplast
+AT2G36145 ortho_group5078_cds other cytoplasmic components
+AT2G36145 ortho_group5078_cds other intracellular components
+AT2G36145 ortho_group5078_cds other membranes
+AT2G36145 ortho_group5078_cds plastid
+AT2G36145 ortho_group5078_cds unknown biological processes
+AT2G36145 ortho_group5078_cds unknown molecular functions
+AT2G36310 ortho_group5177_cds cytosol
+AT2G36310 ortho_group5177_cds hydrolase activity
+AT2G36310 ortho_group5177_cds other cellular processes
+AT2G36310 ortho_group5177_cds other metabolic processes
+AT2G36355 ortho_group5212_cds unknown biological processes
+AT2G36355 ortho_group5212_cds unknown cellular components
+AT2G36355 ortho_group5212_cds unknown molecular functions
+AT2G36410 ortho_group2727_cds plasma membrane
+AT2G36490 ortho_group3374_cds DNA or RNA metabolism
+AT2G36490 ortho_group3374_cds hydrolase activity
+AT2G36490 ortho_group3374_cds nucleus
+AT2G36490 ortho_group3374_cds other cellular processes
+AT2G36490 ortho_group3374_cds other enzyme activity
+AT2G36490 ortho_group3374_cds other metabolic processes
+AT2G36490 ortho_group3374_cds protein binding
+AT2G36490 ortho_group3374_cds response to stress
+AT2G36580 ortho_group4511_cds cytosol
+AT2G36580 ortho_group4511_cds electron transport or energy pathways
+AT2G36580 ortho_group4511_cds kinase activity
+AT2G36580 ortho_group4511_cds other binding
+AT2G36580 ortho_group4511_cds other cellular processes
+AT2G36580 ortho_group4511_cds other enzyme activity
+AT2G36580 ortho_group4511_cds other metabolic processes
+AT2G36580 ortho_group4511_cds plasma membrane
+AT2G36580 ortho_group4511_cds transferase activity
+AT2G36620 ortho_group3603_cds chloroplast
+AT2G36620 ortho_group3603_cds cytosol
+AT2G36620 ortho_group3603_cds other cellular processes
+AT2G36620 ortho_group3603_cds other cytoplasmic components
+AT2G36620 ortho_group3603_cds other intracellular components
+AT2G36620 ortho_group3603_cds other membranes
+AT2G36620 ortho_group3603_cds other metabolic processes
+AT2G36620 ortho_group3603_cds plasma membrane
+AT2G36620 ortho_group3603_cds protein metabolism
+AT2G36620 ortho_group3603_cds ribosome
+AT2G36620 ortho_group3603_cds structural molecule activity
+AT2G36630 ortho_group4997_cds other cellular processes
+AT2G36630 ortho_group4997_cds other metabolic processes
+AT2G36630 ortho_group4997_cds protein metabolism
+AT2G36835 ortho_group4066_cds chloroplast
+AT2G36835 ortho_group4066_cds other cytoplasmic components
+AT2G36835 ortho_group4066_cds other intracellular components
+AT2G36835 ortho_group4066_cds plastid
+AT2G36835 ortho_group4066_cds unknown biological processes
+AT2G36835 ortho_group4066_cds unknown molecular functions
+AT2G36840 ortho_group3221_cds other binding
+AT2G36840 ortho_group3221_cds other metabolic processes
+AT2G36840 ortho_group3221_cds unknown cellular components
+AT2G36850 ortho_group3218_cds developmental processes
+AT2G36850 ortho_group3218_cds other biological processes
+AT2G36850 ortho_group3218_cds other cellular components
+AT2G36850 ortho_group3218_cds other cellular processes
+AT2G36850 ortho_group3218_cds other membranes
+AT2G36850 ortho_group3218_cds other metabolic processes
+AT2G36850 ortho_group3218_cds plasma membrane
+AT2G36850 ortho_group3218_cds transferase activity
+AT2G36910 ortho_group2840_cds cell organization and biogenesis
+AT2G36910 ortho_group2840_cds developmental processes
+AT2G36910 ortho_group2840_cds hydrolase activity
+AT2G36910 ortho_group2840_cds other biological processes
+AT2G36910 ortho_group2840_cds other cellular components
+AT2G36910 ortho_group2840_cds other cellular processes
+AT2G36910 ortho_group2840_cds other membranes
+AT2G36910 ortho_group2840_cds other metabolic processes
+AT2G36910 ortho_group2840_cds plasma membrane
+AT2G36910 ortho_group2840_cds protein binding
+AT2G36910 ortho_group2840_cds response to abiotic or biotic stimulus
+AT2G36910 ortho_group2840_cds transport
+AT2G36910 ortho_group2840_cds transporter activity
+AT2G36990 ortho_group3718_cds chloroplast
+AT2G36990 ortho_group3718_cds developmental processes
+AT2G36990 ortho_group3718_cds DNA or RNA binding
+AT2G36990 ortho_group3718_cds other cellular processes
+AT2G36990 ortho_group3718_cds other metabolic processes
+AT2G36990 ortho_group3718_cds other molecular functions
+AT2G36990 ortho_group3718_cds plastid
+AT2G36990 ortho_group3718_cds transcription factor activity
+AT2G36990 ortho_group3718_cds transferase activity
+AT2G37060 ortho_group5245_cds other cellular processes
+AT2G37060 ortho_group5245_cds other metabolic processes
+AT2G37060 ortho_group5245_cds transcription factor activity
+AT2G37170 ortho_group3044_cds chloroplast
+AT2G37170 ortho_group3044_cds other biological processes
+AT2G37170 ortho_group3044_cds other cellular components
+AT2G37170 ortho_group3044_cds other membranes
+AT2G37170 ortho_group3044_cds plasma membrane
+AT2G37170 ortho_group3044_cds response to abiotic or biotic stimulus
+AT2G37170 ortho_group3044_cds response to stress
+AT2G37170 ortho_group3044_cds transport
+AT2G37170 ortho_group3044_cds transporter activity
+AT2G37195 ortho_group3263_cds other cellular components
+AT2G37195 ortho_group3263_cds unknown biological processes
+AT2G37195 ortho_group3263_cds unknown molecular functions
+AT2G37210 ortho_group5174_cds cytosol
+AT2G37210 ortho_group5174_cds nucleus
+AT2G37210 ortho_group5174_cds unknown biological processes
+AT2G37210 ortho_group5174_cds unknown molecular functions
+AT2G37240 ortho_group3985_cds chloroplast
+AT2G37240 ortho_group3985_cds other enzyme activity
+AT2G37240 ortho_group3985_cds other molecular functions
+AT2G37240 ortho_group3985_cds unknown biological processes
+AT2G37250 ortho_group4214_cds chloroplast
+AT2G37250 ortho_group4214_cds developmental processes
+AT2G37250 ortho_group4214_cds kinase activity
+AT2G37250 ortho_group4214_cds nucleus
+AT2G37250 ortho_group4214_cds other cellular processes
+AT2G37250 ortho_group4214_cds other cytoplasmic components
+AT2G37250 ortho_group4214_cds other intracellular components
+AT2G37250 ortho_group4214_cds other metabolic processes
+AT2G37250 ortho_group4214_cds plastid
+AT2G37250 ortho_group4214_cds transferase activity
+AT2G37460 ortho_group4962_cds other membranes
+AT2G37520 ortho_group4354_cds DNA or RNA binding
+AT2G37520 ortho_group4354_cds nucleus
+AT2G37520 ortho_group4354_cds other binding
+AT2G37520 ortho_group4354_cds other cellular processes
+AT2G37520 ortho_group4354_cds other metabolic processes
+AT2G37580 ortho_group5416_cds other binding
+AT2G37580 ortho_group5416_cds transferase activity
+AT2G37600 ortho_group3781_cds cytosol
+AT2G37600 ortho_group3781_cds other cellular processes
+AT2G37600 ortho_group3781_cds other cytoplasmic components
+AT2G37600 ortho_group3781_cds other intracellular components
+AT2G37600 ortho_group3781_cds other metabolic processes
+AT2G37600 ortho_group3781_cds protein metabolism
+AT2G37600 ortho_group3781_cds ribosome
+AT2G37600 ortho_group3781_cds structural molecule activity
+AT2G37660 ortho_group2642_cds chloroplast
+AT2G37660 ortho_group2642_cds extracellular
+AT2G37660 ortho_group2642_cds other binding
+AT2G37660 ortho_group2642_cds other cytoplasmic components
+AT2G37660 ortho_group2642_cds other intracellular components
+AT2G37660 ortho_group2642_cds plastid
+AT2G37660 ortho_group2642_cds response to abiotic or biotic stimulus
+AT2G37660 ortho_group2642_cds response to stress
+AT2G37770 ortho_group4118_cds chloroplast
+AT2G37770 ortho_group4118_cds nucleotide binding
+AT2G37770 ortho_group4118_cds other binding
+AT2G37770 ortho_group4118_cds other enzyme activity
+AT2G37770 ortho_group4118_cds other metabolic processes
+AT2G37770 ortho_group4118_cds response to abiotic or biotic stimulus
+AT2G37770 ortho_group4118_cds response to stress
+AT2G37900 ortho_group4003_cds other membranes
+AT2G37900 ortho_group4003_cds transport
+AT2G37900 ortho_group4003_cds transporter activity
+AT2G37940 ortho_group3582_cds Golgi apparatus
+AT2G37940 ortho_group3582_cds other cellular processes
+AT2G37940 ortho_group3582_cds other cytoplasmic components
+AT2G37940 ortho_group3582_cds other intracellular components
+AT2G37940 ortho_group3582_cds other metabolic processes
+AT2G37940 ortho_group3582_cds transferase activity
+AT2G38120 ortho_group5462_cds developmental processes
+AT2G38120 ortho_group5462_cds Golgi apparatus
+AT2G38120 ortho_group5462_cds other binding
+AT2G38120 ortho_group5462_cds other biological processes
+AT2G38120 ortho_group5462_cds other cellular components
+AT2G38120 ortho_group5462_cds other cellular processes
+AT2G38120 ortho_group5462_cds other cytoplasmic components
+AT2G38120 ortho_group5462_cds other intracellular components
+AT2G38120 ortho_group5462_cds other membranes
+AT2G38120 ortho_group5462_cds plasma membrane
+AT2G38120 ortho_group5462_cds response to abiotic or biotic stimulus
+AT2G38120 ortho_group5462_cds transport
+AT2G38120 ortho_group5462_cds transporter activity
+AT2G38130 ortho_group4528_cds other cytoplasmic components
+AT2G38130 ortho_group4528_cds other metabolic processes
+AT2G38130 ortho_group4528_cds transferase activity
+AT2G38270 ortho_group4775_cds chloroplast
+AT2G38270 ortho_group4775_cds other cytoplasmic components
+AT2G38270 ortho_group4775_cds other enzyme activity
+AT2G38270 ortho_group4775_cds other intracellular components
+AT2G38270 ortho_group4775_cds other molecular functions
+AT2G38270 ortho_group4775_cds plastid
+AT2G38270 ortho_group4775_cds transport
+AT2G38320 ortho_group3192_cds Golgi apparatus
+AT2G38320 ortho_group3192_cds unknown biological processes
+AT2G38330 ortho_group5118_cds chloroplast
+AT2G38330 ortho_group5118_cds other cellular processes
+AT2G38330 ortho_group5118_cds other membranes
+AT2G38330 ortho_group5118_cds transport
+AT2G38330 ortho_group5118_cds transporter activity
+AT2G38400 ortho_group4526_cds other binding
+AT2G38400 ortho_group4526_cds other enzyme activity
+AT2G38400 ortho_group4526_cds transferase activity
+AT2G38410 ortho_group3517_cds Golgi apparatus
+AT2G38410 ortho_group3517_cds other cellular processes
+AT2G38410 ortho_group3517_cds other cytoplasmic components
+AT2G38410 ortho_group3517_cds other intracellular components
+AT2G38410 ortho_group3517_cds plasma membrane
+AT2G38410 ortho_group3517_cds transport
+AT2G38410 ortho_group3517_cds transporter activity
+AT2G38450 ortho_group3435_cds unknown biological processes
+AT2G38530 ortho_group3022_cds cell organization and biogenesis
+AT2G38530 ortho_group3022_cds other binding
+AT2G38530 ortho_group3022_cds other cellular processes
+AT2G38530 ortho_group3022_cds plasma membrane
+AT2G38530 ortho_group3022_cds response to abiotic or biotic stimulus
+AT2G38530 ortho_group3022_cds response to stress
+AT2G38530 ortho_group3022_cds transport
+AT2G38660 ortho_group3439_cds other binding
+AT2G38660 ortho_group3439_cds other cellular processes
+AT2G38660 ortho_group3439_cds other enzyme activity
+AT2G38660 ortho_group3439_cds other metabolic processes
+AT2G38680 ortho_group5017_cds cytosol
+AT2G38680 ortho_group5017_cds hydrolase activity
+AT2G38680 ortho_group5017_cds other binding
+AT2G38680 ortho_group5017_cds unknown biological processes
+AT2G38695 ortho_group4468_cds other membranes
+AT2G38730 ortho_group5023_cds cytosol
+AT2G38730 ortho_group5023_cds other cellular processes
+AT2G38730 ortho_group5023_cds other cytoplasmic components
+AT2G38730 ortho_group5023_cds other enzyme activity
+AT2G38730 ortho_group5023_cds other intracellular components
+AT2G38730 ortho_group5023_cds other metabolic processes
+AT2G38730 ortho_group5023_cds plasma membrane
+AT2G38730 ortho_group5023_cds protein metabolism
+AT2G38740 ortho_group5500_cds cytosol
+AT2G38740 ortho_group5500_cds hydrolase activity
+AT2G38740 ortho_group5500_cds other enzyme activity
+AT2G38740 ortho_group5500_cds other metabolic processes
+AT2G38740 ortho_group5500_cds plasma membrane
+AT2G38880 ortho_group5189_cds nucleus
+AT2G38880 ortho_group5189_cds other cellular processes
+AT2G38880 ortho_group5189_cds other intracellular components
+AT2G38880 ortho_group5189_cds other metabolic processes
+AT2G38880 ortho_group5189_cds protein binding
+AT2G38880 ortho_group5189_cds response to abiotic or biotic stimulus
+AT2G38880 ortho_group5189_cds response to stress
+AT2G38880 ortho_group5189_cds transcription factor activity
+AT2G39000 ortho_group4219_cds chloroplast
+AT2G39000 ortho_group4219_cds other metabolic processes
+AT2G39000 ortho_group4219_cds transferase activity
+AT2G39050 ortho_group5402_cds nucleus
+AT2G39050 ortho_group5402_cds other binding
+AT2G39050 ortho_group5402_cds other cytoplasmic components
+AT2G39050 ortho_group5402_cds unknown biological processes
+AT2G39130 ortho_group4961_cds other cytoplasmic components
+AT2G39130 ortho_group4961_cds other intracellular components
+AT2G39130 ortho_group4961_cds other membranes
+AT2G39130 ortho_group4961_cds transporter activity
+AT2G39130 ortho_group4961_cds unknown biological processes
+AT2G39140 ortho_group5383_cds cell organization and biogenesis
+AT2G39140 ortho_group5383_cds chloroplast
+AT2G39140 ortho_group5383_cds DNA or RNA binding
+AT2G39140 ortho_group5383_cds other cellular processes
+AT2G39140 ortho_group5383_cds other enzyme activity
+AT2G39140 ortho_group5383_cds other metabolic processes
+AT2G39140 ortho_group5383_cds plastid
+AT2G39140 ortho_group5383_cds protein metabolism
+AT2G39290 ortho_group3415_cds chloroplast
+AT2G39290 ortho_group3415_cds mitochondria
+AT2G39290 ortho_group3415_cds other cellular processes
+AT2G39290 ortho_group3415_cds other cytoplasmic components
+AT2G39290 ortho_group3415_cds other intracellular components
+AT2G39290 ortho_group3415_cds other metabolic processes
+AT2G39290 ortho_group3415_cds plastid
+AT2G39290 ortho_group3415_cds transferase activity
+AT2G39390 ortho_group4876_cds cytosol
+AT2G39390 ortho_group4876_cds other cellular processes
+AT2G39390 ortho_group4876_cds other cytoplasmic components
+AT2G39390 ortho_group4876_cds other intracellular components
+AT2G39390 ortho_group4876_cds other metabolic processes
+AT2G39390 ortho_group4876_cds protein metabolism
+AT2G39390 ortho_group4876_cds ribosome
+AT2G39390 ortho_group4876_cds structural molecule activity
+AT2G39400 ortho_group3069_cds hydrolase activity
+AT2G39420 ortho_group3069_cds other enzyme activity
+AT2G39460 ortho_group4119_cds cell wall
+AT2G39460 ortho_group4119_cds cytosol
+AT2G39460 ortho_group4119_cds DNA or RNA binding
+AT2G39460 ortho_group4119_cds nucleotide binding
+AT2G39460 ortho_group4119_cds nucleus
+AT2G39460 ortho_group4119_cds other cellular components
+AT2G39460 ortho_group4119_cds other cellular processes
+AT2G39460 ortho_group4119_cds other cytoplasmic components
+AT2G39460 ortho_group4119_cds other intracellular components
+AT2G39460 ortho_group4119_cds other metabolic processes
+AT2G39460 ortho_group4119_cds protein metabolism
+AT2G39460 ortho_group4119_cds response to abiotic or biotic stimulus
+AT2G39460 ortho_group4119_cds response to stress
+AT2G39460 ortho_group4119_cds ribosome
+AT2G39460 ortho_group4119_cds structural molecule activity
+AT2G39510 ortho_group4962_cds other cellular components
+AT2G39510 ortho_group4962_cds other membranes
+AT2G39510 ortho_group4962_cds unknown biological processes
+AT2G39510 ortho_group4962_cds unknown molecular functions
+AT2G39550 ortho_group2774_cds other biological processes
+AT2G39550 ortho_group2774_cds other cellular processes
+AT2G39550 ortho_group2774_cds other intracellular components
+AT2G39550 ortho_group2774_cds other metabolic processes
+AT2G39550 ortho_group2774_cds protein binding
+AT2G39550 ortho_group2774_cds protein metabolism
+AT2G39550 ortho_group2774_cds response to abiotic or biotic stimulus
+AT2G39550 ortho_group2774_cds response to stress
+AT2G39550 ortho_group2774_cds signal transduction
+AT2G39550 ortho_group2774_cds transferase activity
+AT2G39630 ortho_group3613_cds ER
+AT2G39630 ortho_group3613_cds other cellular processes
+AT2G39630 ortho_group3613_cds other metabolic processes
+AT2G39630 ortho_group3613_cds protein metabolism
+AT2G39630 ortho_group3613_cds transferase activity
+AT2G39730 ortho_group3070_cds cell wall
+AT2G39730 ortho_group3070_cds chloroplast
+AT2G39730 ortho_group3070_cds developmental processes
+AT2G39730 ortho_group3070_cds extracellular
+AT2G39730 ortho_group3070_cds nucleotide binding
+AT2G39730 ortho_group3070_cds nucleus
+AT2G39730 ortho_group3070_cds other biological processes
+AT2G39730 ortho_group3070_cds other cytoplasmic components
+AT2G39730 ortho_group3070_cds other intracellular components
+AT2G39730 ortho_group3070_cds other membranes
+AT2G39730 ortho_group3070_cds other molecular functions
+AT2G39730 ortho_group3070_cds plastid
+AT2G39730 ortho_group3070_cds response to abiotic or biotic stimulus
+AT2G39730 ortho_group3070_cds response to stress
+AT2G39750 ortho_group3755_cds unknown biological processes
+AT2G39780 ortho_group3892_cds ER
+AT2G39780 ortho_group3892_cds hydrolase activity
+AT2G39780 ortho_group3892_cds other biological processes
+AT2G39780 ortho_group3892_cds other cellular processes
+AT2G39780 ortho_group3892_cds other cytoplasmic components
+AT2G39780 ortho_group3892_cds other intracellular components
+AT2G39780 ortho_group3892_cds other metabolic processes
+AT2G39805 ortho_group4428_cds other membranes
+AT2G39805 ortho_group4428_cds unknown biological processes
+AT2G39805 ortho_group4428_cds unknown molecular functions
+AT2G39840 ortho_group4765_cds hydrolase activity
+AT2G39840 ortho_group4765_cds other cellular processes
+AT2G39840 ortho_group4765_cds other cytoplasmic components
+AT2G39840 ortho_group4765_cds other intracellular components
+AT2G39840 ortho_group4765_cds other metabolic processes
+AT2G39840 ortho_group4765_cds protein metabolism
+AT2G39930 ortho_group3060_cds chloroplast
+AT2G39930 ortho_group3060_cds hydrolase activity
+AT2G39930 ortho_group3060_cds other cellular processes
+AT2G39930 ortho_group3060_cds other cytoplasmic components
+AT2G39930 ortho_group3060_cds other enzyme activity
+AT2G39930 ortho_group3060_cds other intracellular components
+AT2G39930 ortho_group3060_cds other metabolic processes
+AT2G39930 ortho_group3060_cds plastid
+AT2G39970 ortho_group2845_cds cell organization and biogenesis
+AT2G39970 ortho_group2845_cds mitochondria
+AT2G39970 ortho_group2845_cds other binding
+AT2G39970 ortho_group2845_cds other cytoplasmic components
+AT2G39970 ortho_group2845_cds other intracellular components
+AT2G39970 ortho_group2845_cds other membranes
+AT2G39970 ortho_group2845_cds transport
+AT2G39990 ortho_group3796_cds cytosol
+AT2G39990 ortho_group3796_cds developmental processes
+AT2G39990 ortho_group3796_cds DNA or RNA binding
+AT2G39990 ortho_group3796_cds nucleus
+AT2G39990 ortho_group3796_cds other biological processes
+AT2G39990 ortho_group3796_cds other cellular processes
+AT2G39990 ortho_group3796_cds other cytoplasmic components
+AT2G39990 ortho_group3796_cds other intracellular components
+AT2G39990 ortho_group3796_cds other membranes
+AT2G39990 ortho_group3796_cds other metabolic processes
+AT2G39990 ortho_group3796_cds protein metabolism
+AT2G40110 ortho_group2950_cds unknown biological processes
+AT2G40110 ortho_group2950_cds unknown cellular components
+AT2G40110 ortho_group2950_cds unknown molecular functions
+AT2G40300 ortho_group5111_cds chloroplast
+AT2G40300 ortho_group5111_cds developmental processes
+AT2G40300 ortho_group5111_cds mitochondria
+AT2G40300 ortho_group5111_cds other binding
+AT2G40300 ortho_group5111_cds other biological processes
+AT2G40300 ortho_group5111_cds other cellular processes
+AT2G40300 ortho_group5111_cds other cytoplasmic components
+AT2G40300 ortho_group5111_cds other enzyme activity
+AT2G40300 ortho_group5111_cds other intracellular components
+AT2G40300 ortho_group5111_cds other metabolic processes
+AT2G40300 ortho_group5111_cds plastid
+AT2G40300 ortho_group5111_cds response to stress
+AT2G40300 ortho_group5111_cds transport
+AT2G40320 ortho_group4000_cds unknown biological processes
+AT2G40430 ortho_group4258_cds unknown biological processes
+AT2G40430 ortho_group4258_cds unknown cellular components
+AT2G40430 ortho_group4258_cds unknown molecular functions
+AT2G40600 ortho_group4395_cds cytosol
+AT2G40600 ortho_group4395_cds unknown biological processes
+AT2G40600 ortho_group4395_cds unknown molecular functions
+AT2G40660 ortho_group4808_cds cytosol
+AT2G40660 ortho_group4808_cds DNA or RNA binding
+AT2G40660 ortho_group4808_cds other cellular components
+AT2G40660 ortho_group4808_cds other cellular processes
+AT2G40660 ortho_group4808_cds other metabolic processes
+AT2G40660 ortho_group4808_cds protein metabolism
+AT2G40740 ortho_group4557_cds other cellular processes
+AT2G40740 ortho_group4557_cds other metabolic processes
+AT2G40740 ortho_group4557_cds transcription factor activity
+AT2G40780 ortho_group4277_cds DNA or RNA binding
+AT2G40780 ortho_group4277_cds other cellular processes
+AT2G40780 ortho_group4277_cds other metabolic processes
+AT2G40780 ortho_group4277_cds protein metabolism
+AT2G40780 ortho_group4277_cds unknown cellular components
+AT2G40810 ortho_group4251_cds other binding
+AT2G40810 ortho_group4251_cds other cellular processes
+AT2G40810 ortho_group4251_cds other membranes
+AT2G40810 ortho_group4251_cds other metabolic processes
+AT2G40810 ortho_group4251_cds response to stress
+AT2G40810 ortho_group4251_cds unknown biological processes
+AT2G40810 ortho_group4251_cds unknown molecular functions
+AT2G40840 ortho_group5124_cds cytosol
+AT2G40840 ortho_group5124_cds other binding
+AT2G40840 ortho_group5124_cds other cellular processes
+AT2G40840 ortho_group5124_cds other enzyme activity
+AT2G40840 ortho_group5124_cds other metabolic processes
+AT2G40840 ortho_group5124_cds transferase activity
+AT2G40935 ortho_group5595_cds mitochondria
+AT2G40935 ortho_group5595_cds unknown biological processes
+AT2G40935 ortho_group5595_cds unknown molecular functions
+AT2G41040 ortho_group2746_cds chloroplast
+AT2G41040 ortho_group2746_cds other cytoplasmic components
+AT2G41040 ortho_group2746_cds other intracellular components
+AT2G41040 ortho_group2746_cds plastid
+AT2G41040 ortho_group2746_cds response to abiotic or biotic stimulus
+AT2G41040 ortho_group2746_cds transferase activity
+AT2G41080 ortho_group3757_cds unknown biological processes
+AT2G41080 ortho_group3757_cds unknown cellular components
+AT2G41080 ortho_group3757_cds unknown molecular functions
+AT2G41120 ortho_group4574_cds chloroplast
+AT2G41120 ortho_group4574_cds unknown biological processes
+AT2G41310 ortho_group5499_cds nucleus
+AT2G41310 ortho_group5499_cds other biological processes
+AT2G41310 ortho_group5499_cds other cellular processes
+AT2G41310 ortho_group5499_cds other metabolic processes
+AT2G41310 ortho_group5499_cds other molecular functions
+AT2G41310 ortho_group5499_cds protein binding
+AT2G41310 ortho_group5499_cds signal transduction
+AT2G41340 ortho_group3701_cds DNA or RNA binding
+AT2G41340 ortho_group3701_cds nucleus
+AT2G41340 ortho_group3701_cds other cellular processes
+AT2G41340 ortho_group3701_cds other metabolic processes
+AT2G41340 ortho_group3701_cds transferase activity
+AT2G41350 ortho_group4980_cds other intracellular components
+AT2G41350 ortho_group4980_cds unknown biological processes
+AT2G41350 ortho_group4980_cds unknown molecular functions
+AT2G41430 ortho_group5320_cds other cytoplasmic components
+AT2G41430 ortho_group5320_cds protein binding
+AT2G41430 ortho_group5320_cds response to abiotic or biotic stimulus
+AT2G41430 ortho_group5320_cds response to stress
+AT2G41490 ortho_group4800_cds transferase activity
+AT2G41530 ortho_group3821_cds extracellular
+AT2G41530 ortho_group3821_cds hydrolase activity
+AT2G41530 ortho_group3821_cds other biological processes
+AT2G41540 ortho_group2755_cds cytosol
+AT2G41540 ortho_group2755_cds nucleotide binding
+AT2G41540 ortho_group2755_cds other binding
+AT2G41540 ortho_group2755_cds other cellular processes
+AT2G41540 ortho_group2755_cds other cytoplasmic components
+AT2G41540 ortho_group2755_cds other enzyme activity
+AT2G41540 ortho_group2755_cds other intracellular components
+AT2G41540 ortho_group2755_cds other metabolic processes
+AT2G41540 ortho_group2755_cds response to abiotic or biotic stimulus
+AT2G41540 ortho_group2755_cds response to stress
+AT2G41560 ortho_group5427_cds chloroplast
+AT2G41560 ortho_group5427_cds hydrolase activity
+AT2G41560 ortho_group5427_cds other biological processes
+AT2G41560 ortho_group5427_cds other cellular processes
+AT2G41560 ortho_group5427_cds other cytoplasmic components
+AT2G41560 ortho_group5427_cds other intracellular components
+AT2G41560 ortho_group5427_cds other membranes
+AT2G41560 ortho_group5427_cds protein binding
+AT2G41560 ortho_group5427_cds response to abiotic or biotic stimulus
+AT2G41560 ortho_group5427_cds response to stress
+AT2G41560 ortho_group5427_cds transporter activity
+AT2G41600 ortho_group2906_cds mitochondria
+AT2G41600 ortho_group2906_cds other cytoplasmic components
+AT2G41600 ortho_group2906_cds other intracellular components
+AT2G41600 ortho_group2906_cds unknown biological processes
+AT2G41600 ortho_group2906_cds unknown molecular functions
+AT2G41680 ortho_group3910_cds chloroplast
+AT2G41680 ortho_group3910_cds other cellular processes
+AT2G41680 ortho_group3910_cds other cytoplasmic components
+AT2G41680 ortho_group3910_cds other enzyme activity
+AT2G41680 ortho_group3910_cds other intracellular components
+AT2G41680 ortho_group3910_cds other metabolic processes
+AT2G41680 ortho_group3910_cds other molecular functions
+AT2G41680 ortho_group3910_cds plastid
+AT2G41680 ortho_group3910_cds protein binding
+AT2G41680 ortho_group3910_cds response to stress
+AT2G41740 ortho_group4428_cds cell organization and biogenesis
+AT2G41740 ortho_group4428_cds other cellular processes
+AT2G41740 ortho_group4428_cds protein binding
+AT2G41760 ortho_group2871_cds unknown biological processes
+AT2G41760 ortho_group2871_cds unknown cellular components
+AT2G41760 ortho_group2871_cds unknown molecular functions
+AT2G41830 ortho_group2898_cds plasma membrane
+AT2G41950 ortho_group4217_cds cell wall
+AT2G41950 ortho_group4217_cds chloroplast
+AT2G41950 ortho_group4217_cds other cytoplasmic components
+AT2G41950 ortho_group4217_cds other intracellular components
+AT2G41950 ortho_group4217_cds plastid
+AT2G41950 ortho_group4217_cds unknown biological processes
+AT2G41950 ortho_group4217_cds unknown molecular functions
+AT2G42080 ortho_group2668_cds other cellular processes
+AT2G42080 ortho_group2668_cds other metabolic processes
+AT2G42080 ortho_group2668_cds protein binding
+AT2G42080 ortho_group2668_cds protein metabolism
+AT2G42120 ortho_group3214_cds DNA or RNA binding
+AT2G42120 ortho_group3214_cds DNA or RNA metabolism
+AT2G42120 ortho_group3214_cds other cellular processes
+AT2G42120 ortho_group3214_cds other metabolic processes
+AT2G42120 ortho_group3214_cds transferase activity
+AT2G42210 ortho_group5206_cds chloroplast
+AT2G42210 ortho_group5206_cds mitochondria
+AT2G42210 ortho_group5206_cds other cytoplasmic components
+AT2G42210 ortho_group5206_cds other intracellular components
+AT2G42210 ortho_group5206_cds other membranes
+AT2G42210 ortho_group5206_cds plastid
+AT2G42210 ortho_group5206_cds transport
+AT2G42210 ortho_group5206_cds transporter activity
+AT2G42320 ortho_group2899_cds unknown biological processes
+AT2G42320 ortho_group2899_cds unknown cellular components
+AT2G42320 ortho_group2899_cds unknown molecular functions
+AT2G42390 ortho_group5167_cds other cellular components
+AT2G42390 ortho_group5167_cds unknown biological processes
+AT2G42390 ortho_group5167_cds unknown molecular functions
+AT2G42570 ortho_group4043_cds other cellular components
+AT2G42570 ortho_group4043_cds other cytoplasmic components
+AT2G42570 ortho_group4043_cds other intracellular components
+AT2G42570 ortho_group4043_cds unknown biological processes
+AT2G42590 ortho_group3544_cds chloroplast
+AT2G42590 ortho_group3544_cds cytosol
+AT2G42590 ortho_group3544_cds nucleus
+AT2G42590 ortho_group3544_cds other binding
+AT2G42590 ortho_group3544_cds other cytoplasmic components
+AT2G42590 ortho_group3544_cds other intracellular components
+AT2G42590 ortho_group3544_cds plasma membrane
+AT2G42590 ortho_group3544_cds plastid
+AT2G42590 ortho_group3544_cds protein binding
+AT2G42750 ortho_group4272_cds chloroplast
+AT2G42750 ortho_group4272_cds other cellular processes
+AT2G42750 ortho_group4272_cds other metabolic processes
+AT2G42750 ortho_group4272_cds protein binding
+AT2G42750 ortho_group4272_cds protein metabolism
+AT2G42780 ortho_group4925_cds other cellular processes
+AT2G42780 ortho_group4925_cds other metabolic processes
+AT2G42780 ortho_group4925_cds unknown molecular functions
+AT2G42910 ortho_group4037_cds cytosol
+AT2G42910 ortho_group4037_cds other binding
+AT2G42910 ortho_group4037_cds other cellular components
+AT2G42910 ortho_group4037_cds other cellular processes
+AT2G42910 ortho_group4037_cds other cytoplasmic components
+AT2G42910 ortho_group4037_cds other metabolic processes
+AT2G42910 ortho_group4037_cds plasma membrane
+AT2G42910 ortho_group4037_cds transferase activity
+AT2G42975 ortho_group4071_cds chloroplast
+AT2G42975 ortho_group4071_cds other cytoplasmic components
+AT2G42975 ortho_group4071_cds other intracellular components
+AT2G42975 ortho_group4071_cds other membranes
+AT2G42975 ortho_group4071_cds plastid
+AT2G42975 ortho_group4071_cds unknown biological processes
+AT2G42975 ortho_group4071_cds unknown molecular functions
+AT2G43070 ortho_group3499_cds hydrolase activity
+AT2G43070 ortho_group3499_cds other cytoplasmic components
+AT2G43070 ortho_group3499_cds other intracellular components
+AT2G43070 ortho_group3499_cds other membranes
+AT2G43070 ortho_group3499_cds protein metabolism
+AT2G43080 ortho_group5508_cds other cellular processes
+AT2G43080 ortho_group5508_cds other enzyme activity
+AT2G43080 ortho_group5508_cds other metabolic processes
+AT2G43080 ortho_group5508_cds protein metabolism
+AT2G43210 ortho_group2873_cds unknown biological processes
+AT2G43210 ortho_group2873_cds unknown cellular components
+AT2G43210 ortho_group2873_cds unknown molecular functions
+AT2G43290 ortho_group4068_cds other binding
+AT2G43290 ortho_group4068_cds unknown biological processes
+AT2G43320 ortho_group5251_cds unknown biological processes
+AT2G43320 ortho_group5251_cds unknown molecular functions
+AT2G43560 ortho_group2947_cds chloroplast
+AT2G43560 ortho_group2947_cds other binding
+AT2G43560 ortho_group2947_cds other cellular processes
+AT2G43560 ortho_group2947_cds other cytoplasmic components
+AT2G43560 ortho_group2947_cds other enzyme activity
+AT2G43560 ortho_group2947_cds other intracellular components
+AT2G43560 ortho_group2947_cds other membranes
+AT2G43560 ortho_group2947_cds other metabolic processes
+AT2G43560 ortho_group2947_cds plastid
+AT2G43560 ortho_group2947_cds protein metabolism
+AT2G43640 ortho_group4061_cds DNA or RNA binding
+AT2G43640 ortho_group4061_cds other binding
+AT2G43640 ortho_group4061_cds other cellular processes
+AT2G43640 ortho_group4061_cds other cytoplasmic components
+AT2G43640 ortho_group4061_cds other intracellular components
+AT2G43640 ortho_group4061_cds other metabolic processes
+AT2G43640 ortho_group4061_cds protein metabolism
+AT2G43640 ortho_group4061_cds transport
+AT2G43750 ortho_group3765_cds chloroplast
+AT2G43750 ortho_group3765_cds extracellular
+AT2G43750 ortho_group3765_cds mitochondria
+AT2G43750 ortho_group3765_cds other biological processes
+AT2G43750 ortho_group3765_cds other cellular processes
+AT2G43750 ortho_group3765_cds other cytoplasmic components
+AT2G43750 ortho_group3765_cds other enzyme activity
+AT2G43750 ortho_group3765_cds other intracellular components
+AT2G43750 ortho_group3765_cds other metabolic processes
+AT2G43750 ortho_group3765_cds plastid
+AT2G44040 ortho_group3562_cds chloroplast
+AT2G44040 ortho_group3562_cds other cellular processes
+AT2G44040 ortho_group3562_cds other cytoplasmic components
+AT2G44040 ortho_group3562_cds other enzyme activity
+AT2G44040 ortho_group3562_cds other intracellular components
+AT2G44040 ortho_group3562_cds other metabolic processes
+AT2G44040 ortho_group3562_cds plastid
+AT2G44100 ortho_group4553_cds cytosol
+AT2G44100 ortho_group4553_cds other cellular processes
+AT2G44100 ortho_group4553_cds other molecular functions
+AT2G44100 ortho_group4553_cds transport
+AT2G44120 ortho_group3519_cds chloroplast
+AT2G44120 ortho_group3519_cds cytosol
+AT2G44120 ortho_group3519_cds nucleus
+AT2G44120 ortho_group3519_cds other cellular components
+AT2G44120 ortho_group3519_cds other cellular processes
+AT2G44120 ortho_group3519_cds other cytoplasmic components
+AT2G44120 ortho_group3519_cds other intracellular components
+AT2G44120 ortho_group3519_cds other membranes
+AT2G44120 ortho_group3519_cds other metabolic processes
+AT2G44120 ortho_group3519_cds protein metabolism
+AT2G44120 ortho_group3519_cds ribosome
+AT2G44120 ortho_group3519_cds structural molecule activity
+AT2G44200 ortho_group5418_cds unknown biological processes
+AT2G44200 ortho_group5418_cds unknown molecular functions
+AT2G44360 ortho_group3421_cds unknown biological processes
+AT2G44360 ortho_group3421_cds unknown molecular functions
+AT2G44620 ortho_group3358_cds mitochondria
+AT2G44620 ortho_group3358_cds other binding
+AT2G44620 ortho_group3358_cds other cellular processes
+AT2G44620 ortho_group3358_cds other cytoplasmic components
+AT2G44620 ortho_group3358_cds other intracellular components
+AT2G44620 ortho_group3358_cds other metabolic processes
+AT2G44620 ortho_group3358_cds transporter activity
+AT2G44670 ortho_group4379_cds unknown biological processes
+AT2G44670 ortho_group4379_cds unknown cellular components
+AT2G44670 ortho_group4379_cds unknown molecular functions
+AT2G44740 ortho_group3594_cds kinase activity
+AT2G44740 ortho_group3594_cds other cellular processes
+AT2G44740 ortho_group3594_cds protein binding
+AT2G44740 ortho_group3594_cds transferase activity
+AT2G44860 ortho_group2828_cds cytosol
+AT2G44860 ortho_group2828_cds nucleus
+AT2G44860 ortho_group2828_cds other cellular processes
+AT2G44860 ortho_group2828_cds other cytoplasmic components
+AT2G44860 ortho_group2828_cds other intracellular components
+AT2G44860 ortho_group2828_cds other metabolic processes
+AT2G44860 ortho_group2828_cds protein metabolism
+AT2G44860 ortho_group2828_cds ribosome
+AT2G44860 ortho_group2828_cds structural molecule activity
+AT2G44890 ortho_group4499_cds other binding
+AT2G44890 ortho_group4499_cds other cellular components
+AT2G44890 ortho_group4499_cds other enzyme activity
+AT2G44890 ortho_group4499_cds other metabolic processes
+AT2G44890 ortho_group4499_cds other molecular functions
+AT2G45010 ortho_group4350_cds unknown biological processes
+AT2G45010 ortho_group4350_cds unknown cellular components
+AT2G45010 ortho_group4350_cds unknown molecular functions
+AT2G45060 ortho_group2741_cds mitochondria
+AT2G45060 ortho_group2741_cds unknown biological processes
+AT2G45060 ortho_group2741_cds unknown molecular functions
+AT2G45140 ortho_group3346_cds cytosol
+AT2G45140 ortho_group3346_cds ER
+AT2G45140 ortho_group3346_cds nucleus
+AT2G45140 ortho_group3346_cds other cellular processes
+AT2G45140 ortho_group3346_cds plasma membrane
+AT2G45140 ortho_group3346_cds protein binding
+AT2G45140 ortho_group3346_cds structural molecule activity
+AT2G45140 ortho_group3346_cds transport
+AT2G45180 ortho_group3094_cds chloroplast
+AT2G45180 ortho_group3094_cds other binding
+AT2G45180 ortho_group3094_cds other cytoplasmic components
+AT2G45180 ortho_group3094_cds other intracellular components
+AT2G45180 ortho_group3094_cds other membranes
+AT2G45180 ortho_group3094_cds plastid
+AT2G45180 ortho_group3094_cds transport
+AT2G45200 ortho_group4992_cds cell organization and biogenesis
+AT2G45200 ortho_group4992_cds cytosol
+AT2G45200 ortho_group4992_cds other biological processes
+AT2G45200 ortho_group4992_cds other cellular processes
+AT2G45200 ortho_group4992_cds other cytoplasmic components
+AT2G45200 ortho_group4992_cds other intracellular components
+AT2G45200 ortho_group4992_cds other membranes
+AT2G45200 ortho_group4992_cds protein binding
+AT2G45200 ortho_group4992_cds transport
+AT2G45250 ortho_group4976_cds mitochondria
+AT2G45250 ortho_group4976_cds unknown biological processes
+AT2G45250 ortho_group4976_cds unknown molecular functions
+AT2G45280 ortho_group4306_cds DNA or RNA binding
+AT2G45280 ortho_group4306_cds DNA or RNA metabolism
+AT2G45280 ortho_group4306_cds nucleotide binding
+AT2G45280 ortho_group4306_cds other cellular processes
+AT2G45280 ortho_group4306_cds other enzyme activity
+AT2G45280 ortho_group4306_cds protein binding
+AT2G45280 ortho_group4306_cds response to stress
+AT2G45280 ortho_group4306_cds unknown cellular components
+AT2G45400 ortho_group5573_cds other binding
+AT2G45400 ortho_group5573_cds other cellular processes
+AT2G45400 ortho_group5573_cds other cytoplasmic components
+AT2G45400 ortho_group5573_cds other enzyme activity
+AT2G45400 ortho_group5573_cds other metabolic processes
+AT2G45510 ortho_group4499_cds ER
+AT2G45510 ortho_group4499_cds other binding
+AT2G45510 ortho_group4499_cds other enzyme activity
+AT2G45510 ortho_group4499_cds other metabolic processes
+AT2G45510 ortho_group4499_cds other molecular functions
+AT2G45550 ortho_group5440_cds other binding
+AT2G45550 ortho_group5440_cds other enzyme activity
+AT2G45550 ortho_group5440_cds other metabolic processes
+AT2G45550 ortho_group5440_cds other molecular functions
+AT2G45570 ortho_group2760_cds other binding
+AT2G45570 ortho_group2760_cds other enzyme activity
+AT2G45570 ortho_group2760_cds other metabolic processes
+AT2G45570 ortho_group2760_cds other molecular functions
+AT2G45660 ortho_group4625_cds developmental processes
+AT2G45660 ortho_group4625_cds nucleus
+AT2G45660 ortho_group4625_cds other biological processes
+AT2G45660 ortho_group4625_cds other cellular processes
+AT2G45660 ortho_group4625_cds other cytoplasmic components
+AT2G45660 ortho_group4625_cds other metabolic processes
+AT2G45660 ortho_group4625_cds protein binding
+AT2G45660 ortho_group4625_cds response to abiotic or biotic stimulus
+AT2G45660 ortho_group4625_cds response to stress
+AT2G45660 ortho_group4625_cds transcription factor activity
+AT2G45660 ortho_group4625_cds transport
+AT2G45670 ortho_group4287_cds other binding
+AT2G45670 ortho_group4287_cds other metabolic processes
+AT2G45670 ortho_group4287_cds transferase activity
+AT2G45690 ortho_group4274_cds cell organization and biogenesis
+AT2G45690 ortho_group4274_cds ER
+AT2G45690 ortho_group4274_cds other cellular processes
+AT2G45690 ortho_group4274_cds other cytoplasmic components
+AT2G45690 ortho_group4274_cds other intracellular components
+AT2G45690 ortho_group4274_cds other membranes
+AT2G45690 ortho_group4274_cds other metabolic processes
+AT2G45690 ortho_group4274_cds unknown molecular functions
+AT2G45750 ortho_group4099_cds unknown biological processes
+AT2G45790 ortho_group2995_cds cytosol
+AT2G45790 ortho_group2995_cds other cellular processes
+AT2G45790 ortho_group2995_cds other cytoplasmic components
+AT2G45790 ortho_group2995_cds other enzyme activity
+AT2G45790 ortho_group2995_cds other metabolic processes
+AT2G45790 ortho_group2995_cds protein binding
+AT2G45790 ortho_group2995_cds response to abiotic or biotic stimulus
+AT2G45790 ortho_group2995_cds response to stress
+AT2G45800 ortho_group3886_cds cell organization and biogenesis
+AT2G45800 ortho_group3886_cds other cellular processes
+AT2G45800 ortho_group3886_cds other intracellular components
+AT2G45800 ortho_group3886_cds protein binding
+AT2G45950 ortho_group5247_cds other cellular processes
+AT2G45950 ortho_group5247_cds other enzyme activity
+AT2G45950 ortho_group5247_cds other intracellular components
+AT2G45950 ortho_group5247_cds other metabolic processes
+AT2G45950 ortho_group5247_cds protein metabolism
+AT2G45990 ortho_group4435_cds chloroplast
+AT2G45990 ortho_group4435_cds other cytoplasmic components
+AT2G45990 ortho_group4435_cds other intracellular components
+AT2G45990 ortho_group4435_cds plastid
+AT2G45990 ortho_group4435_cds unknown biological processes
+AT2G45990 ortho_group4435_cds unknown molecular functions
+AT2G46000 ortho_group4435_cds unknown biological processes
+AT2G46000 ortho_group4435_cds unknown molecular functions
+AT2G46030 ortho_group4774_cds other cellular processes
+AT2G46030 ortho_group4774_cds other enzyme activity
+AT2G46030 ortho_group4774_cds other metabolic processes
+AT2G46030 ortho_group4774_cds protein metabolism
+AT2G46100 ortho_group3377_cds chloroplast
+AT2G46100 ortho_group3377_cds unknown biological processes
+AT2G46100 ortho_group3377_cds unknown molecular functions
+AT2G46140 ortho_group3747_cds cytosol
+AT2G46140 ortho_group3747_cds developmental processes
+AT2G46140 ortho_group3747_cds plasma membrane
+AT2G46140 ortho_group3747_cds response to abiotic or biotic stimulus
+AT2G46140 ortho_group3747_cds response to stress
+AT2G46140 ortho_group3747_cds unknown molecular functions
+AT2G46170 ortho_group4978_cds ER
+AT2G46170 ortho_group4978_cds plasma membrane
+AT2G46170 ortho_group4978_cds response to abiotic or biotic stimulus
+AT2G46225 ortho_group4953_cds cell organization and biogenesis
+AT2G46225 ortho_group4953_cds developmental processes
+AT2G46225 ortho_group4953_cds other cellular processes
+AT2G46225 ortho_group4953_cds other cytoplasmic components
+AT2G46225 ortho_group4953_cds other intracellular components
+AT2G46225 ortho_group4953_cds protein binding
+AT2G46225 ortho_group4953_cds unknown molecular functions
+AT2G46230 ortho_group3220_cds unknown biological processes
+AT2G46230 ortho_group3220_cds unknown cellular components
+AT2G46230 ortho_group3220_cds unknown molecular functions
+AT2G46270 ortho_group2695_cds cytosol
+AT2G46270 ortho_group2695_cds DNA or RNA binding
+AT2G46270 ortho_group2695_cds other biological processes
+AT2G46270 ortho_group2695_cds transcription factor activity
+AT2G46560 ortho_group2988_cds nucleotide binding
+AT2G46560 ortho_group2988_cds other intracellular components
+AT2G46590 ortho_group5457_cds chloroplast
+AT2G46590 ortho_group5457_cds developmental processes
+AT2G46590 ortho_group5457_cds DNA or RNA binding
+AT2G46590 ortho_group5457_cds response to abiotic or biotic stimulus
+AT2G46590 ortho_group5457_cds response to stress
+AT2G46590 ortho_group5457_cds transcription factor activity
+AT2G46600 ortho_group3040_cds cell organization and biogenesis
+AT2G46600 ortho_group3040_cds developmental processes
+AT2G46600 ortho_group3040_cds other binding
+AT2G46600 ortho_group3040_cds other cellular processes
+AT2G46600 ortho_group3040_cds protein binding
+AT2G46680 ortho_group4361_cds nucleus
+AT2G46680 ortho_group4361_cds other biological processes
+AT2G46680 ortho_group4361_cds other cellular processes
+AT2G46680 ortho_group4361_cds other metabolic processes
+AT2G46680 ortho_group4361_cds response to abiotic or biotic stimulus
+AT2G46680 ortho_group4361_cds response to stress
+AT2G46680 ortho_group4361_cds signal transduction
+AT2G46680 ortho_group4361_cds transcription factor activity
+AT2G46690 ortho_group5436_cds other biological processes
+AT2G46690 ortho_group5436_cds unknown cellular components
+AT2G46690 ortho_group5436_cds unknown molecular functions
+AT2G46820 ortho_group3433_cds chloroplast
+AT2G46820 ortho_group3433_cds DNA or RNA binding
+AT2G46820 ortho_group3433_cds electron transport or energy pathways
+AT2G46820 ortho_group3433_cds other biological processes
+AT2G46820 ortho_group3433_cds other cellular processes
+AT2G46820 ortho_group3433_cds other cytoplasmic components
+AT2G46820 ortho_group3433_cds other intracellular components
+AT2G46820 ortho_group3433_cds other membranes
+AT2G46820 ortho_group3433_cds other metabolic processes
+AT2G46820 ortho_group3433_cds plastid
+AT2G46920 ortho_group3703_cds developmental processes
+AT2G46920 ortho_group3703_cds hydrolase activity
+AT2G46920 ortho_group3703_cds nucleus
+AT2G46920 ortho_group3703_cds other binding
+AT2G46920 ortho_group3703_cds other cellular processes
+AT2G46920 ortho_group3703_cds other metabolic processes
+AT2G46920 ortho_group3703_cds plasma membrane
+AT2G46920 ortho_group3703_cds protein metabolism
+AT2G47240 ortho_group5566_cds ER
+AT2G47240 ortho_group5566_cds other cellular processes
+AT2G47240 ortho_group5566_cds other enzyme activity
+AT2G47240 ortho_group5566_cds other metabolic processes
+AT2G47240 ortho_group5566_cds unknown cellular components
+AT2G47250 ortho_group2898_cds chloroplast
+AT2G47250 ortho_group2898_cds hydrolase activity
+AT2G47250 ortho_group2898_cds nucleic acid binding
+AT2G47250 ortho_group2898_cds nucleotide binding
+AT2G47250 ortho_group2898_cds other cytoplasmic components
+AT2G47250 ortho_group2898_cds other intracellular components
+AT2G47250 ortho_group2898_cds other membranes
+AT2G47250 ortho_group2898_cds plastid
+AT2G47390 ortho_group3003_cds chloroplast
+AT2G47390 ortho_group3003_cds hydrolase activity
+AT2G47390 ortho_group3003_cds other cytoplasmic components
+AT2G47390 ortho_group3003_cds other intracellular components
+AT2G47390 ortho_group3003_cds plastid
+AT2G47390 ortho_group3003_cds protein metabolism
+AT2G47470 ortho_group5115_cds cell wall
+AT2G47470 ortho_group5115_cds developmental processes
+AT2G47470 ortho_group5115_cds ER
+AT2G47470 ortho_group5115_cds other biological processes
+AT2G47470 ortho_group5115_cds other cellular processes
+AT2G47470 ortho_group5115_cds other cytoplasmic components
+AT2G47470 ortho_group5115_cds other enzyme activity
+AT2G47470 ortho_group5115_cds other intracellular components
+AT2G47470 ortho_group5115_cds other membranes
+AT2G47470 ortho_group5115_cds response to stress
+AT2G47500 ortho_group4686_cds hydrolase activity
+AT2G47500 ortho_group4686_cds nucleotide binding
+AT2G47500 ortho_group4686_cds other cellular processes
+AT2G47510 ortho_group3361_cds developmental processes
+AT2G47510 ortho_group3361_cds mitochondria
+AT2G47510 ortho_group3361_cds other enzyme activity
+AT2G47510 ortho_group3361_cds protein binding
+AT2G47510 ortho_group3361_cds response to abiotic or biotic stimulus
+AT2G47510 ortho_group3361_cds response to stress
+AT2G47580 ortho_group3030_cds cytosol
+AT2G47580 ortho_group3030_cds DNA or RNA binding
+AT2G47580 ortho_group3030_cds nucleic acid binding
+AT2G47580 ortho_group3030_cds nucleotide binding
+AT2G47580 ortho_group3030_cds nucleus
+AT2G47580 ortho_group3030_cds other cellular processes
+AT2G47580 ortho_group3030_cds other intracellular components
+AT2G47580 ortho_group3030_cds other metabolic processes
+AT2G47580 ortho_group3030_cds response to abiotic or biotic stimulus
+AT2G47580 ortho_group3030_cds response to stress
+AT2G47760 ortho_group4109_cds ER
+AT2G47760 ortho_group4109_cds other cellular processes
+AT2G47760 ortho_group4109_cds other enzyme activity
+AT2G47760 ortho_group4109_cds other metabolic processes
+AT2G47760 ortho_group4109_cds protein metabolism
+AT2G47760 ortho_group4109_cds transferase activity
+AT2G48120 ortho_group4368_cds cell organization and biogenesis
+AT2G48120 ortho_group4368_cds chloroplast
+AT2G48120 ortho_group4368_cds developmental processes
+AT2G48120 ortho_group4368_cds other cellular processes
+AT2G48120 ortho_group4368_cds other metabolic processes
+AT2G48120 ortho_group4368_cds plastid
+AT2G48120 ortho_group4368_cds unknown molecular functions
+AT2G48150 ortho_group3019_cds cytosol
+AT2G48150 ortho_group3019_cds other cellular processes
+AT2G48150 ortho_group3019_cds other enzyme activity
+AT2G48150 ortho_group3019_cds other metabolic processes
+AT2G48150 ortho_group3019_cds protein metabolism
+AT2G48150 ortho_group3019_cds response to stress
+AT3G01040 ortho_group4027_cds other metabolic processes
+AT3G01040 ortho_group4027_cds transferase activity
+AT3G01390 ortho_group4359_cds cytosol
+AT3G01390 ortho_group4359_cds other cellular processes
+AT3G01390 ortho_group4359_cds other cytoplasmic components
+AT3G01390 ortho_group4359_cds other intracellular components
+AT3G01390 ortho_group4359_cds other membranes
+AT3G01390 ortho_group4359_cds plasma membrane
+AT3G01390 ortho_group4359_cds transport
+AT3G01390 ortho_group4359_cds transporter activity
+AT3G01440 ortho_group5322_cds chloroplast
+AT3G01440 ortho_group5322_cds electron transport or energy pathways
+AT3G01440 ortho_group5322_cds other cellular components
+AT3G01440 ortho_group5322_cds other cellular processes
+AT3G01440 ortho_group5322_cds other cytoplasmic components
+AT3G01440 ortho_group5322_cds other intracellular components
+AT3G01440 ortho_group5322_cds other membranes
+AT3G01440 ortho_group5322_cds other metabolic processes
+AT3G01440 ortho_group5322_cds other molecular functions
+AT3G01440 ortho_group5322_cds plastid
+AT3G01490 ortho_group5299_cds kinase activity
+AT3G01490 ortho_group5299_cds other cellular processes
+AT3G01490 ortho_group5299_cds other metabolic processes
+AT3G01490 ortho_group5299_cds protein metabolism
+AT3G01490 ortho_group5299_cds transferase activity
+AT3G01490 ortho_group5299_cds unknown cellular components
+AT3G01500 ortho_group5028_cds chloroplast
+AT3G01500 ortho_group5028_cds extracellular
+AT3G01500 ortho_group5028_cds other binding
+AT3G01500 ortho_group5028_cds other biological processes
+AT3G01500 ortho_group5028_cds other cellular processes
+AT3G01500 ortho_group5028_cds other cytoplasmic components
+AT3G01500 ortho_group5028_cds other enzyme activity
+AT3G01500 ortho_group5028_cds other intracellular components
+AT3G01500 ortho_group5028_cds other membranes
+AT3G01500 ortho_group5028_cds plastid
+AT3G01500 ortho_group5028_cds response to abiotic or biotic stimulus
+AT3G01500 ortho_group5028_cds response to stress
+AT3G01590 ortho_group4177_cds other binding
+AT3G01590 ortho_group4177_cds other cellular processes
+AT3G01590 ortho_group4177_cds other enzyme activity
+AT3G01590 ortho_group4177_cds other metabolic processes
+AT3G01590 ortho_group4177_cds unknown cellular components
+AT3G01650 ortho_group3811_cds other cellular processes
+AT3G01650 ortho_group3811_cds other enzyme activity
+AT3G01650 ortho_group3811_cds other metabolic processes
+AT3G01650 ortho_group3811_cds plasma membrane
+AT3G01650 ortho_group3811_cds protein metabolism
+AT3G01650 ortho_group3811_cds response to abiotic or biotic stimulus
+AT3G01650 ortho_group3811_cds response to stress
+AT3G01740 ortho_group4788_cds unknown biological processes
+AT3G01740 ortho_group4788_cds unknown molecular functions
+AT3G01800 ortho_group3556_cds cell organization and biogenesis
+AT3G01800 ortho_group3556_cds mitochondria
+AT3G01800 ortho_group3556_cds other cellular processes
+AT3G01800 ortho_group3556_cds other metabolic processes
+AT3G01800 ortho_group3556_cds protein metabolism
+AT3G01810 ortho_group3554_cds plasma membrane
+AT3G01810 ortho_group3554_cds unknown biological processes
+AT3G01810 ortho_group3554_cds unknown molecular functions
+AT3G01820 ortho_group4214_cds electron transport or energy pathways
+AT3G01820 ortho_group4214_cds kinase activity
+AT3G01820 ortho_group4214_cds mitochondria
+AT3G01820 ortho_group4214_cds nucleotide binding
+AT3G01820 ortho_group4214_cds other cellular processes
+AT3G01820 ortho_group4214_cds other metabolic processes
+AT3G01910 ortho_group5113_cds mitochondria
+AT3G01910 ortho_group5113_cds other biological processes
+AT3G01910 ortho_group5113_cds other cellular processes
+AT3G01910 ortho_group5113_cds other cytoplasmic components
+AT3G01910 ortho_group5113_cds other enzyme activity
+AT3G01910 ortho_group5113_cds other intracellular components
+AT3G01910 ortho_group5113_cds other metabolic processes
+AT3G01920 ortho_group5165_cds unknown biological processes
+AT3G01980 ortho_group3150_cds other binding
+AT3G01980 ortho_group3150_cds other cytoplasmic components
+AT3G01980 ortho_group3150_cds other enzyme activity
+AT3G01980 ortho_group3150_cds other intracellular components
+AT3G01980 ortho_group3150_cds other metabolic processes
+AT3G02070 ortho_group3835_cds hydrolase activity
+AT3G02070 ortho_group3835_cds unknown biological processes
+AT3G02120 ortho_group4514_cds other biological processes
+AT3G02120 ortho_group4514_cds unknown cellular components
+AT3G02120 ortho_group4514_cds unknown molecular functions
+AT3G02200 ortho_group3204_cds cytosol
+AT3G02200 ortho_group3204_cds unknown molecular functions
+AT3G02210 ortho_group4908_cds other membranes
+AT3G02210 ortho_group4908_cds unknown biological processes
+AT3G02220 ortho_group2811_cds unknown biological processes
+AT3G02220 ortho_group2811_cds unknown cellular components
+AT3G02250 ortho_group3730_cds unknown biological processes
+AT3G02250 ortho_group3730_cds unknown cellular components
+AT3G02250 ortho_group3730_cds unknown molecular functions
+AT3G02290 ortho_group4945_cds other binding
+AT3G02290 ortho_group4945_cds other cellular processes
+AT3G02290 ortho_group4945_cds other metabolic processes
+AT3G02290 ortho_group4945_cds protein metabolism
+AT3G02420 ortho_group3057_cds other cellular components
+AT3G02420 ortho_group3057_cds other membranes
+AT3G02420 ortho_group3057_cds unknown biological processes
+AT3G02420 ortho_group3057_cds unknown molecular functions
+AT3G02500 ortho_group3007_cds unknown biological processes
+AT3G02500 ortho_group3007_cds unknown cellular components
+AT3G02500 ortho_group3007_cds unknown molecular functions
+AT3G02520 ortho_group4682_cds chloroplast
+AT3G02520 ortho_group4682_cds nucleus
+AT3G02520 ortho_group4682_cds other cellular components
+AT3G02520 ortho_group4682_cds other cytoplasmic components
+AT3G02520 ortho_group4682_cds other intracellular components
+AT3G02520 ortho_group4682_cds plasma membrane
+AT3G02520 ortho_group4682_cds plastid
+AT3G02520 ortho_group4682_cds protein binding
+AT3G02530 ortho_group4778_cds cytosol
+AT3G02530 ortho_group4778_cds nucleotide binding
+AT3G02530 ortho_group4778_cds other biological processes
+AT3G02530 ortho_group4778_cds other cytoplasmic components
+AT3G02530 ortho_group4778_cds other membranes
+AT3G02530 ortho_group4778_cds protein binding
+AT3G02560 ortho_group2878_cds chloroplast
+AT3G02560 ortho_group2878_cds cytosol
+AT3G02560 ortho_group2878_cds other cellular processes
+AT3G02560 ortho_group2878_cds other cytoplasmic components
+AT3G02560 ortho_group2878_cds other intracellular components
+AT3G02560 ortho_group2878_cds other membranes
+AT3G02560 ortho_group2878_cds other metabolic processes
+AT3G02560 ortho_group2878_cds protein metabolism
+AT3G02560 ortho_group2878_cds ribosome
+AT3G02560 ortho_group2878_cds structural molecule activity
+AT3G02570 ortho_group5448_cds developmental processes
+AT3G02570 ortho_group5448_cds other enzyme activity
+AT3G02570 ortho_group5448_cds other metabolic processes
+AT3G02710 ortho_group2729_cds other binding
+AT3G02710 ortho_group2729_cds other cellular processes
+AT3G02710 ortho_group2729_cds other metabolic processes
+AT3G02710 ortho_group2729_cds unknown cellular components
+AT3G02800 ortho_group3707_cds hydrolase activity
+AT3G02800 ortho_group3707_cds nucleus
+AT3G02800 ortho_group3707_cds other cellular processes
+AT3G02800 ortho_group3707_cds other cytoplasmic components
+AT3G02800 ortho_group3707_cds other metabolic processes
+AT3G02830 ortho_group3495_cds DNA or RNA binding
+AT3G02830 ortho_group3495_cds hydrolase activity
+AT3G02830 ortho_group3495_cds nucleic acid binding
+AT3G02830 ortho_group3495_cds other cellular processes
+AT3G02830 ortho_group3495_cds other metabolic processes
+AT3G02870 ortho_group5397_cds cytosol
+AT3G02870 ortho_group5397_cds hydrolase activity
+AT3G02870 ortho_group5397_cds other cellular processes
+AT3G02870 ortho_group5397_cds other metabolic processes
+AT3G02870 ortho_group5397_cds plasma membrane
+AT3G02870 ortho_group5397_cds response to abiotic or biotic stimulus
+AT3G02870 ortho_group5397_cds response to stress
+AT3G02920 ortho_group3924_cds nucleic acid binding
+AT3G02920 ortho_group3924_cds unknown biological processes
+AT3G03010 ortho_group2815_cds hydrolase activity
+AT3G03010 ortho_group2815_cds other cellular processes
+AT3G03010 ortho_group2815_cds other metabolic processes
+AT3G03010 ortho_group2815_cds protein metabolism
+AT3G03010 ortho_group2815_cds unknown cellular components
+AT3G03100 ortho_group4578_cds mitochondria
+AT3G03100 ortho_group4578_cds other binding
+AT3G03100 ortho_group4578_cds other cytoplasmic components
+AT3G03100 ortho_group4578_cds other enzyme activity
+AT3G03100 ortho_group4578_cds other intracellular components
+AT3G03100 ortho_group4578_cds other membranes
+AT3G03190 ortho_group4204_cds other cellular processes
+AT3G03190 ortho_group4204_cds other cytoplasmic components
+AT3G03190 ortho_group4204_cds other metabolic processes
+AT3G03190 ortho_group4204_cds response to stress
+AT3G03190 ortho_group4204_cds transferase activity
+AT3G03250 ortho_group4491_cds cell organization and biogenesis
+AT3G03250 ortho_group4491_cds cytosol
+AT3G03250 ortho_group4491_cds developmental processes
+AT3G03250 ortho_group4491_cds other cellular components
+AT3G03250 ortho_group4491_cds other cellular processes
+AT3G03250 ortho_group4491_cds other metabolic processes
+AT3G03250 ortho_group4491_cds plasma membrane
+AT3G03250 ortho_group4491_cds response to abiotic or biotic stimulus
+AT3G03250 ortho_group4491_cds response to stress
+AT3G03250 ortho_group4491_cds transferase activity
+AT3G03310 ortho_group4452_cds other metabolic processes
+AT3G03310 ortho_group4452_cds transferase activity
+AT3G03310 ortho_group4452_cds unknown cellular components
+AT3G03330 ortho_group2819_cds ER
+AT3G03330 ortho_group2819_cds other binding
+AT3G03330 ortho_group2819_cds other enzyme activity
+AT3G03330 ortho_group2819_cds other metabolic processes
+AT3G03330 ortho_group2819_cds plasma membrane
+AT3G03420 ortho_group4884_cds other binding
+AT3G03420 ortho_group4884_cds unknown cellular components
+AT3G03490 ortho_group5252_cds cell organization and biogenesis
+AT3G03490 ortho_group5252_cds cytosol
+AT3G03490 ortho_group5252_cds other cellular processes
+AT3G03490 ortho_group5252_cds other cytoplasmic components
+AT3G03490 ortho_group5252_cds other intracellular components
+AT3G03490 ortho_group5252_cds protein binding
+AT3G03600 ortho_group2806_cds mitochondria
+AT3G03600 ortho_group2806_cds other cellular processes
+AT3G03600 ortho_group2806_cds other cytoplasmic components
+AT3G03600 ortho_group2806_cds other intracellular components
+AT3G03600 ortho_group2806_cds other metabolic processes
+AT3G03600 ortho_group2806_cds protein metabolism
+AT3G03600 ortho_group2806_cds ribosome
+AT3G03600 ortho_group2806_cds structural molecule activity
+AT3G03620 ortho_group3932_cds other cellular processes
+AT3G03620 ortho_group3932_cds other membranes
+AT3G03620 ortho_group3932_cds transport
+AT3G03620 ortho_group3932_cds transporter activity
+AT3G03773 ortho_group4194_cds other cellular components
+AT3G03773 ortho_group4194_cds unknown biological processes
+AT3G03773 ortho_group4194_cds unknown molecular functions
+AT3G03780 ortho_group4238_cds chloroplast
+AT3G03780 ortho_group4238_cds cytosol
+AT3G03780 ortho_group4238_cds extracellular
+AT3G03780 ortho_group4238_cds other biological processes
+AT3G03780 ortho_group4238_cds other cellular components
+AT3G03780 ortho_group4238_cds other cellular processes
+AT3G03780 ortho_group4238_cds other cytoplasmic components
+AT3G03780 ortho_group4238_cds other intracellular components
+AT3G03780 ortho_group4238_cds other metabolic processes
+AT3G03780 ortho_group4238_cds plasma membrane
+AT3G03780 ortho_group4238_cds plastid
+AT3G03780 ortho_group4238_cds response to abiotic or biotic stimulus
+AT3G03780 ortho_group4238_cds response to stress
+AT3G03780 ortho_group4238_cds transferase activity
+AT3G03860 ortho_group5483_cds other cellular processes
+AT3G03890 ortho_group2641_cds chloroplast
+AT3G03890 ortho_group2641_cds nucleotide binding
+AT3G03890 ortho_group2641_cds other binding
+AT3G03900 ortho_group5419_cds cytosol
+AT3G03900 ortho_group5419_cds kinase activity
+AT3G03900 ortho_group5419_cds nucleotide binding
+AT3G03900 ortho_group5419_cds other biological processes
+AT3G03900 ortho_group5419_cds other cellular processes
+AT3G03900 ortho_group5419_cds other metabolic processes
+AT3G03900 ortho_group5419_cds transferase activity
+AT3G03960 ortho_group2835_cds cytosol
+AT3G03960 ortho_group2835_cds nucleotide binding
+AT3G03960 ortho_group2835_cds other cellular components
+AT3G03960 ortho_group2835_cds other cellular processes
+AT3G03960 ortho_group2835_cds other membranes
+AT3G03960 ortho_group2835_cds other metabolic processes
+AT3G03960 ortho_group2835_cds protein binding
+AT3G03960 ortho_group2835_cds protein metabolism
+AT3G04040 ortho_group5533_cds unknown biological processes
+AT3G04040 ortho_group5533_cds unknown cellular components
+AT3G04040 ortho_group5533_cds unknown molecular functions
+AT3G04120 ortho_group5011_cds chloroplast
+AT3G04120 ortho_group5011_cds cytosol
+AT3G04120 ortho_group5011_cds developmental processes
+AT3G04120 ortho_group5011_cds electron transport or energy pathways
+AT3G04120 ortho_group5011_cds extracellular
+AT3G04120 ortho_group5011_cds mitochondria
+AT3G04120 ortho_group5011_cds nucleus
+AT3G04120 ortho_group5011_cds other binding
+AT3G04120 ortho_group5011_cds other biological processes
+AT3G04120 ortho_group5011_cds other cellular processes
+AT3G04120 ortho_group5011_cds other cytoplasmic components
+AT3G04120 ortho_group5011_cds other enzyme activity
+AT3G04120 ortho_group5011_cds other intracellular components
+AT3G04120 ortho_group5011_cds other membranes
+AT3G04120 ortho_group5011_cds other metabolic processes
+AT3G04120 ortho_group5011_cds plasma membrane
+AT3G04120 ortho_group5011_cds response to abiotic or biotic stimulus
+AT3G04120 ortho_group5011_cds response to stress
+AT3G04400 ortho_group3516_cds cytosol
+AT3G04400 ortho_group3516_cds developmental processes
+AT3G04400 ortho_group3516_cds other cellular processes
+AT3G04400 ortho_group3516_cds other cytoplasmic components
+AT3G04400 ortho_group3516_cds other intracellular components
+AT3G04400 ortho_group3516_cds other metabolic processes
+AT3G04400 ortho_group3516_cds protein metabolism
+AT3G04400 ortho_group3516_cds ribosome
+AT3G04400 ortho_group3516_cds structural molecule activity
+AT3G04460 ortho_group4522_cds cell organization and biogenesis
+AT3G04460 ortho_group4522_cds developmental processes
+AT3G04460 ortho_group4522_cds other binding
+AT3G04460 ortho_group4522_cds other cellular processes
+AT3G04460 ortho_group4522_cds other cytoplasmic components
+AT3G04460 ortho_group4522_cds other intracellular components
+AT3G04460 ortho_group4522_cds other membranes
+AT3G04460 ortho_group4522_cds other metabolic processes
+AT3G04460 ortho_group4522_cds transport
+AT3G04600 ortho_group5039_cds cytosol
+AT3G04600 ortho_group5039_cds nucleotide binding
+AT3G04600 ortho_group5039_cds other cellular processes
+AT3G04600 ortho_group5039_cds other enzyme activity
+AT3G04600 ortho_group5039_cds other metabolic processes
+AT3G04600 ortho_group5039_cds protein metabolism
+AT3G04610 ortho_group4168_cds developmental processes
+AT3G04610 ortho_group4168_cds DNA or RNA binding
+AT3G04610 ortho_group4168_cds nucleic acid binding
+AT3G04610 ortho_group4168_cds nucleus
+AT3G04630 ortho_group5196_cds developmental processes
+AT3G04630 ortho_group5196_cds other biological processes
+AT3G04630 ortho_group5196_cds other cytoplasmic components
+AT3G04630 ortho_group5196_cds unknown molecular functions
+AT3G04650 ortho_group3512_cds chloroplast
+AT3G04730 ortho_group5558_cds nucleus
+AT3G04730 ortho_group5558_cds other biological processes
+AT3G04730 ortho_group5558_cds protein binding
+AT3G04730 ortho_group5558_cds transcription factor activity
+AT3G04780 ortho_group4498_cds unknown molecular functions
+AT3G04830 ortho_group5309_cds other binding
+AT3G04830 ortho_group5309_cds unknown biological processes
+AT3G04830 ortho_group5309_cds unknown cellular components
+AT3G04840 ortho_group3904_cds chloroplast
+AT3G04840 ortho_group3904_cds cytosol
+AT3G04840 ortho_group3904_cds other cellular components
+AT3G04840 ortho_group3904_cds other cellular processes
+AT3G04840 ortho_group3904_cds other cytoplasmic components
+AT3G04840 ortho_group3904_cds other intracellular components
+AT3G04840 ortho_group3904_cds other metabolic processes
+AT3G04840 ortho_group3904_cds plasma membrane
+AT3G04840 ortho_group3904_cds protein metabolism
+AT3G04840 ortho_group3904_cds ribosome
+AT3G04840 ortho_group3904_cds structural molecule activity
+AT3G04870 ortho_group4533_cds chloroplast
+AT3G04870 ortho_group4533_cds other cellular processes
+AT3G04870 ortho_group4533_cds other cytoplasmic components
+AT3G04870 ortho_group4533_cds other enzyme activity
+AT3G04870 ortho_group4533_cds other intracellular components
+AT3G04870 ortho_group4533_cds other metabolic processes
+AT3G04870 ortho_group4533_cds plastid
+AT3G04980 ortho_group4005_cds other cellular processes
+AT3G04980 ortho_group4005_cds other metabolic processes
+AT3G04980 ortho_group4005_cds protein binding
+AT3G04980 ortho_group4005_cds protein metabolism
+AT3G04980 ortho_group4005_cds unknown cellular components
+AT3G05000 ortho_group5192_cds developmental processes
+AT3G05000 ortho_group5192_cds other biological processes
+AT3G05000 ortho_group5192_cds transporter activity
+AT3G05000 ortho_group5192_cds unknown cellular components
+AT3G05010 ortho_group3996_cds other membranes
+AT3G05010 ortho_group3996_cds unknown biological processes
+AT3G05010 ortho_group3996_cds unknown molecular functions
+AT3G05060 ortho_group4567_cds DNA or RNA binding
+AT3G05060 ortho_group4567_cds nucleus
+AT3G05060 ortho_group4567_cds other intracellular components
+AT3G05060 ortho_group4567_cds other membranes
+AT3G05060 ortho_group4567_cds unknown biological processes
+AT3G05070 ortho_group3717_cds unknown biological processes
+AT3G05070 ortho_group3717_cds unknown cellular components
+AT3G05070 ortho_group3717_cds unknown molecular functions
+AT3G05290 ortho_group4369_cds developmental processes
+AT3G05290 ortho_group4369_cds mitochondria
+AT3G05290 ortho_group4369_cds other binding
+AT3G05290 ortho_group4369_cds other cellular processes
+AT3G05290 ortho_group4369_cds other cytoplasmic components
+AT3G05290 ortho_group4369_cds other intracellular components
+AT3G05290 ortho_group4369_cds other membranes
+AT3G05290 ortho_group4369_cds other metabolic processes
+AT3G05290 ortho_group4369_cds transport
+AT3G05290 ortho_group4369_cds transporter activity
+AT3G05345 ortho_group3649_cds chloroplast
+AT3G05345 ortho_group3649_cds protein binding
+AT3G05345 ortho_group3649_cds unknown biological processes
+AT3G05420 ortho_group5271_cds cytosol
+AT3G05420 ortho_group5271_cds nucleus
+AT3G05420 ortho_group5271_cds other binding
+AT3G05420 ortho_group5271_cds other biological processes
+AT3G05420 ortho_group5271_cds other cytoplasmic components
+AT3G05420 ortho_group5271_cds protein binding
+AT3G05420 ortho_group5271_cds response to abiotic or biotic stimulus
+AT3G05420 ortho_group5271_cds transport
+AT3G05500 ortho_group5054_cds other cytoplasmic components
+AT3G05500 ortho_group5054_cds other intracellular components
+AT3G05500 ortho_group5054_cds unknown biological processes
+AT3G05520 ortho_group3485_cds cell organization and biogenesis
+AT3G05520 ortho_group3485_cds nucleus
+AT3G05520 ortho_group3485_cds other cellular processes
+AT3G05520 ortho_group3485_cds other intracellular components
+AT3G05520 ortho_group3485_cds protein binding
+AT3G05625 ortho_group2975_cds chloroplast
+AT3G05625 ortho_group2975_cds other binding
+AT3G05625 ortho_group2975_cds other cytoplasmic components
+AT3G05625 ortho_group2975_cds other intracellular components
+AT3G05625 ortho_group2975_cds plastid
+AT3G05625 ortho_group2975_cds unknown biological processes
+AT3G05700 ortho_group4202_cds response to abiotic or biotic stimulus
+AT3G05700 ortho_group4202_cds response to stress
+AT3G05710 ortho_group4472_cds cell organization and biogenesis
+AT3G05710 ortho_group4472_cds other cellular processes
+AT3G05710 ortho_group4472_cds protein binding
+AT3G05710 ortho_group4472_cds transport
+AT3G05760 ortho_group5389_cds nucleic acid binding
+AT3G05760 ortho_group5389_cds other binding
+AT3G05760 ortho_group5389_cds unknown biological processes
+AT3G05830 ortho_group3348_cds unknown biological processes
+AT3G05830 ortho_group3348_cds unknown cellular components
+AT3G05830 ortho_group3348_cds unknown molecular functions
+AT3G06010 ortho_group4991_cds DNA or RNA binding
+AT3G06010 ortho_group4991_cds hydrolase activity
+AT3G06010 ortho_group4991_cds nucleic acid binding
+AT3G06010 ortho_group4991_cds nucleotide binding
+AT3G06010 ortho_group4991_cds response to abiotic or biotic stimulus
+AT3G06010 ortho_group4991_cds response to stress
+AT3G06010 ortho_group4991_cds unknown cellular components
+AT3G06050 ortho_group5263_cds mitochondria
+AT3G06050 ortho_group5263_cds other biological processes
+AT3G06050 ortho_group5263_cds other cytoplasmic components
+AT3G06050 ortho_group5263_cds other enzyme activity
+AT3G06050 ortho_group5263_cds other intracellular components
+AT3G06050 ortho_group5263_cds other molecular functions
+AT3G06050 ortho_group5263_cds response to stress
+AT3G06350 ortho_group4439_cds chloroplast
+AT3G06350 ortho_group4439_cds developmental processes
+AT3G06350 ortho_group4439_cds other cellular processes
+AT3G06350 ortho_group4439_cds other cytoplasmic components
+AT3G06350 ortho_group4439_cds other enzyme activity
+AT3G06350 ortho_group4439_cds other intracellular components
+AT3G06350 ortho_group4439_cds other metabolic processes
+AT3G06350 ortho_group4439_cds plastid
+AT3G06400 ortho_group4991_cds cytosol
+AT3G06400 ortho_group4991_cds developmental processes
+AT3G06400 ortho_group4991_cds DNA or RNA binding
+AT3G06400 ortho_group4991_cds hydrolase activity
+AT3G06400 ortho_group4991_cds nucleic acid binding
+AT3G06400 ortho_group4991_cds nucleotide binding
+AT3G06400 ortho_group4991_cds other binding
+AT3G06400 ortho_group4991_cds other cellular processes
+AT3G06430 ortho_group5538_cds chloroplast
+AT3G06430 ortho_group5538_cds developmental processes
+AT3G06430 ortho_group5538_cds DNA or RNA binding
+AT3G06455 ortho_group4907_cds unknown cellular components
+AT3G06455 ortho_group4907_cds unknown molecular functions
+AT3G06610 ortho_group4845_cds cytosol
+AT3G06610 ortho_group4845_cds unknown biological processes
+AT3G06610 ortho_group4845_cds unknown molecular functions
+AT3G06670 ortho_group5030_cds other binding
+AT3G06670 ortho_group5030_cds unknown biological processes
+AT3G06670 ortho_group5030_cds unknown cellular components
+AT3G06720 ortho_group3436_cds cell wall
+AT3G06720 ortho_group3436_cds cytosol
+AT3G06720 ortho_group3436_cds nucleus
+AT3G06720 ortho_group3436_cds other binding
+AT3G06720 ortho_group3436_cds other cellular processes
+AT3G06720 ortho_group3436_cds other intracellular components
+AT3G06720 ortho_group3436_cds protein binding
+AT3G06720 ortho_group3436_cds transport
+AT3G06720 ortho_group3436_cds transporter activity
+AT3G06730 ortho_group3207_cds cell organization and biogenesis
+AT3G06730 ortho_group3207_cds chloroplast
+AT3G06730 ortho_group3207_cds other cellular processes
+AT3G06730 ortho_group3207_cds other enzyme activity
+AT3G06730 ortho_group3207_cds other intracellular components
+AT3G06760 ortho_group5295_cds response to abiotic or biotic stimulus
+AT3G06760 ortho_group5295_cds response to stress
+AT3G06850 ortho_group3018_cds mitochondria
+AT3G06850 ortho_group3018_cds other binding
+AT3G06850 ortho_group3018_cds other biological processes
+AT3G06850 ortho_group3018_cds other enzyme activity
+AT3G06850 ortho_group3018_cds response to abiotic or biotic stimulus
+AT3G06850 ortho_group3018_cds transferase activity
+AT3G06860 ortho_group4203_cds cell wall
+AT3G06860 ortho_group4203_cds nucleus
+AT3G06860 ortho_group4203_cds other cellular components
+AT3G06860 ortho_group4203_cds other cellular processes
+AT3G06860 ortho_group4203_cds other cytoplasmic components
+AT3G06860 ortho_group4203_cds other enzyme activity
+AT3G06860 ortho_group4203_cds other intracellular components
+AT3G06860 ortho_group4203_cds other metabolic processes
+AT3G06950 ortho_group5049_cds chloroplast
+AT3G06950 ortho_group5049_cds other cellular processes
+AT3G06950 ortho_group5049_cds other enzyme activity
+AT3G06950 ortho_group5049_cds other metabolic processes
+AT3G07050 ortho_group3642_cds nucleotide binding
+AT3G07050 ortho_group3642_cds nucleus
+AT3G07050 ortho_group3642_cds other cellular components
+AT3G07050 ortho_group3642_cds other intracellular components
+AT3G07050 ortho_group3642_cds unknown biological processes
+AT3G07340 ortho_group5479_cds chloroplast
+AT3G07340 ortho_group5479_cds DNA or RNA binding
+AT3G07340 ortho_group5479_cds nucleus
+AT3G07340 ortho_group5479_cds other cellular processes
+AT3G07340 ortho_group5479_cds other metabolic processes
+AT3G07340 ortho_group5479_cds transcription factor activity
+AT3G07460 ortho_group4654_cds other cytoplasmic components
+AT3G07460 ortho_group4654_cds other intracellular components
+AT3G07460 ortho_group4654_cds unknown biological processes
+AT3G07460 ortho_group4654_cds unknown molecular functions
+AT3G07470 ortho_group4654_cds other cytoplasmic components
+AT3G07470 ortho_group4654_cds other intracellular components
+AT3G07470 ortho_group4654_cds unknown biological processes
+AT3G07490 ortho_group4068_cds other binding
+AT3G07490 ortho_group4068_cds other cytoplasmic components
+AT3G07490 ortho_group4068_cds other intracellular components
+AT3G07670 ortho_group5248_cds chloroplast
+AT3G07670 ortho_group5248_cds transferase activity
+AT3G07670 ortho_group5248_cds unknown biological processes
+AT3G07680 ortho_group4332_cds other cellular processes
+AT3G07680 ortho_group4332_cds other membranes
+AT3G07680 ortho_group4332_cds transport
+AT3G07680 ortho_group4332_cds transporter activity
+AT3G07750 ortho_group3502_cds DNA or RNA binding
+AT3G07750 ortho_group3502_cds hydrolase activity
+AT3G07750 ortho_group3502_cds other cellular processes
+AT3G07750 ortho_group3502_cds other metabolic processes
+AT3G07750 ortho_group3502_cds unknown cellular components
+AT3G07800 ortho_group2952_cds electron transport or energy pathways
+AT3G07800 ortho_group2952_cds kinase activity
+AT3G07800 ortho_group2952_cds nucleotide binding
+AT3G07800 ortho_group2952_cds other cellular processes
+AT3G07800 ortho_group2952_cds other metabolic processes
+AT3G07800 ortho_group2952_cds unknown cellular components
+AT3G07880 ortho_group3543_cds cell organization and biogenesis
+AT3G07880 ortho_group3543_cds developmental processes
+AT3G07880 ortho_group3543_cds other cellular processes
+AT3G07880 ortho_group3543_cds other cytoplasmic components
+AT3G07880 ortho_group3543_cds other molecular functions
+AT3G07880 ortho_group3543_cds protein binding
+AT3G08530 ortho_group4450_cds cell organization and biogenesis
+AT3G08530 ortho_group4450_cds chloroplast
+AT3G08530 ortho_group4450_cds cytosol
+AT3G08530 ortho_group4450_cds other cellular components
+AT3G08530 ortho_group4450_cds other cellular processes
+AT3G08530 ortho_group4450_cds other membranes
+AT3G08530 ortho_group4450_cds plasma membrane
+AT3G08530 ortho_group4450_cds protein binding
+AT3G08530 ortho_group4450_cds structural molecule activity
+AT3G08530 ortho_group4450_cds transport
+AT3G08580 ortho_group2688_cds cell wall
+AT3G08580 ortho_group2688_cds chloroplast
+AT3G08580 ortho_group2688_cds mitochondria
+AT3G08580 ortho_group2688_cds nucleus
+AT3G08580 ortho_group2688_cds other binding
+AT3G08580 ortho_group2688_cds other cellular processes
+AT3G08580 ortho_group2688_cds other cytoplasmic components
+AT3G08580 ortho_group2688_cds other intracellular components
+AT3G08580 ortho_group2688_cds other membranes
+AT3G08580 ortho_group2688_cds plasma membrane
+AT3G08580 ortho_group2688_cds plastid
+AT3G08580 ortho_group2688_cds transport
+AT3G08580 ortho_group2688_cds transporter activity
+AT3G08890 ortho_group5282_cds unknown biological processes
+AT3G08890 ortho_group5282_cds unknown cellular components
+AT3G08890 ortho_group5282_cds unknown molecular functions
+AT3G08910 ortho_group5034_cds other cellular processes
+AT3G08910 ortho_group5034_cds other metabolic processes
+AT3G08910 ortho_group5034_cds protein binding
+AT3G08910 ortho_group5034_cds protein metabolism
+AT3G08910 ortho_group5034_cds unknown cellular components
+AT3G08943 ortho_group4481_cds cytosol
+AT3G08943 ortho_group4481_cds other binding
+AT3G08943 ortho_group4481_cds other cellular processes
+AT3G08943 ortho_group4481_cds transport
+AT3G08943 ortho_group4481_cds transporter activity
+AT3G08947 ortho_group4481_cds cytosol
+AT3G08947 ortho_group4481_cds other binding
+AT3G08947 ortho_group4481_cds other cellular processes
+AT3G08947 ortho_group4481_cds transport
+AT3G08947 ortho_group4481_cds transporter activity
+AT3G08980 ortho_group4780_cds hydrolase activity
+AT3G08980 ortho_group4780_cds other membranes
+AT3G08980 ortho_group4780_cds protein metabolism
+AT3G09085 ortho_group4869_cds unknown biological processes
+AT3G09085 ortho_group4869_cds unknown molecular functions
+AT3G09090 ortho_group4926_cds cell organization and biogenesis
+AT3G09090 ortho_group4926_cds developmental processes
+AT3G09090 ortho_group4926_cds other binding
+AT3G09090 ortho_group4926_cds other cellular processes
+AT3G09090 ortho_group4926_cds other membranes
+AT3G09200 ortho_group3234_cds chloroplast
+AT3G09200 ortho_group3234_cds cytosol
+AT3G09200 ortho_group3234_cds nucleus
+AT3G09200 ortho_group3234_cds other binding
+AT3G09200 ortho_group3234_cds other biological processes
+AT3G09200 ortho_group3234_cds other cellular components
+AT3G09200 ortho_group3234_cds other cellular processes
+AT3G09200 ortho_group3234_cds other cytoplasmic components
+AT3G09200 ortho_group3234_cds other intracellular components
+AT3G09200 ortho_group3234_cds other metabolic processes
+AT3G09200 ortho_group3234_cds plasma membrane
+AT3G09200 ortho_group3234_cds protein metabolism
+AT3G09200 ortho_group3234_cds response to abiotic or biotic stimulus
+AT3G09200 ortho_group3234_cds response to stress
+AT3G09200 ortho_group3234_cds ribosome
+AT3G09200 ortho_group3234_cds structural molecule activity
+AT3G09270 ortho_group3895_cds other biological processes
+AT3G09270 ortho_group3895_cds other cellular processes
+AT3G09270 ortho_group3895_cds other cytoplasmic components
+AT3G09270 ortho_group3895_cds other metabolic processes
+AT3G09270 ortho_group3895_cds transferase activity
+AT3G09570 ortho_group4038_cds unknown biological processes
+AT3G09570 ortho_group4038_cds unknown molecular functions
+AT3G09620 ortho_group5267_cds hydrolase activity
+AT3G09620 ortho_group5267_cds nucleic acid binding
+AT3G09620 ortho_group5267_cds nucleotide binding
+AT3G09620 ortho_group5267_cds unknown cellular components
+AT3G09630 ortho_group4382_cds cell wall
+AT3G09630 ortho_group4382_cds chloroplast
+AT3G09630 ortho_group4382_cds cytosol
+AT3G09630 ortho_group4382_cds nucleus
+AT3G09630 ortho_group4382_cds other cellular components
+AT3G09630 ortho_group4382_cds other cellular processes
+AT3G09630 ortho_group4382_cds other cytoplasmic components
+AT3G09630 ortho_group4382_cds other intracellular components
+AT3G09630 ortho_group4382_cds other membranes
+AT3G09630 ortho_group4382_cds other metabolic processes
+AT3G09630 ortho_group4382_cds plasma membrane
+AT3G09630 ortho_group4382_cds protein metabolism
+AT3G09630 ortho_group4382_cds ribosome
+AT3G09630 ortho_group4382_cds structural molecule activity
+AT3G09640 ortho_group3742_cds cytosol
+AT3G09640 ortho_group3742_cds other cytoplasmic components
+AT3G09640 ortho_group3742_cds other enzyme activity
+AT3G09640 ortho_group3742_cds response to stress
+AT3G09740 ortho_group4273_cds ER
+AT3G09740 ortho_group4273_cds other cellular components
+AT3G09740 ortho_group4273_cds other cellular processes
+AT3G09740 ortho_group4273_cds other membranes
+AT3G09740 ortho_group4273_cds plasma membrane
+AT3G09740 ortho_group4273_cds transport
+AT3G09740 ortho_group4273_cds transporter activity
+AT3G09900 ortho_group3151_cds nucleotide binding
+AT3G09900 ortho_group3151_cds plasma membrane
+AT3G09900 ortho_group3151_cds protein binding
+AT3G09900 ortho_group3151_cds signal transduction
+AT3G09900 ortho_group3151_cds transport
+AT3G09920 ortho_group4281_cds cytosol
+AT3G09920 ortho_group4281_cds kinase activity
+AT3G09920 ortho_group4281_cds nucleotide binding
+AT3G09920 ortho_group4281_cds nucleus
+AT3G09920 ortho_group4281_cds other cellular processes
+AT3G09920 ortho_group4281_cds other membranes
+AT3G09920 ortho_group4281_cds other metabolic processes
+AT3G09920 ortho_group4281_cds protein binding
+AT3G09920 ortho_group4281_cds transferase activity
+AT3G09980 ortho_group2727_cds unknown biological processes
+AT3G09980 ortho_group2727_cds unknown cellular components
+AT3G09980 ortho_group2727_cds unknown molecular functions
+AT3G10060 ortho_group3275_cds chloroplast
+AT3G10060 ortho_group3275_cds other binding
+AT3G10060 ortho_group3275_cds other cellular processes
+AT3G10060 ortho_group3275_cds other cytoplasmic components
+AT3G10060 ortho_group3275_cds other enzyme activity
+AT3G10060 ortho_group3275_cds other intracellular components
+AT3G10060 ortho_group3275_cds other membranes
+AT3G10060 ortho_group3275_cds other metabolic processes
+AT3G10060 ortho_group3275_cds plastid
+AT3G10060 ortho_group3275_cds protein metabolism
+AT3G10140 ortho_group3135_cds cell organization and biogenesis
+AT3G10140 ortho_group3135_cds DNA or RNA binding
+AT3G10140 ortho_group3135_cds DNA or RNA metabolism
+AT3G10140 ortho_group3135_cds hydrolase activity
+AT3G10140 ortho_group3135_cds mitochondria
+AT3G10140 ortho_group3135_cds nucleotide binding
+AT3G10140 ortho_group3135_cds other cellular processes
+AT3G10140 ortho_group3135_cds response to abiotic or biotic stimulus
+AT3G10140 ortho_group3135_cds response to stress
+AT3G10210 ortho_group4508_cds unknown biological processes
+AT3G10210 ortho_group4508_cds unknown cellular components
+AT3G10210 ortho_group4508_cds unknown molecular functions
+AT3G10250 ortho_group3438_cds unknown biological processes
+AT3G10250 ortho_group3438_cds unknown molecular functions
+AT3G10260 ortho_group3400_cds ER
+AT3G10260 ortho_group3400_cds mitochondria
+AT3G10330 ortho_group3037_cds DNA or RNA binding
+AT3G10330 ortho_group3037_cds nucleus
+AT3G10330 ortho_group3037_cds other binding
+AT3G10330 ortho_group3037_cds other cellular processes
+AT3G10330 ortho_group3037_cds other cytoplasmic components
+AT3G10330 ortho_group3037_cds other metabolic processes
+AT3G10330 ortho_group3037_cds protein metabolism
+AT3G10350 ortho_group3975_cds chloroplast
+AT3G10350 ortho_group3975_cds nucleotide binding
+AT3G10350 ortho_group3975_cds other cellular processes
+AT3G10350 ortho_group3975_cds other cytoplasmic components
+AT3G10350 ortho_group3975_cds other intracellular components
+AT3G10350 ortho_group3975_cds other membranes
+AT3G10350 ortho_group3975_cds plastid
+AT3G10350 ortho_group3975_cds transport
+AT3G10405 ortho_group5385_cds chloroplast
+AT3G10405 ortho_group5385_cds developmental processes
+AT3G10405 ortho_group5385_cds unknown molecular functions
+AT3G10520 ortho_group3536_cds other biological processes
+AT3G10520 ortho_group3536_cds other cellular processes
+AT3G10520 ortho_group3536_cds other metabolic processes
+AT3G10520 ortho_group3536_cds transporter activity
+AT3G10520 ortho_group3536_cds unknown cellular components
+AT3G10540 ortho_group4794_cds kinase activity
+AT3G10540 ortho_group4794_cds other cellular processes
+AT3G10540 ortho_group4794_cds other metabolic processes
+AT3G10540 ortho_group4794_cds plasma membrane
+AT3G10540 ortho_group4794_cds protein binding
+AT3G10540 ortho_group4794_cds protein metabolism
+AT3G10660 ortho_group4150_cds ER
+AT3G10660 ortho_group4150_cds kinase activity
+AT3G10660 ortho_group4150_cds other cellular processes
+AT3G10660 ortho_group4150_cds other cytoplasmic components
+AT3G10660 ortho_group4150_cds other intracellular components
+AT3G10660 ortho_group4150_cds other membranes
+AT3G10660 ortho_group4150_cds other metabolic processes
+AT3G10660 ortho_group4150_cds protein metabolism
+AT3G10660 ortho_group4150_cds transferase activity
+AT3G10670 ortho_group3766_cds cell organization and biogenesis
+AT3G10670 ortho_group3766_cds chloroplast
+AT3G10670 ortho_group3766_cds developmental processes
+AT3G10670 ortho_group3766_cds hydrolase activity
+AT3G10670 ortho_group3766_cds other cellular processes
+AT3G10670 ortho_group3766_cds other cytoplasmic components
+AT3G10670 ortho_group3766_cds other intracellular components
+AT3G10670 ortho_group3766_cds other metabolic processes
+AT3G10670 ortho_group3766_cds plastid
+AT3G10670 ortho_group3766_cds protein binding
+AT3G10670 ortho_group3766_cds transporter activity
+AT3G10690 ortho_group4820_cds chloroplast
+AT3G10690 ortho_group4820_cds DNA or RNA binding
+AT3G10690 ortho_group4820_cds DNA or RNA metabolism
+AT3G10690 ortho_group4820_cds hydrolase activity
+AT3G10690 ortho_group4820_cds mitochondria
+AT3G10690 ortho_group4820_cds nucleotide binding
+AT3G10690 ortho_group4820_cds other cellular processes
+AT3G10690 ortho_group4820_cds other enzyme activity
+AT3G10690 ortho_group4820_cds other intracellular components
+AT3G10690 ortho_group4820_cds other metabolic processes
+AT3G10740 ortho_group3894_cds cell wall
+AT3G10740 ortho_group3894_cds extracellular
+AT3G10740 ortho_group3894_cds hydrolase activity
+AT3G10740 ortho_group3894_cds other cytoplasmic components
+AT3G10740 ortho_group3894_cds other intracellular components
+AT3G10740 ortho_group3894_cds other metabolic processes
+AT3G10770 ortho_group4419_cds nucleic acid binding
+AT3G10770 ortho_group4419_cds unknown biological processes
+AT3G10850 ortho_group4013_cds cytosol
+AT3G10850 ortho_group4013_cds hydrolase activity
+AT3G10850 ortho_group4013_cds other cellular processes
+AT3G10850 ortho_group4013_cds other cytoplasmic components
+AT3G10850 ortho_group4013_cds other metabolic processes
+AT3G10910 ortho_group3093_cds other binding
+AT3G10915 ortho_group3652_cds ER
+AT3G10915 ortho_group3652_cds unknown biological processes
+AT3G10940 ortho_group3823_cds chloroplast
+AT3G10940 ortho_group3823_cds hydrolase activity
+AT3G10940 ortho_group3823_cds other cellular processes
+AT3G10940 ortho_group3823_cds other metabolic processes
+AT3G10940 ortho_group3823_cds protein metabolism
+AT3G10970 ortho_group2861_cds chloroplast
+AT3G10970 ortho_group2861_cds hydrolase activity
+AT3G10970 ortho_group2861_cds other enzyme activity
+AT3G10970 ortho_group2861_cds other metabolic processes
+AT3G11130 ortho_group4450_cds cell organization and biogenesis
+AT3G11130 ortho_group4450_cds other cellular components
+AT3G11130 ortho_group4450_cds other cellular processes
+AT3G11130 ortho_group4450_cds other cytoplasmic components
+AT3G11130 ortho_group4450_cds other intracellular components
+AT3G11130 ortho_group4450_cds other membranes
+AT3G11130 ortho_group4450_cds plasma membrane
+AT3G11130 ortho_group4450_cds protein binding
+AT3G11130 ortho_group4450_cds structural molecule activity
+AT3G11130 ortho_group4450_cds transport
+AT3G11180 ortho_group4211_cds other binding
+AT3G11180 ortho_group4211_cds other enzyme activity
+AT3G11180 ortho_group4211_cds other metabolic processes
+AT3G11320 ortho_group3764_cds transporter activity
+AT3G11340 ortho_group3074_cds developmental processes
+AT3G11340 ortho_group3074_cds other cellular components
+AT3G11340 ortho_group3074_cds response to abiotic or biotic stimulus
+AT3G11340 ortho_group3074_cds response to stress
+AT3G11340 ortho_group3074_cds transferase activity
+AT3G11450 ortho_group3237_cds DNA or RNA binding
+AT3G11450 ortho_group3237_cds other cellular processes
+AT3G11450 ortho_group3237_cds other metabolic processes
+AT3G11450 ortho_group3237_cds protein binding
+AT3G11450 ortho_group3237_cds protein metabolism
+AT3G11450 ortho_group3237_cds unknown cellular components
+AT3G11530 ortho_group3340_cds other cytoplasmic components
+AT3G11530 ortho_group3340_cds other intracellular components
+AT3G11530 ortho_group3340_cds transport
+AT3G11530 ortho_group3340_cds transporter activity
+AT3G11560 ortho_group2600_cds chloroplast
+AT3G11560 ortho_group2600_cds other cytoplasmic components
+AT3G11560 ortho_group2600_cds other intracellular components
+AT3G11560 ortho_group2600_cds plastid
+AT3G11710 ortho_group2966_cds cytosol
+AT3G11710 ortho_group2966_cds nucleotide binding
+AT3G11710 ortho_group2966_cds other cellular components
+AT3G11710 ortho_group2966_cds other cellular processes
+AT3G11710 ortho_group2966_cds other enzyme activity
+AT3G11710 ortho_group2966_cds other metabolic processes
+AT3G11710 ortho_group2966_cds protein metabolism
+AT3G11740 ortho_group4141_cds unknown biological processes
+AT3G11740 ortho_group4141_cds unknown molecular functions
+AT3G11750 ortho_group3955_cds cytosol
+AT3G11750 ortho_group3955_cds other cellular processes
+AT3G11750 ortho_group3955_cds other enzyme activity
+AT3G11750 ortho_group3955_cds other metabolic processes
+AT3G11930 ortho_group4755_cds response to stress
+AT3G11930 ortho_group4755_cds unknown cellular components
+AT3G11930 ortho_group4755_cds unknown molecular functions
+AT3G11945 ortho_group4983_cds chloroplast
+AT3G11945 ortho_group4983_cds other cellular processes
+AT3G11945 ortho_group4983_cds other cytoplasmic components
+AT3G11945 ortho_group4983_cds other intracellular components
+AT3G11945 ortho_group4983_cds other metabolic processes
+AT3G11945 ortho_group4983_cds plastid
+AT3G11945 ortho_group4983_cds transferase activity
+AT3G11960 ortho_group2791_cds chloroplast
+AT3G11960 ortho_group2791_cds nucleic acid binding
+AT3G11960 ortho_group2791_cds nucleus
+AT3G11960 ortho_group2791_cds unknown biological processes
+AT3G11964 ortho_group4698_cds DNA or RNA binding
+AT3G11964 ortho_group4698_cds nucleus
+AT3G11964 ortho_group4698_cds other cellular processes
+AT3G11964 ortho_group4698_cds other intracellular components
+AT3G11964 ortho_group4698_cds other metabolic processes
+AT3G11964 ortho_group4698_cds plasma membrane
+AT3G12120 ortho_group4610_cds ER
+AT3G12120 ortho_group4610_cds other enzyme activity
+AT3G12120 ortho_group4610_cds other metabolic processes
+AT3G12140 ortho_group3670_cds unknown biological processes
+AT3G12140 ortho_group3670_cds unknown molecular functions
+AT3G12170 ortho_group3266_cds other cellular processes
+AT3G12170 ortho_group3266_cds other metabolic processes
+AT3G12170 ortho_group3266_cds protein binding
+AT3G12170 ortho_group3266_cds protein metabolism
+AT3G12180 ortho_group3159_cds other cellular components
+AT3G12180 ortho_group3159_cds other membranes
+AT3G12180 ortho_group3159_cds signal transduction
+AT3G12180 ortho_group3159_cds unknown molecular functions
+AT3G12210 ortho_group5560_cds DNA or RNA binding
+AT3G12210 ortho_group5560_cds DNA or RNA metabolism
+AT3G12210 ortho_group5560_cds other cellular processes
+AT3G12210 ortho_group5560_cds response to stress
+AT3G12220 ortho_group4596_cds hydrolase activity
+AT3G12220 ortho_group4596_cds other cellular components
+AT3G12220 ortho_group4596_cds protein metabolism
+AT3G12260 ortho_group2965_cds mitochondria
+AT3G12260 ortho_group2965_cds other cytoplasmic components
+AT3G12260 ortho_group2965_cds other enzyme activity
+AT3G12260 ortho_group2965_cds other intracellular components
+AT3G12260 ortho_group2965_cds other membranes
+AT3G12290 ortho_group4685_cds chloroplast
+AT3G12290 ortho_group4685_cds cytosol
+AT3G12290 ortho_group4685_cds other binding
+AT3G12290 ortho_group4685_cds other cellular processes
+AT3G12290 ortho_group4685_cds other enzyme activity
+AT3G12290 ortho_group4685_cds other metabolic processes
+AT3G12300 ortho_group3457_cds unknown biological processes
+AT3G12300 ortho_group3457_cds unknown molecular functions
+AT3G12390 ortho_group3915_cds cytosol
+AT3G12390 ortho_group3915_cds other cellular components
+AT3G12390 ortho_group3915_cds other cytoplasmic components
+AT3G12390 ortho_group3915_cds other intracellular components
+AT3G12390 ortho_group3915_cds response to abiotic or biotic stimulus
+AT3G12390 ortho_group3915_cds response to stress
+AT3G12390 ortho_group3915_cds ribosome
+AT3G12550 ortho_group2590_cds unknown biological processes
+AT3G12550 ortho_group2590_cds unknown cellular components
+AT3G12550 ortho_group2590_cds unknown molecular functions
+AT3G12685 ortho_group3287_cds unknown biological processes
+AT3G12685 ortho_group3287_cds unknown cellular components
+AT3G12685 ortho_group3287_cds unknown molecular functions
+AT3G12740 ortho_group4846_cds Golgi apparatus
+AT3G12740 ortho_group4846_cds other membranes
+AT3G12740 ortho_group4846_cds transport
+AT3G12760 ortho_group3856_cds unknown biological processes
+AT3G12760 ortho_group3856_cds unknown molecular functions
+AT3G12800 ortho_group4659_cds other binding
+AT3G12800 ortho_group4659_cds other cytoplasmic components
+AT3G12800 ortho_group4659_cds other enzyme activity
+AT3G12800 ortho_group4659_cds other intracellular components
+AT3G12800 ortho_group4659_cds other membranes
+AT3G12800 ortho_group4659_cds other metabolic processes
+AT3G12810 ortho_group3404_cds cell wall
+AT3G12810 ortho_group3404_cds developmental processes
+AT3G12810 ortho_group3404_cds DNA or RNA binding
+AT3G12810 ortho_group3404_cds hydrolase activity
+AT3G12810 ortho_group3404_cds nucleotide binding
+AT3G12810 ortho_group3404_cds nucleus
+AT3G12810 ortho_group3404_cds other biological processes
+AT3G12810 ortho_group3404_cds other intracellular components
+AT3G12810 ortho_group3404_cds protein binding
+AT3G12810 ortho_group3404_cds response to abiotic or biotic stimulus
+AT3G12810 ortho_group3404_cds response to stress
+AT3G12860 ortho_group3206_cds unknown biological processes
+AT3G12915 ortho_group4023_cds hydrolase activity
+AT3G12915 ortho_group4023_cds nucleotide binding
+AT3G12915 ortho_group4023_cds unknown biological processes
+AT3G12915 ortho_group4023_cds unknown cellular components
+AT3G12930 ortho_group5413_cds chloroplast
+AT3G12930 ortho_group5413_cds unknown biological processes
+AT3G13050 ortho_group4265_cds other membranes
+AT3G13050 ortho_group4265_cds plasma membrane
+AT3G13050 ortho_group4265_cds transport
+AT3G13050 ortho_group4265_cds transporter activity
+AT3G13060 ortho_group2623_cds cytosol
+AT3G13060 ortho_group2623_cds unknown biological processes
+AT3G13060 ortho_group2623_cds unknown molecular functions
+AT3G13062 ortho_group5021_cds unknown biological processes
+AT3G13062 ortho_group5021_cds unknown cellular components
+AT3G13062 ortho_group5021_cds unknown molecular functions
+AT3G13120 ortho_group3196_cds chloroplast
+AT3G13120 ortho_group3196_cds DNA or RNA binding
+AT3G13120 ortho_group3196_cds other cellular processes
+AT3G13120 ortho_group3196_cds other cytoplasmic components
+AT3G13120 ortho_group3196_cds other intracellular components
+AT3G13120 ortho_group3196_cds other metabolic processes
+AT3G13120 ortho_group3196_cds plastid
+AT3G13120 ortho_group3196_cds protein metabolism
+AT3G13120 ortho_group3196_cds ribosome
+AT3G13120 ortho_group3196_cds structural molecule activity
+AT3G13200 ortho_group4629_cds other cellular processes
+AT3G13200 ortho_group4629_cds other metabolic processes
+AT3G13200 ortho_group4629_cds unknown molecular functions
+AT3G13224 ortho_group3123_cds DNA or RNA binding
+AT3G13224 ortho_group3123_cds nucleic acid binding
+AT3G13224 ortho_group3123_cds nucleotide binding
+AT3G13224 ortho_group3123_cds unknown biological processes
+AT3G13224 ortho_group3123_cds unknown cellular components
+AT3G13235 ortho_group3816_cds cytosol
+AT3G13235 ortho_group3816_cds hydrolase activity
+AT3G13235 ortho_group3816_cds nucleus
+AT3G13235 ortho_group3816_cds other biological processes
+AT3G13290 ortho_group3931_cds nucleotide binding
+AT3G13300 ortho_group3931_cds cytosol
+AT3G13300 ortho_group3931_cds developmental processes
+AT3G13300 ortho_group3931_cds nucleotide binding
+AT3G13300 ortho_group3931_cds nucleus
+AT3G13300 ortho_group3931_cds other cellular processes
+AT3G13300 ortho_group3931_cds other cytoplasmic components
+AT3G13300 ortho_group3931_cds other intracellular components
+AT3G13300 ortho_group3931_cds other metabolic processes
+AT3G13300 ortho_group3931_cds protein binding
+AT3G13320 ortho_group4947_cds other cellular components
+AT3G13320 ortho_group4947_cds other cytoplasmic components
+AT3G13320 ortho_group4947_cds other intracellular components
+AT3G13320 ortho_group4947_cds other membranes
+AT3G13320 ortho_group4947_cds transport
+AT3G13320 ortho_group4947_cds transporter activity
+AT3G13330 ortho_group4867_cds other binding
+AT3G13330 ortho_group4867_cds unknown cellular components
+AT3G13445 ortho_group5339_cds DNA or RNA binding
+AT3G13445 ortho_group5339_cds other binding
+AT3G13445 ortho_group5339_cds other cellular processes
+AT3G13445 ortho_group5339_cds other metabolic processes
+AT3G13445 ortho_group5339_cds protein binding
+AT3G13450 ortho_group5178_cds other biological processes
+AT3G13450 ortho_group5178_cds other enzyme activity
+AT3G13450 ortho_group5178_cds response to abiotic or biotic stimulus
+AT3G13460 ortho_group5239_cds cytosol
+AT3G13460 ortho_group5239_cds nucleus
+AT3G13460 ortho_group5239_cds other cytoplasmic components
+AT3G13460 ortho_group5239_cds protein binding
+AT3G13470 ortho_group4517_cds chloroplast
+AT3G13470 ortho_group4517_cds cytosol
+AT3G13470 ortho_group4517_cds mitochondria
+AT3G13470 ortho_group4517_cds nucleotide binding
+AT3G13470 ortho_group4517_cds nucleus
+AT3G13470 ortho_group4517_cds other cellular processes
+AT3G13470 ortho_group4517_cds other cytoplasmic components
+AT3G13470 ortho_group4517_cds other intracellular components
+AT3G13470 ortho_group4517_cds other metabolic processes
+AT3G13470 ortho_group4517_cds plastid
+AT3G13470 ortho_group4517_cds protein metabolism
+AT3G13470 ortho_group4517_cds ribosome
+AT3G13490 ortho_group2966_cds chloroplast
+AT3G13490 ortho_group2966_cds developmental processes
+AT3G13490 ortho_group2966_cds mitochondria
+AT3G13490 ortho_group2966_cds nucleic acid binding
+AT3G13490 ortho_group2966_cds nucleotide binding
+AT3G13490 ortho_group2966_cds other cellular processes
+AT3G13490 ortho_group2966_cds other cytoplasmic components
+AT3G13490 ortho_group2966_cds other enzyme activity
+AT3G13490 ortho_group2966_cds other metabolic processes
+AT3G13490 ortho_group2966_cds protein metabolism
+AT3G13530 ortho_group2793_cds cell organization and biogenesis
+AT3G13530 ortho_group2793_cds cytosol
+AT3G13530 ortho_group2793_cds developmental processes
+AT3G13530 ortho_group2793_cds kinase activity
+AT3G13530 ortho_group2793_cds nucleotide binding
+AT3G13530 ortho_group2793_cds other binding
+AT3G13530 ortho_group2793_cds other cellular processes
+AT3G13530 ortho_group2793_cds other metabolic processes
+AT3G13530 ortho_group2793_cds plasma membrane
+AT3G13530 ortho_group2793_cds protein metabolism
+AT3G13530 ortho_group2793_cds transferase activity
+AT3G13550 ortho_group3798_cds developmental processes
+AT3G13550 ortho_group3798_cds nucleus
+AT3G13550 ortho_group3798_cds other enzyme activity
+AT3G13550 ortho_group3798_cds protein binding
+AT3G13550 ortho_group3798_cds response to abiotic or biotic stimulus
+AT3G13570 ortho_group4677_cds cytosol
+AT3G13570 ortho_group4677_cds DNA or RNA binding
+AT3G13570 ortho_group4677_cds nucleic acid binding
+AT3G13570 ortho_group4677_cds nucleotide binding
+AT3G13570 ortho_group4677_cds nucleus
+AT3G13570 ortho_group4677_cds other cellular processes
+AT3G13570 ortho_group4677_cds other intracellular components
+AT3G13570 ortho_group4677_cds other metabolic processes
+AT3G13580 ortho_group3519_cds chloroplast
+AT3G13580 ortho_group3519_cds cytosol
+AT3G13580 ortho_group3519_cds other cellular processes
+AT3G13580 ortho_group3519_cds other cytoplasmic components
+AT3G13580 ortho_group3519_cds other intracellular components
+AT3G13580 ortho_group3519_cds other membranes
+AT3G13580 ortho_group3519_cds other metabolic processes
+AT3G13580 ortho_group3519_cds protein metabolism
+AT3G13580 ortho_group3519_cds ribosome
+AT3G13580 ortho_group3519_cds structural molecule activity
+AT3G13660 ortho_group4760_cds other cellular processes
+AT3G13660 ortho_group4760_cds other metabolic processes
+AT3G13660 ortho_group4760_cds response to stress
+AT3G13660 ortho_group4760_cds unknown molecular functions
+AT3G13690 ortho_group2825_cds kinase activity
+AT3G13690 ortho_group2825_cds other cellular processes
+AT3G13690 ortho_group2825_cds other metabolic processes
+AT3G13690 ortho_group2825_cds protein metabolism
+AT3G13690 ortho_group2825_cds transferase activity
+AT3G13690 ortho_group2825_cds unknown cellular components
+AT3G13700 ortho_group3552_cds DNA or RNA binding
+AT3G13700 ortho_group3552_cds nucleic acid binding
+AT3G13700 ortho_group3552_cds nucleotide binding
+AT3G13700 ortho_group3552_cds unknown biological processes
+AT3G13700 ortho_group3552_cds unknown cellular components
+AT3G13740 ortho_group4406_cds DNA or RNA binding
+AT3G13740 ortho_group4406_cds hydrolase activity
+AT3G13740 ortho_group4406_cds other cellular processes
+AT3G13740 ortho_group4406_cds other metabolic processes
+AT3G13750 ortho_group4692_cds cell wall
+AT3G13750 ortho_group4692_cds hydrolase activity
+AT3G13750 ortho_group4692_cds other cellular components
+AT3G13750 ortho_group4692_cds other metabolic processes
+AT3G13772 ortho_group4521_cds Golgi apparatus
+AT3G13772 ortho_group4521_cds nucleus
+AT3G13772 ortho_group4521_cds other cellular processes
+AT3G13772 ortho_group4521_cds other cytoplasmic components
+AT3G13772 ortho_group4521_cds other intracellular components
+AT3G13772 ortho_group4521_cds other membranes
+AT3G13790 ortho_group4704_cds cell wall
+AT3G13790 ortho_group4704_cds hydrolase activity
+AT3G13790 ortho_group4704_cds response to abiotic or biotic stimulus
+AT3G13790 ortho_group4704_cds response to stress
+AT3G13860 ortho_group4517_cds mitochondria
+AT3G13860 ortho_group4517_cds nucleotide binding
+AT3G13860 ortho_group4517_cds other biological processes
+AT3G13860 ortho_group4517_cds other cytoplasmic components
+AT3G13860 ortho_group4517_cds other intracellular components
+AT3G13860 ortho_group4517_cds other membranes
+AT3G13882 ortho_group3320_cds other cellular processes
+AT3G13882 ortho_group3320_cds other intracellular components
+AT3G13882 ortho_group3320_cds other metabolic processes
+AT3G13882 ortho_group3320_cds protein metabolism
+AT3G13882 ortho_group3320_cds ribosome
+AT3G13882 ortho_group3320_cds structural molecule activity
+AT3G14110 ortho_group2618_cds chloroplast
+AT3G14110 ortho_group2618_cds other binding
+AT3G14110 ortho_group2618_cds other cellular processes
+AT3G14110 ortho_group2618_cds other cytoplasmic components
+AT3G14110 ortho_group2618_cds other intracellular components
+AT3G14110 ortho_group2618_cds other membranes
+AT3G14110 ortho_group2618_cds other metabolic processes
+AT3G14110 ortho_group2618_cds plastid
+AT3G14110 ortho_group2618_cds protein binding
+AT3G14110 ortho_group2618_cds response to stress
+AT3G14160 ortho_group3339_cds other enzyme activity
+AT3G14160 ortho_group3339_cds unknown biological processes
+AT3G14160 ortho_group3339_cds unknown cellular components
+AT3G14200 ortho_group4069_cds other cellular processes
+AT3G14200 ortho_group4069_cds other metabolic processes
+AT3G14200 ortho_group4069_cds protein binding
+AT3G14200 ortho_group4069_cds protein metabolism
+AT3G14200 ortho_group4069_cds unknown cellular components
+AT3G14205 ortho_group3909_cds hydrolase activity
+AT3G14205 ortho_group3909_cds unknown biological processes
+AT3G14290 ortho_group4421_cds cytosol
+AT3G14290 ortho_group4421_cds hydrolase activity
+AT3G14290 ortho_group4421_cds other cellular processes
+AT3G14290 ortho_group4421_cds other cytoplasmic components
+AT3G14290 ortho_group4421_cds other intracellular components
+AT3G14290 ortho_group4421_cds other metabolic processes
+AT3G14290 ortho_group4421_cds protein metabolism
+AT3G14290 ortho_group4421_cds ribosome
+AT3G14310 ortho_group4622_cds cell wall
+AT3G14310 ortho_group4622_cds extracellular
+AT3G14310 ortho_group4622_cds hydrolase activity
+AT3G14310 ortho_group4622_cds other cytoplasmic components
+AT3G14310 ortho_group4622_cds plasma membrane
+AT3G14310 ortho_group4622_cds response to abiotic or biotic stimulus
+AT3G14415 ortho_group3753_cds chloroplast
+AT3G14415 ortho_group3753_cds extracellular
+AT3G14415 ortho_group3753_cds nucleotide binding
+AT3G14415 ortho_group3753_cds nucleus
+AT3G14415 ortho_group3753_cds other binding
+AT3G14415 ortho_group3753_cds other cytoplasmic components
+AT3G14415 ortho_group3753_cds other enzyme activity
+AT3G14415 ortho_group3753_cds other intracellular components
+AT3G14415 ortho_group3753_cds other metabolic processes
+AT3G14415 ortho_group3753_cds plastid
+AT3G14420 ortho_group4328_cds chloroplast
+AT3G14420 ortho_group4328_cds cytosol
+AT3G14420 ortho_group4328_cds extracellular
+AT3G14420 ortho_group4328_cds nucleus
+AT3G14420 ortho_group4328_cds other cellular components
+AT3G14420 ortho_group4328_cds other cytoplasmic components
+AT3G14420 ortho_group4328_cds other enzyme activity
+AT3G14420 ortho_group4328_cds other intracellular components
+AT3G14420 ortho_group4328_cds other membranes
+AT3G14420 ortho_group4328_cds other metabolic processes
+AT3G14420 ortho_group4328_cds plastid
+AT3G14420 ortho_group4328_cds ribosome
+AT3G14490 ortho_group5497_cds chloroplast
+AT3G14490 ortho_group5497_cds other binding
+AT3G14490 ortho_group5497_cds other enzyme activity
+AT3G14490 ortho_group5497_cds other metabolic processes
+AT3G14650 ortho_group4427_cds other binding
+AT3G14650 ortho_group4427_cds other cellular components
+AT3G14650 ortho_group4427_cds other enzyme activity
+AT3G14650 ortho_group4427_cds other metabolic processes
+AT3G14650 ortho_group4427_cds other molecular functions
+AT3G14680 ortho_group4543_cds other binding
+AT3G14680 ortho_group4543_cds other cellular components
+AT3G14680 ortho_group4543_cds other enzyme activity
+AT3G14680 ortho_group4543_cds other metabolic processes
+AT3G14680 ortho_group4543_cds other molecular functions
+AT3G14690 ortho_group4427_cds other binding
+AT3G14690 ortho_group4427_cds other cellular components
+AT3G14690 ortho_group4427_cds other enzyme activity
+AT3G14690 ortho_group4427_cds other molecular functions
+AT3G14770 ortho_group3671_cds other cellular components
+AT3G14770 ortho_group3671_cds other membranes
+AT3G14770 ortho_group3671_cds plasma membrane
+AT3G14770 ortho_group3671_cds transporter activity
+AT3G14770 ortho_group3671_cds unknown biological processes
+AT3G14770 ortho_group3671_cds unknown molecular functions
+AT3G14840 ortho_group3418_cds kinase activity
+AT3G14840 ortho_group3418_cds nucleotide binding
+AT3G14840 ortho_group3418_cds other cellular components
+AT3G14840 ortho_group3418_cds other cellular processes
+AT3G14840 ortho_group3418_cds other metabolic processes
+AT3G14840 ortho_group3418_cds plasma membrane
+AT3G14840 ortho_group3418_cds protein metabolism
+AT3G14840 ortho_group3418_cds transferase activity
+AT3G14850 ortho_group2709_cds other cellular components
+AT3G14850 ortho_group2709_cds unknown biological processes
+AT3G14920 ortho_group4666_cds cell wall
+AT3G14920 ortho_group4666_cds other cytoplasmic components
+AT3G14920 ortho_group4666_cds other intracellular components
+AT3G14920 ortho_group4666_cds other membranes
+AT3G14920 ortho_group4666_cds unknown biological processes
+AT3G14960 ortho_group4144_cds other cellular processes
+AT3G14960 ortho_group4144_cds other metabolic processes
+AT3G14960 ortho_group4144_cds protein metabolism
+AT3G14960 ortho_group4144_cds transferase activity
+AT3G14980 ortho_group3624_cds DNA or RNA binding
+AT3G14980 ortho_group3624_cds nucleus
+AT3G14980 ortho_group3624_cds other binding
+AT3G14980 ortho_group3624_cds other cellular components
+AT3G14980 ortho_group3624_cds other cellular processes
+AT3G14980 ortho_group3624_cds other metabolic processes
+AT3G14980 ortho_group3624_cds transferase activity
+AT3G15050 ortho_group2678_cds chloroplast
+AT3G15050 ortho_group2678_cds protein binding
+AT3G15050 ortho_group2678_cds unknown biological processes
+AT3G15090 ortho_group3334_cds mitochondria
+AT3G15090 ortho_group3334_cds other binding
+AT3G15090 ortho_group3334_cds other enzyme activity
+AT3G15090 ortho_group3334_cds other metabolic processes
+AT3G15260 ortho_group4146_cds hydrolase activity
+AT3G15260 ortho_group4146_cds other enzyme activity
+AT3G15351 ortho_group2836_cds unknown biological processes
+AT3G15351 ortho_group2836_cds unknown cellular components
+AT3G15351 ortho_group2836_cds unknown molecular functions
+AT3G15354 ortho_group5083_cds other cellular processes
+AT3G15354 ortho_group5083_cds other intracellular components
+AT3G15354 ortho_group5083_cds other membranes
+AT3G15354 ortho_group5083_cds other metabolic processes
+AT3G15354 ortho_group5083_cds other molecular functions
+AT3G15354 ortho_group5083_cds plasma membrane
+AT3G15354 ortho_group5083_cds protein binding
+AT3G15354 ortho_group5083_cds protein metabolism
+AT3G15355 ortho_group3486_cds other cellular processes
+AT3G15355 ortho_group3486_cds other enzyme activity
+AT3G15355 ortho_group3486_cds other metabolic processes
+AT3G15355 ortho_group3486_cds protein metabolism
+AT3G15355 ortho_group3486_cds unknown cellular components
+AT3G15410 ortho_group5130_cds signal transduction
+AT3G15540 ortho_group3054_cds developmental processes
+AT3G15540 ortho_group3054_cds nucleus
+AT3G15540 ortho_group3054_cds other biological processes
+AT3G15540 ortho_group3054_cds protein binding
+AT3G15540 ortho_group3054_cds response to abiotic or biotic stimulus
+AT3G15540 ortho_group3054_cds transcription factor activity
+AT3G15580 ortho_group2684_cds hydrolase activity
+AT3G15580 ortho_group2684_cds other cellular processes
+AT3G15580 ortho_group2684_cds other cytoplasmic components
+AT3G15580 ortho_group2684_cds other enzyme activity
+AT3G15580 ortho_group2684_cds other intracellular components
+AT3G15580 ortho_group2684_cds other metabolic processes
+AT3G15580 ortho_group2684_cds protein binding
+AT3G15610 ortho_group4319_cds cytosol
+AT3G15610 ortho_group4319_cds nucleotide binding
+AT3G15610 ortho_group4319_cds other intracellular components
+AT3G15610 ortho_group4319_cds unknown biological processes
+AT3G15660 ortho_group2721_cds mitochondria
+AT3G15660 ortho_group2721_cds other binding
+AT3G15660 ortho_group2721_cds other cellular processes
+AT3G15660 ortho_group2721_cds protein binding
+AT3G15710 ortho_group5015_cds ER
+AT3G15710 ortho_group5015_cds hydrolase activity
+AT3G15710 ortho_group5015_cds other cellular processes
+AT3G15710 ortho_group5015_cds other cytoplasmic components
+AT3G15710 ortho_group5015_cds other intracellular components
+AT3G15710 ortho_group5015_cds other membranes
+AT3G15710 ortho_group5015_cds other metabolic processes
+AT3G15710 ortho_group5015_cds plasma membrane
+AT3G15710 ortho_group5015_cds protein metabolism
+AT3G15870 ortho_group2896_cds other enzyme activity
+AT3G15870 ortho_group2896_cds other metabolic processes
+AT3G16100 ortho_group2692_cds nucleotide binding
+AT3G16100 ortho_group2692_cds nucleus
+AT3G16100 ortho_group2692_cds plasma membrane
+AT3G16100 ortho_group2692_cds signal transduction
+AT3G16100 ortho_group2692_cds transport
+AT3G16140 ortho_group2738_cds chloroplast
+AT3G16140 ortho_group2738_cds other cellular processes
+AT3G16140 ortho_group2738_cds other cytoplasmic components
+AT3G16140 ortho_group2738_cds other intracellular components
+AT3G16140 ortho_group2738_cds other membranes
+AT3G16140 ortho_group2738_cds other metabolic processes
+AT3G16140 ortho_group2738_cds plastid
+AT3G16140 ortho_group2738_cds unknown molecular functions
+AT3G16170 ortho_group4457_cds cytosol
+AT3G16170 ortho_group4457_cds nucleotide binding
+AT3G16170 ortho_group4457_cds nucleus
+AT3G16170 ortho_group4457_cds other cellular processes
+AT3G16170 ortho_group4457_cds other enzyme activity
+AT3G16170 ortho_group4457_cds other membranes
+AT3G16170 ortho_group4457_cds other metabolic processes
+AT3G16220 ortho_group2558_cds other cellular processes
+AT3G16220 ortho_group2558_cds other cytoplasmic components
+AT3G16220 ortho_group2558_cds other metabolic processes
+AT3G16220 ortho_group2558_cds unknown molecular functions
+AT3G16340 ortho_group5450_cds hydrolase activity
+AT3G16340 ortho_group5450_cds other cellular processes
+AT3G16340 ortho_group5450_cds plasma membrane
+AT3G16340 ortho_group5450_cds transport
+AT3G16340 ortho_group5450_cds transporter activity
+AT3G16500 ortho_group3282_cds nucleus
+AT3G16500 ortho_group3282_cds other biological processes
+AT3G16500 ortho_group3282_cds transcription factor activity
+AT3G16565 ortho_group5086_cds nucleic acid binding
+AT3G16565 ortho_group5086_cds nucleotide binding
+AT3G16565 ortho_group5086_cds other cellular processes
+AT3G16565 ortho_group5086_cds other cytoplasmic components
+AT3G16565 ortho_group5086_cds other enzyme activity
+AT3G16565 ortho_group5086_cds other metabolic processes
+AT3G16565 ortho_group5086_cds protein metabolism
+AT3G16857 ortho_group4196_cds developmental processes
+AT3G16857 ortho_group4196_cds nucleus
+AT3G16857 ortho_group4196_cds other biological processes
+AT3G16857 ortho_group4196_cds other cellular processes
+AT3G16857 ortho_group4196_cds other metabolic processes
+AT3G16857 ortho_group4196_cds other molecular functions
+AT3G16857 ortho_group4196_cds protein binding
+AT3G16857 ortho_group4196_cds signal transduction
+AT3G16857 ortho_group4196_cds transcription factor activity
+AT3G16870 ortho_group4415_cds other cellular processes
+AT3G16870 ortho_group4415_cds other metabolic processes
+AT3G16870 ortho_group4415_cds transcription factor activity
+AT3G16910 ortho_group3487_cds nucleotide binding
+AT3G16910 ortho_group3487_cds other cellular processes
+AT3G16910 ortho_group3487_cds other cytoplasmic components
+AT3G16910 ortho_group3487_cds other enzyme activity
+AT3G16910 ortho_group3487_cds other intracellular components
+AT3G16910 ortho_group3487_cds other metabolic processes
+AT3G16980 ortho_group3226_cds DNA or RNA binding
+AT3G16980 ortho_group3226_cds nucleic acid binding
+AT3G16980 ortho_group3226_cds nucleus
+AT3G16980 ortho_group3226_cds other binding
+AT3G16980 ortho_group3226_cds other cellular processes
+AT3G16980 ortho_group3226_cds other intracellular components
+AT3G16980 ortho_group3226_cds other metabolic processes
+AT3G16980 ortho_group3226_cds transferase activity
+AT3G17000 ortho_group3350_cds other cellular processes
+AT3G17000 ortho_group3350_cds other enzyme activity
+AT3G17000 ortho_group3350_cds other metabolic processes
+AT3G17000 ortho_group3350_cds protein metabolism
+AT3G17020 ortho_group4600_cds plasma membrane
+AT3G17020 ortho_group4600_cds response to abiotic or biotic stimulus
+AT3G17020 ortho_group4600_cds response to stress
+AT3G17020 ortho_group4600_cds unknown molecular functions
+AT3G17170 ortho_group3482_cds chloroplast
+AT3G17170 ortho_group3482_cds DNA or RNA binding
+AT3G17170 ortho_group3482_cds other cellular processes
+AT3G17170 ortho_group3482_cds other metabolic processes
+AT3G17170 ortho_group3482_cds protein metabolism
+AT3G17170 ortho_group3482_cds ribosome
+AT3G17170 ortho_group3482_cds structural molecule activity
+AT3G17205 ortho_group3302_cds other cellular processes
+AT3G17205 ortho_group3302_cds other enzyme activity
+AT3G17205 ortho_group3302_cds other intracellular components
+AT3G17205 ortho_group3302_cds other metabolic processes
+AT3G17205 ortho_group3302_cds protein metabolism
+AT3G17440 ortho_group2888_cds plasma membrane
+AT3G17440 ortho_group2888_cds unknown molecular functions
+AT3G17465 ortho_group4582_cds mitochondria
+AT3G17465 ortho_group4582_cds other cellular processes
+AT3G17465 ortho_group4582_cds other metabolic processes
+AT3G17465 ortho_group4582_cds protein metabolism
+AT3G17465 ortho_group4582_cds ribosome
+AT3G17465 ortho_group4582_cds structural molecule activity
+AT3G17510 ortho_group4911_cds kinase activity
+AT3G17510 ortho_group4911_cds other biological processes
+AT3G17510 ortho_group4911_cds plasma membrane
+AT3G17510 ortho_group4911_cds protein binding
+AT3G17510 ortho_group4911_cds response to abiotic or biotic stimulus
+AT3G17510 ortho_group4911_cds response to stress
+AT3G17590 ortho_group4001_cds cell organization and biogenesis
+AT3G17590 ortho_group4001_cds nucleus
+AT3G17590 ortho_group4001_cds other binding
+AT3G17590 ortho_group4001_cds other cellular processes
+AT3G17590 ortho_group4001_cds protein binding
+AT3G17668 ortho_group5066_cds chloroplast
+AT3G17668 ortho_group5066_cds other cellular processes
+AT3G17668 ortho_group5066_cds other metabolic processes
+AT3G17668 ortho_group5066_cds protein binding
+AT3G17668 ortho_group5066_cds protein metabolism
+AT3G17730 ortho_group4432_cds developmental processes
+AT3G17730 ortho_group4432_cds other cellular processes
+AT3G17730 ortho_group4432_cds other metabolic processes
+AT3G17730 ortho_group4432_cds transcription factor activity
+AT3G17740 ortho_group5000_cds unknown biological processes
+AT3G17740 ortho_group5000_cds unknown cellular components
+AT3G17740 ortho_group5000_cds unknown molecular functions
+AT3G17880 ortho_group4143_cds cell organization and biogenesis
+AT3G17880 ortho_group4143_cds other cellular processes
+AT3G17880 ortho_group4143_cds other enzyme activity
+AT3G17880 ortho_group4143_cds other metabolic processes
+AT3G17880 ortho_group4143_cds protein binding
+AT3G17880 ortho_group4143_cds protein metabolism
+AT3G17880 ortho_group4143_cds response to abiotic or biotic stimulus
+AT3G17880 ortho_group4143_cds response to stress
+AT3G17880 ortho_group4143_cds unknown cellular components
+AT3G17910 ortho_group2734_cds cell organization and biogenesis
+AT3G17910 ortho_group2734_cds mitochondria
+AT3G17910 ortho_group2734_cds other cellular processes
+AT3G17910 ortho_group2734_cds unknown molecular functions
+AT3G17930 ortho_group3817_cds chloroplast
+AT3G17930 ortho_group3817_cds other cytoplasmic components
+AT3G17930 ortho_group3817_cds other intracellular components
+AT3G17930 ortho_group3817_cds other membranes
+AT3G17930 ortho_group3817_cds plastid
+AT3G17930 ortho_group3817_cds unknown biological processes
+AT3G17930 ortho_group3817_cds unknown molecular functions
+AT3G17970 ortho_group2540_cds chloroplast
+AT3G17970 ortho_group2540_cds other binding
+AT3G17970 ortho_group2540_cds other cytoplasmic components
+AT3G17970 ortho_group2540_cds other enzyme activity
+AT3G17970 ortho_group2540_cds other intracellular components
+AT3G17970 ortho_group2540_cds other membranes
+AT3G17970 ortho_group2540_cds plastid
+AT3G17980 ortho_group3129_cds unknown biological processes
+AT3G17980 ortho_group3129_cds unknown molecular functions
+AT3G18000 ortho_group2573_cds cell organization and biogenesis
+AT3G18000 ortho_group2573_cds cytosol
+AT3G18000 ortho_group2573_cds developmental processes
+AT3G18000 ortho_group2573_cds other cellular processes
+AT3G18000 ortho_group2573_cds other cytoplasmic components
+AT3G18000 ortho_group2573_cds other metabolic processes
+AT3G18000 ortho_group2573_cds transferase activity
+AT3G18040 ortho_group5545_cds cytosol
+AT3G18040 ortho_group5545_cds kinase activity
+AT3G18040 ortho_group5545_cds mitochondria
+AT3G18040 ortho_group5545_cds nucleus
+AT3G18040 ortho_group5545_cds other cellular processes
+AT3G18040 ortho_group5545_cds signal transduction
+AT3G18040 ortho_group5545_cds transferase activity
+AT3G18080 ortho_group5340_cds cell wall
+AT3G18080 ortho_group5340_cds cytosol
+AT3G18080 ortho_group5340_cds hydrolase activity
+AT3G18080 ortho_group5340_cds other cytoplasmic components
+AT3G18080 ortho_group5340_cds other intracellular components
+AT3G18080 ortho_group5340_cds other metabolic processes
+AT3G18080 ortho_group5340_cds ribosome
+AT3G18165 ortho_group3829_cds nucleus
+AT3G18165 ortho_group3829_cds other intracellular components
+AT3G18165 ortho_group3829_cds protein binding
+AT3G18165 ortho_group3829_cds response to abiotic or biotic stimulus
+AT3G18165 ortho_group3829_cds response to stress
+AT3G18165 ortho_group3829_cds signal transduction
+AT3G18190 ortho_group2454_cds cytosol
+AT3G18190 ortho_group2454_cds nucleotide binding
+AT3G18190 ortho_group2454_cds other biological processes
+AT3G18190 ortho_group2454_cds protein binding
+AT3G18210 ortho_group3949_cds other binding
+AT3G18210 ortho_group3949_cds other enzyme activity
+AT3G18210 ortho_group3949_cds other metabolic processes
+AT3G18210 ortho_group3949_cds unknown cellular components
+AT3G18370 ortho_group4632_cds unknown biological processes
+AT3G18370 ortho_group4632_cds unknown molecular functions
+AT3G18380 ortho_group3654_cds DNA or RNA binding
+AT3G18380 ortho_group3654_cds other cellular processes
+AT3G18380 ortho_group3654_cds other metabolic processes
+AT3G18380 ortho_group3654_cds transcription factor activity
+AT3G18390 ortho_group3445_cds chloroplast
+AT3G18390 ortho_group3445_cds developmental processes
+AT3G18390 ortho_group3445_cds DNA or RNA binding
+AT3G18390 ortho_group3445_cds other biological processes
+AT3G18480 ortho_group3722_cds Golgi apparatus
+AT3G18480 ortho_group3722_cds other cellular processes
+AT3G18480 ortho_group3722_cds other membranes
+AT3G18480 ortho_group3722_cds transport
+AT3G18600 ortho_group3049_cds hydrolase activity
+AT3G18600 ortho_group3049_cds nucleic acid binding
+AT3G18600 ortho_group3049_cds nucleotide binding
+AT3G18600 ortho_group3049_cds nucleus
+AT3G18600 ortho_group3049_cds other intracellular components
+AT3G18730 ortho_group2562_cds developmental processes
+AT3G18730 ortho_group2562_cds nucleus
+AT3G18730 ortho_group2562_cds other cellular processes
+AT3G18730 ortho_group2562_cds other membranes
+AT3G18730 ortho_group2562_cds protein binding
+AT3G18760 ortho_group3011_cds DNA or RNA binding
+AT3G18760 ortho_group3011_cds other cellular processes
+AT3G18760 ortho_group3011_cds other metabolic processes
+AT3G18760 ortho_group3011_cds protein metabolism
+AT3G18760 ortho_group3011_cds ribosome
+AT3G18760 ortho_group3011_cds structural molecule activity
+AT3G18820 ortho_group4230_cds nucleotide binding
+AT3G18820 ortho_group4230_cds nucleus
+AT3G18820 ortho_group4230_cds plasma membrane
+AT3G18820 ortho_group4230_cds signal transduction
+AT3G18820 ortho_group4230_cds transport
+AT3G18850 ortho_group2595_cds other metabolic processes
+AT3G18850 ortho_group2595_cds transferase activity
+AT3G18860 ortho_group5484_cds cytosol
+AT3G18860 ortho_group5484_cds nucleotide binding
+AT3G18860 ortho_group5484_cds other cellular components
+AT3G18860 ortho_group5484_cds unknown biological processes
+AT3G18940 ortho_group3533_cds unknown biological processes
+AT3G18940 ortho_group3533_cds unknown cellular components
+AT3G18940 ortho_group3533_cds unknown molecular functions
+AT3G19130 ortho_group3296_cds cytosol
+AT3G19130 ortho_group3296_cds DNA or RNA binding
+AT3G19170 ortho_group5012_cds chloroplast
+AT3G19170 ortho_group5012_cds extracellular
+AT3G19170 ortho_group5012_cds hydrolase activity
+AT3G19170 ortho_group5012_cds mitochondria
+AT3G19170 ortho_group5012_cds other biological processes
+AT3G19170 ortho_group5012_cds other cytoplasmic components
+AT3G19170 ortho_group5012_cds other intracellular components
+AT3G19170 ortho_group5012_cds other metabolic processes
+AT3G19170 ortho_group5012_cds plastid
+AT3G19170 ortho_group5012_cds protein metabolism
+AT3G19240 ortho_group2946_cds other cellular processes
+AT3G19240 ortho_group2946_cds other metabolic processes
+AT3G19240 ortho_group2946_cds protein metabolism
+AT3G19240 ortho_group2946_cds unknown molecular functions
+AT3G19290 ortho_group5534_cds DNA or RNA binding
+AT3G19290 ortho_group5534_cds nucleus
+AT3G19290 ortho_group5534_cds other biological processes
+AT3G19290 ortho_group5534_cds other cellular processes
+AT3G19290 ortho_group5534_cds other metabolic processes
+AT3G19290 ortho_group5534_cds protein binding
+AT3G19290 ortho_group5534_cds response to abiotic or biotic stimulus
+AT3G19290 ortho_group5534_cds response to stress
+AT3G19290 ortho_group5534_cds signal transduction
+AT3G19290 ortho_group5534_cds transcription factor activity
+AT3G19420 ortho_group5068_cds cytosol
+AT3G19420 ortho_group5068_cds hydrolase activity
+AT3G19420 ortho_group5068_cds other cellular processes
+AT3G19420 ortho_group5068_cds other metabolic processes
+AT3G19420 ortho_group5068_cds protein metabolism
+AT3G19590 ortho_group4188_cds cell organization and biogenesis
+AT3G19590 ortho_group4188_cds nucleotide binding
+AT3G19590 ortho_group4188_cds other cellular processes
+AT3G19590 ortho_group4188_cds other cytoplasmic components
+AT3G19590 ortho_group4188_cds other intracellular components
+AT3G19590 ortho_group4188_cds protein binding
+AT3G19630 ortho_group2928_cds other binding
+AT3G19630 ortho_group2928_cds other cellular processes
+AT3G19630 ortho_group2928_cds other cytoplasmic components
+AT3G19630 ortho_group2928_cds other enzyme activity
+AT3G19630 ortho_group2928_cds other metabolic processes
+AT3G19630 ortho_group2928_cds transferase activity
+AT3G19740 ortho_group2927_cds hydrolase activity
+AT3G19740 ortho_group2927_cds nucleotide binding
+AT3G19740 ortho_group2927_cds unknown biological processes
+AT3G19760 ortho_group4052_cds hydrolase activity
+AT3G19760 ortho_group4052_cds nucleus
+AT3G19760 ortho_group4052_cds other cellular processes
+AT3G19760 ortho_group4052_cds other intracellular components
+AT3G19760 ortho_group4052_cds other membranes
+AT3G19760 ortho_group4052_cds other metabolic processes
+AT3G19760 ortho_group4052_cds protein binding
+AT3G19760 ortho_group4052_cds response to stress
+AT3G19800 ortho_group2669_cds unknown biological processes
+AT3G19800 ortho_group2669_cds unknown cellular components
+AT3G19800 ortho_group2669_cds unknown molecular functions
+AT3G19810 ortho_group4441_cds chloroplast
+AT3G19810 ortho_group4441_cds unknown biological processes
+AT3G19810 ortho_group4441_cds unknown molecular functions
+AT3G19900 ortho_group3190_cds chloroplast
+AT3G19900 ortho_group3190_cds unknown biological processes
+AT3G19900 ortho_group3190_cds unknown molecular functions
+AT3G19910 ortho_group2674_cds other binding
+AT3G20000 ortho_group2649_cds cell organization and biogenesis
+AT3G20000 ortho_group2649_cds mitochondria
+AT3G20000 ortho_group2649_cds other cellular processes
+AT3G20000 ortho_group2649_cds other cytoplasmic components
+AT3G20000 ortho_group2649_cds other intracellular components
+AT3G20000 ortho_group2649_cds other membranes
+AT3G20000 ortho_group2649_cds protein binding
+AT3G20000 ortho_group2649_cds transport
+AT3G20000 ortho_group2649_cds transporter activity
+AT3G20060 ortho_group2735_cds nucleus
+AT3G20060 ortho_group2735_cds other biological processes
+AT3G20060 ortho_group2735_cds other cellular processes
+AT3G20060 ortho_group2735_cds other cytoplasmic components
+AT3G20060 ortho_group2735_cds other enzyme activity
+AT3G20060 ortho_group2735_cds other metabolic processes
+AT3G20060 ortho_group2735_cds protein metabolism
+AT3G20260 ortho_group3709_cds other cellular processes
+AT3G20260 ortho_group3709_cds other intracellular components
+AT3G20260 ortho_group3709_cds other metabolic processes
+AT3G20260 ortho_group3709_cds protein metabolism
+AT3G20260 ortho_group3709_cds ribosome
+AT3G20260 ortho_group3709_cds structural molecule activity
+AT3G20290 ortho_group4949_cds cell organization and biogenesis
+AT3G20290 ortho_group4949_cds hydrolase activity
+AT3G20290 ortho_group4949_cds nucleotide binding
+AT3G20290 ortho_group4949_cds other binding
+AT3G20290 ortho_group4949_cds other cellular components
+AT3G20290 ortho_group4949_cds other cellular processes
+AT3G20290 ortho_group4949_cds other cytoplasmic components
+AT3G20290 ortho_group4949_cds other intracellular components
+AT3G20290 ortho_group4949_cds other membranes
+AT3G20290 ortho_group4949_cds transport
+AT3G20390 ortho_group3592_cds chloroplast
+AT3G20390 ortho_group3592_cds hydrolase activity
+AT3G20390 ortho_group3592_cds mitochondria
+AT3G20390 ortho_group3592_cds other biological processes
+AT3G20390 ortho_group3592_cds other cellular processes
+AT3G20390 ortho_group3592_cds other cytoplasmic components
+AT3G20390 ortho_group3592_cds other intracellular components
+AT3G20390 ortho_group3592_cds other metabolic processes
+AT3G20390 ortho_group3592_cds plastid
+AT3G20500 ortho_group2740_cds hydrolase activity
+AT3G20500 ortho_group2740_cds unknown biological processes
+AT3G20560 ortho_group3327_cds other cellular processes
+AT3G20560 ortho_group3327_cds other enzyme activity
+AT3G20740 ortho_group4206_cds cell organization and biogenesis
+AT3G20740 ortho_group4206_cds developmental processes
+AT3G20740 ortho_group4206_cds nucleotide binding
+AT3G20740 ortho_group4206_cds nucleus
+AT3G20740 ortho_group4206_cds other biological processes
+AT3G20740 ortho_group4206_cds other cellular processes
+AT3G20740 ortho_group4206_cds other intracellular components
+AT3G20740 ortho_group4206_cds other membranes
+AT3G20740 ortho_group4206_cds other metabolic processes
+AT3G20740 ortho_group4206_cds plasma membrane
+AT3G20740 ortho_group4206_cds protein binding
+AT3G20740 ortho_group4206_cds protein metabolism
+AT3G20740 ortho_group4206_cds response to abiotic or biotic stimulus
+AT3G20740 ortho_group4206_cds response to stress
+AT3G20740 ortho_group4206_cds transcription factor activity
+AT3G20800 ortho_group5551_cds developmental processes
+AT3G20800 ortho_group5551_cds unknown molecular functions
+AT3G20880 ortho_group2701_cds nucleic acid binding
+AT3G20880 ortho_group2701_cds nucleus
+AT3G20880 ortho_group2701_cds other binding
+AT3G20880 ortho_group2701_cds other cellular processes
+AT3G20880 ortho_group2701_cds other metabolic processes
+AT3G20880 ortho_group2701_cds transcription factor activity
+AT3G20970 ortho_group4527_cds mitochondria
+AT3G20970 ortho_group4527_cds other cellular processes
+AT3G20970 ortho_group4527_cds other metabolic processes
+AT3G20970 ortho_group4527_cds structural molecule activity
+AT3G21180 ortho_group4902_cds developmental processes
+AT3G21180 ortho_group4902_cds hydrolase activity
+AT3G21180 ortho_group4902_cds other biological processes
+AT3G21180 ortho_group4902_cds plasma membrane
+AT3G21180 ortho_group4902_cds protein binding
+AT3G21180 ortho_group4902_cds transporter activity
+AT3G21190 ortho_group3084_cds Golgi apparatus
+AT3G21290 ortho_group5584_cds unknown biological processes
+AT3G21290 ortho_group5584_cds unknown molecular functions
+AT3G21465 ortho_group2951_cds unknown biological processes
+AT3G21465 ortho_group2951_cds unknown molecular functions
+AT3G21510 ortho_group3314_cds developmental processes
+AT3G21510 ortho_group3314_cds kinase activity
+AT3G21510 ortho_group3314_cds nucleus
+AT3G21510 ortho_group3314_cds other cellular processes
+AT3G21510 ortho_group3314_cds other cytoplasmic components
+AT3G21510 ortho_group3314_cds protein binding
+AT3G21510 ortho_group3314_cds signal transduction
+AT3G21610 ortho_group2948_cds unknown biological processes
+AT3G21610 ortho_group2948_cds unknown molecular functions
+AT3G21700 ortho_group4384_cds nucleotide binding
+AT3G21700 ortho_group4384_cds other cellular components
+AT3G21700 ortho_group4384_cds signal transduction
+AT3G21865 ortho_group4828_cds cell organization and biogenesis
+AT3G21865 ortho_group4828_cds other cellular processes
+AT3G21865 ortho_group4828_cds protein binding
+AT3G21865 ortho_group4828_cds unknown cellular components
+AT3G22200 ortho_group4981_cds cell organization and biogenesis
+AT3G22200 ortho_group4981_cds developmental processes
+AT3G22200 ortho_group4981_cds mitochondria
+AT3G22200 ortho_group4981_cds other binding
+AT3G22200 ortho_group4981_cds other biological processes
+AT3G22200 ortho_group4981_cds other cellular processes
+AT3G22200 ortho_group4981_cds other cytoplasmic components
+AT3G22200 ortho_group4981_cds other intracellular components
+AT3G22200 ortho_group4981_cds other membranes
+AT3G22200 ortho_group4981_cds other metabolic processes
+AT3G22200 ortho_group4981_cds response to stress
+AT3G22200 ortho_group4981_cds transferase activity
+AT3G22290 ortho_group5396_cds unknown biological processes
+AT3G22290 ortho_group5396_cds unknown molecular functions
+AT3G22320 ortho_group3114_cds DNA or RNA binding
+AT3G22320 ortho_group3114_cds nucleus
+AT3G22320 ortho_group3114_cds other cellular processes
+AT3G22320 ortho_group3114_cds other intracellular components
+AT3G22320 ortho_group3114_cds other metabolic processes
+AT3G22320 ortho_group3114_cds transferase activity
+AT3G22400 ortho_group4660_cds chloroplast
+AT3G22400 ortho_group4660_cds developmental processes
+AT3G22400 ortho_group4660_cds other binding
+AT3G22400 ortho_group4660_cds other enzyme activity
+AT3G22450 ortho_group4683_cds mitochondria
+AT3G22450 ortho_group4683_cds other cellular processes
+AT3G22450 ortho_group4683_cds other intracellular components
+AT3G22450 ortho_group4683_cds other metabolic processes
+AT3G22450 ortho_group4683_cds protein metabolism
+AT3G22450 ortho_group4683_cds ribosome
+AT3G22450 ortho_group4683_cds structural molecule activity
+AT3G22510 ortho_group2830_cds unknown biological processes
+AT3G22510 ortho_group2830_cds unknown cellular components
+AT3G22510 ortho_group2830_cds unknown molecular functions
+AT3G22630 ortho_group2598_cds cytosol
+AT3G22630 ortho_group2598_cds extracellular
+AT3G22630 ortho_group2598_cds hydrolase activity
+AT3G22630 ortho_group2598_cds other cellular processes
+AT3G22630 ortho_group2598_cds other cytoplasmic components
+AT3G22630 ortho_group2598_cds other intracellular components
+AT3G22630 ortho_group2598_cds other membranes
+AT3G22630 ortho_group2598_cds other metabolic processes
+AT3G22630 ortho_group2598_cds plasma membrane
+AT3G22630 ortho_group2598_cds protein metabolism
+AT3G22680 ortho_group3557_cds DNA or RNA metabolism
+AT3G22680 ortho_group3557_cds nucleus
+AT3G22680 ortho_group3557_cds other cellular processes
+AT3G22680 ortho_group3557_cds other metabolic processes
+AT3G22680 ortho_group3557_cds protein binding
+AT3G22680 ortho_group3557_cds unknown cellular components
+AT3G22680 ortho_group3557_cds unknown molecular functions
+AT3G22750 ortho_group3325_cds kinase activity
+AT3G22750 ortho_group3325_cds nucleotide binding
+AT3G22750 ortho_group3325_cds other cellular processes
+AT3G22750 ortho_group3325_cds other metabolic processes
+AT3G22750 ortho_group3325_cds plasma membrane
+AT3G22750 ortho_group3325_cds protein metabolism
+AT3G22750 ortho_group3325_cds transferase activity
+AT3G22845 ortho_group4216_cds other cytoplasmic components
+AT3G22845 ortho_group4216_cds other intracellular components
+AT3G22845 ortho_group4216_cds transport
+AT3G22850 ortho_group3998_cds cytosol
+AT3G22850 ortho_group3998_cds nucleus
+AT3G22850 ortho_group3998_cds other biological processes
+AT3G22850 ortho_group3998_cds plasma membrane
+AT3G22850 ortho_group3998_cds unknown molecular functions
+AT3G22970 ortho_group4783_cds chloroplast
+AT3G22970 ortho_group4783_cds other cellular components
+AT3G22970 ortho_group4783_cds unknown biological processes
+AT3G22970 ortho_group4783_cds unknown molecular functions
+AT3G23050 ortho_group5148_cds nucleus
+AT3G23050 ortho_group5148_cds other biological processes
+AT3G23050 ortho_group5148_cds other intracellular components
+AT3G23050 ortho_group5148_cds protein binding
+AT3G23050 ortho_group5148_cds response to abiotic or biotic stimulus
+AT3G23050 ortho_group5148_cds response to stress
+AT3G23050 ortho_group5148_cds transcription factor activity
+AT3G23070 ortho_group3445_cds chloroplast
+AT3G23070 ortho_group3445_cds developmental processes
+AT3G23070 ortho_group3445_cds DNA or RNA binding
+AT3G23070 ortho_group3445_cds other cellular processes
+AT3G23070 ortho_group3445_cds other metabolic processes
+AT3G23280 ortho_group3820_cds other binding
+AT3G23280 ortho_group3820_cds other cellular processes
+AT3G23280 ortho_group3820_cds other metabolic processes
+AT3G23280 ortho_group3820_cds protein metabolism
+AT3G23390 ortho_group4837_cds cytosol
+AT3G23390 ortho_group4837_cds other cellular processes
+AT3G23390 ortho_group4837_cds other cytoplasmic components
+AT3G23390 ortho_group4837_cds other intracellular components
+AT3G23390 ortho_group4837_cds other metabolic processes
+AT3G23390 ortho_group4837_cds protein metabolism
+AT3G23390 ortho_group4837_cds ribosome
+AT3G23390 ortho_group4837_cds structural molecule activity
+AT3G23400 ortho_group4823_cds cell organization and biogenesis
+AT3G23400 ortho_group4823_cds chloroplast
+AT3G23400 ortho_group4823_cds nucleus
+AT3G23400 ortho_group4823_cds other biological processes
+AT3G23400 ortho_group4823_cds other cellular processes
+AT3G23400 ortho_group4823_cds other cytoplasmic components
+AT3G23400 ortho_group4823_cds other intracellular components
+AT3G23400 ortho_group4823_cds other membranes
+AT3G23400 ortho_group4823_cds plasma membrane
+AT3G23400 ortho_group4823_cds plastid
+AT3G23400 ortho_group4823_cds response to abiotic or biotic stimulus
+AT3G23400 ortho_group4823_cds response to stress
+AT3G23400 ortho_group4823_cds structural molecule activity
+AT3G23600 ortho_group4799_cds cytosol
+AT3G23600 ortho_group4799_cds extracellular
+AT3G23600 ortho_group4799_cds hydrolase activity
+AT3G23600 ortho_group4799_cds nucleus
+AT3G23600 ortho_group4799_cds other cytoplasmic components
+AT3G23600 ortho_group4799_cds plasma membrane
+AT3G23600 ortho_group4799_cds response to abiotic or biotic stimulus
+AT3G23600 ortho_group4799_cds response to stress
+AT3G23610 ortho_group4821_cds hydrolase activity
+AT3G23610 ortho_group4821_cds other cellular processes
+AT3G23610 ortho_group4821_cds other metabolic processes
+AT3G23610 ortho_group4821_cds protein binding
+AT3G23610 ortho_group4821_cds protein metabolism
+AT3G23610 ortho_group4821_cds signal transduction
+AT3G23620 ortho_group3272_cds nucleus
+AT3G23620 ortho_group3272_cds other intracellular components
+AT3G23620 ortho_group3272_cds unknown biological processes
+AT3G23620 ortho_group3272_cds unknown molecular functions
+AT3G23730 ortho_group5284_cds cell wall
+AT3G23730 ortho_group5284_cds extracellular
+AT3G23730 ortho_group5284_cds hydrolase activity
+AT3G23730 ortho_group5284_cds other cellular components
+AT3G23730 ortho_group5284_cds other cellular processes
+AT3G23730 ortho_group5284_cds other metabolic processes
+AT3G23730 ortho_group5284_cds transferase activity
+AT3G23760 ortho_group4534_cds other cytoplasmic components
+AT3G23760 ortho_group4534_cds other intracellular components
+AT3G23760 ortho_group4534_cds unknown biological processes
+AT3G23760 ortho_group4534_cds unknown molecular functions
+AT3G23990 ortho_group4517_cds cell organization and biogenesis
+AT3G23990 ortho_group4517_cds cytosol
+AT3G23990 ortho_group4517_cds mitochondria
+AT3G23990 ortho_group4517_cds nucleotide binding
+AT3G23990 ortho_group4517_cds other binding
+AT3G23990 ortho_group4517_cds other biological processes
+AT3G23990 ortho_group4517_cds other cellular processes
+AT3G23990 ortho_group4517_cds other cytoplasmic components
+AT3G23990 ortho_group4517_cds other intracellular components
+AT3G23990 ortho_group4517_cds other membranes
+AT3G23990 ortho_group4517_cds response to abiotic or biotic stimulus
+AT3G23990 ortho_group4517_cds response to stress
+AT3G23990 ortho_group4517_cds ribosome
+AT3G24120 ortho_group3791_cds other cellular processes
+AT3G24120 ortho_group3791_cds other metabolic processes
+AT3G24120 ortho_group3791_cds transcription factor activity
+AT3G24140 ortho_group2543_cds developmental processes
+AT3G24140 ortho_group2543_cds DNA or RNA binding
+AT3G24140 ortho_group2543_cds nucleus
+AT3G24140 ortho_group2543_cds other cellular processes
+AT3G24140 ortho_group2543_cds other metabolic processes
+AT3G24140 ortho_group2543_cds transcription factor activity
+AT3G24150 ortho_group3887_cds unknown biological processes
+AT3G24150 ortho_group3887_cds unknown cellular components
+AT3G24150 ortho_group3887_cds unknown molecular functions
+AT3G24190 ortho_group2556_cds chloroplast
+AT3G24190 ortho_group2556_cds kinase activity
+AT3G24190 ortho_group2556_cds nucleotide binding
+AT3G24190 ortho_group2556_cds other cellular processes
+AT3G24190 ortho_group2556_cds other metabolic processes
+AT3G24190 ortho_group2556_cds protein metabolism
+AT3G24190 ortho_group2556_cds transferase activity
+AT3G24420 ortho_group4212_cds hydrolase activity
+AT3G24420 ortho_group4212_cds other cellular components
+AT3G24420 ortho_group4212_cds unknown biological processes
+AT3G24503 ortho_group3794_cds other cellular processes
+AT3G24503 ortho_group3794_cds other enzyme activity
+AT3G24503 ortho_group3794_cds other metabolic processes
+AT3G24730 ortho_group3024_cds cell organization and biogenesis
+AT3G24730 ortho_group3024_cds nucleus
+AT3G24730 ortho_group3024_cds other cellular processes
+AT3G24730 ortho_group3024_cds other enzyme activity
+AT3G24730 ortho_group3024_cds other intracellular components
+AT3G25040 ortho_group3402_cds Golgi apparatus
+AT3G25040 ortho_group3402_cds other binding
+AT3G25040 ortho_group3402_cds other membranes
+AT3G25040 ortho_group3402_cds receptor binding or activity
+AT3G25040 ortho_group3402_cds response to stress
+AT3G25040 ortho_group3402_cds signal transduction
+AT3G25040 ortho_group3402_cds transport
+AT3G25070 ortho_group4282_cds other cellular processes
+AT3G25070 ortho_group4282_cds other membranes
+AT3G25070 ortho_group4282_cds other metabolic processes
+AT3G25070 ortho_group4282_cds plasma membrane
+AT3G25070 ortho_group4282_cds protein binding
+AT3G25070 ortho_group4282_cds protein metabolism
+AT3G25070 ortho_group4282_cds response to abiotic or biotic stimulus
+AT3G25070 ortho_group4282_cds response to stress
+AT3G25070 ortho_group4282_cds signal transduction
+AT3G25110 ortho_group2773_cds hydrolase activity
+AT3G25110 ortho_group2773_cds other cellular processes
+AT3G25110 ortho_group2773_cds other metabolic processes
+AT3G25110 ortho_group2773_cds transferase activity
+AT3G25110 ortho_group2773_cds transporter activity
+AT3G25120 ortho_group3953_cds mitochondria
+AT3G25120 ortho_group3953_cds other cytoplasmic components
+AT3G25120 ortho_group3953_cds other intracellular components
+AT3G25120 ortho_group3953_cds other membranes
+AT3G25120 ortho_group3953_cds transport
+AT3G25120 ortho_group3953_cds transporter activity
+AT3G25220 ortho_group4952_cds other binding
+AT3G25220 ortho_group4952_cds other cellular components
+AT3G25220 ortho_group4952_cds other cellular processes
+AT3G25220 ortho_group4952_cds other enzyme activity
+AT3G25220 ortho_group4952_cds other membranes
+AT3G25220 ortho_group4952_cds other metabolic processes
+AT3G25220 ortho_group4952_cds protein metabolism
+AT3G25230 ortho_group4135_cds cytosol
+AT3G25230 ortho_group4135_cds nucleus
+AT3G25230 ortho_group4135_cds other binding
+AT3G25230 ortho_group4135_cds other biological processes
+AT3G25230 ortho_group4135_cds other cellular processes
+AT3G25230 ortho_group4135_cds other cytoplasmic components
+AT3G25230 ortho_group4135_cds other enzyme activity
+AT3G25230 ortho_group4135_cds other membranes
+AT3G25230 ortho_group4135_cds other metabolic processes
+AT3G25230 ortho_group4135_cds protein binding
+AT3G25230 ortho_group4135_cds protein metabolism
+AT3G25230 ortho_group4135_cds response to abiotic or biotic stimulus
+AT3G25230 ortho_group4135_cds response to stress
+AT3G25400 ortho_group4532_cds unknown biological processes
+AT3G25400 ortho_group4532_cds unknown cellular components
+AT3G25400 ortho_group4532_cds unknown molecular functions
+AT3G25520 ortho_group3611_cds chloroplast
+AT3G25520 ortho_group3611_cds cytosol
+AT3G25520 ortho_group3611_cds developmental processes
+AT3G25520 ortho_group3611_cds DNA or RNA binding
+AT3G25520 ortho_group3611_cds nucleus
+AT3G25520 ortho_group3611_cds other biological processes
+AT3G25520 ortho_group3611_cds other cellular processes
+AT3G25520 ortho_group3611_cds other cytoplasmic components
+AT3G25520 ortho_group3611_cds other intracellular components
+AT3G25520 ortho_group3611_cds other membranes
+AT3G25520 ortho_group3611_cds other metabolic processes
+AT3G25520 ortho_group3611_cds plasma membrane
+AT3G25520 ortho_group3611_cds protein metabolism
+AT3G25520 ortho_group3611_cds ribosome
+AT3G25520 ortho_group3611_cds structural molecule activity
+AT3G25520 ortho_group3611_cds transport
+AT3G25530 ortho_group5542_cds cytosol
+AT3G25530 ortho_group5542_cds other enzyme activity
+AT3G25530 ortho_group5542_cds response to stress
+AT3G25620 ortho_group5513_cds chloroplast
+AT3G25620 ortho_group5513_cds hydrolase activity
+AT3G25620 ortho_group5513_cds other membranes
+AT3G25620 ortho_group5513_cds transporter activity
+AT3G25690 ortho_group5108_cds cell organization and biogenesis
+AT3G25690 ortho_group5108_cds chloroplast
+AT3G25690 ortho_group5108_cds other cellular processes
+AT3G25690 ortho_group5108_cds other cytoplasmic components
+AT3G25690 ortho_group5108_cds other intracellular components
+AT3G25690 ortho_group5108_cds other membranes
+AT3G25690 ortho_group5108_cds plastid
+AT3G25790 ortho_group5064_cds DNA or RNA binding
+AT3G25790 ortho_group5064_cds other cellular processes
+AT3G25790 ortho_group5064_cds other metabolic processes
+AT3G25790 ortho_group5064_cds transcription factor activity
+AT3G25800 ortho_group4685_cds cytosol
+AT3G25800 ortho_group4685_cds other biological processes
+AT3G25800 ortho_group4685_cds other cellular processes
+AT3G25800 ortho_group4685_cds other metabolic processes
+AT3G25800 ortho_group4685_cds other molecular functions
+AT3G25800 ortho_group4685_cds plasma membrane
+AT3G26020 ortho_group3825_cds cytosol
+AT3G26020 ortho_group3825_cds nucleus
+AT3G26020 ortho_group3825_cds other intracellular components
+AT3G26020 ortho_group3825_cds other molecular functions
+AT3G26020 ortho_group3825_cds signal transduction
+AT3G26060 ortho_group3289_cds chloroplast
+AT3G26060 ortho_group3289_cds other cellular processes
+AT3G26060 ortho_group3289_cds other cytoplasmic components
+AT3G26060 ortho_group3289_cds other enzyme activity
+AT3G26060 ortho_group3289_cds other intracellular components
+AT3G26060 ortho_group3289_cds other membranes
+AT3G26060 ortho_group3289_cds other molecular functions
+AT3G26060 ortho_group3289_cds plastid
+AT3G26060 ortho_group3289_cds protein binding
+AT3G26070 ortho_group5191_cds chloroplast
+AT3G26070 ortho_group5191_cds other cytoplasmic components
+AT3G26070 ortho_group5191_cds other intracellular components
+AT3G26070 ortho_group5191_cds other membranes
+AT3G26070 ortho_group5191_cds plastid
+AT3G26070 ortho_group5191_cds structural molecule activity
+AT3G26070 ortho_group5191_cds unknown biological processes
+AT3G26230 ortho_group5096_cds other binding
+AT3G26230 ortho_group5096_cds other enzyme activity
+AT3G26230 ortho_group5096_cds other metabolic processes
+AT3G26230 ortho_group5096_cds other molecular functions
+AT3G26300 ortho_group4724_cds other binding
+AT3G26300 ortho_group4724_cds other cellular components
+AT3G26300 ortho_group4724_cds other enzyme activity
+AT3G26300 ortho_group4724_cds other metabolic processes
+AT3G26300 ortho_group4724_cds other molecular functions
+AT3G26330 ortho_group3569_cds other binding
+AT3G26330 ortho_group3569_cds other enzyme activity
+AT3G26330 ortho_group3569_cds other metabolic processes
+AT3G26330 ortho_group3569_cds other molecular functions
+AT3G26370 ortho_group3505_cds Golgi apparatus
+AT3G26560 ortho_group4935_cds cytosol
+AT3G26560 ortho_group4935_cds DNA or RNA binding
+AT3G26560 ortho_group4935_cds hydrolase activity
+AT3G26560 ortho_group4935_cds mitochondria
+AT3G26560 ortho_group4935_cds nucleic acid binding
+AT3G26560 ortho_group4935_cds nucleotide binding
+AT3G26560 ortho_group4935_cds other cellular components
+AT3G26710 ortho_group5473_cds cell organization and biogenesis
+AT3G26710 ortho_group5473_cds chloroplast
+AT3G26710 ortho_group5473_cds other cellular processes
+AT3G26710 ortho_group5473_cds unknown molecular functions
+AT3G26740 ortho_group3193_cds chloroplast
+AT3G26740 ortho_group3193_cds unknown biological processes
+AT3G26740 ortho_group3193_cds unknown molecular functions
+AT3G26910 ortho_group4375_cds unknown biological processes
+AT3G26910 ortho_group4375_cds unknown molecular functions
+AT3G27020 ortho_group4374_cds other cellular processes
+AT3G27020 ortho_group4374_cds other cytoplasmic components
+AT3G27020 ortho_group4374_cds other intracellular components
+AT3G27020 ortho_group4374_cds other membranes
+AT3G27020 ortho_group4374_cds transport
+AT3G27020 ortho_group4374_cds transporter activity
+AT3G27080 ortho_group2854_cds cell organization and biogenesis
+AT3G27080 ortho_group2854_cds mitochondria
+AT3G27080 ortho_group2854_cds other cellular processes
+AT3G27080 ortho_group2854_cds other cytoplasmic components
+AT3G27080 ortho_group2854_cds other intracellular components
+AT3G27080 ortho_group2854_cds other membranes
+AT3G27080 ortho_group2854_cds protein binding
+AT3G27080 ortho_group2854_cds transport
+AT3G27080 ortho_group2854_cds transporter activity
+AT3G27090 ortho_group2974_cds unknown biological processes
+AT3G27090 ortho_group2974_cds unknown molecular functions
+AT3G27100 ortho_group4824_cds chloroplast
+AT3G27100 ortho_group4824_cds other cytoplasmic components
+AT3G27100 ortho_group4824_cds other intracellular components
+AT3G27100 ortho_group4824_cds plastid
+AT3G27100 ortho_group4824_cds unknown biological processes
+AT3G27100 ortho_group4824_cds unknown molecular functions
+AT3G27160 ortho_group4310_cds chloroplast
+AT3G27160 ortho_group4310_cds other cellular processes
+AT3G27160 ortho_group4310_cds other cytoplasmic components
+AT3G27160 ortho_group4310_cds other intracellular components
+AT3G27160 ortho_group4310_cds other metabolic processes
+AT3G27160 ortho_group4310_cds plastid
+AT3G27160 ortho_group4310_cds protein metabolism
+AT3G27160 ortho_group4310_cds ribosome
+AT3G27160 ortho_group4310_cds structural molecule activity
+AT3G27200 ortho_group4092_cds other binding
+AT3G27200 ortho_group4092_cds other membranes
+AT3G27200 ortho_group4092_cds other molecular functions
+AT3G27230 ortho_group3483_cds Golgi apparatus
+AT3G27310 ortho_group4890_cds cell organization and biogenesis
+AT3G27310 ortho_group4890_cds other biological processes
+AT3G27310 ortho_group4890_cds other cellular components
+AT3G27350 ortho_group3145_cds plasma membrane
+AT3G27350 ortho_group3145_cds unknown biological processes
+AT3G27350 ortho_group3145_cds unknown molecular functions
+AT3G27430 ortho_group4967_cds hydrolase activity
+AT3G27430 ortho_group4967_cds other cellular processes
+AT3G27430 ortho_group4967_cds other intracellular components
+AT3G27430 ortho_group4967_cds other metabolic processes
+AT3G27430 ortho_group4967_cds protein metabolism
+AT3G27460 ortho_group4237_cds nucleus
+AT3G27460 ortho_group4237_cds response to abiotic or biotic stimulus
+AT3G27460 ortho_group4237_cds response to stress
+AT3G27460 ortho_group4237_cds unknown molecular functions
+AT3G27560 ortho_group3772_cds kinase activity
+AT3G27560 ortho_group3772_cds mitochondria
+AT3G27560 ortho_group3772_cds other cellular processes
+AT3G27560 ortho_group3772_cds other metabolic processes
+AT3G27560 ortho_group3772_cds protein metabolism
+AT3G27560 ortho_group3772_cds transferase activity
+AT3G27740 ortho_group3689_cds chloroplast
+AT3G27740 ortho_group3689_cds other cellular processes
+AT3G27740 ortho_group3689_cds other cytoplasmic components
+AT3G27740 ortho_group3689_cds other enzyme activity
+AT3G27740 ortho_group3689_cds other intracellular components
+AT3G27740 ortho_group3689_cds plastid
+AT3G27740 ortho_group3689_cds response to stress
+AT3G27925 ortho_group4923_cds chloroplast
+AT3G27925 ortho_group4923_cds electron transport or energy pathways
+AT3G27925 ortho_group4923_cds hydrolase activity
+AT3G27925 ortho_group4923_cds nucleus
+AT3G27925 ortho_group4923_cds other cellular processes
+AT3G27925 ortho_group4923_cds other cytoplasmic components
+AT3G27925 ortho_group4923_cds other intracellular components
+AT3G27925 ortho_group4923_cds other membranes
+AT3G27925 ortho_group4923_cds other metabolic processes
+AT3G27925 ortho_group4923_cds plastid
+AT3G27925 ortho_group4923_cds protein metabolism
+AT3G27930 ortho_group2924_cds other cellular processes
+AT3G27930 ortho_group2924_cds other metabolic processes
+AT3G27930 ortho_group2924_cds protein metabolism
+AT3G27930 ortho_group2924_cds unknown cellular components
+AT3G27930 ortho_group2924_cds unknown molecular functions
+AT3G28460 ortho_group4700_cds chloroplast
+AT3G28460 ortho_group4700_cds other cellular processes
+AT3G28460 ortho_group4700_cds other metabolic processes
+AT3G28460 ortho_group4700_cds transferase activity
+AT3G28540 ortho_group3655_cds hydrolase activity
+AT3G28540 ortho_group3655_cds nucleotide binding
+AT3G28690 ortho_group5182_cds kinase activity
+AT3G28690 ortho_group5182_cds nucleotide binding
+AT3G28690 ortho_group5182_cds other cellular processes
+AT3G28690 ortho_group5182_cds other metabolic processes
+AT3G28690 ortho_group5182_cds plasma membrane
+AT3G28690 ortho_group5182_cds protein metabolism
+AT3G28690 ortho_group5182_cds transferase activity
+AT3G28710 ortho_group3204_cds hydrolase activity
+AT3G28710 ortho_group3204_cds other cellular components
+AT3G28710 ortho_group3204_cds other cellular processes
+AT3G28710 ortho_group3204_cds other cytoplasmic components
+AT3G28710 ortho_group3204_cds other intracellular components
+AT3G28710 ortho_group3204_cds other membranes
+AT3G28710 ortho_group3204_cds other metabolic processes
+AT3G28710 ortho_group3204_cds plasma membrane
+AT3G28710 ortho_group3204_cds transport
+AT3G28710 ortho_group3204_cds transporter activity
+AT3G28715 ortho_group3204_cds hydrolase activity
+AT3G28715 ortho_group3204_cds other cellular components
+AT3G28715 ortho_group3204_cds other cellular processes
+AT3G28715 ortho_group3204_cds other cytoplasmic components
+AT3G28715 ortho_group3204_cds other intracellular components
+AT3G28715 ortho_group3204_cds other membranes
+AT3G28715 ortho_group3204_cds other metabolic processes
+AT3G28715 ortho_group3204_cds transport
+AT3G28715 ortho_group3204_cds transporter activity
+AT3G28760 ortho_group4590_cds chloroplast
+AT3G28760 ortho_group4590_cds unknown biological processes
+AT3G28760 ortho_group4590_cds unknown molecular functions
+AT3G28857 ortho_group4044_cds other cellular processes
+AT3G28857 ortho_group4044_cds other metabolic processes
+AT3G28970 ortho_group3160_cds nucleus
+AT3G28970 ortho_group3160_cds other cellular processes
+AT3G28970 ortho_group3160_cds signal transduction
+AT3G28970 ortho_group3160_cds unknown molecular functions
+AT3G29000 ortho_group4948_cds other binding
+AT3G29000 ortho_group4948_cds other cellular components
+AT3G29000 ortho_group4948_cds unknown biological processes
+AT3G29010 ortho_group4242_cds other cellular processes
+AT3G29010 ortho_group4242_cds other enzyme activity
+AT3G29010 ortho_group4242_cds other metabolic processes
+AT3G29010 ortho_group4242_cds protein metabolism
+AT3G29010 ortho_group4242_cds unknown cellular components
+AT3G29090 ortho_group4243_cds cell wall
+AT3G29090 ortho_group4243_cds hydrolase activity
+AT3G29090 ortho_group4243_cds other metabolic processes
+AT3G29160 ortho_group4231_cds kinase activity
+AT3G29160 ortho_group4231_cds other cellular processes
+AT3G29160 ortho_group4231_cds other metabolic processes
+AT3G29160 ortho_group4231_cds protein binding
+AT3G29160 ortho_group4231_cds protein metabolism
+AT3G29160 ortho_group4231_cds transferase activity
+AT3G29180 ortho_group5055_cds other cellular processes
+AT3G29180 ortho_group5055_cds other metabolic processes
+AT3G29180 ortho_group5055_cds plasma membrane
+AT3G29180 ortho_group5055_cds protein metabolism
+AT3G29180 ortho_group5055_cds unknown molecular functions
+AT3G29200 ortho_group4880_cds cytosol
+AT3G29200 ortho_group4880_cds other cellular processes
+AT3G29200 ortho_group4880_cds other enzyme activity
+AT3G29200 ortho_group4880_cds other metabolic processes
+AT3G29200 ortho_group4880_cds plastid
+AT3G29270 ortho_group3810_cds other enzyme activity
+AT3G29350 ortho_group3177_cds cytosol
+AT3G29350 ortho_group3177_cds kinase activity
+AT3G29350 ortho_group3177_cds nucleus
+AT3G29350 ortho_group3177_cds other cellular processes
+AT3G29350 ortho_group3177_cds other cytoplasmic components
+AT3G29350 ortho_group3177_cds other molecular functions
+AT3G29350 ortho_group3177_cds protein binding
+AT3G29350 ortho_group3177_cds signal transduction
+AT3G30180 ortho_group2633_cds other binding
+AT3G30180 ortho_group2633_cds other enzyme activity
+AT3G30180 ortho_group2633_cds other metabolic processes
+AT3G30390 ortho_group5414_cds other cytoplasmic components
+AT3G30390 ortho_group5414_cds other intracellular components
+AT3G30390 ortho_group5414_cds other membranes
+AT3G30390 ortho_group5414_cds transport
+AT3G30390 ortho_group5414_cds transporter activity
+AT3G32930 ortho_group3686_cds chloroplast
+AT3G32930 ortho_group3686_cds other cytoplasmic components
+AT3G32930 ortho_group3686_cds other intracellular components
+AT3G32930 ortho_group3686_cds plastid
+AT3G32930 ortho_group3686_cds unknown biological processes
+AT3G32930 ortho_group3686_cds unknown molecular functions
+AT3G42830 ortho_group3094_cds other cellular processes
+AT3G42830 ortho_group3094_cds other enzyme activity
+AT3G42830 ortho_group3094_cds other intracellular components
+AT3G42830 ortho_group3094_cds other metabolic processes
+AT3G42830 ortho_group3094_cds protein metabolism
+AT3G43220 ortho_group5373_cds hydrolase activity
+AT3G43220 ortho_group5373_cds unknown biological processes
+AT3G43300 ortho_group2981_cds cytosol
+AT3G43300 ortho_group2981_cds Golgi apparatus
+AT3G43300 ortho_group2981_cds other biological processes
+AT3G43300 ortho_group2981_cds other cellular processes
+AT3G43300 ortho_group2981_cds other cytoplasmic components
+AT3G43300 ortho_group2981_cds other intracellular components
+AT3G43300 ortho_group2981_cds other metabolic processes
+AT3G43300 ortho_group2981_cds other molecular functions
+AT3G43300 ortho_group2981_cds protein binding
+AT3G43300 ortho_group2981_cds response to abiotic or biotic stimulus
+AT3G43300 ortho_group2981_cds response to stress
+AT3G43300 ortho_group2981_cds transport
+AT3G43400 ortho_group5376_cds cell organization and biogenesis
+AT3G43400 ortho_group5376_cds other cellular processes
+AT3G43400 ortho_group5376_cds other intracellular components
+AT3G43400 ortho_group5376_cds transport
+AT3G43400 ortho_group5376_cds unknown molecular functions
+AT3G43670 ortho_group4286_cds other binding
+AT3G43670 ortho_group4286_cds other cellular components
+AT3G43670 ortho_group4286_cds other enzyme activity
+AT3G43670 ortho_group4286_cds other metabolic processes
+AT3G43740 ortho_group4707_cds other cellular components
+AT3G43740 ortho_group4707_cds signal transduction
+AT3G43790 ortho_group3737_cds other membranes
+AT3G43790 ortho_group3737_cds response to abiotic or biotic stimulus
+AT3G43790 ortho_group3737_cds transporter activity
+AT3G43810 ortho_group5355_cds developmental processes
+AT3G43810 ortho_group5355_cds other binding
+AT3G43810 ortho_group5355_cds other biological processes
+AT3G43810 ortho_group5355_cds protein binding
+AT3G43810 ortho_group5355_cds response to abiotic or biotic stimulus
+AT3G43810 ortho_group5355_cds signal transduction
+AT3G44110 ortho_group3313_cds cell wall
+AT3G44110 ortho_group3313_cds cytosol
+AT3G44110 ortho_group3313_cds developmental processes
+AT3G44110 ortho_group3313_cds nucleotide binding
+AT3G44110 ortho_group3313_cds nucleus
+AT3G44110 ortho_group3313_cds other cellular components
+AT3G44110 ortho_group3313_cds other cellular processes
+AT3G44110 ortho_group3313_cds other intracellular components
+AT3G44110 ortho_group3313_cds other metabolic processes
+AT3G44110 ortho_group3313_cds plasma membrane
+AT3G44110 ortho_group3313_cds protein binding
+AT3G44110 ortho_group3313_cds protein metabolism
+AT3G44110 ortho_group3313_cds response to abiotic or biotic stimulus
+AT3G44110 ortho_group3313_cds response to stress
+AT3G44200 ortho_group3989_cds developmental processes
+AT3G44200 ortho_group3989_cds kinase activity
+AT3G44200 ortho_group3989_cds nucleotide binding
+AT3G44200 ortho_group3989_cds other cellular processes
+AT3G44200 ortho_group3989_cds other cytoplasmic components
+AT3G44200 ortho_group3989_cds other intracellular components
+AT3G44200 ortho_group3989_cds transferase activity
+AT3G44340 ortho_group4883_cds cytosol
+AT3G44340 ortho_group4883_cds other binding
+AT3G44340 ortho_group4883_cds other cellular processes
+AT3G44340 ortho_group4883_cds response to stress
+AT3G44340 ortho_group4883_cds transport
+AT3G44340 ortho_group4883_cds transporter activity
+AT3G44680 ortho_group3088_cds cell organization and biogenesis
+AT3G44680 ortho_group3088_cds hydrolase activity
+AT3G44680 ortho_group3088_cds nucleus
+AT3G44680 ortho_group3088_cds other cellular processes
+AT3G44680 ortho_group3088_cds other metabolic processes
+AT3G44680 ortho_group3088_cds protein metabolism
+AT3G44890 ortho_group4182_cds chloroplast
+AT3G44890 ortho_group4182_cds other cellular processes
+AT3G44890 ortho_group4182_cds other cytoplasmic components
+AT3G44890 ortho_group4182_cds other intracellular components
+AT3G44890 ortho_group4182_cds other metabolic processes
+AT3G44890 ortho_group4182_cds plastid
+AT3G44890 ortho_group4182_cds protein metabolism
+AT3G44890 ortho_group4182_cds ribosome
+AT3G44890 ortho_group4182_cds structural molecule activity
+AT3G45140 ortho_group3343_cds chloroplast
+AT3G45140 ortho_group3343_cds other biological processes
+AT3G45140 ortho_group3343_cds other cellular processes
+AT3G45140 ortho_group3343_cds other cytoplasmic components
+AT3G45140 ortho_group3343_cds other enzyme activity
+AT3G45140 ortho_group3343_cds other intracellular components
+AT3G45140 ortho_group3343_cds other membranes
+AT3G45140 ortho_group3343_cds other metabolic processes
+AT3G45140 ortho_group3343_cds plastid
+AT3G45140 ortho_group3343_cds protein binding
+AT3G45140 ortho_group3343_cds response to abiotic or biotic stimulus
+AT3G45140 ortho_group3343_cds response to stress
+AT3G45300 ortho_group3000_cds mitochondria
+AT3G45300 ortho_group3000_cds nucleotide binding
+AT3G45300 ortho_group3000_cds other cellular processes
+AT3G45300 ortho_group3000_cds other cytoplasmic components
+AT3G45300 ortho_group3000_cds other enzyme activity
+AT3G45300 ortho_group3000_cds other intracellular components
+AT3G45300 ortho_group3000_cds other metabolic processes
+AT3G45640 ortho_group5417_cds developmental processes
+AT3G45640 ortho_group5417_cds kinase activity
+AT3G45640 ortho_group5417_cds other biological processes
+AT3G45640 ortho_group5417_cds other cellular processes
+AT3G45640 ortho_group5417_cds other metabolic processes
+AT3G45640 ortho_group5417_cds protein binding
+AT3G45640 ortho_group5417_cds protein metabolism
+AT3G45640 ortho_group5417_cds response to abiotic or biotic stimulus
+AT3G45640 ortho_group5417_cds response to stress
+AT3G45640 ortho_group5417_cds signal transduction
+AT3G45640 ortho_group5417_cds transferase activity
+AT3G45770 ortho_group4422_cds chloroplast
+AT3G45770 ortho_group4422_cds mitochondria
+AT3G45770 ortho_group4422_cds nucleotide binding
+AT3G45770 ortho_group4422_cds nucleus
+AT3G45770 ortho_group4422_cds other binding
+AT3G45770 ortho_group4422_cds other metabolic processes
+AT3G46010 ortho_group4881_cds cell organization and biogenesis
+AT3G46010 ortho_group4881_cds other cellular processes
+AT3G46010 ortho_group4881_cds other intracellular components
+AT3G46010 ortho_group4881_cds protein binding
+AT3G46060 ortho_group2798_cds nucleotide binding
+AT3G46060 ortho_group2798_cds other cellular processes
+AT3G46060 ortho_group2798_cds other cytoplasmic components
+AT3G46060 ortho_group2798_cds other intracellular components
+AT3G46060 ortho_group2798_cds other membranes
+AT3G46060 ortho_group2798_cds plasma membrane
+AT3G46060 ortho_group2798_cds protein binding
+AT3G46060 ortho_group2798_cds signal transduction
+AT3G46220 ortho_group4643_cds unknown biological processes
+AT3G46290 ortho_group3210_cds cell organization and biogenesis
+AT3G46290 ortho_group3210_cds developmental processes
+AT3G46290 ortho_group3210_cds kinase activity
+AT3G46290 ortho_group3210_cds other biological processes
+AT3G46290 ortho_group3210_cds other cellular components
+AT3G46290 ortho_group3210_cds other cellular processes
+AT3G46290 ortho_group3210_cds plasma membrane
+AT3G46290 ortho_group3210_cds signal transduction
+AT3G46290 ortho_group3210_cds transferase activity
+AT3G46830 ortho_group2838_cds cytosol
+AT3G46830 ortho_group2838_cds nucleotide binding
+AT3G46830 ortho_group2838_cds other cellular components
+AT3G46830 ortho_group2838_cds other cytoplasmic components
+AT3G46830 ortho_group2838_cds other intracellular components
+AT3G46830 ortho_group2838_cds plasma membrane
+AT3G46830 ortho_group2838_cds signal transduction
+AT3G46830 ortho_group2838_cds transport
+AT3G47110 ortho_group4697_cds kinase activity
+AT3G47110 ortho_group4697_cds nucleotide binding
+AT3G47110 ortho_group4697_cds other cellular components
+AT3G47110 ortho_group4697_cds other cellular processes
+AT3G47110 ortho_group4697_cds other metabolic processes
+AT3G47110 ortho_group4697_cds protein metabolism
+AT3G47110 ortho_group4697_cds signal transduction
+AT3G47110 ortho_group4697_cds transferase activity
+AT3G47120 ortho_group3685_cds DNA or RNA binding
+AT3G47120 ortho_group3685_cds nucleic acid binding
+AT3G47120 ortho_group3685_cds nucleotide binding
+AT3G47120 ortho_group3685_cds other binding
+AT3G47120 ortho_group3685_cds unknown biological processes
+AT3G47370 ortho_group4440_cds cell wall
+AT3G47370 ortho_group4440_cds cytosol
+AT3G47370 ortho_group4440_cds DNA or RNA binding
+AT3G47370 ortho_group4440_cds nucleus
+AT3G47370 ortho_group4440_cds other cellular components
+AT3G47370 ortho_group4440_cds other cellular processes
+AT3G47370 ortho_group4440_cds other cytoplasmic components
+AT3G47370 ortho_group4440_cds other intracellular components
+AT3G47370 ortho_group4440_cds other membranes
+AT3G47370 ortho_group4440_cds other metabolic processes
+AT3G47370 ortho_group4440_cds protein metabolism
+AT3G47370 ortho_group4440_cds ribosome
+AT3G47370 ortho_group4440_cds structural molecule activity
+AT3G47470 ortho_group4879_cds chloroplast
+AT3G47470 ortho_group4879_cds other binding
+AT3G47470 ortho_group4879_cds other cellular processes
+AT3G47470 ortho_group4879_cds other cytoplasmic components
+AT3G47470 ortho_group4879_cds other intracellular components
+AT3G47470 ortho_group4879_cds other membranes
+AT3G47470 ortho_group4879_cds other metabolic processes
+AT3G47470 ortho_group4879_cds plastid
+AT3G47470 ortho_group4879_cds response to abiotic or biotic stimulus
+AT3G47570 ortho_group4697_cds kinase activity
+AT3G47570 ortho_group4697_cds nucleotide binding
+AT3G47570 ortho_group4697_cds other cellular processes
+AT3G47570 ortho_group4697_cds other metabolic processes
+AT3G47570 ortho_group4697_cds plasma membrane
+AT3G47570 ortho_group4697_cds protein metabolism
+AT3G47570 ortho_group4697_cds signal transduction
+AT3G47570 ortho_group4697_cds transferase activity
+AT3G47650 ortho_group3154_cds chloroplast
+AT3G47650 ortho_group3154_cds other cellular processes
+AT3G47650 ortho_group3154_cds other metabolic processes
+AT3G47650 ortho_group3154_cds protein binding
+AT3G47650 ortho_group3154_cds protein metabolism
+AT3G47810 ortho_group4296_cds hydrolase activity
+AT3G47810 ortho_group4296_cds other cellular components
+AT3G47810 ortho_group4296_cds other cellular processes
+AT3G47810 ortho_group4296_cds other cytoplasmic components
+AT3G47810 ortho_group4296_cds other intracellular components
+AT3G47810 ortho_group4296_cds other membranes
+AT3G47810 ortho_group4296_cds transport
+AT3G47860 ortho_group5112_cds chloroplast
+AT3G47860 ortho_group5112_cds other binding
+AT3G47860 ortho_group5112_cds other cytoplasmic components
+AT3G47860 ortho_group5112_cds other intracellular components
+AT3G47860 ortho_group5112_cds other membranes
+AT3G47860 ortho_group5112_cds plastid
+AT3G47860 ortho_group5112_cds response to stress
+AT3G47930 ortho_group4285_cds mitochondria
+AT3G47930 ortho_group4285_cds other cellular processes
+AT3G47930 ortho_group4285_cds other enzyme activity
+AT3G47930 ortho_group4285_cds other metabolic processes
+AT3G47930 ortho_group4285_cds plastid
+AT3G48270 ortho_group5041_cds other binding
+AT3G48270 ortho_group5041_cds other enzyme activity
+AT3G48270 ortho_group5041_cds other metabolic processes
+AT3G48270 ortho_group5041_cds other molecular functions
+AT3G48290 ortho_group2933_cds other binding
+AT3G48290 ortho_group2933_cds other enzyme activity
+AT3G48290 ortho_group2933_cds other metabolic processes
+AT3G48290 ortho_group2933_cds other molecular functions
+AT3G48300 ortho_group5041_cds other binding
+AT3G48300 ortho_group5041_cds other metabolic processes
+AT3G48300 ortho_group5041_cds protein binding
+AT3G48300 ortho_group5041_cds unknown cellular components
+AT3G48410 ortho_group4732_cds hydrolase activity
+AT3G48410 ortho_group4732_cds unknown biological processes
+AT3G48410 ortho_group4732_cds unknown cellular components
+AT3G48480 ortho_group3205_cds hydrolase activity
+AT3G48480 ortho_group3205_cds protein metabolism
+AT3G48480 ortho_group3205_cds unknown cellular components
+AT3G48530 ortho_group3585_cds cell wall
+AT3G48530 ortho_group3585_cds unknown biological processes
+AT3G48530 ortho_group3585_cds unknown molecular functions
+AT3G48540 ortho_group4595_cds hydrolase activity
+AT3G48540 ortho_group4595_cds other binding
+AT3G48540 ortho_group4595_cds other cellular components
+AT3G48540 ortho_group4595_cds other enzyme activity
+AT3G48540 ortho_group4595_cds unknown biological processes
+AT3G48670 ortho_group2590_cds DNA or RNA metabolism
+AT3G48670 ortho_group2590_cds other biological processes
+AT3G48670 ortho_group2590_cds other cellular processes
+AT3G48670 ortho_group2590_cds other metabolic processes
+AT3G48670 ortho_group2590_cds unknown cellular components
+AT3G48670 ortho_group2590_cds unknown molecular functions
+AT3G48800 ortho_group5302_cds unknown biological processes
+AT3G48800 ortho_group5302_cds unknown cellular components
+AT3G48800 ortho_group5302_cds unknown molecular functions
+AT3G48890 ortho_group5278_cds chloroplast
+AT3G48890 ortho_group5278_cds nucleus
+AT3G48890 ortho_group5278_cds other binding
+AT3G48890 ortho_group5278_cds other cytoplasmic components
+AT3G48890 ortho_group5278_cds other intracellular components
+AT3G48890 ortho_group5278_cds other membranes
+AT3G48890 ortho_group5278_cds plastid
+AT3G49080 ortho_group4083_cds cytosol
+AT3G49080 ortho_group4083_cds other cellular processes
+AT3G49080 ortho_group4083_cds other cytoplasmic components
+AT3G49080 ortho_group4083_cds other intracellular components
+AT3G49080 ortho_group4083_cds other metabolic processes
+AT3G49080 ortho_group4083_cds protein metabolism
+AT3G49080 ortho_group4083_cds ribosome
+AT3G49080 ortho_group4083_cds structural molecule activity
+AT3G49100 ortho_group3903_cds DNA or RNA binding
+AT3G49100 ortho_group3903_cds other binding
+AT3G49100 ortho_group3903_cds other cellular processes
+AT3G49100 ortho_group3903_cds other cytoplasmic components
+AT3G49100 ortho_group3903_cds other intracellular components
+AT3G49100 ortho_group3903_cds other metabolic processes
+AT3G49100 ortho_group3903_cds protein metabolism
+AT3G49100 ortho_group3903_cds transport
+AT3G49290 ortho_group3397_cds unknown biological processes
+AT3G49290 ortho_group3397_cds unknown cellular components
+AT3G49290 ortho_group3397_cds unknown molecular functions
+AT3G49420 ortho_group5411_cds other cellular processes
+AT3G49420 ortho_group5411_cds transport
+AT3G49420 ortho_group5411_cds unknown molecular functions
+AT3G49640 ortho_group3470_cds other binding
+AT3G49640 ortho_group3470_cds other biological processes
+AT3G49640 ortho_group3470_cds other cellular components
+AT3G49640 ortho_group3470_cds other cellular processes
+AT3G49640 ortho_group3470_cds other enzyme activity
+AT3G49640 ortho_group3470_cds other metabolic processes
+AT3G49720 ortho_group3948_cds chloroplast
+AT3G49720 ortho_group3948_cds Golgi apparatus
+AT3G49720 ortho_group3948_cds other cytoplasmic components
+AT3G49720 ortho_group3948_cds other intracellular components
+AT3G49720 ortho_group3948_cds other membranes
+AT3G49720 ortho_group3948_cds plasma membrane
+AT3G49720 ortho_group3948_cds plastid
+AT3G49720 ortho_group3948_cds unknown biological processes
+AT3G49720 ortho_group3948_cds unknown molecular functions
+AT3G50210 ortho_group3994_cds other binding
+AT3G50210 ortho_group3994_cds other biological processes
+AT3G50210 ortho_group3994_cds other cellular processes
+AT3G50210 ortho_group3994_cds other enzyme activity
+AT3G50210 ortho_group3994_cds response to stress
+AT3G50240 ortho_group3253_cds chloroplast
+AT3G50240 ortho_group3253_cds hydrolase activity
+AT3G50240 ortho_group3253_cds nucleotide binding
+AT3G50240 ortho_group3253_cds other cellular processes
+AT3G50360 ortho_group4999_cds other binding
+AT3G50360 ortho_group4999_cds plasma membrane
+AT3G50360 ortho_group4999_cds unknown biological processes
+AT3G50790 ortho_group3333_cds developmental processes
+AT3G50790 ortho_group3333_cds hydrolase activity
+AT3G50830 ortho_group4025_cds other cytoplasmic components
+AT3G50830 ortho_group4025_cds other intracellular components
+AT3G50830 ortho_group4025_cds other membranes
+AT3G50830 ortho_group4025_cds plasma membrane
+AT3G50830 ortho_group4025_cds response to stress
+AT3G50830 ortho_group4025_cds unknown molecular functions
+AT3G50860 ortho_group5225_cds other cellular processes
+AT3G50860 ortho_group5225_cds other cytoplasmic components
+AT3G50860 ortho_group5225_cds other intracellular components
+AT3G50860 ortho_group5225_cds other membranes
+AT3G50860 ortho_group5225_cds transport
+AT3G50860 ortho_group5225_cds transporter activity
+AT3G50960 ortho_group4579_cds cell organization and biogenesis
+AT3G50960 ortho_group4579_cds nucleus
+AT3G50960 ortho_group4579_cds other cellular processes
+AT3G50960 ortho_group4579_cds other cytoplasmic components
+AT3G50960 ortho_group4579_cds protein binding
+AT3G51030 ortho_group4510_cds cytosol
+AT3G51030 ortho_group4510_cds other cellular processes
+AT3G51030 ortho_group4510_cds other enzyme activity
+AT3G51030 ortho_group4510_cds other metabolic processes
+AT3G51030 ortho_group4510_cds other molecular functions
+AT3G51040 ortho_group4392_cds unknown biological processes
+AT3G51040 ortho_group4392_cds unknown cellular components
+AT3G51040 ortho_group4392_cds unknown molecular functions
+AT3G51050 ortho_group5580_cds other cellular processes
+AT3G51050 ortho_group5580_cds other cytoplasmic components
+AT3G51050 ortho_group5580_cds other intracellular components
+AT3G51050 ortho_group5580_cds other membranes
+AT3G51050 ortho_group5580_cds plasma membrane
+AT3G51050 ortho_group5580_cds unknown molecular functions
+AT3G51200 ortho_group4570_cds other biological processes
+AT3G51200 ortho_group4570_cds unknown cellular components
+AT3G51200 ortho_group4570_cds unknown molecular functions
+AT3G51240 ortho_group3039_cds other cellular processes
+AT3G51240 ortho_group3039_cds other enzyme activity
+AT3G51240 ortho_group3039_cds other metabolic processes
+AT3G51240 ortho_group3039_cds response to abiotic or biotic stimulus
+AT3G51240 ortho_group3039_cds unknown cellular components
+AT3G51300 ortho_group3338_cds cell organization and biogenesis
+AT3G51300 ortho_group3338_cds developmental processes
+AT3G51300 ortho_group3338_cds hydrolase activity
+AT3G51300 ortho_group3338_cds nucleotide binding
+AT3G51300 ortho_group3338_cds nucleus
+AT3G51300 ortho_group3338_cds other cellular components
+AT3G51300 ortho_group3338_cds other cellular processes
+AT3G51300 ortho_group3338_cds other cytoplasmic components
+AT3G51300 ortho_group3338_cds other intracellular components
+AT3G51300 ortho_group3338_cds plasma membrane
+AT3G51300 ortho_group3338_cds protein binding
+AT3G51300 ortho_group3338_cds transport
+AT3G51390 ortho_group3169_cds other binding
+AT3G51390 ortho_group3169_cds other cytoplasmic components
+AT3G51390 ortho_group3169_cds other intracellular components
+AT3G51390 ortho_group3169_cds other membranes
+AT3G51390 ortho_group3169_cds unknown biological processes
+AT3G51610 ortho_group4919_cds developmental processes
+AT3G51610 ortho_group4919_cds plasma membrane
+AT3G51610 ortho_group4919_cds response to stress
+AT3G51610 ortho_group4919_cds unknown molecular functions
+AT3G51670 ortho_group3437_cds plasma membrane
+AT3G51670 ortho_group3437_cds transport
+AT3G51670 ortho_group3437_cds transporter activity
+AT3G51680 ortho_group3009_cds other binding
+AT3G51680 ortho_group3009_cds other enzyme activity
+AT3G51680 ortho_group3009_cds other metabolic processes
+AT3G51680 ortho_group3009_cds unknown cellular components
+AT3G51820 ortho_group4616_cds chloroplast
+AT3G51820 ortho_group4616_cds other cellular processes
+AT3G51820 ortho_group4616_cds other cytoplasmic components
+AT3G51820 ortho_group4616_cds other intracellular components
+AT3G51820 ortho_group4616_cds other membranes
+AT3G51820 ortho_group4616_cds other metabolic processes
+AT3G51820 ortho_group4616_cds plastid
+AT3G51820 ortho_group4616_cds transferase activity
+AT3G51840 ortho_group5201_cds developmental processes
+AT3G51840 ortho_group5201_cds other cellular processes
+AT3G51840 ortho_group5201_cds other cytoplasmic components
+AT3G51840 ortho_group5201_cds other enzyme activity
+AT3G51840 ortho_group5201_cds other intracellular components
+AT3G51840 ortho_group5201_cds other metabolic processes
+AT3G51850 ortho_group5233_cds kinase activity
+AT3G51850 ortho_group5233_cds other cellular processes
+AT3G51850 ortho_group5233_cds other metabolic processes
+AT3G51850 ortho_group5233_cds plasma membrane
+AT3G51850 ortho_group5233_cds protein metabolism
+AT3G51850 ortho_group5233_cds transferase activity
+AT3G51860 ortho_group3971_cds other biological processes
+AT3G51860 ortho_group3971_cds other cellular processes
+AT3G51860 ortho_group3971_cds other cytoplasmic components
+AT3G51860 ortho_group3971_cds other intracellular components
+AT3G51860 ortho_group3971_cds other membranes
+AT3G51860 ortho_group3971_cds other metabolic processes
+AT3G51860 ortho_group3971_cds protein binding
+AT3G51860 ortho_group3971_cds response to abiotic or biotic stimulus
+AT3G51860 ortho_group3971_cds transport
+AT3G51860 ortho_group3971_cds transporter activity
+AT3G51880 ortho_group2875_cds cell organization and biogenesis
+AT3G51880 ortho_group2875_cds cytosol
+AT3G51880 ortho_group2875_cds DNA or RNA binding
+AT3G51880 ortho_group2875_cds nucleus
+AT3G51880 ortho_group2875_cds other binding
+AT3G51880 ortho_group2875_cds other cellular processes
+AT3G51880 ortho_group2875_cds other intracellular components
+AT3G51880 ortho_group2875_cds structural molecule activity
+AT3G51880 ortho_group2875_cds transcription factor activity
+AT3G51895 ortho_group2624_cds other cellular processes
+AT3G51895 ortho_group2624_cds transport
+AT3G51895 ortho_group2624_cds transporter activity
+AT3G51950 ortho_group4566_cds DNA or RNA binding
+AT3G51950 ortho_group4566_cds nucleic acid binding
+AT3G51950 ortho_group4566_cds nucleotide binding
+AT3G51950 ortho_group4566_cds other binding
+AT3G51950 ortho_group4566_cds unknown biological processes
+AT3G51950 ortho_group4566_cds unknown cellular components
+AT3G51980 ortho_group3020_cds other binding
+AT3G51980 ortho_group3020_cds other cellular components
+AT3G51980 ortho_group3020_cds unknown biological processes
+AT3G52170 ortho_group4166_cds DNA or RNA binding
+AT3G52170 ortho_group4166_cds unknown biological processes
+AT3G52390 ortho_group3126_cds hydrolase activity
+AT3G52390 ortho_group3126_cds other cellular processes
+AT3G52390 ortho_group3126_cds other metabolic processes
+AT3G52740 ortho_group5519_cds response to abiotic or biotic stimulus
+AT3G52740 ortho_group5519_cds unknown cellular components
+AT3G52740 ortho_group5519_cds unknown molecular functions
+AT3G52820 ortho_group2740_cds hydrolase activity
+AT3G52820 ortho_group2740_cds other cellular components
+AT3G52820 ortho_group2740_cds unknown biological processes
+AT3G52940 ortho_group3610_cds developmental processes
+AT3G52940 ortho_group3610_cds other cellular components
+AT3G52940 ortho_group3610_cds other enzyme activity
+AT3G52940 ortho_group3610_cds other membranes
+AT3G52940 ortho_group3610_cds other metabolic processes
+AT3G52980 ortho_group4566_cds cell wall
+AT3G52980 ortho_group4566_cds nucleic acid binding
+AT3G52980 ortho_group4566_cds other binding
+AT3G52980 ortho_group4566_cds unknown biological processes
+AT3G52990 ortho_group4511_cds cytosol
+AT3G52990 ortho_group4511_cds electron transport or energy pathways
+AT3G52990 ortho_group4511_cds kinase activity
+AT3G52990 ortho_group4511_cds other binding
+AT3G52990 ortho_group4511_cds other biological processes
+AT3G52990 ortho_group4511_cds other cellular processes
+AT3G52990 ortho_group4511_cds other enzyme activity
+AT3G52990 ortho_group4511_cds other membranes
+AT3G52990 ortho_group4511_cds other metabolic processes
+AT3G52990 ortho_group4511_cds transferase activity
+AT3G53030 ortho_group4270_cds kinase activity
+AT3G53030 ortho_group4270_cds other cellular processes
+AT3G53030 ortho_group4270_cds other metabolic processes
+AT3G53030 ortho_group4270_cds protein metabolism
+AT3G53030 ortho_group4270_cds response to stress
+AT3G53030 ortho_group4270_cds transferase activity
+AT3G53030 ortho_group4270_cds unknown cellular components
+AT3G53110 ortho_group3584_cds DNA or RNA metabolism
+AT3G53110 ortho_group3584_cds hydrolase activity
+AT3G53110 ortho_group3584_cds nucleus
+AT3G53110 ortho_group3584_cds other biological processes
+AT3G53110 ortho_group3584_cds other cellular processes
+AT3G53110 ortho_group3584_cds other cytoplasmic components
+AT3G53110 ortho_group3584_cds other intracellular components
+AT3G53110 ortho_group3584_cds plasma membrane
+AT3G53110 ortho_group3584_cds response to abiotic or biotic stimulus
+AT3G53110 ortho_group3584_cds response to stress
+AT3G53110 ortho_group3584_cds transport
+AT3G53120 ortho_group3724_cds other cytoplasmic components
+AT3G53120 ortho_group3724_cds other intracellular components
+AT3G53120 ortho_group3724_cds other membranes
+AT3G53120 ortho_group3724_cds protein binding
+AT3G53170 ortho_group5538_cds nucleus
+AT3G53170 ortho_group5538_cds other cellular processes
+AT3G53170 ortho_group5538_cds other intracellular components
+AT3G53170 ortho_group5538_cds other metabolic processes
+AT3G53170 ortho_group5538_cds unknown molecular functions
+AT3G53180 ortho_group2785_cds cytosol
+AT3G53180 ortho_group2785_cds developmental processes
+AT3G53180 ortho_group2785_cds other biological processes
+AT3G53180 ortho_group2785_cds other cellular processes
+AT3G53180 ortho_group2785_cds other enzyme activity
+AT3G53180 ortho_group2785_cds other metabolic processes
+AT3G53180 ortho_group2785_cds protein binding
+AT3G53180 ortho_group2785_cds protein metabolism
+AT3G53180 ortho_group2785_cds response to abiotic or biotic stimulus
+AT3G53580 ortho_group4620_cds chloroplast
+AT3G53580 ortho_group4620_cds other cellular processes
+AT3G53580 ortho_group4620_cds other cytoplasmic components
+AT3G53580 ortho_group4620_cds other enzyme activity
+AT3G53580 ortho_group4620_cds other intracellular components
+AT3G53580 ortho_group4620_cds other metabolic processes
+AT3G53580 ortho_group4620_cds plastid
+AT3G53610 ortho_group3151_cds cytosol
+AT3G53610 ortho_group3151_cds nucleotide binding
+AT3G53610 ortho_group3151_cds plasma membrane
+AT3G53610 ortho_group3151_cds protein binding
+AT3G53610 ortho_group3151_cds signal transduction
+AT3G53610 ortho_group3151_cds transport
+AT3G53620 ortho_group3119_cds cytosol
+AT3G53620 ortho_group3119_cds hydrolase activity
+AT3G53620 ortho_group3119_cds other biological processes
+AT3G53620 ortho_group3119_cds other membranes
+AT3G53620 ortho_group3119_cds other metabolic processes
+AT3G53680 ortho_group4354_cds DNA or RNA binding
+AT3G53680 ortho_group4354_cds nucleus
+AT3G53680 ortho_group4354_cds other binding
+AT3G53680 ortho_group4354_cds other cellular processes
+AT3G53680 ortho_group4354_cds other metabolic processes
+AT3G53870 ortho_group2922_cds cytosol
+AT3G53870 ortho_group2922_cds DNA or RNA binding
+AT3G53870 ortho_group2922_cds other cellular components
+AT3G53870 ortho_group2922_cds other cellular processes
+AT3G53870 ortho_group2922_cds other cytoplasmic components
+AT3G53870 ortho_group2922_cds other intracellular components
+AT3G53870 ortho_group2922_cds other membranes
+AT3G53870 ortho_group2922_cds other metabolic processes
+AT3G53870 ortho_group2922_cds protein metabolism
+AT3G53870 ortho_group2922_cds response to abiotic or biotic stimulus
+AT3G53870 ortho_group2922_cds response to stress
+AT3G53870 ortho_group2922_cds ribosome
+AT3G53870 ortho_group2922_cds structural molecule activity
+AT3G53990 ortho_group2542_cds other cellular components
+AT3G53990 ortho_group2542_cds response to abiotic or biotic stimulus
+AT3G53990 ortho_group2542_cds response to stress
+AT3G53990 ortho_group2542_cds unknown molecular functions
+AT3G54010 ortho_group4135_cds cell organization and biogenesis
+AT3G54010 ortho_group4135_cds cytosol
+AT3G54010 ortho_group4135_cds developmental processes
+AT3G54010 ortho_group4135_cds ER
+AT3G54010 ortho_group4135_cds nucleus
+AT3G54010 ortho_group4135_cds other binding
+AT3G54010 ortho_group4135_cds other biological processes
+AT3G54010 ortho_group4135_cds other cellular processes
+AT3G54010 ortho_group4135_cds other enzyme activity
+AT3G54010 ortho_group4135_cds other membranes
+AT3G54010 ortho_group4135_cds other metabolic processes
+AT3G54010 ortho_group4135_cds protein binding
+AT3G54010 ortho_group4135_cds protein metabolism
+AT3G54020 ortho_group3582_cds mitochondria
+AT3G54020 ortho_group3582_cds other cellular processes
+AT3G54020 ortho_group3582_cds other metabolic processes
+AT3G54020 ortho_group3582_cds transferase activity
+AT3G54050 ortho_group4512_cds chloroplast
+AT3G54050 ortho_group4512_cds electron transport or energy pathways
+AT3G54050 ortho_group4512_cds extracellular
+AT3G54050 ortho_group4512_cds hydrolase activity
+AT3G54050 ortho_group4512_cds other cellular processes
+AT3G54050 ortho_group4512_cds other cytoplasmic components
+AT3G54050 ortho_group4512_cds other intracellular components
+AT3G54050 ortho_group4512_cds other metabolic processes
+AT3G54050 ortho_group4512_cds plastid
+AT3G54050 ortho_group4512_cds response to abiotic or biotic stimulus
+AT3G54050 ortho_group4512_cds response to stress
+AT3G54120 ortho_group5378_cds ER
+AT3G54120 ortho_group5378_cds unknown biological processes
+AT3G54120 ortho_group5378_cds unknown molecular functions
+AT3G54170 ortho_group2591_cds other cellular components
+AT3G54170 ortho_group2591_cds protein binding
+AT3G54300 ortho_group3427_cds cell organization and biogenesis
+AT3G54300 ortho_group3427_cds other cellular processes
+AT3G54300 ortho_group3427_cds other cytoplasmic components
+AT3G54300 ortho_group3427_cds other intracellular components
+AT3G54300 ortho_group3427_cds other membranes
+AT3G54300 ortho_group3427_cds transport
+AT3G54300 ortho_group3427_cds unknown molecular functions
+AT3G54360 ortho_group3822_cds other binding
+AT3G54420 ortho_group5213_cds cell wall
+AT3G54420 ortho_group5213_cds developmental processes
+AT3G54420 ortho_group5213_cds hydrolase activity
+AT3G54420 ortho_group5213_cds other cellular processes
+AT3G54420 ortho_group5213_cds response to stress
+AT3G54460 ortho_group4488_cds DNA or RNA binding
+AT3G54460 ortho_group4488_cds hydrolase activity
+AT3G54460 ortho_group4488_cds nucleic acid binding
+AT3G54460 ortho_group4488_cds nucleotide binding
+AT3G54460 ortho_group4488_cds other binding
+AT3G54460 ortho_group4488_cds other cellular components
+AT3G54540 ortho_group2790_cds transporter activity
+AT3G54640 ortho_group4040_cds cell organization and biogenesis
+AT3G54640 ortho_group4040_cds chloroplast
+AT3G54640 ortho_group4040_cds other cellular processes
+AT3G54640 ortho_group4040_cds other cytoplasmic components
+AT3G54640 ortho_group4040_cds other enzyme activity
+AT3G54640 ortho_group4040_cds other intracellular components
+AT3G54640 ortho_group4040_cds other metabolic processes
+AT3G54640 ortho_group4040_cds plastid
+AT3G54640 ortho_group4040_cds response to abiotic or biotic stimulus
+AT3G54640 ortho_group4040_cds response to stress
+AT3G54840 ortho_group5459_cds hydrolase activity
+AT3G54840 ortho_group5459_cds nucleotide binding
+AT3G54840 ortho_group5459_cds other cellular processes
+AT3G54840 ortho_group5459_cds other cytoplasmic components
+AT3G54840 ortho_group5459_cds other intracellular components
+AT3G54840 ortho_group5459_cds other membranes
+AT3G54840 ortho_group5459_cds other metabolic processes
+AT3G54840 ortho_group5459_cds protein binding
+AT3G54840 ortho_group5459_cds protein metabolism
+AT3G54840 ortho_group5459_cds transport
+AT3G54860 ortho_group5474_cds cell organization and biogenesis
+AT3G54860 ortho_group5474_cds cytosol
+AT3G54860 ortho_group5474_cds other cellular processes
+AT3G54860 ortho_group5474_cds other cytoplasmic components
+AT3G54860 ortho_group5474_cds other intracellular components
+AT3G54860 ortho_group5474_cds other membranes
+AT3G54860 ortho_group5474_cds transport
+AT3G54860 ortho_group5474_cds transporter activity
+AT3G54890 ortho_group4156_cds chloroplast
+AT3G54890 ortho_group4156_cds electron transport or energy pathways
+AT3G54890 ortho_group4156_cds other binding
+AT3G54890 ortho_group4156_cds other cellular processes
+AT3G54890 ortho_group4156_cds other cytoplasmic components
+AT3G54890 ortho_group4156_cds other intracellular components
+AT3G54890 ortho_group4156_cds other membranes
+AT3G54890 ortho_group4156_cds other metabolic processes
+AT3G54890 ortho_group4156_cds plastid
+AT3G54890 ortho_group4156_cds response to abiotic or biotic stimulus
+AT3G54900 ortho_group3316_cds chloroplast
+AT3G54900 ortho_group3316_cds other cytoplasmic components
+AT3G54900 ortho_group3316_cds other enzyme activity
+AT3G54900 ortho_group3316_cds other intracellular components
+AT3G54900 ortho_group3316_cds plastid
+AT3G54900 ortho_group3316_cds transport
+AT3G54900 ortho_group3316_cds transporter activity
+AT3G55000 ortho_group5185_cds cell organization and biogenesis
+AT3G55000 ortho_group5185_cds other cellular components
+AT3G55000 ortho_group5185_cds other cellular processes
+AT3G55000 ortho_group5185_cds other cytoplasmic components
+AT3G55000 ortho_group5185_cds other intracellular components
+AT3G55000 ortho_group5185_cds plasma membrane
+AT3G55010 ortho_group5579_cds chloroplast
+AT3G55010 ortho_group5579_cds mitochondria
+AT3G55010 ortho_group5579_cds nucleotide binding
+AT3G55010 ortho_group5579_cds other binding
+AT3G55010 ortho_group5579_cds other cellular processes
+AT3G55010 ortho_group5579_cds other cytoplasmic components
+AT3G55010 ortho_group5579_cds other enzyme activity
+AT3G55010 ortho_group5579_cds other intracellular components
+AT3G55010 ortho_group5579_cds other metabolic processes
+AT3G55010 ortho_group5579_cds plastid
+AT3G55020 ortho_group5131_cds cytosol
+AT3G55020 ortho_group5131_cds other cellular processes
+AT3G55020 ortho_group5131_cds other metabolic processes
+AT3G55020 ortho_group5131_cds other molecular functions
+AT3G55020 ortho_group5131_cds signal transduction
+AT3G55040 ortho_group4641_cds chloroplast
+AT3G55040 ortho_group4641_cds other cellular processes
+AT3G55040 ortho_group4641_cds other cytoplasmic components
+AT3G55040 ortho_group4641_cds other intracellular components
+AT3G55040 ortho_group4641_cds other metabolic processes
+AT3G55040 ortho_group4641_cds plastid
+AT3G55040 ortho_group4641_cds protein metabolism
+AT3G55240 ortho_group4866_cds other biological processes
+AT3G55240 ortho_group4866_cds other cellular components
+AT3G55240 ortho_group4866_cds unknown molecular functions
+AT3G55330 ortho_group3739_cds chloroplast
+AT3G55330 ortho_group3739_cds other binding
+AT3G55330 ortho_group3739_cds other cellular processes
+AT3G55330 ortho_group3739_cds other cytoplasmic components
+AT3G55330 ortho_group3739_cds other intracellular components
+AT3G55330 ortho_group3739_cds other membranes
+AT3G55330 ortho_group3739_cds other metabolic processes
+AT3G55330 ortho_group3739_cds plastid
+AT3G55440 ortho_group4463_cds cell wall
+AT3G55440 ortho_group4463_cds chloroplast
+AT3G55440 ortho_group4463_cds cytosol
+AT3G55440 ortho_group4463_cds electron transport or energy pathways
+AT3G55440 ortho_group4463_cds extracellular
+AT3G55440 ortho_group4463_cds mitochondria
+AT3G55440 ortho_group4463_cds other binding
+AT3G55440 ortho_group4463_cds other biological processes
+AT3G55440 ortho_group4463_cds other cellular components
+AT3G55440 ortho_group4463_cds other cellular processes
+AT3G55440 ortho_group4463_cds other cytoplasmic components
+AT3G55440 ortho_group4463_cds other enzyme activity
+AT3G55440 ortho_group4463_cds other intracellular components
+AT3G55440 ortho_group4463_cds other membranes
+AT3G55440 ortho_group4463_cds other metabolic processes
+AT3G55440 ortho_group4463_cds plasma membrane
+AT3G55440 ortho_group4463_cds plastid
+AT3G55440 ortho_group4463_cds protein metabolism
+AT3G55440 ortho_group4463_cds response to abiotic or biotic stimulus
+AT3G55440 ortho_group4463_cds response to stress
+AT3G55470 ortho_group3959_cds unknown biological processes
+AT3G55470 ortho_group3959_cds unknown cellular components
+AT3G55470 ortho_group3959_cds unknown molecular functions
+AT3G55520 ortho_group3318_cds chloroplast
+AT3G55520 ortho_group3318_cds other binding
+AT3G55520 ortho_group3318_cds other cellular processes
+AT3G55520 ortho_group3318_cds other cytoplasmic components
+AT3G55520 ortho_group3318_cds other enzyme activity
+AT3G55520 ortho_group3318_cds other intracellular components
+AT3G55520 ortho_group3318_cds other membranes
+AT3G55520 ortho_group3318_cds other metabolic processes
+AT3G55520 ortho_group3318_cds plastid
+AT3G55520 ortho_group3318_cds protein metabolism
+AT3G55600 ortho_group4244_cds unknown biological processes
+AT3G55600 ortho_group4244_cds unknown molecular functions
+AT3G55960 ortho_group2902_cds hydrolase activity
+AT3G55960 ortho_group2902_cds other biological processes
+AT3G55970 ortho_group4356_cds other binding
+AT3G55970 ortho_group4356_cds other enzyme activity
+AT3G55970 ortho_group4356_cds other metabolic processes
+AT3G55970 ortho_group4356_cds unknown cellular components
+AT3G56040 ortho_group5229_cds chloroplast
+AT3G56040 ortho_group5229_cds other metabolic processes
+AT3G56040 ortho_group5229_cds transferase activity
+AT3G56070 ortho_group2944_cds cytosol
+AT3G56070 ortho_group2944_cds other binding
+AT3G56070 ortho_group2944_cds other biological processes
+AT3G56070 ortho_group2944_cds other cellular processes
+AT3G56070 ortho_group2944_cds other enzyme activity
+AT3G56070 ortho_group2944_cds other metabolic processes
+AT3G56070 ortho_group2944_cds protein metabolism
+AT3G56070 ortho_group2944_cds signal transduction
+AT3G56190 ortho_group4342_cds other binding
+AT3G56190 ortho_group4342_cds other cellular components
+AT3G56190 ortho_group4342_cds other cellular processes
+AT3G56190 ortho_group4342_cds other cytoplasmic components
+AT3G56190 ortho_group4342_cds other intracellular components
+AT3G56190 ortho_group4342_cds other membranes
+AT3G56190 ortho_group4342_cds plasma membrane
+AT3G56190 ortho_group4342_cds protein binding
+AT3G56190 ortho_group4342_cds transport
+AT3G56200 ortho_group5414_cds other membranes
+AT3G56200 ortho_group5414_cds transport
+AT3G56200 ortho_group5414_cds transporter activity
+AT3G56210 ortho_group4290_cds other binding
+AT3G56210 ortho_group4290_cds unknown biological processes
+AT3G56290 ortho_group3476_cds unknown biological processes
+AT3G56290 ortho_group3476_cds unknown molecular functions
+AT3G56310 ortho_group3140_cds cell wall
+AT3G56310 ortho_group3140_cds hydrolase activity
+AT3G56310 ortho_group3140_cds other cellular processes
+AT3G56310 ortho_group3140_cds other cytoplasmic components
+AT3G56310 ortho_group3140_cds other enzyme activity
+AT3G56310 ortho_group3140_cds other intracellular components
+AT3G56310 ortho_group3140_cds other metabolic processes
+AT3G56340 ortho_group3597_cds cytosol
+AT3G56340 ortho_group3597_cds other cellular processes
+AT3G56340 ortho_group3597_cds other cytoplasmic components
+AT3G56340 ortho_group3597_cds other intracellular components
+AT3G56340 ortho_group3597_cds other membranes
+AT3G56340 ortho_group3597_cds other metabolic processes
+AT3G56340 ortho_group3597_cds protein metabolism
+AT3G56340 ortho_group3597_cds ribosome
+AT3G56340 ortho_group3597_cds structural molecule activity
+AT3G56430 ortho_group3242_cds mitochondria
+AT3G56430 ortho_group3242_cds other cytoplasmic components
+AT3G56430 ortho_group3242_cds other intracellular components
+AT3G56430 ortho_group3242_cds unknown biological processes
+AT3G56430 ortho_group3242_cds unknown molecular functions
+AT3G56460 ortho_group4853_cds other binding
+AT3G56460 ortho_group4853_cds other cytoplasmic components
+AT3G56460 ortho_group4853_cds other enzyme activity
+AT3G56460 ortho_group4853_cds other intracellular components
+AT3G56460 ortho_group4853_cds other metabolic processes
+AT3G56490 ortho_group3498_cds hydrolase activity
+AT3G56490 ortho_group3498_cds other binding
+AT3G56490 ortho_group3498_cds other cellular processes
+AT3G56490 ortho_group3498_cds other cytoplasmic components
+AT3G56490 ortho_group3498_cds other intracellular components
+AT3G56490 ortho_group3498_cds other metabolic processes
+AT3G56490 ortho_group3498_cds plasma membrane
+AT3G56490 ortho_group3498_cds protein binding
+AT3G56510 ortho_group3762_cds nucleic acid binding
+AT3G56510 ortho_group3762_cds protein binding
+AT3G56510 ortho_group3762_cds unknown biological processes
+AT3G56510 ortho_group3762_cds unknown cellular components
+AT3G56650 ortho_group4917_cds chloroplast
+AT3G56650 ortho_group4917_cds other binding
+AT3G56650 ortho_group4917_cds other cellular processes
+AT3G56650 ortho_group4917_cds other cytoplasmic components
+AT3G56650 ortho_group4917_cds other intracellular components
+AT3G56650 ortho_group4917_cds other metabolic processes
+AT3G56650 ortho_group4917_cds plastid
+AT3G56650 ortho_group4917_cds protein binding
+AT3G56720 ortho_group4347_cds unknown biological processes
+AT3G56720 ortho_group4347_cds unknown molecular functions
+AT3G56740 ortho_group3281_cds other cellular components
+AT3G56740 ortho_group3281_cds unknown biological processes
+AT3G56740 ortho_group3281_cds unknown molecular functions
+AT3G56900 ortho_group4235_cds nucleus
+AT3G56900 ortho_group4235_cds other intracellular components
+AT3G56900 ortho_group4235_cds protein binding
+AT3G56900 ortho_group4235_cds unknown biological processes
+AT3G56940 ortho_group5540_cds chloroplast
+AT3G56940 ortho_group5540_cds DNA or RNA binding
+AT3G56940 ortho_group5540_cds other cellular processes
+AT3G56940 ortho_group5540_cds other cytoplasmic components
+AT3G56940 ortho_group5540_cds other enzyme activity
+AT3G56940 ortho_group5540_cds other intracellular components
+AT3G56940 ortho_group5540_cds other membranes
+AT3G56940 ortho_group5540_cds other metabolic processes
+AT3G56940 ortho_group5540_cds plastid
+AT3G57040 ortho_group5332_cds nucleus
+AT3G57040 ortho_group5332_cds other biological processes
+AT3G57040 ortho_group5332_cds other cellular processes
+AT3G57040 ortho_group5332_cds other metabolic processes
+AT3G57040 ortho_group5332_cds other molecular functions
+AT3G57040 ortho_group5332_cds protein binding
+AT3G57040 ortho_group5332_cds signal transduction
+AT3G57090 ortho_group3789_cds cell organization and biogenesis
+AT3G57090 ortho_group3789_cds chloroplast
+AT3G57090 ortho_group3789_cds mitochondria
+AT3G57090 ortho_group3789_cds other binding
+AT3G57090 ortho_group3789_cds other cellular processes
+AT3G57090 ortho_group3789_cds other cytoplasmic components
+AT3G57090 ortho_group3789_cds other intracellular components
+AT3G57090 ortho_group3789_cds protein binding
+AT3G57230 ortho_group4931_cds developmental processes
+AT3G57230 ortho_group4931_cds other cellular processes
+AT3G57230 ortho_group4931_cds other metabolic processes
+AT3G57230 ortho_group4931_cds protein binding
+AT3G57230 ortho_group4931_cds transcription factor activity
+AT3G57240 ortho_group5227_cds cell wall
+AT3G57240 ortho_group5227_cds extracellular
+AT3G57240 ortho_group5227_cds hydrolase activity
+AT3G57240 ortho_group5227_cds response to abiotic or biotic stimulus
+AT3G57270 ortho_group4898_cds hydrolase activity
+AT3G57270 ortho_group4898_cds other binding
+AT3G57270 ortho_group4898_cds other cellular components
+AT3G57270 ortho_group4898_cds other enzyme activity
+AT3G57270 ortho_group4898_cds other metabolic processes
+AT3G57280 ortho_group4187_cds chloroplast
+AT3G57280 ortho_group4187_cds other cytoplasmic components
+AT3G57280 ortho_group4187_cds other intracellular components
+AT3G57280 ortho_group4187_cds other membranes
+AT3G57280 ortho_group4187_cds plastid
+AT3G57280 ortho_group4187_cds unknown biological processes
+AT3G57290 ortho_group4984_cds cytosol
+AT3G57290 ortho_group4984_cds developmental processes
+AT3G57290 ortho_group4984_cds DNA or RNA binding
+AT3G57290 ortho_group4984_cds nucleus
+AT3G57290 ortho_group4984_cds other cellular processes
+AT3G57290 ortho_group4984_cds other cytoplasmic components
+AT3G57290 ortho_group4984_cds other intracellular components
+AT3G57290 ortho_group4984_cds other metabolic processes
+AT3G57290 ortho_group4984_cds plasma membrane
+AT3G57290 ortho_group4984_cds protein binding
+AT3G57290 ortho_group4984_cds protein metabolism
+AT3G57290 ortho_group4984_cds response to abiotic or biotic stimulus
+AT3G57290 ortho_group4984_cds response to stress
+AT3G57330 ortho_group5427_cds chloroplast
+AT3G57330 ortho_group5427_cds hydrolase activity
+AT3G57330 ortho_group5427_cds other biological processes
+AT3G57330 ortho_group5427_cds other cellular processes
+AT3G57330 ortho_group5427_cds other cytoplasmic components
+AT3G57330 ortho_group5427_cds other intracellular components
+AT3G57330 ortho_group5427_cds other membranes
+AT3G57330 ortho_group5427_cds plasma membrane
+AT3G57330 ortho_group5427_cds protein binding
+AT3G57330 ortho_group5427_cds response to abiotic or biotic stimulus
+AT3G57330 ortho_group5427_cds response to stress
+AT3G57330 ortho_group5427_cds transporter activity
+AT3G57520 ortho_group3700_cds hydrolase activity
+AT3G57520 ortho_group3700_cds other cellular components
+AT3G57520 ortho_group3700_cds other metabolic processes
+AT3G57520 ortho_group3700_cds response to abiotic or biotic stimulus
+AT3G57520 ortho_group3700_cds response to stress
+AT3G57530 ortho_group4150_cds kinase activity
+AT3G57530 ortho_group4150_cds nucleus
+AT3G57530 ortho_group4150_cds other biological processes
+AT3G57530 ortho_group4150_cds other cellular components
+AT3G57530 ortho_group4150_cds other cellular processes
+AT3G57530 ortho_group4150_cds other cytoplasmic components
+AT3G57530 ortho_group4150_cds other metabolic processes
+AT3G57530 ortho_group4150_cds plasma membrane
+AT3G57530 ortho_group4150_cds protein binding
+AT3G57530 ortho_group4150_cds protein metabolism
+AT3G57530 ortho_group4150_cds response to abiotic or biotic stimulus
+AT3G57530 ortho_group4150_cds response to stress
+AT3G57530 ortho_group4150_cds signal transduction
+AT3G57530 ortho_group4150_cds transferase activity
+AT3G57650 ortho_group4921_cds ER
+AT3G57650 ortho_group4921_cds other metabolic processes
+AT3G57650 ortho_group4921_cds transferase activity
+AT3G57810 ortho_group5337_cds hydrolase activity
+AT3G57810 ortho_group5337_cds unknown biological processes
+AT3G57870 ortho_group3304_cds developmental processes
+AT3G57870 ortho_group3304_cds nucleus
+AT3G57870 ortho_group3304_cds other biological processes
+AT3G57870 ortho_group3304_cds other cellular processes
+AT3G57870 ortho_group3304_cds other enzyme activity
+AT3G57870 ortho_group3304_cds other metabolic processes
+AT3G57870 ortho_group3304_cds protein binding
+AT3G57870 ortho_group3304_cds protein metabolism
+AT3G57880 ortho_group3816_cds cell wall
+AT3G57880 ortho_group3816_cds ER
+AT3G57880 ortho_group3816_cds other cellular components
+AT3G57880 ortho_group3816_cds other cellular processes
+AT3G57880 ortho_group3816_cds other metabolic processes
+AT3G57880 ortho_group3816_cds unknown molecular functions
+AT3G58020 ortho_group2668_cds nucleus
+AT3G58020 ortho_group2668_cds other cellular processes
+AT3G58020 ortho_group2668_cds other metabolic processes
+AT3G58020 ortho_group2668_cds protein binding
+AT3G58020 ortho_group2668_cds protein metabolism
+AT3G58090 ortho_group2647_cds unknown biological processes
+AT3G58090 ortho_group2647_cds unknown cellular components
+AT3G58090 ortho_group2647_cds unknown molecular functions
+AT3G58140 ortho_group3354_cds chloroplast
+AT3G58140 ortho_group3354_cds DNA or RNA binding
+AT3G58140 ortho_group3354_cds mitochondria
+AT3G58140 ortho_group3354_cds nucleotide binding
+AT3G58140 ortho_group3354_cds other binding
+AT3G58140 ortho_group3354_cds other cellular processes
+AT3G58140 ortho_group3354_cds other cytoplasmic components
+AT3G58140 ortho_group3354_cds other enzyme activity
+AT3G58140 ortho_group3354_cds other intracellular components
+AT3G58140 ortho_group3354_cds other membranes
+AT3G58140 ortho_group3354_cds other metabolic processes
+AT3G58140 ortho_group3354_cds plastid
+AT3G58140 ortho_group3354_cds protein metabolism
+AT3G58180 ortho_group4761_cds cytosol
+AT3G58180 ortho_group4761_cds other binding
+AT3G58180 ortho_group4761_cds other enzyme activity
+AT3G58180 ortho_group4761_cds other intracellular components
+AT3G58180 ortho_group4761_cds other membranes
+AT3G58180 ortho_group4761_cds unknown biological processes
+AT3G58360 ortho_group2538_cds unknown biological processes
+AT3G58360 ortho_group2538_cds unknown cellular components
+AT3G58360 ortho_group2538_cds unknown molecular functions
+AT3G58580 ortho_group3966_cds hydrolase activity
+AT3G58600 ortho_group4750_cds cell organization and biogenesis
+AT3G58600 ortho_group4750_cds other cellular processes
+AT3G58600 ortho_group4750_cds transport
+AT3G58600 ortho_group4750_cds unknown molecular functions
+AT3G58730 ortho_group3297_cds hydrolase activity
+AT3G58730 ortho_group3297_cds other cellular processes
+AT3G58730 ortho_group3297_cds other cytoplasmic components
+AT3G58730 ortho_group3297_cds other intracellular components
+AT3G58730 ortho_group3297_cds other membranes
+AT3G58730 ortho_group3297_cds other metabolic processes
+AT3G58730 ortho_group3297_cds plasma membrane
+AT3G58730 ortho_group3297_cds transport
+AT3G58730 ortho_group3297_cds transporter activity
+AT3G58760 ortho_group3115_cds kinase activity
+AT3G58760 ortho_group3115_cds other cellular processes
+AT3G58760 ortho_group3115_cds other metabolic processes
+AT3G58760 ortho_group3115_cds plasma membrane
+AT3G58760 ortho_group3115_cds protein metabolism
+AT3G58760 ortho_group3115_cds signal transduction
+AT3G58760 ortho_group3115_cds transferase activity
+AT3G58800 ortho_group5031_cds unknown biological processes
+AT3G58800 ortho_group5031_cds unknown molecular functions
+AT3G58830 ortho_group4147_cds other enzyme activity
+AT3G59140 ortho_group3405_cds hydrolase activity
+AT3G59140 ortho_group3405_cds other cellular processes
+AT3G59140 ortho_group3405_cds other cytoplasmic components
+AT3G59140 ortho_group3405_cds other intracellular components
+AT3G59140 ortho_group3405_cds other membranes
+AT3G59140 ortho_group3405_cds transport
+AT3G59140 ortho_group3405_cds transporter activity
+AT3G59280 ortho_group5384_cds unknown biological processes
+AT3G59340 ortho_group3440_cds unknown biological processes
+AT3G59340 ortho_group3440_cds unknown molecular functions
+AT3G59360 ortho_group3453_cds Golgi apparatus
+AT3G59360 ortho_group3453_cds other cytoplasmic components
+AT3G59360 ortho_group3453_cds other intracellular components
+AT3G59360 ortho_group3453_cds other membranes
+AT3G59360 ortho_group3453_cds transport
+AT3G59360 ortho_group3453_cds transporter activity
+AT3G59470 ortho_group4377_cds response to abiotic or biotic stimulus
+AT3G59480 ortho_group4125_cds electron transport or energy pathways
+AT3G59480 ortho_group4125_cds kinase activity
+AT3G59480 ortho_group4125_cds other cellular processes
+AT3G59480 ortho_group4125_cds other metabolic processes
+AT3G59480 ortho_group4125_cds transferase activity
+AT3G59480 ortho_group4125_cds unknown cellular components
+AT3G59490 ortho_group3830_cds unknown biological processes
+AT3G59490 ortho_group3830_cds unknown molecular functions
+AT3G59500 ortho_group3023_cds ER
+AT3G59500 ortho_group3023_cds other membranes
+AT3G59520 ortho_group3523_cds unknown biological processes
+AT3G59650 ortho_group4239_cds mitochondria
+AT3G59650 ortho_group4239_cds unknown biological processes
+AT3G59650 ortho_group4239_cds unknown molecular functions
+AT3G59760 ortho_group2691_cds chloroplast
+AT3G59760 ortho_group2691_cds developmental processes
+AT3G59760 ortho_group2691_cds mitochondria
+AT3G59760 ortho_group2691_cds nucleotide binding
+AT3G59760 ortho_group2691_cds other binding
+AT3G59760 ortho_group2691_cds other cellular processes
+AT3G59760 ortho_group2691_cds other cytoplasmic components
+AT3G59760 ortho_group2691_cds other enzyme activity
+AT3G59760 ortho_group2691_cds other intracellular components
+AT3G59760 ortho_group2691_cds other metabolic processes
+AT3G59760 ortho_group2691_cds plastid
+AT3G59760 ortho_group2691_cds protein binding
+AT3G59800 ortho_group5352_cds unknown biological processes
+AT3G59800 ortho_group5352_cds unknown molecular functions
+AT3G59890 ortho_group3562_cds chloroplast
+AT3G59890 ortho_group3562_cds other cellular processes
+AT3G59890 ortho_group3562_cds other cytoplasmic components
+AT3G59890 ortho_group3562_cds other enzyme activity
+AT3G59890 ortho_group3562_cds other metabolic processes
+AT3G59920 ortho_group4553_cds cytosol
+AT3G59920 ortho_group4553_cds other cellular components
+AT3G59920 ortho_group4553_cds other cellular processes
+AT3G59920 ortho_group4553_cds other metabolic processes
+AT3G59920 ortho_group4553_cds other molecular functions
+AT3G59920 ortho_group4553_cds transport
+AT3G60240 ortho_group3319_cds DNA or RNA binding
+AT3G60240 ortho_group3319_cds other biological processes
+AT3G60240 ortho_group3319_cds response to abiotic or biotic stimulus
+AT3G60260 ortho_group3401_cds cell organization and biogenesis
+AT3G60260 ortho_group3401_cds other cellular processes
+AT3G60260 ortho_group3401_cds transport
+AT3G60260 ortho_group3401_cds unknown molecular functions
+AT3G60340 ortho_group2891_cds cytosol
+AT3G60340 ortho_group2891_cds hydrolase activity
+AT3G60340 ortho_group2891_cds other cellular processes
+AT3G60340 ortho_group2891_cds other cytoplasmic components
+AT3G60340 ortho_group2891_cds other intracellular components
+AT3G60340 ortho_group2891_cds other metabolic processes
+AT3G60340 ortho_group2891_cds protein metabolism
+AT3G60510 ortho_group3511_cds other enzyme activity
+AT3G60510 ortho_group3511_cds other metabolic processes
+AT3G60600 ortho_group5506_cds cytosol
+AT3G60600 ortho_group5506_cds ER
+AT3G60600 ortho_group5506_cds nucleus
+AT3G60600 ortho_group5506_cds other cellular processes
+AT3G60600 ortho_group5506_cds other cytoplasmic components
+AT3G60600 ortho_group5506_cds other intracellular components
+AT3G60600 ortho_group5506_cds other membranes
+AT3G60600 ortho_group5506_cds plasma membrane
+AT3G60600 ortho_group5506_cds protein binding
+AT3G60600 ortho_group5506_cds transport
+AT3G60810 ortho_group3349_cds unknown biological processes
+AT3G60810 ortho_group3349_cds unknown cellular components
+AT3G60810 ortho_group3349_cds unknown molecular functions
+AT3G60820 ortho_group4284_cds chloroplast
+AT3G60820 ortho_group4284_cds cytosol
+AT3G60820 ortho_group4284_cds hydrolase activity
+AT3G60820 ortho_group4284_cds other cellular processes
+AT3G60820 ortho_group4284_cds other intracellular components
+AT3G60820 ortho_group4284_cds other metabolic processes
+AT3G60820 ortho_group4284_cds plasma membrane
+AT3G60820 ortho_group4284_cds protein metabolism
+AT3G60820 ortho_group4284_cds response to abiotic or biotic stimulus
+AT3G60820 ortho_group4284_cds response to stress
+AT3G60910 ortho_group2958_cds other enzyme activity
+AT3G60910 ortho_group2958_cds other metabolic processes
+AT3G60910 ortho_group2958_cds transferase activity
+AT3G60910 ortho_group2958_cds unknown cellular components
+AT3G60950 ortho_group4300_cds plasma membrane
+AT3G60950 ortho_group4300_cds unknown biological processes
+AT3G60950 ortho_group4300_cds unknown molecular functions
+AT3G61050 ortho_group4300_cds DNA or RNA binding
+AT3G61050 ortho_group4300_cds nucleus
+AT3G61050 ortho_group4300_cds other binding
+AT3G61050 ortho_group4300_cds other cellular processes
+AT3G61050 ortho_group4300_cds other intracellular components
+AT3G61050 ortho_group4300_cds other membranes
+AT3G61050 ortho_group4300_cds other metabolic processes
+AT3G61050 ortho_group4300_cds plasma membrane
+AT3G61050 ortho_group4300_cds response to abiotic or biotic stimulus
+AT3G61050 ortho_group4300_cds response to stress
+AT3G61060 ortho_group4142_cds other binding
+AT3G61060 ortho_group4142_cds other cellular processes
+AT3G61060 ortho_group4142_cds other metabolic processes
+AT3G61060 ortho_group4142_cds protein binding
+AT3G61060 ortho_group4142_cds protein metabolism
+AT3G61060 ortho_group4142_cds response to stress
+AT3G61080 ortho_group4572_cds chloroplast
+AT3G61080 ortho_group4572_cds kinase activity
+AT3G61080 ortho_group4572_cds mitochondria
+AT3G61080 ortho_group4572_cds unknown biological processes
+AT3G61130 ortho_group2929_cds Golgi apparatus
+AT3G61130 ortho_group2929_cds other cellular processes
+AT3G61130 ortho_group2929_cds other metabolic processes
+AT3G61130 ortho_group2929_cds transferase activity
+AT3G61140 ortho_group2989_cds cell organization and biogenesis
+AT3G61140 ortho_group2989_cds cytosol
+AT3G61140 ortho_group2989_cds developmental processes
+AT3G61140 ortho_group2989_cds nucleus
+AT3G61140 ortho_group2989_cds other cellular processes
+AT3G61140 ortho_group2989_cds other intracellular components
+AT3G61140 ortho_group2989_cds other metabolic processes
+AT3G61140 ortho_group2989_cds protein binding
+AT3G61140 ortho_group2989_cds protein metabolism
+AT3G61140 ortho_group2989_cds response to abiotic or biotic stimulus
+AT3G61140 ortho_group2989_cds response to stress
+AT3G61230 ortho_group4506_cds cell organization and biogenesis
+AT3G61230 ortho_group4506_cds other cellular processes
+AT3G61230 ortho_group4506_cds other intracellular components
+AT3G61230 ortho_group4506_cds protein binding
+AT3G61415 ortho_group4389_cds other cellular processes
+AT3G61415 ortho_group4389_cds other enzyme activity
+AT3G61415 ortho_group4389_cds other intracellular components
+AT3G61415 ortho_group4389_cds other metabolic processes
+AT3G61415 ortho_group4389_cds protein metabolism
+AT3G61440 ortho_group2690_cds chloroplast
+AT3G61440 ortho_group2690_cds developmental processes
+AT3G61440 ortho_group2690_cds mitochondria
+AT3G61440 ortho_group2690_cds other binding
+AT3G61440 ortho_group2690_cds other cellular processes
+AT3G61440 ortho_group2690_cds other enzyme activity
+AT3G61440 ortho_group2690_cds other metabolic processes
+AT3G61440 ortho_group2690_cds response to stress
+AT3G61620 ortho_group3756_cds cytosol
+AT3G61620 ortho_group3756_cds DNA or RNA binding
+AT3G61620 ortho_group3756_cds hydrolase activity
+AT3G61620 ortho_group3756_cds other cellular processes
+AT3G61620 ortho_group3756_cds other metabolic processes
+AT3G61800 ortho_group5074_cds unknown biological processes
+AT3G61800 ortho_group5074_cds unknown molecular functions
+AT3G62000 ortho_group3380_cds cytosol
+AT3G62000 ortho_group3380_cds transferase activity
+AT3G62010 ortho_group4617_cds cytosol
+AT3G62120 ortho_group4007_cds cytosol
+AT3G62120 ortho_group4007_cds nucleotide binding
+AT3G62120 ortho_group4007_cds other cellular components
+AT3G62120 ortho_group4007_cds other cellular processes
+AT3G62120 ortho_group4007_cds other enzyme activity
+AT3G62120 ortho_group4007_cds other membranes
+AT3G62120 ortho_group4007_cds other metabolic processes
+AT3G62120 ortho_group4007_cds protein metabolism
+AT3G62190 ortho_group2956_cds other cellular processes
+AT3G62190 ortho_group2956_cds other metabolic processes
+AT3G62190 ortho_group2956_cds protein binding
+AT3G62190 ortho_group2956_cds protein metabolism
+AT3G62310 ortho_group2898_cds cytosol
+AT3G62310 ortho_group2898_cds hydrolase activity
+AT3G62310 ortho_group2898_cds nucleic acid binding
+AT3G62310 ortho_group2898_cds nucleotide binding
+AT3G62310 ortho_group2898_cds nucleus
+AT3G62310 ortho_group2898_cds other intracellular components
+AT3G62330 ortho_group5510_cds nucleic acid binding
+AT3G62330 ortho_group5510_cds other binding
+AT3G62330 ortho_group5510_cds unknown biological processes
+AT3G62330 ortho_group5510_cds unknown cellular components
+AT3G62360 ortho_group5543_cds cell wall
+AT3G62360 ortho_group5543_cds ER
+AT3G62360 ortho_group5543_cds other binding
+AT3G62360 ortho_group5543_cds other cytoplasmic components
+AT3G62360 ortho_group5543_cds other intracellular components
+AT3G62360 ortho_group5543_cds other membranes
+AT3G62420 ortho_group5471_cds DNA or RNA binding
+AT3G62420 ortho_group5471_cds other cellular processes
+AT3G62420 ortho_group5471_cds other metabolic processes
+AT3G62420 ortho_group5471_cds protein binding
+AT3G62420 ortho_group5471_cds transcription factor activity
+AT3G62580 ortho_group3249_cds other cellular components
+AT3G62580 ortho_group3249_cds unknown biological processes
+AT3G62580 ortho_group3249_cds unknown molecular functions
+AT3G62640 ortho_group4314_cds unknown biological processes
+AT3G62640 ortho_group4314_cds unknown molecular functions
+AT3G62690 ortho_group4817_cds cell organization and biogenesis
+AT3G62690 ortho_group4817_cds other binding
+AT3G62690 ortho_group4817_cds other membranes
+AT3G62870 ortho_group3601_cds cytosol
+AT3G62870 ortho_group3601_cds other cellular processes
+AT3G62870 ortho_group3601_cds other cytoplasmic components
+AT3G62870 ortho_group3601_cds other intracellular components
+AT3G62870 ortho_group3601_cds other membranes
+AT3G62870 ortho_group3601_cds other metabolic processes
+AT3G62870 ortho_group3601_cds protein metabolism
+AT3G62870 ortho_group3601_cds ribosome
+AT3G62870 ortho_group3601_cds structural molecule activity
+AT3G62900 ortho_group4860_cds other binding
+AT3G62900 ortho_group4860_cds other cellular components
+AT3G62900 ortho_group4860_cds unknown biological processes
+AT3G62940 ortho_group3559_cds cytosol
+AT3G62940 ortho_group3559_cds hydrolase activity
+AT3G62940 ortho_group3559_cds unknown biological processes
+AT3G63080 ortho_group3019_cds developmental processes
+AT3G63080 ortho_group3019_cds ER
+AT3G63080 ortho_group3019_cds other cellular processes
+AT3G63080 ortho_group3019_cds other enzyme activity
+AT3G63080 ortho_group3019_cds other metabolic processes
+AT3G63080 ortho_group3019_cds plasma membrane
+AT3G63080 ortho_group3019_cds protein metabolism
+AT3G63120 ortho_group3639_cds kinase activity
+AT3G63120 ortho_group3639_cds other cellular processes
+AT3G63120 ortho_group3639_cds transferase activity
+AT3G63120 ortho_group3639_cds unknown cellular components
+AT3G63190 ortho_group2675_cds cell organization and biogenesis
+AT3G63190 ortho_group2675_cds chloroplast
+AT3G63190 ortho_group2675_cds developmental processes
+AT3G63190 ortho_group2675_cds other binding
+AT3G63190 ortho_group2675_cds other cellular processes
+AT3G63190 ortho_group2675_cds other cytoplasmic components
+AT3G63190 ortho_group2675_cds other intracellular components
+AT3G63190 ortho_group2675_cds other metabolic processes
+AT3G63190 ortho_group2675_cds plastid
+AT3G63190 ortho_group2675_cds protein metabolism
+AT3G63190 ortho_group2675_cds response to abiotic or biotic stimulus
+AT3G63190 ortho_group2675_cds response to stress
+AT3G63400 ortho_group2563_cds other cellular processes
+AT3G63400 ortho_group2563_cds other enzyme activity
+AT3G63400 ortho_group2563_cds other metabolic processes
+AT3G63400 ortho_group2563_cds protein binding
+AT3G63400 ortho_group2563_cds protein metabolism
+AT3G63450 ortho_group4566_cds DNA or RNA binding
+AT3G63450 ortho_group4566_cds nucleic acid binding
+AT3G63450 ortho_group4566_cds nucleotide binding
+AT3G63450 ortho_group4566_cds unknown biological processes
+AT3G63450 ortho_group4566_cds unknown cellular components
+AT3G63490 ortho_group3665_cds chloroplast
+AT3G63490 ortho_group3665_cds DNA or RNA binding
+AT3G63490 ortho_group3665_cds nucleus
+AT3G63490 ortho_group3665_cds other cellular processes
+AT3G63490 ortho_group3665_cds other cytoplasmic components
+AT3G63490 ortho_group3665_cds other intracellular components
+AT3G63490 ortho_group3665_cds other membranes
+AT3G63490 ortho_group3665_cds other metabolic processes
+AT3G63490 ortho_group3665_cds plastid
+AT3G63490 ortho_group3665_cds protein metabolism
+AT3G63490 ortho_group3665_cds ribosome
+AT3G63490 ortho_group3665_cds structural molecule activity
+AT3G63510 ortho_group3551_cds other binding
+AT3G63510 ortho_group3551_cds other biological processes
+AT3G63510 ortho_group3551_cds other cellular processes
+AT3G63510 ortho_group3551_cds other enzyme activity
+AT3G63510 ortho_group3551_cds other metabolic processes
+AT3G63520 ortho_group3529_cds other cellular components
+AT3G63520 ortho_group3529_cds other cellular processes
+AT3G63520 ortho_group3529_cds other cytoplasmic components
+AT3G63520 ortho_group3529_cds other enzyme activity
+AT3G63520 ortho_group3529_cds other intracellular components
+AT3G63520 ortho_group3529_cds other membranes
+AT3G63520 ortho_group3529_cds other metabolic processes
+AT3G63520 ortho_group3529_cds plasma membrane
+AT3G63520 ortho_group3529_cds response to abiotic or biotic stimulus
+AT3G63520 ortho_group3529_cds response to stress
+AT3G63530 ortho_group4192_cds developmental processes
+AT3G63530 ortho_group4192_cds other binding
+AT3G63530 ortho_group4192_cds other biological processes
+AT3G63530 ortho_group4192_cds other cellular processes
+AT3G63530 ortho_group4192_cds other enzyme activity
+AT3G63530 ortho_group4192_cds other metabolic processes
+AT3G63530 ortho_group4192_cds protein binding
+AT3G63530 ortho_group4192_cds protein metabolism
+AT3G63530 ortho_group4192_cds unknown cellular components
+AT4G00026 ortho_group3371_cds chloroplast
+AT4G00026 ortho_group3371_cds unknown biological processes
+AT4G00026 ortho_group3371_cds unknown molecular functions
+AT4G00180 ortho_group4770_cds other biological processes
+AT4G00180 ortho_group4770_cds other cellular processes
+AT4G00180 ortho_group4770_cds other metabolic processes
+AT4G00180 ortho_group4770_cds protein binding
+AT4G00180 ortho_group4770_cds transcription factor activity
+AT4G00390 ortho_group2611_cds nucleus
+AT4G00390 ortho_group2611_cds other cellular processes
+AT4G00390 ortho_group2611_cds other intracellular components
+AT4G00390 ortho_group2611_cds other metabolic processes
+AT4G00490 ortho_group3409_cds chloroplast
+AT4G00490 ortho_group3409_cds hydrolase activity
+AT4G00490 ortho_group3409_cds other cytoplasmic components
+AT4G00490 ortho_group3409_cds other intracellular components
+AT4G00490 ortho_group3409_cds other metabolic processes
+AT4G00490 ortho_group3409_cds plastid
+AT4G00550 ortho_group4346_cds chloroplast
+AT4G00550 ortho_group4346_cds other cellular processes
+AT4G00550 ortho_group4346_cds other cytoplasmic components
+AT4G00550 ortho_group4346_cds other intracellular components
+AT4G00550 ortho_group4346_cds other membranes
+AT4G00550 ortho_group4346_cds other metabolic processes
+AT4G00550 ortho_group4346_cds plastid
+AT4G00550 ortho_group4346_cds response to stress
+AT4G00550 ortho_group4346_cds transferase activity
+AT4G00630 ortho_group2557_cds chloroplast
+AT4G00630 ortho_group2557_cds other cellular processes
+AT4G00630 ortho_group2557_cds other cytoplasmic components
+AT4G00630 ortho_group2557_cds other intracellular components
+AT4G00630 ortho_group2557_cds other membranes
+AT4G00630 ortho_group2557_cds other metabolic processes
+AT4G00630 ortho_group2557_cds plastid
+AT4G00630 ortho_group2557_cds transport
+AT4G00630 ortho_group2557_cds transporter activity
+AT4G00740 ortho_group3307_cds cell organization and biogenesis
+AT4G00740 ortho_group3307_cds Golgi apparatus
+AT4G00740 ortho_group3307_cds other cellular processes
+AT4G00740 ortho_group3307_cds other membranes
+AT4G00740 ortho_group3307_cds other metabolic processes
+AT4G00740 ortho_group3307_cds transferase activity
+AT4G00750 ortho_group4099_cds Golgi apparatus
+AT4G00750 ortho_group4099_cds unknown biological processes
+AT4G00840 ortho_group4915_cds other binding
+AT4G00840 ortho_group4915_cds unknown biological processes
+AT4G00880 ortho_group5436_cds other biological processes
+AT4G00880 ortho_group5436_cds unknown cellular components
+AT4G00880 ortho_group5436_cds unknown molecular functions
+AT4G01000 ortho_group4907_cds unknown cellular components
+AT4G01000 ortho_group4907_cds unknown molecular functions
+AT4G01130 ortho_group2834_cds hydrolase activity
+AT4G01130 ortho_group2834_cds other cellular components
+AT4G01130 ortho_group2834_cds other metabolic processes
+AT4G01150 ortho_group4671_cds chloroplast
+AT4G01150 ortho_group4671_cds other cytoplasmic components
+AT4G01150 ortho_group4671_cds other intracellular components
+AT4G01150 ortho_group4671_cds other membranes
+AT4G01150 ortho_group4671_cds plastid
+AT4G01150 ortho_group4671_cds unknown biological processes
+AT4G01150 ortho_group4671_cds unknown molecular functions
+AT4G01220 ortho_group4073_cds ER
+AT4G01220 ortho_group4073_cds Golgi apparatus
+AT4G01220 ortho_group4073_cds unknown biological processes
+AT4G01220 ortho_group4073_cds unknown molecular functions
+AT4G01320 ortho_group5562_cds ER
+AT4G01320 ortho_group5562_cds hydrolase activity
+AT4G01320 ortho_group5562_cds other cellular processes
+AT4G01320 ortho_group5562_cds other cytoplasmic components
+AT4G01320 ortho_group5562_cds other intracellular components
+AT4G01320 ortho_group5562_cds other metabolic processes
+AT4G01320 ortho_group5562_cds protein metabolism
+AT4G01330 ortho_group2971_cds kinase activity
+AT4G01330 ortho_group2971_cds nucleotide binding
+AT4G01330 ortho_group2971_cds other cellular processes
+AT4G01330 ortho_group2971_cds other metabolic processes
+AT4G01330 ortho_group2971_cds plasma membrane
+AT4G01330 ortho_group2971_cds protein metabolism
+AT4G01330 ortho_group2971_cds transferase activity
+AT4G01400 ortho_group4041_cds cytosol
+AT4G01400 ortho_group4041_cds unknown biological processes
+AT4G01400 ortho_group4041_cds unknown molecular functions
+AT4G01510 ortho_group3389_cds ER
+AT4G01510 ortho_group3389_cds other cellular processes
+AT4G01510 ortho_group3389_cds other membranes
+AT4G01510 ortho_group3389_cds other metabolic processes
+AT4G01510 ortho_group3389_cds unknown molecular functions
+AT4G01560 ortho_group3082_cds cytosol
+AT4G01560 ortho_group3082_cds developmental processes
+AT4G01560 ortho_group3082_cds unknown molecular functions
+AT4G01690 ortho_group5328_cds chloroplast
+AT4G01690 ortho_group5328_cds other cellular processes
+AT4G01690 ortho_group5328_cds other cytoplasmic components
+AT4G01690 ortho_group5328_cds other enzyme activity
+AT4G01690 ortho_group5328_cds other intracellular components
+AT4G01690 ortho_group5328_cds other metabolic processes
+AT4G01690 ortho_group5328_cds plastid
+AT4G01710 ortho_group3443_cds cell organization and biogenesis
+AT4G01710 ortho_group3443_cds developmental processes
+AT4G01710 ortho_group3443_cds other cellular processes
+AT4G01710 ortho_group3443_cds other intracellular components
+AT4G01710 ortho_group3443_cds protein binding
+AT4G01770 ortho_group4073_cds Golgi apparatus
+AT4G01770 ortho_group4073_cds other cellular processes
+AT4G01770 ortho_group4073_cds other metabolic processes
+AT4G01770 ortho_group4073_cds transferase activity
+AT4G01800 ortho_group4691_cds cell organization and biogenesis
+AT4G01800 ortho_group4691_cds chloroplast
+AT4G01800 ortho_group4691_cds developmental processes
+AT4G01800 ortho_group4691_cds hydrolase activity
+AT4G01800 ortho_group4691_cds nucleotide binding
+AT4G01800 ortho_group4691_cds other cellular processes
+AT4G01800 ortho_group4691_cds other cytoplasmic components
+AT4G01800 ortho_group4691_cds other intracellular components
+AT4G01800 ortho_group4691_cds other metabolic processes
+AT4G01800 ortho_group4691_cds plastid
+AT4G01800 ortho_group4691_cds response to abiotic or biotic stimulus
+AT4G01800 ortho_group4691_cds transport
+AT4G01800 ortho_group4691_cds transporter activity
+AT4G01935 ortho_group4220_cds chloroplast
+AT4G01935 ortho_group4220_cds unknown biological processes
+AT4G01935 ortho_group4220_cds unknown molecular functions
+AT4G01995 ortho_group3364_cds unknown biological processes
+AT4G01995 ortho_group3364_cds unknown cellular components
+AT4G01995 ortho_group3364_cds unknown molecular functions
+AT4G02030 ortho_group3818_cds cytosol
+AT4G02030 ortho_group3818_cds unknown biological processes
+AT4G02030 ortho_group3818_cds unknown molecular functions
+AT4G02080 ortho_group2864_cds nucleotide binding
+AT4G02080 ortho_group2864_cds other cellular processes
+AT4G02080 ortho_group2864_cds plasma membrane
+AT4G02080 ortho_group2864_cds transport
+AT4G02260 ortho_group3577_cds chloroplast
+AT4G02260 ortho_group3577_cds other enzyme activity
+AT4G02260 ortho_group3577_cds response to stress
+AT4G02280 ortho_group2670_cds developmental processes
+AT4G02280 ortho_group2670_cds other cellular processes
+AT4G02280 ortho_group2670_cds other metabolic processes
+AT4G02280 ortho_group2670_cds transferase activity
+AT4G02340 ortho_group4318_cds hydrolase activity
+AT4G02340 ortho_group4318_cds other cytoplasmic components
+AT4G02340 ortho_group4318_cds other enzyme activity
+AT4G02340 ortho_group4318_cds other intracellular components
+AT4G02480 ortho_group3684_cds hydrolase activity
+AT4G02480 ortho_group3684_cds nucleotide binding
+AT4G02485 ortho_group3006_cds other enzyme activity
+AT4G02485 ortho_group3006_cds unknown cellular components
+AT4G02500 ortho_group4855_cds developmental processes
+AT4G02500 ortho_group4855_cds mitochondria
+AT4G02500 ortho_group4855_cds other cellular processes
+AT4G02500 ortho_group4855_cds other membranes
+AT4G02500 ortho_group4855_cds other metabolic processes
+AT4G02500 ortho_group4855_cds transferase activity
+AT4G02570 ortho_group3357_cds cell organization and biogenesis
+AT4G02570 ortho_group3357_cds cytosol
+AT4G02570 ortho_group3357_cds developmental processes
+AT4G02570 ortho_group3357_cds nucleus
+AT4G02570 ortho_group3357_cds other biological processes
+AT4G02570 ortho_group3357_cds other cellular processes
+AT4G02570 ortho_group3357_cds other cytoplasmic components
+AT4G02570 ortho_group3357_cds other intracellular components
+AT4G02570 ortho_group3357_cds protein binding
+AT4G02570 ortho_group3357_cds signal transduction
+AT4G02610 ortho_group4040_cds chloroplast
+AT4G02610 ortho_group4040_cds other cellular processes
+AT4G02610 ortho_group4040_cds other enzyme activity
+AT4G02610 ortho_group4040_cds other metabolic processes
+AT4G02620 ortho_group4690_cds hydrolase activity
+AT4G02620 ortho_group4690_cds other cellular processes
+AT4G02620 ortho_group4690_cds other cytoplasmic components
+AT4G02620 ortho_group4690_cds other intracellular components
+AT4G02620 ortho_group4690_cds other membranes
+AT4G02620 ortho_group4690_cds other metabolic processes
+AT4G02620 ortho_group4690_cds plasma membrane
+AT4G02620 ortho_group4690_cds transport
+AT4G02620 ortho_group4690_cds transporter activity
+AT4G02700 ortho_group2624_cds other cellular processes
+AT4G02700 ortho_group2624_cds other membranes
+AT4G02700 ortho_group2624_cds transport
+AT4G02700 ortho_group2624_cds transporter activity
+AT4G02725 ortho_group3832_cds chloroplast
+AT4G02725 ortho_group3832_cds other membranes
+AT4G02725 ortho_group3832_cds unknown biological processes
+AT4G02725 ortho_group3832_cds unknown molecular functions
+AT4G02860 ortho_group4434_cds cytosol
+AT4G02860 ortho_group4434_cds other enzyme activity
+AT4G02860 ortho_group4434_cds other metabolic processes
+AT4G02930 ortho_group5361_cds cell wall
+AT4G02930 ortho_group5361_cds DNA or RNA binding
+AT4G02930 ortho_group5361_cds mitochondria
+AT4G02930 ortho_group5361_cds nucleotide binding
+AT4G02930 ortho_group5361_cds other binding
+AT4G02930 ortho_group5361_cds other biological processes
+AT4G03080 ortho_group2645_cds hydrolase activity
+AT4G03080 ortho_group2645_cds plasma membrane
+AT4G03080 ortho_group2645_cds protein binding
+AT4G03240 ortho_group5557_cds developmental processes
+AT4G03240 ortho_group5557_cds electron transport or energy pathways
+AT4G03240 ortho_group5557_cds mitochondria
+AT4G03240 ortho_group5557_cds other metabolic processes
+AT4G03240 ortho_group5557_cds response to stress
+AT4G03240 ortho_group5557_cds unknown molecular functions
+AT4G03280 ortho_group3704_cds chloroplast
+AT4G03280 ortho_group3704_cds electron transport or energy pathways
+AT4G03280 ortho_group3704_cds other cellular processes
+AT4G03280 ortho_group3704_cds other cytoplasmic components
+AT4G03280 ortho_group3704_cds other intracellular components
+AT4G03280 ortho_group3704_cds other membranes
+AT4G03280 ortho_group3704_cds other metabolic processes
+AT4G03280 ortho_group3704_cds other molecular functions
+AT4G03280 ortho_group3704_cds plasma membrane
+AT4G03280 ortho_group3704_cds plastid
+AT4G03280 ortho_group3704_cds protein binding
+AT4G03280 ortho_group3704_cds response to abiotic or biotic stimulus
+AT4G03280 ortho_group3704_cds response to stress
+AT4G03390 ortho_group4479_cds kinase activity
+AT4G03390 ortho_group4479_cds nucleotide binding
+AT4G03390 ortho_group4479_cds other biological processes
+AT4G03390 ortho_group4479_cds other cellular processes
+AT4G03390 ortho_group4479_cds other metabolic processes
+AT4G03390 ortho_group4479_cds plasma membrane
+AT4G03390 ortho_group4479_cds protein metabolism
+AT4G03390 ortho_group4479_cds signal transduction
+AT4G03390 ortho_group4479_cds transferase activity
+AT4G03540 ortho_group4183_cds other cellular components
+AT4G03540 ortho_group4183_cds unknown biological processes
+AT4G03540 ortho_group4183_cds unknown molecular functions
+AT4G03560 ortho_group4337_cds developmental processes
+AT4G03560 ortho_group4337_cds other cellular processes
+AT4G03560 ortho_group4337_cds other cytoplasmic components
+AT4G03560 ortho_group4337_cds other intracellular components
+AT4G03560 ortho_group4337_cds other membranes
+AT4G03560 ortho_group4337_cds other metabolic processes
+AT4G03560 ortho_group4337_cds plasma membrane
+AT4G03560 ortho_group4337_cds signal transduction
+AT4G03560 ortho_group4337_cds transport
+AT4G03560 ortho_group4337_cds transporter activity
+AT4G04190 ortho_group3385_cds unknown biological processes
+AT4G04190 ortho_group3385_cds unknown cellular components
+AT4G04190 ortho_group3385_cds unknown molecular functions
+AT4G04210 ortho_group2673_cds unknown biological processes
+AT4G04210 ortho_group2673_cds unknown cellular components
+AT4G04320 ortho_group4870_cds other cellular processes
+AT4G04320 ortho_group4870_cds other cytoplasmic components
+AT4G04320 ortho_group4870_cds other enzyme activity
+AT4G04320 ortho_group4870_cds other intracellular components
+AT4G04320 ortho_group4870_cds other metabolic processes
+AT4G04330 ortho_group2576_cds chloroplast
+AT4G04330 ortho_group2576_cds other cellular processes
+AT4G04330 ortho_group2576_cds other cytoplasmic components
+AT4G04330 ortho_group2576_cds other intracellular components
+AT4G04330 ortho_group2576_cds other metabolic processes
+AT4G04330 ortho_group2576_cds plastid
+AT4G04330 ortho_group2576_cds protein binding
+AT4G04330 ortho_group2576_cds protein metabolism
+AT4G04330 ortho_group2576_cds response to abiotic or biotic stimulus
+AT4G04330 ortho_group2576_cds response to stress
+AT4G04340 ortho_group3195_cds plasma membrane
+AT4G04800 ortho_group3048_cds ER
+AT4G04800 ortho_group3048_cds nucleus
+AT4G04800 ortho_group3048_cds other cellular processes
+AT4G04800 ortho_group3048_cds other enzyme activity
+AT4G04800 ortho_group3048_cds other metabolic processes
+AT4G04800 ortho_group3048_cds response to abiotic or biotic stimulus
+AT4G04800 ortho_group3048_cds response to stress
+AT4G04850 ortho_group4485_cds chloroplast
+AT4G04850 ortho_group4485_cds other cellular processes
+AT4G04850 ortho_group4485_cds other metabolic processes
+AT4G04850 ortho_group4485_cds transport
+AT4G04850 ortho_group4485_cds transporter activity
+AT4G04880 ortho_group4624_cds hydrolase activity
+AT4G04880 ortho_group4624_cds other cellular processes
+AT4G04880 ortho_group4624_cds other cytoplasmic components
+AT4G04880 ortho_group4624_cds other enzyme activity
+AT4G04880 ortho_group4624_cds other metabolic processes
+AT4G04880 ortho_group4624_cds unknown cellular components
+AT4G05100 ortho_group4524_cds DNA or RNA binding
+AT4G05100 ortho_group4524_cds other biological processes
+AT4G05100 ortho_group4524_cds other cellular processes
+AT4G05100 ortho_group4524_cds other metabolic processes
+AT4G05100 ortho_group4524_cds response to abiotic or biotic stimulus
+AT4G05100 ortho_group4524_cds response to stress
+AT4G05100 ortho_group4524_cds transcription factor activity
+AT4G05450 ortho_group5129_cds developmental processes
+AT4G05450 ortho_group5129_cds other binding
+AT4G05450 ortho_group5129_cds other molecular functions
+AT4G07390 ortho_group3672_cds other membranes
+AT4G07990 ortho_group3425_cds other cellular processes
+AT4G07990 ortho_group3425_cds other metabolic processes
+AT4G07990 ortho_group3425_cds protein binding
+AT4G07990 ortho_group3425_cds protein metabolism
+AT4G08230 ortho_group4342_cds unknown biological processes
+AT4G08230 ortho_group4342_cds unknown molecular functions
+AT4G08690 ortho_group4711_cds transport
+AT4G08690 ortho_group4711_cds transporter activity
+AT4G08850 ortho_group5323_cds kinase activity
+AT4G08850 ortho_group5323_cds other cellular components
+AT4G08850 ortho_group5323_cds other cellular processes
+AT4G08850 ortho_group5323_cds other membranes
+AT4G08850 ortho_group5323_cds other metabolic processes
+AT4G08850 ortho_group5323_cds plasma membrane
+AT4G08850 ortho_group5323_cds protein metabolism
+AT4G08900 ortho_group5449_cds chloroplast
+AT4G08900 ortho_group5449_cds hydrolase activity
+AT4G08900 ortho_group5449_cds other binding
+AT4G08900 ortho_group5449_cds other cellular processes
+AT4G08900 ortho_group5449_cds other metabolic processes
+AT4G08900 ortho_group5449_cds response to abiotic or biotic stimulus
+AT4G08900 ortho_group5449_cds response to stress
+AT4G08920 ortho_group3352_cds cell organization and biogenesis
+AT4G08920 ortho_group3352_cds developmental processes
+AT4G08920 ortho_group3352_cds kinase activity
+AT4G08920 ortho_group3352_cds nucleotide binding
+AT4G08920 ortho_group3352_cds nucleus
+AT4G08920 ortho_group3352_cds other biological processes
+AT4G08920 ortho_group3352_cds other cellular processes
+AT4G08920 ortho_group3352_cds other cytoplasmic components
+AT4G08920 ortho_group3352_cds other metabolic processes
+AT4G08920 ortho_group3352_cds protein binding
+AT4G08920 ortho_group3352_cds protein metabolism
+AT4G08920 ortho_group3352_cds receptor binding or activity
+AT4G08920 ortho_group3352_cds response to abiotic or biotic stimulus
+AT4G08920 ortho_group3352_cds response to stress
+AT4G08920 ortho_group3352_cds signal transduction
+AT4G08920 ortho_group3352_cds transferase activity
+AT4G09010 ortho_group3630_cds chloroplast
+AT4G09010 ortho_group3630_cds nucleus
+AT4G09010 ortho_group3630_cds other binding
+AT4G09010 ortho_group3630_cds other cytoplasmic components
+AT4G09010 ortho_group3630_cds other enzyme activity
+AT4G09010 ortho_group3630_cds other intracellular components
+AT4G09010 ortho_group3630_cds other membranes
+AT4G09010 ortho_group3630_cds other metabolic processes
+AT4G09010 ortho_group3630_cds plastid
+AT4G09010 ortho_group3630_cds protein binding
+AT4G09010 ortho_group3630_cds response to stress
+AT4G09020 ortho_group3060_cds chloroplast
+AT4G09020 ortho_group3060_cds hydrolase activity
+AT4G09020 ortho_group3060_cds other cellular processes
+AT4G09020 ortho_group3060_cds other cytoplasmic components
+AT4G09020 ortho_group3060_cds other enzyme activity
+AT4G09020 ortho_group3060_cds other intracellular components
+AT4G09020 ortho_group3060_cds other metabolic processes
+AT4G09020 ortho_group3060_cds plastid
+AT4G09040 ortho_group4912_cds chloroplast
+AT4G09040 ortho_group4912_cds DNA or RNA binding
+AT4G09040 ortho_group4912_cds nucleic acid binding
+AT4G09040 ortho_group4912_cds nucleotide binding
+AT4G09040 ortho_group4912_cds other cytoplasmic components
+AT4G09040 ortho_group4912_cds other intracellular components
+AT4G09040 ortho_group4912_cds plastid
+AT4G09040 ortho_group4912_cds unknown biological processes
+AT4G09060 ortho_group5338_cds other membranes
+AT4G09160 ortho_group2912_cds chloroplast
+AT4G09160 ortho_group2912_cds transport
+AT4G09160 ortho_group2912_cds transporter activity
+AT4G09350 ortho_group2881_cds chloroplast
+AT4G09350 ortho_group2881_cds other cellular processes
+AT4G09350 ortho_group2881_cds other metabolic processes
+AT4G09350 ortho_group2881_cds protein binding
+AT4G09350 ortho_group2881_cds protein metabolism
+AT4G09670 ortho_group3877_cds cytosol
+AT4G09670 ortho_group3877_cds other binding
+AT4G09670 ortho_group3877_cds other enzyme activity
+AT4G09670 ortho_group3877_cds other metabolic processes
+AT4G09720 ortho_group2550_cds hydrolase activity
+AT4G09720 ortho_group2550_cds nucleotide binding
+AT4G09720 ortho_group2550_cds other cellular processes
+AT4G09720 ortho_group2550_cds other cytoplasmic components
+AT4G09720 ortho_group2550_cds other intracellular components
+AT4G09720 ortho_group2550_cds other membranes
+AT4G09720 ortho_group2550_cds signal transduction
+AT4G09720 ortho_group2550_cds transport
+AT4G10080 ortho_group3653_cds unknown cellular components
+AT4G10100 ortho_group4748_cds other cellular processes
+AT4G10100 ortho_group4748_cds other enzyme activity
+AT4G10100 ortho_group4748_cds other metabolic processes
+AT4G10100 ortho_group4748_cds protein metabolism
+AT4G10100 ortho_group4748_cds signal transduction
+AT4G10100 ortho_group4748_cds unknown cellular components
+AT4G10110 ortho_group2821_cds DNA or RNA binding
+AT4G10110 ortho_group2821_cds nucleic acid binding
+AT4G10110 ortho_group2821_cds nucleotide binding
+AT4G10110 ortho_group2821_cds unknown biological processes
+AT4G10110 ortho_group2821_cds unknown cellular components
+AT4G10130 ortho_group3050_cds other cellular processes
+AT4G10130 ortho_group3050_cds other metabolic processes
+AT4G10130 ortho_group3050_cds protein binding
+AT4G10130 ortho_group3050_cds protein metabolism
+AT4G10130 ortho_group3050_cds unknown cellular components
+AT4G10310 ortho_group4366_cds plasma membrane
+AT4G10310 ortho_group4366_cds response to abiotic or biotic stimulus
+AT4G10310 ortho_group4366_cds response to stress
+AT4G10310 ortho_group4366_cds transport
+AT4G10310 ortho_group4366_cds transporter activity
+AT4G10360 ortho_group5514_cds unknown biological processes
+AT4G10360 ortho_group5514_cds unknown molecular functions
+AT4G10840 ortho_group2547_cds other binding
+AT4G10840 ortho_group2547_cds plasma membrane
+AT4G10970 ortho_group2548_cds unknown biological processes
+AT4G10970 ortho_group2548_cds unknown molecular functions
+AT4G11030 ortho_group3595_cds other cellular processes
+AT4G11030 ortho_group3595_cds other enzyme activity
+AT4G11030 ortho_group3595_cds other metabolic processes
+AT4G11060 ortho_group2745_cds DNA or RNA binding
+AT4G11070 ortho_group4295_cds other cellular processes
+AT4G11070 ortho_group4295_cds other metabolic processes
+AT4G11070 ortho_group4295_cds transcription factor activity
+AT4G11080 ortho_group4489_cds nucleus
+AT4G11080 ortho_group4489_cds other intracellular components
+AT4G11080 ortho_group4489_cds transcription factor activity
+AT4G11120 ortho_group2846_cds DNA or RNA binding
+AT4G11120 ortho_group2846_cds mitochondria
+AT4G11120 ortho_group2846_cds other cellular processes
+AT4G11120 ortho_group2846_cds other metabolic processes
+AT4G11120 ortho_group2846_cds protein metabolism
+AT4G11220 ortho_group4978_cds cell organization and biogenesis
+AT4G11220 ortho_group4978_cds ER
+AT4G11220 ortho_group4978_cds other cellular processes
+AT4G11220 ortho_group4978_cds other cytoplasmic components
+AT4G11220 ortho_group4978_cds other intracellular components
+AT4G11220 ortho_group4978_cds other membranes
+AT4G11220 ortho_group4978_cds plasma membrane
+AT4G11420 ortho_group5587_cds cytosol
+AT4G11420 ortho_group5587_cds DNA or RNA binding
+AT4G11420 ortho_group5587_cds other cellular processes
+AT4G11420 ortho_group5587_cds other cytoplasmic components
+AT4G11420 ortho_group5587_cds other intracellular components
+AT4G11420 ortho_group5587_cds other metabolic processes
+AT4G11420 ortho_group5587_cds plasma membrane
+AT4G11420 ortho_group5587_cds protein metabolism
+AT4G11600 ortho_group5088_cds chloroplast
+AT4G11600 ortho_group5088_cds cytosol
+AT4G11600 ortho_group5088_cds mitochondria
+AT4G11600 ortho_group5088_cds other biological processes
+AT4G11600 ortho_group5088_cds other enzyme activity
+AT4G11600 ortho_group5088_cds plasma membrane
+AT4G11600 ortho_group5088_cds response to abiotic or biotic stimulus
+AT4G11600 ortho_group5088_cds response to stress
+AT4G11650 ortho_group4453_cds other cellular components
+AT4G11650 ortho_group4453_cds response to abiotic or biotic stimulus
+AT4G11650 ortho_group4453_cds response to stress
+AT4G11800 ortho_group4466_cds ER
+AT4G11800 ortho_group4466_cds hydrolase activity
+AT4G11800 ortho_group4466_cds unknown biological processes
+AT4G11860 ortho_group3273_cds cytosol
+AT4G11860 ortho_group3273_cds nucleus
+AT4G11860 ortho_group3273_cds plasma membrane
+AT4G11860 ortho_group3273_cds unknown biological processes
+AT4G11860 ortho_group3273_cds unknown molecular functions
+AT4G11960 ortho_group5590_cds chloroplast
+AT4G11960 ortho_group5590_cds electron transport or energy pathways
+AT4G11960 ortho_group5590_cds other cellular processes
+AT4G11960 ortho_group5590_cds other cytoplasmic components
+AT4G11960 ortho_group5590_cds other intracellular components
+AT4G11960 ortho_group5590_cds other membranes
+AT4G11960 ortho_group5590_cds other metabolic processes
+AT4G11960 ortho_group5590_cds plastid
+AT4G11960 ortho_group5590_cds unknown molecular functions
+AT4G12280 ortho_group4286_cds other binding
+AT4G12280 ortho_group4286_cds other enzyme activity
+AT4G12280 ortho_group4286_cds other metabolic processes
+AT4G12280 ortho_group4286_cds unknown cellular components
+AT4G12300 ortho_group4920_cds other binding
+AT4G12300 ortho_group4920_cds other enzyme activity
+AT4G12300 ortho_group4920_cds other metabolic processes
+AT4G12300 ortho_group4920_cds other molecular functions
+AT4G12300 ortho_group4920_cds unknown cellular components
+AT4G12330 ortho_group4486_cds other binding
+AT4G12330 ortho_group4486_cds other enzyme activity
+AT4G12330 ortho_group4486_cds other metabolic processes
+AT4G12330 ortho_group4486_cds other molecular functions
+AT4G12330 ortho_group4486_cds unknown cellular components
+AT4G12590 ortho_group3033_cds ER
+AT4G12590 ortho_group3033_cds mitochondria
+AT4G12590 ortho_group3033_cds unknown biological processes
+AT4G12590 ortho_group3033_cds unknown molecular functions
+AT4G12620 ortho_group5169_cds DNA or RNA binding
+AT4G12620 ortho_group5169_cds DNA or RNA metabolism
+AT4G12620 ortho_group5169_cds nucleus
+AT4G12620 ortho_group5169_cds other biological processes
+AT4G12620 ortho_group5169_cds other cellular processes
+AT4G12620 ortho_group5169_cds other intracellular components
+AT4G12620 ortho_group5169_cds other metabolic processes
+AT4G12620 ortho_group5169_cds protein binding
+AT4G12650 ortho_group2607_cds Golgi apparatus
+AT4G12650 ortho_group2607_cds other cellular components
+AT4G12650 ortho_group2607_cds other cytoplasmic components
+AT4G12650 ortho_group2607_cds other intracellular components
+AT4G12650 ortho_group2607_cds other membranes
+AT4G12760 ortho_group4462_cds unknown biological processes
+AT4G12760 ortho_group4462_cds unknown cellular components
+AT4G12760 ortho_group4462_cds unknown molecular functions
+AT4G12780 ortho_group2848_cds cytosol
+AT4G12780 ortho_group2848_cds protein binding
+AT4G12780 ortho_group2848_cds unknown biological processes
+AT4G12800 ortho_group5521_cds chloroplast
+AT4G12800 ortho_group5521_cds electron transport or energy pathways
+AT4G12800 ortho_group5521_cds other cellular processes
+AT4G12800 ortho_group5521_cds other cytoplasmic components
+AT4G12800 ortho_group5521_cds other intracellular components
+AT4G12800 ortho_group5521_cds other membranes
+AT4G12800 ortho_group5521_cds other metabolic processes
+AT4G12800 ortho_group5521_cds plastid
+AT4G12800 ortho_group5521_cds unknown molecular functions
+AT4G12830 ortho_group3669_cds chloroplast
+AT4G12830 ortho_group3669_cds hydrolase activity
+AT4G12830 ortho_group3669_cds other enzyme activity
+AT4G12890 ortho_group2909_cds other cellular components
+AT4G12890 ortho_group2909_cds other enzyme activity
+AT4G12890 ortho_group2909_cds unknown biological processes
+AT4G13020 ortho_group3712_cds kinase activity
+AT4G13020 ortho_group3712_cds nucleotide binding
+AT4G13020 ortho_group3712_cds other cellular processes
+AT4G13020 ortho_group3712_cds other metabolic processes
+AT4G13020 ortho_group3712_cds protein metabolism
+AT4G13020 ortho_group3712_cds transferase activity
+AT4G13050 ortho_group2773_cds chloroplast
+AT4G13050 ortho_group2773_cds other cellular processes
+AT4G13050 ortho_group2773_cds other metabolic processes
+AT4G13050 ortho_group2773_cds transporter activity
+AT4G13250 ortho_group4307_cds chloroplast
+AT4G13250 ortho_group4307_cds other cellular processes
+AT4G13250 ortho_group4307_cds other enzyme activity
+AT4G13250 ortho_group4307_cds other metabolic processes
+AT4G13250 ortho_group4307_cds protein metabolism
+AT4G13345 ortho_group4564_cds developmental processes
+AT4G13345 ortho_group4564_cds other membranes
+AT4G13430 ortho_group4362_cds chloroplast
+AT4G13430 ortho_group4362_cds other biological processes
+AT4G13430 ortho_group4362_cds other cellular processes
+AT4G13430 ortho_group4362_cds other cytoplasmic components
+AT4G13430 ortho_group4362_cds other enzyme activity
+AT4G13430 ortho_group4362_cds other intracellular components
+AT4G13430 ortho_group4362_cds other metabolic processes
+AT4G13430 ortho_group4362_cds plastid
+AT4G13670 ortho_group4136_cds chloroplast
+AT4G13670 ortho_group4136_cds other cellular processes
+AT4G13670 ortho_group4136_cds other cytoplasmic components
+AT4G13670 ortho_group4136_cds other intracellular components
+AT4G13670 ortho_group4136_cds other membranes
+AT4G13670 ortho_group4136_cds other metabolic processes
+AT4G13670 ortho_group4136_cds plastid
+AT4G13670 ortho_group4136_cds protein binding
+AT4G13670 ortho_group4136_cds protein metabolism
+AT4G13830 ortho_group3329_cds nucleus
+AT4G13830 ortho_group3329_cds other cellular processes
+AT4G13830 ortho_group3329_cds other metabolic processes
+AT4G13830 ortho_group3329_cds protein binding
+AT4G13830 ortho_group3329_cds protein metabolism
+AT4G13830 ortho_group3329_cds response to stress
+AT4G13930 ortho_group3553_cds cytosol
+AT4G13930 ortho_group3553_cds other binding
+AT4G13930 ortho_group3553_cds other biological processes
+AT4G13930 ortho_group3553_cds other cellular components
+AT4G13930 ortho_group3553_cds other cellular processes
+AT4G13930 ortho_group3553_cds other enzyme activity
+AT4G13930 ortho_group3553_cds other membranes
+AT4G13930 ortho_group3553_cds other metabolic processes
+AT4G13930 ortho_group3553_cds plasma membrane
+AT4G13930 ortho_group3553_cds transferase activity
+AT4G13950 ortho_group4577_cds extracellular
+AT4G13950 ortho_group4577_cds other cellular processes
+AT4G13950 ortho_group4577_cds other molecular functions
+AT4G14130 ortho_group5284_cds cell wall
+AT4G14130 ortho_group5284_cds extracellular
+AT4G14130 ortho_group5284_cds hydrolase activity
+AT4G14130 ortho_group5284_cds other cellular components
+AT4G14130 ortho_group5284_cds other cellular processes
+AT4G14130 ortho_group5284_cds other metabolic processes
+AT4G14130 ortho_group5284_cds protein metabolism
+AT4G14130 ortho_group5284_cds transferase activity
+AT4G14220 ortho_group5467_cds developmental processes
+AT4G14220 ortho_group5467_cds other binding
+AT4G14220 ortho_group5467_cds other cellular processes
+AT4G14220 ortho_group5467_cds other enzyme activity
+AT4G14220 ortho_group5467_cds other membranes
+AT4G14220 ortho_group5467_cds other metabolic processes
+AT4G14220 ortho_group5467_cds protein binding
+AT4G14220 ortho_group5467_cds protein metabolism
+AT4G14350 ortho_group2610_cds cytosol
+AT4G14350 ortho_group2610_cds kinase activity
+AT4G14350 ortho_group2610_cds nucleotide binding
+AT4G14350 ortho_group2610_cds nucleus
+AT4G14350 ortho_group2610_cds other cellular processes
+AT4G14350 ortho_group2610_cds other cytoplasmic components
+AT4G14350 ortho_group2610_cds other intracellular components
+AT4G14350 ortho_group2610_cds other metabolic processes
+AT4G14350 ortho_group2610_cds plasma membrane
+AT4G14350 ortho_group2610_cds protein metabolism
+AT4G14350 ortho_group2610_cds transferase activity
+AT4G14360 ortho_group4633_cds Golgi apparatus
+AT4G14360 ortho_group4633_cds other cellular components
+AT4G14360 ortho_group4633_cds other cellular processes
+AT4G14360 ortho_group4633_cds other metabolic processes
+AT4G14360 ortho_group4633_cds protein metabolism
+AT4G14365 ortho_group5253_cds other binding
+AT4G14385 ortho_group3725_cds other cytoplasmic components
+AT4G14385 ortho_group3725_cds other intracellular components
+AT4G14385 ortho_group3725_cds unknown biological processes
+AT4G14385 ortho_group3725_cds unknown molecular functions
+AT4G14410 ortho_group4790_cds DNA or RNA binding
+AT4G14410 ortho_group4790_cds other cellular processes
+AT4G14410 ortho_group4790_cds other metabolic processes
+AT4G14410 ortho_group4790_cds transcription factor activity
+AT4G14420 ortho_group4667_cds ER
+AT4G14570 ortho_group3260_cds chloroplast
+AT4G14570 ortho_group3260_cds hydrolase activity
+AT4G14570 ortho_group3260_cds other cytoplasmic components
+AT4G14570 ortho_group3260_cds other intracellular components
+AT4G14570 ortho_group3260_cds protein metabolism
+AT4G14600 ortho_group5425_cds plasma membrane
+AT4G14600 ortho_group5425_cds unknown biological processes
+AT4G14600 ortho_group5425_cds unknown molecular functions
+AT4G14615 ortho_group3789_cds unknown biological processes
+AT4G14615 ortho_group3789_cds unknown molecular functions
+AT4G14620 ortho_group4783_cds unknown biological processes
+AT4G14620 ortho_group4783_cds unknown molecular functions
+AT4G14700 ortho_group5169_cds DNA or RNA binding
+AT4G14700 ortho_group5169_cds DNA or RNA metabolism
+AT4G14700 ortho_group5169_cds nucleus
+AT4G14700 ortho_group5169_cds other cellular processes
+AT4G14700 ortho_group5169_cds other intracellular components
+AT4G14700 ortho_group5169_cds other metabolic processes
+AT4G14700 ortho_group5169_cds protein binding
+AT4G14710 ortho_group3240_cds cytosol
+AT4G14710 ortho_group3240_cds other binding
+AT4G14710 ortho_group3240_cds other cellular processes
+AT4G14710 ortho_group3240_cds other enzyme activity
+AT4G14710 ortho_group3240_cds other metabolic processes
+AT4G14880 ortho_group2767_cds chloroplast
+AT4G14880 ortho_group2767_cds cytosol
+AT4G14880 ortho_group2767_cds extracellular
+AT4G14880 ortho_group2767_cds nucleus
+AT4G14880 ortho_group2767_cds other biological processes
+AT4G14880 ortho_group2767_cds other cellular processes
+AT4G14880 ortho_group2767_cds other cytoplasmic components
+AT4G14880 ortho_group2767_cds other enzyme activity
+AT4G14880 ortho_group2767_cds other intracellular components
+AT4G14880 ortho_group2767_cds other membranes
+AT4G14880 ortho_group2767_cds other metabolic processes
+AT4G14880 ortho_group2767_cds plasma membrane
+AT4G14880 ortho_group2767_cds plastid
+AT4G14880 ortho_group2767_cds protein binding
+AT4G14930 ortho_group3412_cds cytosol
+AT4G14930 ortho_group3412_cds hydrolase activity
+AT4G14930 ortho_group3412_cds unknown biological processes
+AT4G14950 ortho_group2893_cds ER
+AT4G14950 ortho_group2893_cds unknown biological processes
+AT4G14950 ortho_group2893_cds unknown molecular functions
+AT4G15210 ortho_group4050_cds cytosol
+AT4G15210 ortho_group4050_cds hydrolase activity
+AT4G15210 ortho_group4050_cds other cellular processes
+AT4G15210 ortho_group4050_cds other metabolic processes
+AT4G15210 ortho_group4050_cds response to abiotic or biotic stimulus
+AT4G15415 ortho_group3825_cds cell organization and biogenesis
+AT4G15415 ortho_group3825_cds developmental processes
+AT4G15415 ortho_group3825_cds DNA or RNA binding
+AT4G15415 ortho_group3825_cds other cellular processes
+AT4G15415 ortho_group3825_cds other intracellular components
+AT4G15415 ortho_group3825_cds other metabolic processes
+AT4G15415 ortho_group3825_cds other molecular functions
+AT4G15415 ortho_group3825_cds response to stress
+AT4G15415 ortho_group3825_cds signal transduction
+AT4G15510 ortho_group4138_cds chloroplast
+AT4G15510 ortho_group4138_cds other binding
+AT4G15510 ortho_group4138_cds other cellular processes
+AT4G15510 ortho_group4138_cds other cytoplasmic components
+AT4G15510 ortho_group4138_cds other intracellular components
+AT4G15510 ortho_group4138_cds other membranes
+AT4G15510 ortho_group4138_cds other metabolic processes
+AT4G15510 ortho_group4138_cds plastid
+AT4G15530 ortho_group2772_cds chloroplast
+AT4G15530 ortho_group2772_cds cytosol
+AT4G15530 ortho_group2772_cds kinase activity
+AT4G15530 ortho_group2772_cds nucleus
+AT4G15530 ortho_group2772_cds other cellular processes
+AT4G15530 ortho_group2772_cds other cytoplasmic components
+AT4G15530 ortho_group2772_cds other intracellular components
+AT4G15530 ortho_group2772_cds other metabolic processes
+AT4G15530 ortho_group2772_cds plastid
+AT4G15530 ortho_group2772_cds transferase activity
+AT4G15640 ortho_group2951_cds mitochondria
+AT4G15640 ortho_group2951_cds unknown biological processes
+AT4G15640 ortho_group2951_cds unknown molecular functions
+AT4G15780 ortho_group4054_cds other cellular processes
+AT4G15780 ortho_group4054_cds plasma membrane
+AT4G15780 ortho_group4054_cds transport
+AT4G15780 ortho_group4054_cds unknown molecular functions
+AT4G15802 ortho_group4614_cds cytosol
+AT4G15802 ortho_group4614_cds developmental processes
+AT4G15802 ortho_group4614_cds nucleus
+AT4G15802 ortho_group4614_cds other cellular processes
+AT4G15802 ortho_group4614_cds protein binding
+AT4G15802 ortho_group4614_cds response to abiotic or biotic stimulus
+AT4G15802 ortho_group4614_cds response to stress
+AT4G15830 ortho_group5087_cds other binding
+AT4G15830 ortho_group5087_cds unknown biological processes
+AT4G15940 ortho_group3976_cds mitochondria
+AT4G15940 ortho_group3976_cds other binding
+AT4G15940 ortho_group3976_cds other enzyme activity
+AT4G15940 ortho_group3976_cds other metabolic processes
+AT4G15955 ortho_group5347_cds other enzyme activity
+AT4G15955 ortho_group5347_cds unknown cellular components
+AT4G15960 ortho_group4318_cds hydrolase activity
+AT4G15960 ortho_group4318_cds mitochondria
+AT4G15960 ortho_group4318_cds other enzyme activity
+AT4G15960 ortho_group4318_cds unknown biological processes
+AT4G16100 ortho_group5511_cds unknown biological processes
+AT4G16100 ortho_group5511_cds unknown molecular functions
+AT4G16146 ortho_group2599_cds unknown biological processes
+AT4G16146 ortho_group2599_cds unknown cellular components
+AT4G16146 ortho_group2599_cds unknown molecular functions
+AT4G16150 ortho_group4396_cds nucleus
+AT4G16150 ortho_group4396_cds other cellular processes
+AT4G16150 ortho_group4396_cds other metabolic processes
+AT4G16150 ortho_group4396_cds protein binding
+AT4G16180 ortho_group5316_cds plasma membrane
+AT4G16180 ortho_group5316_cds unknown biological processes
+AT4G16180 ortho_group5316_cds unknown molecular functions
+AT4G16340 ortho_group4053_cds cytosol
+AT4G16340 ortho_group4053_cds ER
+AT4G16340 ortho_group4053_cds nucleotide binding
+AT4G16340 ortho_group4053_cds nucleus
+AT4G16340 ortho_group4053_cds other cellular processes
+AT4G16340 ortho_group4053_cds other cytoplasmic components
+AT4G16340 ortho_group4053_cds other intracellular components
+AT4G16340 ortho_group4053_cds other membranes
+AT4G16340 ortho_group4053_cds other molecular functions
+AT4G16340 ortho_group4053_cds plasma membrane
+AT4G16340 ortho_group4053_cds protein binding
+AT4G16340 ortho_group4053_cds transport
+AT4G16380 ortho_group3403_cds other binding
+AT4G16380 ortho_group3403_cds other cellular components
+AT4G16380 ortho_group3403_cds transport
+AT4G16390 ortho_group4585_cds cell organization and biogenesis
+AT4G16390 ortho_group4585_cds chloroplast
+AT4G16390 ortho_group4585_cds other cellular processes
+AT4G16390 ortho_group4585_cds other cytoplasmic components
+AT4G16390 ortho_group4585_cds other intracellular components
+AT4G16390 ortho_group4585_cds plastid
+AT4G16520 ortho_group4426_cds other cellular processes
+AT4G16520 ortho_group4426_cds other metabolic processes
+AT4G16520 ortho_group4426_cds protein binding
+AT4G16566 ortho_group4787_cds hydrolase activity
+AT4G16566 ortho_group4787_cds nucleotide binding
+AT4G16566 ortho_group4787_cds other cellular processes
+AT4G16566 ortho_group4787_cds other cytoplasmic components
+AT4G16566 ortho_group4787_cds other intracellular components
+AT4G16566 ortho_group4787_cds other metabolic processes
+AT4G16566 ortho_group4787_cds transferase activity
+AT4G16650 ortho_group3676_cds Golgi apparatus
+AT4G16650 ortho_group3676_cds unknown biological processes
+AT4G16650 ortho_group3676_cds unknown molecular functions
+AT4G16660 ortho_group5451_cds chloroplast
+AT4G16660 ortho_group5451_cds nucleotide binding
+AT4G16660 ortho_group5451_cds other cytoplasmic components
+AT4G16660 ortho_group5451_cds other intracellular components
+AT4G16660 ortho_group5451_cds other membranes
+AT4G16710 ortho_group3393_cds other binding
+AT4G16710 ortho_group3393_cds other cellular processes
+AT4G16710 ortho_group3393_cds other metabolic processes
+AT4G16710 ortho_group3393_cds transferase activity
+AT4G16710 ortho_group3393_cds unknown cellular components
+AT4G16740 ortho_group5356_cds cytosol
+AT4G16740 ortho_group5356_cds other biological processes
+AT4G16740 ortho_group5356_cds other cellular processes
+AT4G16740 ortho_group5356_cds other enzyme activity
+AT4G16740 ortho_group5356_cds other metabolic processes
+AT4G16740 ortho_group5356_cds response to abiotic or biotic stimulus
+AT4G16740 ortho_group5356_cds response to stress
+AT4G16760 ortho_group5571_cds developmental processes
+AT4G16760 ortho_group5571_cds other biological processes
+AT4G16760 ortho_group5571_cds other cellular components
+AT4G16760 ortho_group5571_cds other cellular processes
+AT4G16760 ortho_group5571_cds other cytoplasmic components
+AT4G16760 ortho_group5571_cds other enzyme activity
+AT4G16760 ortho_group5571_cds other intracellular components
+AT4G16760 ortho_group5571_cds other metabolic processes
+AT4G16760 ortho_group5571_cds response to abiotic or biotic stimulus
+AT4G16760 ortho_group5571_cds response to stress
+AT4G16765 ortho_group4086_cds other binding
+AT4G16765 ortho_group4086_cds other enzyme activity
+AT4G16765 ortho_group4086_cds other metabolic processes
+AT4G16765 ortho_group4086_cds unknown cellular components
+AT4G16800 ortho_group4203_cds mitochondria
+AT4G16800 ortho_group4203_cds other cellular processes
+AT4G16800 ortho_group4203_cds other enzyme activity
+AT4G16800 ortho_group4203_cds other metabolic processes
+AT4G17010 ortho_group4446_cds unknown biological processes
+AT4G17010 ortho_group4446_cds unknown cellular components
+AT4G17010 ortho_group4446_cds unknown molecular functions
+AT4G17050 ortho_group3270_cds hydrolase activity
+AT4G17050 ortho_group3270_cds other cellular components
+AT4G17050 ortho_group3270_cds other cellular processes
+AT4G17050 ortho_group3270_cds other metabolic processes
+AT4G17050 ortho_group3270_cds transcription factor activity
+AT4G17170 ortho_group3172_cds developmental processes
+AT4G17170 ortho_group3172_cds hydrolase activity
+AT4G17170 ortho_group3172_cds nucleotide binding
+AT4G17170 ortho_group3172_cds other cellular processes
+AT4G17170 ortho_group3172_cds other cytoplasmic components
+AT4G17170 ortho_group3172_cds other intracellular components
+AT4G17170 ortho_group3172_cds other membranes
+AT4G17170 ortho_group3172_cds plasma membrane
+AT4G17170 ortho_group3172_cds transport
+AT4G17190 ortho_group5569_cds cytosol
+AT4G17190 ortho_group5569_cds other cellular processes
+AT4G17190 ortho_group5569_cds other metabolic processes
+AT4G17190 ortho_group5569_cds transferase activity
+AT4G17220 ortho_group4541_cds cell organization and biogenesis
+AT4G17220 ortho_group4541_cds developmental processes
+AT4G17220 ortho_group4541_cds other cellular processes
+AT4G17220 ortho_group4541_cds other intracellular components
+AT4G17220 ortho_group4541_cds protein binding
+AT4G17300 ortho_group5303_cds chloroplast
+AT4G17300 ortho_group5303_cds developmental processes
+AT4G17300 ortho_group5303_cds mitochondria
+AT4G17300 ortho_group5303_cds other cellular processes
+AT4G17300 ortho_group5303_cds other cytoplasmic components
+AT4G17300 ortho_group5303_cds other enzyme activity
+AT4G17300 ortho_group5303_cds other intracellular components
+AT4G17300 ortho_group5303_cds other metabolic processes
+AT4G17300 ortho_group5303_cds plastid
+AT4G17300 ortho_group5303_cds protein metabolism
+AT4G17340 ortho_group3899_cds chloroplast
+AT4G17340 ortho_group3899_cds other cytoplasmic components
+AT4G17340 ortho_group3899_cds other intracellular components
+AT4G17340 ortho_group3899_cds other membranes
+AT4G17340 ortho_group3899_cds response to abiotic or biotic stimulus
+AT4G17340 ortho_group3899_cds response to stress
+AT4G17340 ortho_group3899_cds transport
+AT4G17340 ortho_group3899_cds transporter activity
+AT4G17360 ortho_group5559_cds hydrolase activity
+AT4G17360 ortho_group5559_cds mitochondria
+AT4G17360 ortho_group5559_cds other cellular processes
+AT4G17360 ortho_group5559_cds other metabolic processes
+AT4G17360 ortho_group5559_cds transferase activity
+AT4G17510 ortho_group3875_cds cytosol
+AT4G17510 ortho_group3875_cds hydrolase activity
+AT4G17510 ortho_group3875_cds other cellular processes
+AT4G17510 ortho_group3875_cds other intracellular components
+AT4G17510 ortho_group3875_cds other metabolic processes
+AT4G17510 ortho_group3875_cds protein metabolism
+AT4G17530 ortho_group3578_cds cell organization and biogenesis
+AT4G17530 ortho_group3578_cds cytosol
+AT4G17530 ortho_group3578_cds developmental processes
+AT4G17530 ortho_group3578_cds Golgi apparatus
+AT4G17530 ortho_group3578_cds nucleotide binding
+AT4G17530 ortho_group3578_cds other cellular components
+AT4G17530 ortho_group3578_cds other cellular processes
+AT4G17530 ortho_group3578_cds other cytoplasmic components
+AT4G17530 ortho_group3578_cds other intracellular components
+AT4G17530 ortho_group3578_cds other membranes
+AT4G17530 ortho_group3578_cds plasma membrane
+AT4G17560 ortho_group2892_cds chloroplast
+AT4G17560 ortho_group2892_cds other cellular processes
+AT4G17560 ortho_group2892_cds other cytoplasmic components
+AT4G17560 ortho_group2892_cds other intracellular components
+AT4G17560 ortho_group2892_cds other membranes
+AT4G17560 ortho_group2892_cds other metabolic processes
+AT4G17560 ortho_group2892_cds plastid
+AT4G17560 ortho_group2892_cds protein metabolism
+AT4G17560 ortho_group2892_cds ribosome
+AT4G17560 ortho_group2892_cds structural molecule activity
+AT4G17620 ortho_group5392_cds cytosol
+AT4G17620 ortho_group5392_cds unknown biological processes
+AT4G17620 ortho_group5392_cds unknown molecular functions
+AT4G17650 ortho_group2953_cds unknown biological processes
+AT4G17650 ortho_group2953_cds unknown molecular functions
+AT4G17660 ortho_group5182_cds kinase activity
+AT4G17660 ortho_group5182_cds nucleotide binding
+AT4G17660 ortho_group5182_cds other cellular processes
+AT4G17660 ortho_group5182_cds other metabolic processes
+AT4G17660 ortho_group5182_cds protein metabolism
+AT4G17660 ortho_group5182_cds transferase activity
+AT4G17660 ortho_group5182_cds unknown cellular components
+AT4G17790 ortho_group2588_cds unknown biological processes
+AT4G17830 ortho_group3259_cds cytosol
+AT4G17830 ortho_group3259_cds hydrolase activity
+AT4G17830 ortho_group3259_cds other metabolic processes
+AT4G17830 ortho_group3259_cds protein metabolism
+AT4G17840 ortho_group5455_cds chloroplast
+AT4G17840 ortho_group5455_cds other membranes
+AT4G17840 ortho_group5455_cds unknown biological processes
+AT4G17840 ortho_group5455_cds unknown molecular functions
+AT4G17910 ortho_group3727_cds ER
+AT4G17910 ortho_group3727_cds other cellular processes
+AT4G17910 ortho_group3727_cds other cytoplasmic components
+AT4G17910 ortho_group3727_cds other intracellular components
+AT4G17910 ortho_group3727_cds other membranes
+AT4G17910 ortho_group3727_cds other metabolic processes
+AT4G17910 ortho_group3727_cds protein metabolism
+AT4G17910 ortho_group3727_cds transferase activity
+AT4G18030 ortho_group2942_cds cell wall
+AT4G18030 ortho_group2942_cds Golgi apparatus
+AT4G18030 ortho_group2942_cds other cytoplasmic components
+AT4G18030 ortho_group2942_cds other intracellular components
+AT4G18030 ortho_group2942_cds other membranes
+AT4G18030 ortho_group2942_cds unknown biological processes
+AT4G18060 ortho_group4250_cds protein binding
+AT4G18210 ortho_group4630_cds other cellular processes
+AT4G18210 ortho_group4630_cds other membranes
+AT4G18210 ortho_group4630_cds response to abiotic or biotic stimulus
+AT4G18210 ortho_group4630_cds transport
+AT4G18210 ortho_group4630_cds transporter activity
+AT4G18220 ortho_group4630_cds transporter activity
+AT4G18230 ortho_group2659_cds other cellular components
+AT4G18230 ortho_group2659_cds unknown biological processes
+AT4G18230 ortho_group2659_cds unknown molecular functions
+AT4G18375 ortho_group2549_cds DNA or RNA binding
+AT4G18375 ortho_group2549_cds nucleic acid binding
+AT4G18375 ortho_group2549_cds unknown biological processes
+AT4G18375 ortho_group2549_cds unknown cellular components
+AT4G18590 ortho_group3960_cds unknown biological processes
+AT4G18590 ortho_group3960_cds unknown cellular components
+AT4G18590 ortho_group3960_cds unknown molecular functions
+AT4G18593 ortho_group5104_cds hydrolase activity
+AT4G18593 ortho_group5104_cds other cellular processes
+AT4G18593 ortho_group5104_cds other metabolic processes
+AT4G18593 ortho_group5104_cds protein metabolism
+AT4G18593 ortho_group5104_cds signal transduction
+AT4G18593 ortho_group5104_cds unknown cellular components
+AT4G18640 ortho_group3176_cds developmental processes
+AT4G18640 ortho_group3176_cds kinase activity
+AT4G18640 ortho_group3176_cds nucleotide binding
+AT4G18640 ortho_group3176_cds other cellular processes
+AT4G18640 ortho_group3176_cds other metabolic processes
+AT4G18640 ortho_group3176_cds protein metabolism
+AT4G18640 ortho_group3176_cds signal transduction
+AT4G18640 ortho_group3176_cds transferase activity
+AT4G18950 ortho_group3115_cds cytosol
+AT4G18950 ortho_group3115_cds kinase activity
+AT4G18950 ortho_group3115_cds nucleus
+AT4G18950 ortho_group3115_cds other cellular processes
+AT4G18950 ortho_group3115_cds other cytoplasmic components
+AT4G18950 ortho_group3115_cds other metabolic processes
+AT4G18950 ortho_group3115_cds protein metabolism
+AT4G18950 ortho_group3115_cds transferase activity
+AT4G19003 ortho_group4525_cds other cellular processes
+AT4G19003 ortho_group4525_cds other cytoplasmic components
+AT4G19003 ortho_group4525_cds other intracellular components
+AT4G19003 ortho_group4525_cds other membranes
+AT4G19003 ortho_group4525_cds protein binding
+AT4G19003 ortho_group4525_cds transport
+AT4G19020 ortho_group5146_cds cell organization and biogenesis
+AT4G19020 ortho_group5146_cds DNA or RNA binding
+AT4G19020 ortho_group5146_cds DNA or RNA metabolism
+AT4G19020 ortho_group5146_cds nucleus
+AT4G19020 ortho_group5146_cds other binding
+AT4G19020 ortho_group5146_cds other cellular processes
+AT4G19020 ortho_group5146_cds other intracellular components
+AT4G19020 ortho_group5146_cds other metabolic processes
+AT4G19100 ortho_group2710_cds chloroplast
+AT4G19100 ortho_group2710_cds other membranes
+AT4G19100 ortho_group2710_cds unknown biological processes
+AT4G19100 ortho_group2710_cds unknown molecular functions
+AT4G19110 ortho_group3712_cds kinase activity
+AT4G19110 ortho_group3712_cds nucleotide binding
+AT4G19110 ortho_group3712_cds other cellular processes
+AT4G19110 ortho_group3712_cds other metabolic processes
+AT4G19110 ortho_group3712_cds protein metabolism
+AT4G19110 ortho_group3712_cds transferase activity
+AT4G19150 ortho_group4681_cds unknown biological processes
+AT4G19170 ortho_group5042_cds chloroplast
+AT4G19170 ortho_group5042_cds other cytoplasmic components
+AT4G19170 ortho_group5042_cds other intracellular components
+AT4G19170 ortho_group5042_cds plastid
+AT4G19170 ortho_group5042_cds protein binding
+AT4G19185 ortho_group3117_cds other membranes
+AT4G19350 ortho_group4496_cds developmental processes
+AT4G19350 ortho_group4496_cds unknown molecular functions
+AT4G19390 ortho_group3618_cds chloroplast
+AT4G19390 ortho_group3618_cds other cytoplasmic components
+AT4G19390 ortho_group3618_cds other intracellular components
+AT4G19390 ortho_group3618_cds plastid
+AT4G19390 ortho_group3618_cds unknown biological processes
+AT4G19390 ortho_group3618_cds unknown molecular functions
+AT4G19400 ortho_group3673_cds cell organization and biogenesis
+AT4G19400 ortho_group3673_cds other cellular processes
+AT4G19400 ortho_group3673_cds other intracellular components
+AT4G19400 ortho_group3673_cds protein binding
+AT4G19420 ortho_group4875_cds hydrolase activity
+AT4G19420 ortho_group4875_cds other cellular components
+AT4G19420 ortho_group4875_cds unknown biological processes
+AT4G19540 ortho_group2699_cds mitochondria
+AT4G19645 ortho_group5372_cds other membranes
+AT4G19645 ortho_group5372_cds unknown biological processes
+AT4G19645 ortho_group5372_cds unknown molecular functions
+AT4G19710 ortho_group3917_cds chloroplast
+AT4G19710 ortho_group3917_cds kinase activity
+AT4G19710 ortho_group3917_cds other cellular processes
+AT4G19710 ortho_group3917_cds other cytoplasmic components
+AT4G19710 ortho_group3917_cds other enzyme activity
+AT4G19710 ortho_group3917_cds other intracellular components
+AT4G19710 ortho_group3917_cds other metabolic processes
+AT4G19710 ortho_group3917_cds plastid
+AT4G19710 ortho_group3917_cds transferase activity
+AT4G19880 ortho_group4289_cds cytosol
+AT4G19880 ortho_group4289_cds other biological processes
+AT4G19880 ortho_group4289_cds unknown molecular functions
+AT4G19900 ortho_group4324_cds Golgi apparatus
+AT4G19900 ortho_group4324_cds mitochondria
+AT4G19900 ortho_group4324_cds other cytoplasmic components
+AT4G19900 ortho_group4324_cds other intracellular components
+AT4G19900 ortho_group4324_cds transferase activity
+AT4G19900 ortho_group4324_cds unknown biological processes
+AT4G20030 ortho_group5596_cds DNA or RNA binding
+AT4G20030 ortho_group5596_cds nucleic acid binding
+AT4G20030 ortho_group5596_cds nucleotide binding
+AT4G20030 ortho_group5596_cds nucleus
+AT4G20030 ortho_group5596_cds unknown biological processes
+AT4G20260 ortho_group3428_cds chloroplast
+AT4G20260 ortho_group3428_cds other binding
+AT4G20260 ortho_group3428_cds other cellular processes
+AT4G20260 ortho_group3428_cds other cytoplasmic components
+AT4G20260 ortho_group3428_cds other intracellular components
+AT4G20260 ortho_group3428_cds other metabolic processes
+AT4G20260 ortho_group3428_cds plasma membrane
+AT4G20260 ortho_group3428_cds protein binding
+AT4G20260 ortho_group3428_cds protein metabolism
+AT4G20260 ortho_group3428_cds response to abiotic or biotic stimulus
+AT4G20260 ortho_group3428_cds response to stress
+AT4G20325 ortho_group2634_cds nucleus
+AT4G20325 ortho_group2634_cds unknown biological processes
+AT4G20325 ortho_group2634_cds unknown molecular functions
+AT4G20350 ortho_group5043_cds other cellular components
+AT4G20350 ortho_group5043_cds other enzyme activity
+AT4G20350 ortho_group5043_cds unknown biological processes
+AT4G20360 ortho_group5401_cds chloroplast
+AT4G20360 ortho_group5401_cds DNA or RNA binding
+AT4G20360 ortho_group5401_cds extracellular
+AT4G20360 ortho_group5401_cds hydrolase activity
+AT4G20360 ortho_group5401_cds nucleotide binding
+AT4G20360 ortho_group5401_cds nucleus
+AT4G20360 ortho_group5401_cds other cellular processes
+AT4G20360 ortho_group5401_cds other cytoplasmic components
+AT4G20360 ortho_group5401_cds other intracellular components
+AT4G20360 ortho_group5401_cds other membranes
+AT4G20360 ortho_group5401_cds other metabolic processes
+AT4G20360 ortho_group5401_cds plastid
+AT4G20360 ortho_group5401_cds protein binding
+AT4G20360 ortho_group5401_cds protein metabolism
+AT4G20410 ortho_group3028_cds ER
+AT4G20410 ortho_group3028_cds Golgi apparatus
+AT4G20410 ortho_group3028_cds other binding
+AT4G20410 ortho_group3028_cds other cellular processes
+AT4G20410 ortho_group3028_cds plasma membrane
+AT4G20410 ortho_group3028_cds transport
+AT4G20410 ortho_group3028_cds transporter activity
+AT4G20980 ortho_group4405_cds chloroplast
+AT4G20980 ortho_group4405_cds DNA or RNA binding
+AT4G20980 ortho_group4405_cds other cellular processes
+AT4G20980 ortho_group4405_cds other metabolic processes
+AT4G20980 ortho_group4405_cds protein metabolism
+AT4G21090 ortho_group5129_cds mitochondria
+AT4G21090 ortho_group5129_cds other binding
+AT4G21090 ortho_group5129_cds other molecular functions
+AT4G21190 ortho_group2913_cds developmental processes
+AT4G21190 ortho_group2913_cds unknown molecular functions
+AT4G21280 ortho_group5128_cds chloroplast
+AT4G21280 ortho_group5128_cds other binding
+AT4G21280 ortho_group5128_cds other cellular processes
+AT4G21280 ortho_group5128_cds other cytoplasmic components
+AT4G21280 ortho_group5128_cds other intracellular components
+AT4G21280 ortho_group5128_cds other membranes
+AT4G21280 ortho_group5128_cds other metabolic processes
+AT4G21280 ortho_group5128_cds plastid
+AT4G21280 ortho_group5128_cds protein metabolism
+AT4G21320 ortho_group4617_cds cell wall
+AT4G21320 ortho_group4617_cds hydrolase activity
+AT4G21320 ortho_group4617_cds other enzyme activity
+AT4G21320 ortho_group4617_cds other metabolic processes
+AT4G21320 ortho_group4617_cds response to abiotic or biotic stimulus
+AT4G21320 ortho_group4617_cds response to stress
+AT4G21410 ortho_group3760_cds kinase activity
+AT4G21410 ortho_group3760_cds other biological processes
+AT4G21410 ortho_group3760_cds other cytoplasmic components
+AT4G21410 ortho_group3760_cds other intracellular components
+AT4G21410 ortho_group3760_cds plasma membrane
+AT4G21480 ortho_group3634_cds other membranes
+AT4G21480 ortho_group3634_cds response to abiotic or biotic stimulus
+AT4G21480 ortho_group3634_cds transporter activity
+AT4G21534 ortho_group2648_cds kinase activity
+AT4G21534 ortho_group2648_cds other cellular processes
+AT4G21534 ortho_group2648_cds other metabolic processes
+AT4G21534 ortho_group2648_cds protein metabolism
+AT4G21534 ortho_group2648_cds signal transduction
+AT4G21534 ortho_group2648_cds transferase activity
+AT4G21540 ortho_group2648_cds developmental processes
+AT4G21540 ortho_group2648_cds kinase activity
+AT4G21540 ortho_group2648_cds other biological processes
+AT4G21540 ortho_group2648_cds other cellular processes
+AT4G21540 ortho_group2648_cds other cytoplasmic components
+AT4G21540 ortho_group2648_cds other intracellular components
+AT4G21540 ortho_group2648_cds other membranes
+AT4G21540 ortho_group2648_cds other metabolic processes
+AT4G21540 ortho_group2648_cds protein metabolism
+AT4G21540 ortho_group2648_cds signal transduction
+AT4G21540 ortho_group2648_cds transferase activity
+AT4G21550 ortho_group3202_cds other cellular processes
+AT4G21550 ortho_group3202_cds other metabolic processes
+AT4G21550 ortho_group3202_cds transcription factor activity
+AT4G21570 ortho_group5297_cds other cellular components
+AT4G21570 ortho_group5297_cds unknown biological processes
+AT4G21580 ortho_group3330_cds cytosol
+AT4G21580 ortho_group3330_cds other binding
+AT4G21580 ortho_group3330_cds other enzyme activity
+AT4G21580 ortho_group3330_cds other metabolic processes
+AT4G21585 ortho_group4669_cds DNA or RNA metabolism
+AT4G21585 ortho_group4669_cds hydrolase activity
+AT4G21585 ortho_group4669_cds nucleic acid binding
+AT4G21585 ortho_group4669_cds other cellular components
+AT4G21585 ortho_group4669_cds other cellular processes
+AT4G21585 ortho_group4669_cds other metabolic processes
+AT4G21710 ortho_group3475_cds cytosol
+AT4G21710 ortho_group3475_cds developmental processes
+AT4G21710 ortho_group3475_cds DNA or RNA binding
+AT4G21710 ortho_group3475_cds nucleus
+AT4G21710 ortho_group3475_cds other cellular components
+AT4G21710 ortho_group3475_cds other cellular processes
+AT4G21710 ortho_group3475_cds other intracellular components
+AT4G21710 ortho_group3475_cds other metabolic processes
+AT4G21710 ortho_group3475_cds transferase activity
+AT4G21790 ortho_group4442_cds other biological processes
+AT4G21790 ortho_group4442_cds other cytoplasmic components
+AT4G21790 ortho_group4442_cds other intracellular components
+AT4G21790 ortho_group4442_cds other membranes
+AT4G21860 ortho_group3428_cds chloroplast
+AT4G21860 ortho_group3428_cds other cytoplasmic components
+AT4G21860 ortho_group3428_cds other enzyme activity
+AT4G21860 ortho_group3428_cds other intracellular components
+AT4G21860 ortho_group3428_cds other metabolic processes
+AT4G21860 ortho_group3428_cds plastid
+AT4G21860 ortho_group3428_cds response to stress
+AT4G21960 ortho_group4392_cds other binding
+AT4G21960 ortho_group4392_cds other cellular components
+AT4G21960 ortho_group4392_cds other enzyme activity
+AT4G21960 ortho_group4392_cds other metabolic processes
+AT4G21960 ortho_group4392_cds response to stress
+AT4G22000 ortho_group5032_cds unknown biological processes
+AT4G22000 ortho_group5032_cds unknown cellular components
+AT4G22000 ortho_group5032_cds unknown molecular functions
+AT4G22120 ortho_group3195_cds plasma membrane
+AT4G22140 ortho_group4741_cds developmental processes
+AT4G22140 ortho_group4741_cds DNA or RNA binding
+AT4G22140 ortho_group4741_cds other binding
+AT4G22140 ortho_group4741_cds other cellular processes
+AT4G22140 ortho_group4741_cds other metabolic processes
+AT4G22140 ortho_group4741_cds unknown cellular components
+AT4G22220 ortho_group3666_cds mitochondria
+AT4G22220 ortho_group3666_cds other cellular processes
+AT4G22220 ortho_group3666_cds other metabolic processes
+AT4G22220 ortho_group3666_cds structural molecule activity
+AT4G22260 ortho_group4540_cds cell organization and biogenesis
+AT4G22260 ortho_group4540_cds other cellular processes
+AT4G22260 ortho_group4540_cds other enzyme activity
+AT4G22260 ortho_group4540_cds other intracellular components
+AT4G22260 ortho_group4540_cds other metabolic processes
+AT4G22260 ortho_group4540_cds response to abiotic or biotic stimulus
+AT4G22300 ortho_group3185_cds hydrolase activity
+AT4G22300 ortho_group3185_cds other cellular components
+AT4G22300 ortho_group3185_cds other cellular processes
+AT4G22300 ortho_group3185_cds response to abiotic or biotic stimulus
+AT4G22300 ortho_group3185_cds response to stress
+AT4G22330 ortho_group4789_cds ER
+AT4G22330 ortho_group4789_cds hydrolase activity
+AT4G22330 ortho_group4789_cds other cellular processes
+AT4G22330 ortho_group4789_cds other enzyme activity
+AT4G22330 ortho_group4789_cds other membranes
+AT4G22330 ortho_group4789_cds other metabolic processes
+AT4G22540 ortho_group4130_cds other binding
+AT4G22540 ortho_group4130_cds other metabolic processes
+AT4G22540 ortho_group4130_cds signal transduction
+AT4G23000 ortho_group4466_cds hydrolase activity
+AT4G23000 ortho_group4466_cds unknown biological processes
+AT4G23000 ortho_group4466_cds unknown cellular components
+AT4G23180 ortho_group3760_cds kinase activity
+AT4G23180 ortho_group3760_cds nucleotide binding
+AT4G23180 ortho_group3760_cds other cellular processes
+AT4G23180 ortho_group3760_cds other metabolic processes
+AT4G23180 ortho_group3760_cds plasma membrane
+AT4G23180 ortho_group3760_cds protein metabolism
+AT4G23180 ortho_group3760_cds transferase activity
+AT4G23190 ortho_group3760_cds kinase activity
+AT4G23190 ortho_group3760_cds other membranes
+AT4G23190 ortho_group3760_cds response to abiotic or biotic stimulus
+AT4G23190 ortho_group3760_cds response to stress
+AT4G23190 ortho_group3760_cds transferase activity
+AT4G23330 ortho_group2685_cds unknown biological processes
+AT4G23330 ortho_group2685_cds unknown cellular components
+AT4G23330 ortho_group2685_cds unknown molecular functions
+AT4G23420 ortho_group2969_cds chloroplast
+AT4G23420 ortho_group2969_cds other binding
+AT4G23420 ortho_group2969_cds other enzyme activity
+AT4G23420 ortho_group2969_cds other metabolic processes
+AT4G23430 ortho_group2592_cds chloroplast
+AT4G23430 ortho_group2592_cds other binding
+AT4G23430 ortho_group2592_cds other cytoplasmic components
+AT4G23430 ortho_group2592_cds other enzyme activity
+AT4G23430 ortho_group2592_cds other intracellular components
+AT4G23430 ortho_group2592_cds other membranes
+AT4G23430 ortho_group2592_cds other metabolic processes
+AT4G23430 ortho_group2592_cds plastid
+AT4G23450 ortho_group4791_cds other binding
+AT4G23450 ortho_group4791_cds other biological processes
+AT4G23450 ortho_group4791_cds other cellular processes
+AT4G23450 ortho_group4791_cds other cytoplasmic components
+AT4G23450 ortho_group4791_cds other enzyme activity
+AT4G23450 ortho_group4791_cds other metabolic processes
+AT4G23450 ortho_group4791_cds protein binding
+AT4G23450 ortho_group4791_cds protein metabolism
+AT4G23450 ortho_group4791_cds response to abiotic or biotic stimulus
+AT4G23450 ortho_group4791_cds response to stress
+AT4G23450 ortho_group4791_cds signal transduction
+AT4G23630 ortho_group4751_cds cell organization and biogenesis
+AT4G23630 ortho_group4751_cds ER
+AT4G23630 ortho_group4751_cds other cellular processes
+AT4G23630 ortho_group4751_cds other cytoplasmic components
+AT4G23630 ortho_group4751_cds other intracellular components
+AT4G23630 ortho_group4751_cds other membranes
+AT4G23630 ortho_group4751_cds plasma membrane
+AT4G23650 ortho_group5188_cds cytosol
+AT4G23650 ortho_group5188_cds kinase activity
+AT4G23650 ortho_group5188_cds other cellular processes
+AT4G23650 ortho_group5188_cds other cytoplasmic components
+AT4G23650 ortho_group5188_cds other intracellular components
+AT4G23650 ortho_group5188_cds other membranes
+AT4G23650 ortho_group5188_cds other metabolic processes
+AT4G23650 ortho_group5188_cds plasma membrane
+AT4G23650 ortho_group5188_cds protein binding
+AT4G23650 ortho_group5188_cds protein metabolism
+AT4G23650 ortho_group5188_cds response to abiotic or biotic stimulus
+AT4G23650 ortho_group5188_cds response to stress
+AT4G23650 ortho_group5188_cds signal transduction
+AT4G23650 ortho_group5188_cds transferase activity
+AT4G23650 ortho_group5188_cds transport
+AT4G23690 ortho_group2733_cds other cellular components
+AT4G23690 ortho_group2733_cds other cellular processes
+AT4G23690 ortho_group2733_cds other metabolic processes
+AT4G23690 ortho_group2733_cds response to stress
+AT4G23690 ortho_group2733_cds unknown molecular functions
+AT4G23740 ortho_group3071_cds kinase activity
+AT4G23740 ortho_group3071_cds nucleotide binding
+AT4G23740 ortho_group3071_cds other cellular processes
+AT4G23740 ortho_group3071_cds other metabolic processes
+AT4G23740 ortho_group3071_cds plasma membrane
+AT4G23740 ortho_group3071_cds protein metabolism
+AT4G23740 ortho_group3071_cds signal transduction
+AT4G23740 ortho_group3071_cds transferase activity
+AT4G23850 ortho_group3158_cds other cellular processes
+AT4G23850 ortho_group3158_cds other enzyme activity
+AT4G23850 ortho_group3158_cds other metabolic processes
+AT4G23850 ortho_group3158_cds plasma membrane
+AT4G23940 ortho_group2963_cds chloroplast
+AT4G23940 ortho_group2963_cds hydrolase activity
+AT4G23940 ortho_group2963_cds nucleotide binding
+AT4G23940 ortho_group2963_cds other cytoplasmic components
+AT4G23940 ortho_group2963_cds other intracellular components
+AT4G23940 ortho_group2963_cds plastid
+AT4G23940 ortho_group2963_cds protein metabolism
+AT4G23990 ortho_group4738_cds other cellular processes
+AT4G23990 ortho_group4738_cds other membranes
+AT4G23990 ortho_group4738_cds other metabolic processes
+AT4G23990 ortho_group4738_cds transferase activity
+AT4G24015 ortho_group5272_cds other binding
+AT4G24015 ortho_group5272_cds unknown biological processes
+AT4G24015 ortho_group5272_cds unknown cellular components
+AT4G24060 ortho_group5457_cds DNA or RNA binding
+AT4G24060 ortho_group5457_cds other cellular processes
+AT4G24060 ortho_group5457_cds other metabolic processes
+AT4G24060 ortho_group5457_cds transcription factor activity
+AT4G24060 ortho_group5457_cds unknown cellular components
+AT4G24090 ortho_group3466_cds chloroplast
+AT4G24090 ortho_group3466_cds unknown biological processes
+AT4G24090 ortho_group3466_cds unknown molecular functions
+AT4G24100 ortho_group3862_cds kinase activity
+AT4G24100 ortho_group3862_cds nucleotide binding
+AT4G24100 ortho_group3862_cds other cellular processes
+AT4G24100 ortho_group3862_cds other metabolic processes
+AT4G24100 ortho_group3862_cds plasma membrane
+AT4G24100 ortho_group3862_cds protein metabolism
+AT4G24100 ortho_group3862_cds transferase activity
+AT4G24160 ortho_group5216_cds hydrolase activity
+AT4G24160 ortho_group5216_cds other biological processes
+AT4G24160 ortho_group5216_cds transferase activity
+AT4G24190 ortho_group3454_cds chloroplast
+AT4G24190 ortho_group3454_cds developmental processes
+AT4G24190 ortho_group3454_cds ER
+AT4G24190 ortho_group3454_cds mitochondria
+AT4G24190 ortho_group3454_cds nucleotide binding
+AT4G24190 ortho_group3454_cds nucleus
+AT4G24190 ortho_group3454_cds other biological processes
+AT4G24190 ortho_group3454_cds other cellular components
+AT4G24190 ortho_group3454_cds other cellular processes
+AT4G24190 ortho_group3454_cds other cytoplasmic components
+AT4G24190 ortho_group3454_cds other intracellular components
+AT4G24190 ortho_group3454_cds other membranes
+AT4G24190 ortho_group3454_cds other metabolic processes
+AT4G24190 ortho_group3454_cds plasma membrane
+AT4G24190 ortho_group3454_cds protein binding
+AT4G24190 ortho_group3454_cds protein metabolism
+AT4G24190 ortho_group3454_cds response to abiotic or biotic stimulus
+AT4G24190 ortho_group3454_cds response to stress
+AT4G24190 ortho_group3454_cds transport
+AT4G24280 ortho_group3390_cds chloroplast
+AT4G24280 ortho_group3390_cds mitochondria
+AT4G24280 ortho_group3390_cds nucleotide binding
+AT4G24280 ortho_group3390_cds nucleus
+AT4G24280 ortho_group3390_cds other biological processes
+AT4G24280 ortho_group3390_cds other cellular processes
+AT4G24280 ortho_group3390_cds other cytoplasmic components
+AT4G24280 ortho_group3390_cds other intracellular components
+AT4G24280 ortho_group3390_cds other metabolic processes
+AT4G24280 ortho_group3390_cds plastid
+AT4G24280 ortho_group3390_cds protein binding
+AT4G24280 ortho_group3390_cds protein metabolism
+AT4G24280 ortho_group3390_cds response to abiotic or biotic stimulus
+AT4G24280 ortho_group3390_cds response to stress
+AT4G24280 ortho_group3390_cds transport
+AT4G24330 ortho_group4895_cds ER
+AT4G24330 ortho_group4895_cds unknown biological processes
+AT4G24330 ortho_group4895_cds unknown molecular functions
+AT4G24380 ortho_group3265_cds other cellular processes
+AT4G24380 ortho_group3265_cds other metabolic processes
+AT4G24440 ortho_group2666_cds nucleus
+AT4G24440 ortho_group2666_cds other cellular processes
+AT4G24440 ortho_group2666_cds other intracellular components
+AT4G24440 ortho_group2666_cds other metabolic processes
+AT4G24530 ortho_group4241_cds unknown biological processes
+AT4G24530 ortho_group4241_cds unknown cellular components
+AT4G24530 ortho_group4241_cds unknown molecular functions
+AT4G24550 ortho_group4634_cds cytosol
+AT4G24550 ortho_group4634_cds other cellular processes
+AT4G24550 ortho_group4634_cds other cytoplasmic components
+AT4G24550 ortho_group4634_cds other intracellular components
+AT4G24550 ortho_group4634_cds other membranes
+AT4G24550 ortho_group4634_cds transport
+AT4G24620 ortho_group3540_cds chloroplast
+AT4G24620 ortho_group3540_cds cytosol
+AT4G24620 ortho_group3540_cds developmental processes
+AT4G24620 ortho_group3540_cds other cellular processes
+AT4G24620 ortho_group3540_cds other cytoplasmic components
+AT4G24620 ortho_group3540_cds other enzyme activity
+AT4G24620 ortho_group3540_cds other intracellular components
+AT4G24620 ortho_group3540_cds other metabolic processes
+AT4G24620 ortho_group3540_cds plastid
+AT4G24730 ortho_group2794_cds hydrolase activity
+AT4G24730 ortho_group2794_cds unknown biological processes
+AT4G24820 ortho_group4518_cds cytosol
+AT4G24820 ortho_group4518_cds nucleus
+AT4G24820 ortho_group4518_cds other cellular processes
+AT4G24820 ortho_group4518_cds other intracellular components
+AT4G24820 ortho_group4518_cds other membranes
+AT4G24820 ortho_group4518_cds other metabolic processes
+AT4G24820 ortho_group4518_cds plasma membrane
+AT4G24820 ortho_group4518_cds protein metabolism
+AT4G24820 ortho_group4518_cds unknown molecular functions
+AT4G24990 ortho_group2664_cds plasma membrane
+AT4G24990 ortho_group2664_cds unknown molecular functions
+AT4G25100 ortho_group3053_cds chloroplast
+AT4G25100 ortho_group3053_cds mitochondria
+AT4G25100 ortho_group3053_cds other binding
+AT4G25100 ortho_group3053_cds other biological processes
+AT4G25100 ortho_group3053_cds other cellular processes
+AT4G25100 ortho_group3053_cds other cytoplasmic components
+AT4G25100 ortho_group3053_cds other enzyme activity
+AT4G25100 ortho_group3053_cds other intracellular components
+AT4G25100 ortho_group3053_cds other metabolic processes
+AT4G25100 ortho_group3053_cds plasma membrane
+AT4G25100 ortho_group3053_cds plastid
+AT4G25100 ortho_group3053_cds response to stress
+AT4G25210 ortho_group2611_cds chloroplast
+AT4G25210 ortho_group2611_cds cytosol
+AT4G25210 ortho_group2611_cds nucleus
+AT4G25210 ortho_group2611_cds other cellular processes
+AT4G25210 ortho_group2611_cds other intracellular components
+AT4G25210 ortho_group2611_cds other metabolic processes
+AT4G25210 ortho_group2611_cds unknown biological processes
+AT4G25280 ortho_group2880_cds kinase activity
+AT4G25280 ortho_group2880_cds nucleotide binding
+AT4G25280 ortho_group2880_cds other cellular processes
+AT4G25280 ortho_group2880_cds other metabolic processes
+AT4G25280 ortho_group2880_cds transferase activity
+AT4G25300 ortho_group3938_cds other cellular processes
+AT4G25300 ortho_group3938_cds other enzyme activity
+AT4G25300 ortho_group3938_cds other metabolic processes
+AT4G25300 ortho_group3938_cds unknown cellular components
+AT4G25310 ortho_group4330_cds other cellular processes
+AT4G25310 ortho_group4330_cds other enzyme activity
+AT4G25310 ortho_group4330_cds other metabolic processes
+AT4G25310 ortho_group4330_cds unknown cellular components
+AT4G25370 ortho_group4665_cds chloroplast
+AT4G25370 ortho_group4665_cds nucleotide binding
+AT4G25370 ortho_group4665_cds other cytoplasmic components
+AT4G25370 ortho_group4665_cds other intracellular components
+AT4G25370 ortho_group4665_cds plastid
+AT4G25370 ortho_group4665_cds protein metabolism
+AT4G25434 ortho_group3923_cds cytosol
+AT4G25434 ortho_group3923_cds hydrolase activity
+AT4G25434 ortho_group3923_cds nucleotide binding
+AT4G25434 ortho_group3923_cds other binding
+AT4G25434 ortho_group3923_cds other enzyme activity
+AT4G25434 ortho_group3923_cds other metabolic processes
+AT4G25450 ortho_group5490_cds chloroplast
+AT4G25450 ortho_group5490_cds hydrolase activity
+AT4G25450 ortho_group5490_cds other cellular processes
+AT4G25450 ortho_group5490_cds other cytoplasmic components
+AT4G25450 ortho_group5490_cds other intracellular components
+AT4G25450 ortho_group5490_cds other membranes
+AT4G25450 ortho_group5490_cds other metabolic processes
+AT4G25450 ortho_group5490_cds plasma membrane
+AT4G25450 ortho_group5490_cds plastid
+AT4G25450 ortho_group5490_cds transport
+AT4G25450 ortho_group5490_cds transporter activity
+AT4G25550 ortho_group3916_cds protein binding
+AT4G25550 ortho_group3916_cds unknown biological processes
+AT4G25550 ortho_group3916_cds unknown cellular components
+AT4G25560 ortho_group3812_cds DNA or RNA binding
+AT4G25560 ortho_group3812_cds nucleus
+AT4G25560 ortho_group3812_cds other biological processes
+AT4G25560 ortho_group3812_cds other cellular processes
+AT4G25560 ortho_group3812_cds other metabolic processes
+AT4G25560 ortho_group3812_cds protein binding
+AT4G25560 ortho_group3812_cds response to abiotic or biotic stimulus
+AT4G25560 ortho_group3812_cds signal transduction
+AT4G25560 ortho_group3812_cds transcription factor activity
+AT4G25570 ortho_group5537_cds chloroplast
+AT4G25570 ortho_group5537_cds other cytoplasmic components
+AT4G25570 ortho_group5537_cds other enzyme activity
+AT4G25570 ortho_group5537_cds other intracellular components
+AT4G25570 ortho_group5537_cds other membranes
+AT4G25570 ortho_group5537_cds protein binding
+AT4G25590 ortho_group4089_cds other intracellular components
+AT4G25590 ortho_group4089_cds protein binding
+AT4G25590 ortho_group4089_cds unknown biological processes
+AT4G25650 ortho_group3628_cds chloroplast
+AT4G25650 ortho_group3628_cds other binding
+AT4G25650 ortho_group3628_cds other cytoplasmic components
+AT4G25650 ortho_group3628_cds other enzyme activity
+AT4G25650 ortho_group3628_cds other intracellular components
+AT4G25650 ortho_group3628_cds other metabolic processes
+AT4G25650 ortho_group3628_cds other molecular functions
+AT4G25650 ortho_group3628_cds plastid
+AT4G25720 ortho_group3849_cds other cellular processes
+AT4G25720 ortho_group3849_cds other enzyme activity
+AT4G25720 ortho_group3849_cds other metabolic processes
+AT4G25720 ortho_group3849_cds protein metabolism
+AT4G25720 ortho_group3849_cds transferase activity
+AT4G25770 ortho_group3514_cds chloroplast
+AT4G25770 ortho_group3514_cds unknown biological processes
+AT4G25810 ortho_group5563_cds cell wall
+AT4G25810 ortho_group5563_cds hydrolase activity
+AT4G25810 ortho_group5563_cds other cellular processes
+AT4G25810 ortho_group5563_cds other metabolic processes
+AT4G25810 ortho_group5563_cds transferase activity
+AT4G25840 ortho_group4580_cds chloroplast
+AT4G25840 ortho_group4580_cds hydrolase activity
+AT4G25840 ortho_group4580_cds other enzyme activity
+AT4G25840 ortho_group4580_cds other metabolic processes
+AT4G25910 ortho_group4777_cds cell organization and biogenesis
+AT4G25910 ortho_group4777_cds chloroplast
+AT4G25910 ortho_group4777_cds other cellular processes
+AT4G25910 ortho_group4777_cds other cytoplasmic components
+AT4G25910 ortho_group4777_cds other intracellular components
+AT4G25910 ortho_group4777_cds other metabolic processes
+AT4G25910 ortho_group4777_cds plastid
+AT4G25910 ortho_group4777_cds structural molecule activity
+AT4G25970 ortho_group3058_cds ER
+AT4G25970 ortho_group3058_cds other cellular processes
+AT4G25970 ortho_group3058_cds other enzyme activity
+AT4G25970 ortho_group3058_cds other metabolic processes
+AT4G25970 ortho_group3058_cds protein metabolism
+AT4G25980 ortho_group5135_cds other cellular components
+AT4G25980 ortho_group5135_cds other enzyme activity
+AT4G25980 ortho_group5135_cds other metabolic processes
+AT4G25980 ortho_group5135_cds response to stress
+AT4G26000 ortho_group4168_cds developmental processes
+AT4G26000 ortho_group4168_cds DNA or RNA binding
+AT4G26000 ortho_group4168_cds nucleic acid binding
+AT4G26060 ortho_group4268_cds unknown biological processes
+AT4G26060 ortho_group4268_cds unknown cellular components
+AT4G26060 ortho_group4268_cds unknown molecular functions
+AT4G26210 ortho_group3923_cds mitochondria
+AT4G26210 ortho_group3923_cds other cellular processes
+AT4G26210 ortho_group3923_cds other cytoplasmic components
+AT4G26210 ortho_group3923_cds other intracellular components
+AT4G26210 ortho_group3923_cds other membranes
+AT4G26210 ortho_group3923_cds other metabolic processes
+AT4G26210 ortho_group3923_cds transport
+AT4G26210 ortho_group3923_cds transporter activity
+AT4G26220 ortho_group3067_cds cytosol
+AT4G26220 ortho_group3067_cds transferase activity
+AT4G26230 ortho_group4933_cds cytosol
+AT4G26230 ortho_group4933_cds other cellular processes
+AT4G26230 ortho_group4933_cds other cytoplasmic components
+AT4G26230 ortho_group4933_cds other intracellular components
+AT4G26230 ortho_group4933_cds other metabolic processes
+AT4G26230 ortho_group4933_cds protein metabolism
+AT4G26230 ortho_group4933_cds ribosome
+AT4G26230 ortho_group4933_cds structural molecule activity
+AT4G26260 ortho_group4184_cds other cellular processes
+AT4G26260 ortho_group4184_cds other enzyme activity
+AT4G26260 ortho_group4184_cds other metabolic processes
+AT4G26300 ortho_group4039_cds chloroplast
+AT4G26300 ortho_group4039_cds developmental processes
+AT4G26300 ortho_group4039_cds mitochondria
+AT4G26300 ortho_group4039_cds nucleotide binding
+AT4G26300 ortho_group4039_cds other cellular processes
+AT4G26300 ortho_group4039_cds other cytoplasmic components
+AT4G26300 ortho_group4039_cds other enzyme activity
+AT4G26300 ortho_group4039_cds other intracellular components
+AT4G26300 ortho_group4039_cds other metabolic processes
+AT4G26300 ortho_group4039_cds plastid
+AT4G26300 ortho_group4039_cds protein metabolism
+AT4G26440 ortho_group2832_cds nucleus
+AT4G26440 ortho_group2832_cds other biological processes
+AT4G26440 ortho_group2832_cds other cellular processes
+AT4G26440 ortho_group2832_cds other metabolic processes
+AT4G26440 ortho_group2832_cds response to abiotic or biotic stimulus
+AT4G26440 ortho_group2832_cds response to stress
+AT4G26440 ortho_group2832_cds transcription factor activity
+AT4G26470 ortho_group2879_cds other binding
+AT4G26470 ortho_group2879_cds other cellular processes
+AT4G26470 ortho_group2879_cds other cytoplasmic components
+AT4G26470 ortho_group2879_cds other metabolic processes
+AT4G26470 ortho_group2879_cds protein metabolism
+AT4G26550 ortho_group4995_cds other cellular processes
+AT4G26550 ortho_group4995_cds transport
+AT4G26550 ortho_group4995_cds unknown cellular components
+AT4G26550 ortho_group4995_cds unknown molecular functions
+AT4G26555 ortho_group5075_cds cell organization and biogenesis
+AT4G26555 ortho_group5075_cds chloroplast
+AT4G26555 ortho_group5075_cds nucleus
+AT4G26555 ortho_group5075_cds other binding
+AT4G26555 ortho_group5075_cds other cellular processes
+AT4G26555 ortho_group5075_cds other enzyme activity
+AT4G26555 ortho_group5075_cds other intracellular components
+AT4G26555 ortho_group5075_cds other membranes
+AT4G26555 ortho_group5075_cds other metabolic processes
+AT4G26555 ortho_group5075_cds protein metabolism
+AT4G26580 ortho_group3473_cds chloroplast
+AT4G26580 ortho_group3473_cds other binding
+AT4G26600 ortho_group3650_cds DNA or RNA binding
+AT4G26600 ortho_group3650_cds nucleus
+AT4G26600 ortho_group3650_cds other cellular processes
+AT4G26600 ortho_group3650_cds other intracellular components
+AT4G26600 ortho_group3650_cds other metabolic processes
+AT4G26600 ortho_group3650_cds transferase activity
+AT4G26701 ortho_group3647_cds DNA or RNA binding
+AT4G26701 ortho_group3647_cds DNA or RNA metabolism
+AT4G26701 ortho_group3647_cds other cellular processes
+AT4G26701 ortho_group3647_cds other enzyme activity
+AT4G26701 ortho_group3647_cds other intracellular components
+AT4G26701 ortho_group3647_cds other metabolic processes
+AT4G26780 ortho_group5480_cds mitochondria
+AT4G26780 ortho_group5480_cds other binding
+AT4G26780 ortho_group5480_cds other cellular processes
+AT4G26780 ortho_group5480_cds other metabolic processes
+AT4G26780 ortho_group5480_cds protein metabolism
+AT4G26780 ortho_group5480_cds response to abiotic or biotic stimulus
+AT4G26780 ortho_group5480_cds response to stress
+AT4G26965 ortho_group3464_cds other enzyme activity
+AT4G26965 ortho_group3464_cds other membranes
+AT4G26965 ortho_group3464_cds other molecular functions
+AT4G27040 ortho_group2594_cds other cellular processes
+AT4G27040 ortho_group2594_cds other cytoplasmic components
+AT4G27040 ortho_group2594_cds other intracellular components
+AT4G27040 ortho_group2594_cds other membranes
+AT4G27040 ortho_group2594_cds transport
+AT4G27040 ortho_group2594_cds unknown molecular functions
+AT4G27080 ortho_group3327_cds other cellular processes
+AT4G27080 ortho_group3327_cds other enzyme activity
+AT4G27090 ortho_group2781_cds chloroplast
+AT4G27090 ortho_group2781_cds cytosol
+AT4G27090 ortho_group2781_cds ER
+AT4G27090 ortho_group2781_cds nucleus
+AT4G27090 ortho_group2781_cds other cellular components
+AT4G27090 ortho_group2781_cds other cellular processes
+AT4G27090 ortho_group2781_cds other cytoplasmic components
+AT4G27090 ortho_group2781_cds other intracellular components
+AT4G27090 ortho_group2781_cds other membranes
+AT4G27090 ortho_group2781_cds other metabolic processes
+AT4G27090 ortho_group2781_cds protein metabolism
+AT4G27090 ortho_group2781_cds ribosome
+AT4G27090 ortho_group2781_cds structural molecule activity
+AT4G27130 ortho_group3824_cds DNA or RNA binding
+AT4G27130 ortho_group3824_cds other cellular processes
+AT4G27130 ortho_group3824_cds other metabolic processes
+AT4G27130 ortho_group3824_cds protein metabolism
+AT4G27180 ortho_group4872_cds hydrolase activity
+AT4G27180 ortho_group4872_cds other cellular processes
+AT4G27180 ortho_group4872_cds other intracellular components
+AT4G27180 ortho_group4872_cds protein binding
+AT4G27250 ortho_group4058_cds other cellular processes
+AT4G27250 ortho_group4058_cds other enzyme activity
+AT4G27250 ortho_group4058_cds other metabolic processes
+AT4G27250 ortho_group4058_cds unknown cellular components
+AT4G27270 ortho_group3420_cds nucleotide binding
+AT4G27270 ortho_group3420_cds other binding
+AT4G27270 ortho_group3420_cds other cellular components
+AT4G27270 ortho_group3420_cds other cellular processes
+AT4G27270 ortho_group3420_cds other enzyme activity
+AT4G27270 ortho_group3420_cds other metabolic processes
+AT4G27270 ortho_group3420_cds plasma membrane
+AT4G27280 ortho_group4727_cds other binding
+AT4G27280 ortho_group4727_cds response to abiotic or biotic stimulus
+AT4G27290 ortho_group3163_cds kinase activity
+AT4G27290 ortho_group3163_cds nucleotide binding
+AT4G27290 ortho_group3163_cds other binding
+AT4G27290 ortho_group3163_cds other cellular components
+AT4G27290 ortho_group3163_cds other cellular processes
+AT4G27290 ortho_group3163_cds other metabolic processes
+AT4G27290 ortho_group3163_cds protein metabolism
+AT4G27290 ortho_group3163_cds transferase activity
+AT4G27450 ortho_group3457_cds cytosol
+AT4G27450 ortho_group3457_cds nucleus
+AT4G27450 ortho_group3457_cds other cellular components
+AT4G27450 ortho_group3457_cds plasma membrane
+AT4G27450 ortho_group3457_cds protein binding
+AT4G27450 ortho_group3457_cds unknown biological processes
+AT4G27585 ortho_group2803_cds mitochondria
+AT4G27585 ortho_group2803_cds other binding
+AT4G27585 ortho_group2803_cds other membranes
+AT4G27585 ortho_group2803_cds unknown biological processes
+AT4G27630 ortho_group4650_cds developmental processes
+AT4G27630 ortho_group4650_cds nucleotide binding
+AT4G27630 ortho_group4650_cds other binding
+AT4G27630 ortho_group4650_cds other biological processes
+AT4G27630 ortho_group4650_cds other cellular components
+AT4G27630 ortho_group4650_cds plasma membrane
+AT4G27630 ortho_group4650_cds protein binding
+AT4G27650 ortho_group5110_cds cell organization and biogenesis
+AT4G27650 ortho_group5110_cds DNA or RNA binding
+AT4G27650 ortho_group5110_cds other cellular processes
+AT4G27650 ortho_group5110_cds other metabolic processes
+AT4G27650 ortho_group5110_cds protein metabolism
+AT4G27660 ortho_group4438_cds unknown biological processes
+AT4G27660 ortho_group4438_cds unknown cellular components
+AT4G27660 ortho_group4438_cds unknown molecular functions
+AT4G27680 ortho_group2805_cds hydrolase activity
+AT4G27680 ortho_group2805_cds nucleotide binding
+AT4G27700 ortho_group3657_cds chloroplast
+AT4G27700 ortho_group3657_cds other biological processes
+AT4G27700 ortho_group3657_cds other cytoplasmic components
+AT4G27700 ortho_group3657_cds other intracellular components
+AT4G27700 ortho_group3657_cds other membranes
+AT4G27700 ortho_group3657_cds plastid
+AT4G27700 ortho_group3657_cds unknown molecular functions
+AT4G27800 ortho_group3345_cds chloroplast
+AT4G27800 ortho_group3345_cds electron transport or energy pathways
+AT4G27800 ortho_group3345_cds hydrolase activity
+AT4G27800 ortho_group3345_cds nucleus
+AT4G27800 ortho_group3345_cds other cellular components
+AT4G27800 ortho_group3345_cds other cellular processes
+AT4G27800 ortho_group3345_cds other cytoplasmic components
+AT4G27800 ortho_group3345_cds other intracellular components
+AT4G27800 ortho_group3345_cds other metabolic processes
+AT4G27800 ortho_group3345_cds plastid
+AT4G27960 ortho_group3113_cds other cellular processes
+AT4G27960 ortho_group3113_cds other enzyme activity
+AT4G27960 ortho_group3113_cds other metabolic processes
+AT4G27960 ortho_group3113_cds protein metabolism
+AT4G28025 ortho_group3646_cds chloroplast
+AT4G28025 ortho_group3646_cds other cytoplasmic components
+AT4G28025 ortho_group3646_cds other intracellular components
+AT4G28025 ortho_group3646_cds other membranes
+AT4G28025 ortho_group3646_cds plastid
+AT4G28025 ortho_group3646_cds unknown biological processes
+AT4G28025 ortho_group3646_cds unknown molecular functions
+AT4G28250 ortho_group3873_cds cell organization and biogenesis
+AT4G28250 ortho_group3873_cds other biological processes
+AT4G28250 ortho_group3873_cds other cellular components
+AT4G28250 ortho_group3873_cds other cellular processes
+AT4G28370 ortho_group5324_cds other binding
+AT4G28370 ortho_group5324_cds other cellular components
+AT4G28370 ortho_group5324_cds unknown biological processes
+AT4G28440 ortho_group5070_cds cytosol
+AT4G28440 ortho_group5070_cds unknown biological processes
+AT4G28440 ortho_group5070_cds unknown molecular functions
+AT4G28450 ortho_group4548_cds nucleotide binding
+AT4G28450 ortho_group4548_cds other intracellular components
+AT4G28450 ortho_group4548_cds other membranes
+AT4G28450 ortho_group4548_cds plasma membrane
+AT4G28450 ortho_group4548_cds protein binding
+AT4G28450 ortho_group4548_cds unknown biological processes
+AT4G28470 ortho_group4580_cds other binding
+AT4G28470 ortho_group4580_cds other intracellular components
+AT4G28470 ortho_group4580_cds other metabolic processes
+AT4G28470 ortho_group4580_cds other molecular functions
+AT4G28470 ortho_group4580_cds protein metabolism
+AT4G28480 ortho_group5034_cds other cellular processes
+AT4G28480 ortho_group5034_cds other metabolic processes
+AT4G28480 ortho_group5034_cds protein binding
+AT4G28480 ortho_group5034_cds protein metabolism
+AT4G28510 ortho_group5069_cds mitochondria
+AT4G28510 ortho_group5069_cds other cytoplasmic components
+AT4G28510 ortho_group5069_cds other intracellular components
+AT4G28510 ortho_group5069_cds other membranes
+AT4G28510 ortho_group5069_cds response to stress
+AT4G28540 ortho_group3997_cds kinase activity
+AT4G28540 ortho_group3997_cds other cellular components
+AT4G28540 ortho_group3997_cds other cellular processes
+AT4G28540 ortho_group3997_cds other cytoplasmic components
+AT4G28540 ortho_group3997_cds other intracellular components
+AT4G28540 ortho_group3997_cds other metabolic processes
+AT4G28540 ortho_group3997_cds protein metabolism
+AT4G28540 ortho_group3997_cds transferase activity
+AT4G28660 ortho_group2683_cds chloroplast
+AT4G28660 ortho_group2683_cds other cellular processes
+AT4G28660 ortho_group2683_cds other cytoplasmic components
+AT4G28660 ortho_group2683_cds other intracellular components
+AT4G28660 ortho_group2683_cds other membranes
+AT4G28660 ortho_group2683_cds other metabolic processes
+AT4G28660 ortho_group2683_cds plastid
+AT4G28660 ortho_group2683_cds unknown molecular functions
+AT4G28706 ortho_group3042_cds chloroplast
+AT4G28706 ortho_group3042_cds kinase activity
+AT4G28706 ortho_group3042_cds other cellular processes
+AT4G28706 ortho_group3042_cds other metabolic processes
+AT4G28706 ortho_group3042_cds transferase activity
+AT4G28740 ortho_group3734_cds chloroplast
+AT4G28740 ortho_group3734_cds unknown biological processes
+AT4G28740 ortho_group3734_cds unknown molecular functions
+AT4G28780 ortho_group2728_cds hydrolase activity
+AT4G28780 ortho_group2728_cds other cellular components
+AT4G28780 ortho_group2728_cds other metabolic processes
+AT4G28860 ortho_group3997_cds kinase activity
+AT4G28860 ortho_group3997_cds nucleus
+AT4G28860 ortho_group3997_cds other cellular processes
+AT4G28860 ortho_group3997_cds other cytoplasmic components
+AT4G28860 ortho_group3997_cds other metabolic processes
+AT4G28860 ortho_group3997_cds protein metabolism
+AT4G28860 ortho_group3997_cds transferase activity
+AT4G28890 ortho_group3843_cds other binding
+AT4G28890 ortho_group3843_cds other cellular components
+AT4G28890 ortho_group3843_cds other cellular processes
+AT4G28890 ortho_group3843_cds other enzyme activity
+AT4G28890 ortho_group3843_cds other metabolic processes
+AT4G28890 ortho_group3843_cds protein metabolism
+AT4G28940 ortho_group3004_cds other cellular components
+AT4G28940 ortho_group3004_cds other enzyme activity
+AT4G29070 ortho_group4131_cds unknown biological processes
+AT4G29070 ortho_group4131_cds unknown molecular functions
+AT4G29080 ortho_group3619_cds nucleus
+AT4G29080 ortho_group3619_cds other biological processes
+AT4G29080 ortho_group3619_cds other cellular processes
+AT4G29080 ortho_group3619_cds other intracellular components
+AT4G29080 ortho_group3619_cds other metabolic processes
+AT4G29080 ortho_group3619_cds protein metabolism
+AT4G29080 ortho_group3619_cds transcription factor activity
+AT4G29160 ortho_group3029_cds other cellular processes
+AT4G29160 ortho_group3029_cds other cytoplasmic components
+AT4G29160 ortho_group3029_cds other intracellular components
+AT4G29160 ortho_group3029_cds other membranes
+AT4G29160 ortho_group3029_cds protein binding
+AT4G29160 ortho_group3029_cds transport
+AT4G29330 ortho_group4078_cds protein metabolism
+AT4G29330 ortho_group4078_cds unknown cellular components
+AT4G29330 ortho_group4078_cds unknown molecular functions
+AT4G29400 ortho_group3309_cds unknown biological processes
+AT4G29430 ortho_group3746_cds cytosol
+AT4G29430 ortho_group3746_cds mitochondria
+AT4G29430 ortho_group3746_cds other cellular processes
+AT4G29430 ortho_group3746_cds other cytoplasmic components
+AT4G29430 ortho_group3746_cds other intracellular components
+AT4G29430 ortho_group3746_cds other metabolic processes
+AT4G29430 ortho_group3746_cds protein metabolism
+AT4G29430 ortho_group3746_cds ribosome
+AT4G29430 ortho_group3746_cds structural molecule activity
+AT4G29490 ortho_group3491_cds chloroplast
+AT4G29490 ortho_group3491_cds hydrolase activity
+AT4G29490 ortho_group3491_cds other binding
+AT4G29490 ortho_group3491_cds other cellular processes
+AT4G29510 ortho_group2949_cds cytosol
+AT4G29510 ortho_group2949_cds nucleus
+AT4G29510 ortho_group2949_cds other cellular processes
+AT4G29510 ortho_group2949_cds other cytoplasmic components
+AT4G29510 ortho_group2949_cds other metabolic processes
+AT4G29510 ortho_group2949_cds protein binding
+AT4G29510 ortho_group2949_cds protein metabolism
+AT4G29510 ortho_group2949_cds transferase activity
+AT4G29520 ortho_group3508_cds ER
+AT4G29520 ortho_group3508_cds plasma membrane
+AT4G29530 ortho_group3579_cds hydrolase activity
+AT4G29530 ortho_group3579_cds other enzyme activity
+AT4G29530 ortho_group3579_cds other metabolic processes
+AT4G29530 ortho_group3579_cds unknown cellular components
+AT4G29670 ortho_group4121_cds chloroplast
+AT4G29670 ortho_group4121_cds other cellular processes
+AT4G29670 ortho_group4121_cds other enzyme activity
+AT4G29890 ortho_group3542_cds chloroplast
+AT4G29890 ortho_group3542_cds other binding
+AT4G29890 ortho_group3542_cds other cellular processes
+AT4G29890 ortho_group3542_cds other enzyme activity
+AT4G29890 ortho_group3542_cds other metabolic processes
+AT4G29890 ortho_group3542_cds other molecular functions
+AT4G30060 ortho_group3633_cds unknown biological processes
+AT4G30060 ortho_group3633_cds unknown molecular functions
+AT4G30160 ortho_group5282_cds cell organization and biogenesis
+AT4G30160 ortho_group5282_cds cytosol
+AT4G30160 ortho_group5282_cds developmental processes
+AT4G30160 ortho_group5282_cds other biological processes
+AT4G30160 ortho_group5282_cds other cellular processes
+AT4G30160 ortho_group5282_cds other intracellular components
+AT4G30160 ortho_group5282_cds protein binding
+AT4G30160 ortho_group5282_cds transport
+AT4G30310 ortho_group2991_cds chloroplast
+AT4G30310 ortho_group2991_cds kinase activity
+AT4G30310 ortho_group2991_cds other metabolic processes
+AT4G30310 ortho_group2991_cds transferase activity
+AT4G30480 ortho_group3161_cds protein binding
+AT4G30480 ortho_group3161_cds unknown cellular components
+AT4G30690 ortho_group5145_cds cell wall
+AT4G30690 ortho_group5145_cds chloroplast
+AT4G30690 ortho_group5145_cds DNA or RNA binding
+AT4G30690 ortho_group5145_cds other cellular processes
+AT4G30690 ortho_group5145_cds other metabolic processes
+AT4G30690 ortho_group5145_cds protein metabolism
+AT4G30910 ortho_group3520_cds chloroplast
+AT4G30910 ortho_group3520_cds hydrolase activity
+AT4G30910 ortho_group3520_cds other binding
+AT4G30910 ortho_group3520_cds other cytoplasmic components
+AT4G30910 ortho_group3520_cds other intracellular components
+AT4G30910 ortho_group3520_cds plastid
+AT4G30910 ortho_group3520_cds protein metabolism
+AT4G30920 ortho_group3520_cds chloroplast
+AT4G30920 ortho_group3520_cds cytosol
+AT4G30920 ortho_group3520_cds developmental processes
+AT4G30920 ortho_group3520_cds hydrolase activity
+AT4G30920 ortho_group3520_cds other cytoplasmic components
+AT4G30920 ortho_group3520_cds other intracellular components
+AT4G30920 ortho_group3520_cds plastid
+AT4G30920 ortho_group3520_cds protein metabolism
+AT4G30930 ortho_group3532_cds cell organization and biogenesis
+AT4G30930 ortho_group3532_cds developmental processes
+AT4G30930 ortho_group3532_cds DNA or RNA binding
+AT4G30930 ortho_group3532_cds mitochondria
+AT4G30930 ortho_group3532_cds other biological processes
+AT4G30930 ortho_group3532_cds other cellular processes
+AT4G30930 ortho_group3532_cds other metabolic processes
+AT4G30930 ortho_group3532_cds protein metabolism
+AT4G30930 ortho_group3532_cds ribosome
+AT4G30930 ortho_group3532_cds structural molecule activity
+AT4G30950 ortho_group5445_cds chloroplast
+AT4G30950 ortho_group5445_cds electron transport or energy pathways
+AT4G30950 ortho_group5445_cds other cellular processes
+AT4G30950 ortho_group5445_cds other cytoplasmic components
+AT4G30950 ortho_group5445_cds other enzyme activity
+AT4G30950 ortho_group5445_cds other intracellular components
+AT4G30950 ortho_group5445_cds other metabolic processes
+AT4G30950 ortho_group5445_cds plastid
+AT4G30950 ortho_group5445_cds response to abiotic or biotic stimulus
+AT4G30996 ortho_group3927_cds ER
+AT4G30996 ortho_group3927_cds other cellular processes
+AT4G30996 ortho_group3927_cds response to abiotic or biotic stimulus
+AT4G30996 ortho_group3927_cds response to stress
+AT4G30996 ortho_group3927_cds unknown molecular functions
+AT4G31020 ortho_group3501_cds hydrolase activity
+AT4G31020 ortho_group3501_cds other cellular processes
+AT4G31020 ortho_group3501_cds other metabolic processes
+AT4G31020 ortho_group3501_cds protein metabolism
+AT4G31080 ortho_group5410_cds unknown biological processes
+AT4G31080 ortho_group5410_cds unknown molecular functions
+AT4G31180 ortho_group2751_cds cytosol
+AT4G31180 ortho_group2751_cds nucleic acid binding
+AT4G31180 ortho_group2751_cds nucleotide binding
+AT4G31180 ortho_group2751_cds other biological processes
+AT4G31180 ortho_group2751_cds other cellular processes
+AT4G31180 ortho_group2751_cds other cytoplasmic components
+AT4G31180 ortho_group2751_cds other enzyme activity
+AT4G31180 ortho_group2751_cds other metabolic processes
+AT4G31180 ortho_group2751_cds protein metabolism
+AT4G31300 ortho_group4840_cds cytosol
+AT4G31300 ortho_group4840_cds hydrolase activity
+AT4G31300 ortho_group4840_cds other biological processes
+AT4G31300 ortho_group4840_cds other cellular processes
+AT4G31300 ortho_group4840_cds other cytoplasmic components
+AT4G31300 ortho_group4840_cds other intracellular components
+AT4G31300 ortho_group4840_cds other membranes
+AT4G31300 ortho_group4840_cds other metabolic processes
+AT4G31300 ortho_group4840_cds protein metabolism
+AT4G31300 ortho_group4840_cds response to abiotic or biotic stimulus
+AT4G31300 ortho_group4840_cds response to stress
+AT4G31330 ortho_group5572_cds other cellular components
+AT4G31330 ortho_group5572_cds unknown biological processes
+AT4G31330 ortho_group5572_cds unknown molecular functions
+AT4G31340 ortho_group4550_cds ER
+AT4G31340 ortho_group4550_cds other cytoplasmic components
+AT4G31340 ortho_group4550_cds other intracellular components
+AT4G31340 ortho_group4550_cds other membranes
+AT4G31350 ortho_group4134_cds unknown biological processes
+AT4G31350 ortho_group4134_cds unknown cellular components
+AT4G31350 ortho_group4134_cds unknown molecular functions
+AT4G31360 ortho_group4240_cds other binding
+AT4G31360 ortho_group4240_cds other cellular processes
+AT4G31390 ortho_group4181_cds chloroplast
+AT4G31390 ortho_group4181_cds kinase activity
+AT4G31390 ortho_group4181_cds nucleotide binding
+AT4G31390 ortho_group4181_cds other cellular processes
+AT4G31390 ortho_group4181_cds other cytoplasmic components
+AT4G31390 ortho_group4181_cds other intracellular components
+AT4G31390 ortho_group4181_cds other metabolic processes
+AT4G31390 ortho_group4181_cds plastid
+AT4G31390 ortho_group4181_cds protein metabolism
+AT4G31390 ortho_group4181_cds transferase activity
+AT4G31480 ortho_group2566_cds cytosol
+AT4G31480 ortho_group2566_cds other binding
+AT4G31480 ortho_group2566_cds other cellular components
+AT4G31480 ortho_group2566_cds other cellular processes
+AT4G31480 ortho_group2566_cds protein binding
+AT4G31480 ortho_group2566_cds structural molecule activity
+AT4G31480 ortho_group2566_cds transport
+AT4G31530 ortho_group3321_cds chloroplast
+AT4G31530 ortho_group3321_cds other binding
+AT4G31530 ortho_group3321_cds other cytoplasmic components
+AT4G31530 ortho_group3321_cds other enzyme activity
+AT4G31530 ortho_group3321_cds other intracellular components
+AT4G31530 ortho_group3321_cds other metabolic processes
+AT4G31530 ortho_group3321_cds plastid
+AT4G31720 ortho_group3122_cds nucleus
+AT4G31720 ortho_group3122_cds other cellular processes
+AT4G31720 ortho_group3122_cds other metabolic processes
+AT4G31720 ortho_group3122_cds transcription factor activity
+AT4G31790 ortho_group3078_cds other cellular processes
+AT4G31790 ortho_group3078_cds other metabolic processes
+AT4G31790 ortho_group3078_cds protein metabolism
+AT4G31790 ortho_group3078_cds transferase activity
+AT4G31790 ortho_group3078_cds unknown cellular components
+AT4G31810 ortho_group5369_cds hydrolase activity
+AT4G31810 ortho_group5369_cds mitochondria
+AT4G31810 ortho_group5369_cds other cellular processes
+AT4G31810 ortho_group5369_cds other enzyme activity
+AT4G31810 ortho_group5369_cds other metabolic processes
+AT4G31870 ortho_group4785_cds chloroplast
+AT4G31870 ortho_group4785_cds other enzyme activity
+AT4G31870 ortho_group4785_cds response to abiotic or biotic stimulus
+AT4G32000 ortho_group5037_cds kinase activity
+AT4G32000 ortho_group5037_cds nucleotide binding
+AT4G32000 ortho_group5037_cds other cellular components
+AT4G32000 ortho_group5037_cds other cellular processes
+AT4G32000 ortho_group5037_cds other metabolic processes
+AT4G32000 ortho_group5037_cds protein metabolism
+AT4G32000 ortho_group5037_cds transferase activity
+AT4G32010 ortho_group3202_cds developmental processes
+AT4G32010 ortho_group3202_cds other cellular processes
+AT4G32010 ortho_group3202_cds other metabolic processes
+AT4G32010 ortho_group3202_cds transcription factor activity
+AT4G32070 ortho_group3538_cds other binding
+AT4G32070 ortho_group3538_cds other cytoplasmic components
+AT4G32070 ortho_group3538_cds other intracellular components
+AT4G32070 ortho_group3538_cds unknown biological processes
+AT4G32150 ortho_group4051_cds cell organization and biogenesis
+AT4G32150 ortho_group4051_cds other biological processes
+AT4G32150 ortho_group4051_cds other cellular processes
+AT4G32150 ortho_group4051_cds other cytoplasmic components
+AT4G32150 ortho_group4051_cds other intracellular components
+AT4G32150 ortho_group4051_cds other membranes
+AT4G32150 ortho_group4051_cds plasma membrane
+AT4G32150 ortho_group4051_cds response to abiotic or biotic stimulus
+AT4G32150 ortho_group4051_cds response to stress
+AT4G32150 ortho_group4051_cds transport
+AT4G32180 ortho_group4576_cds cytosol
+AT4G32180 ortho_group4576_cds kinase activity
+AT4G32180 ortho_group4576_cds other cellular processes
+AT4G32180 ortho_group4576_cds other metabolic processes
+AT4G32180 ortho_group4576_cds protein binding
+AT4G32180 ortho_group4576_cds transferase activity
+AT4G32270 ortho_group3162_cds plasma membrane
+AT4G32270 ortho_group3162_cds unknown biological processes
+AT4G32270 ortho_group3162_cds unknown molecular functions
+AT4G32295 ortho_group3887_cds unknown biological processes
+AT4G32295 ortho_group3887_cds unknown cellular components
+AT4G32295 ortho_group3887_cds unknown molecular functions
+AT4G32320 ortho_group5236_cds cytosol
+AT4G32320 ortho_group5236_cds other binding
+AT4G32320 ortho_group5236_cds other enzyme activity
+AT4G32320 ortho_group5236_cds other metabolic processes
+AT4G32320 ortho_group5236_cds response to stress
+AT4G32420 ortho_group3045_cds other cellular processes
+AT4G32420 ortho_group3045_cds other enzyme activity
+AT4G32420 ortho_group3045_cds other metabolic processes
+AT4G32420 ortho_group3045_cds protein metabolism
+AT4G32640 ortho_group4883_cds cytosol
+AT4G32640 ortho_group4883_cds other binding
+AT4G32640 ortho_group4883_cds other cellular processes
+AT4G32640 ortho_group4883_cds transport
+AT4G32690 ortho_group2662_cds other biological processes
+AT4G32690 ortho_group2662_cds response to stress
+AT4G32690 ortho_group2662_cds transport
+AT4G32690 ortho_group2662_cds transporter activity
+AT4G32690 ortho_group2662_cds unknown cellular components
+AT4G32720 ortho_group4784_cds cell wall
+AT4G32720 ortho_group4784_cds cytosol
+AT4G32720 ortho_group4784_cds developmental processes
+AT4G32720 ortho_group4784_cds DNA or RNA binding
+AT4G32720 ortho_group4784_cds nucleus
+AT4G32720 ortho_group4784_cds other cellular processes
+AT4G32720 ortho_group4784_cds other intracellular components
+AT4G32770 ortho_group5598_cds chloroplast
+AT4G32770 ortho_group5598_cds other cellular processes
+AT4G32770 ortho_group5598_cds other cytoplasmic components
+AT4G32770 ortho_group5598_cds other enzyme activity
+AT4G32770 ortho_group5598_cds other intracellular components
+AT4G32770 ortho_group5598_cds other membranes
+AT4G32770 ortho_group5598_cds other metabolic processes
+AT4G32770 ortho_group5598_cds plastid
+AT4G32770 ortho_group5598_cds response to abiotic or biotic stimulus
+AT4G32770 ortho_group5598_cds response to stress
+AT4G32770 ortho_group5598_cds transport
+AT4G32830 ortho_group3383_cds cell organization and biogenesis
+AT4G32830 ortho_group3383_cds kinase activity
+AT4G32830 ortho_group3383_cds nucleus
+AT4G32830 ortho_group3383_cds other cellular processes
+AT4G32830 ortho_group3383_cds other cytoplasmic components
+AT4G32830 ortho_group3383_cds other intracellular components
+AT4G32830 ortho_group3383_cds other metabolic processes
+AT4G32830 ortho_group3383_cds protein metabolism
+AT4G32830 ortho_group3383_cds transferase activity
+AT4G32930 ortho_group4710_cds unknown biological processes
+AT4G32930 ortho_group4710_cds unknown cellular components
+AT4G32930 ortho_group4710_cds unknown molecular functions
+AT4G33010 ortho_group2813_cds chloroplast
+AT4G33010 ortho_group2813_cds extracellular
+AT4G33010 ortho_group2813_cds mitochondria
+AT4G33010 ortho_group2813_cds other biological processes
+AT4G33010 ortho_group2813_cds other cellular processes
+AT4G33010 ortho_group2813_cds other cytoplasmic components
+AT4G33010 ortho_group2813_cds other enzyme activity
+AT4G33010 ortho_group2813_cds other intracellular components
+AT4G33010 ortho_group2813_cds other metabolic processes
+AT4G33010 ortho_group2813_cds plastid
+AT4G33010 ortho_group2813_cds protein binding
+AT4G33070 ortho_group4887_cds cytosol
+AT4G33070 ortho_group4887_cds other binding
+AT4G33070 ortho_group4887_cds other enzyme activity
+AT4G33070 ortho_group4887_cds other membranes
+AT4G33070 ortho_group4887_cds transferase activity
+AT4G33090 ortho_group4804_cds cytosol
+AT4G33090 ortho_group4804_cds hydrolase activity
+AT4G33090 ortho_group4804_cds plasma membrane
+AT4G33090 ortho_group4804_cds transport
+AT4G33150 ortho_group5154_cds cytosol
+AT4G33150 ortho_group5154_cds other cellular processes
+AT4G33150 ortho_group5154_cds other cytoplasmic components
+AT4G33150 ortho_group5154_cds other enzyme activity
+AT4G33150 ortho_group5154_cds other metabolic processes
+AT4G33150 ortho_group5154_cds response to abiotic or biotic stimulus
+AT4G33200 ortho_group5468_cds hydrolase activity
+AT4G33200 ortho_group5468_cds other cellular processes
+AT4G33200 ortho_group5468_cds other intracellular components
+AT4G33220 ortho_group5408_cds cell organization and biogenesis
+AT4G33220 ortho_group5408_cds cell wall
+AT4G33220 ortho_group5408_cds hydrolase activity
+AT4G33220 ortho_group5408_cds other cellular components
+AT4G33220 ortho_group5408_cds other molecular functions
+AT4G33400 ortho_group2946_cds cytosol
+AT4G33400 ortho_group2946_cds nucleus
+AT4G33400 ortho_group2946_cds other cellular processes
+AT4G33400 ortho_group2946_cds other metabolic processes
+AT4G33400 ortho_group2946_cds plasma membrane
+AT4G33400 ortho_group2946_cds protein metabolism
+AT4G33400 ortho_group2946_cds unknown molecular functions
+AT4G33410 ortho_group4731_cds hydrolase activity
+AT4G33410 ortho_group4731_cds other cytoplasmic components
+AT4G33410 ortho_group4731_cds other intracellular components
+AT4G33410 ortho_group4731_cds unknown biological processes
+AT4G33460 ortho_group3031_cds chloroplast
+AT4G33460 ortho_group3031_cds developmental processes
+AT4G33460 ortho_group3031_cds other cytoplasmic components
+AT4G33460 ortho_group3031_cds other intracellular components
+AT4G33460 ortho_group3031_cds plastid
+AT4G33460 ortho_group3031_cds transporter activity
+AT4G33480 ortho_group3632_cds chloroplast
+AT4G33480 ortho_group3632_cds unknown biological processes
+AT4G33480 ortho_group3632_cds unknown molecular functions
+AT4G33490 ortho_group3859_cds hydrolase activity
+AT4G33490 ortho_group3859_cds other cellular components
+AT4G33490 ortho_group3859_cds protein metabolism
+AT4G33540 ortho_group2786_cds chloroplast
+AT4G33540 ortho_group2786_cds hydrolase activity
+AT4G33540 ortho_group2786_cds other biological processes
+AT4G33540 ortho_group2786_cds other enzyme activity
+AT4G33540 ortho_group2786_cds other metabolic processes
+AT4G33580 ortho_group2970_cds chloroplast
+AT4G33580 ortho_group2970_cds other binding
+AT4G33580 ortho_group2970_cds other biological processes
+AT4G33580 ortho_group2970_cds other enzyme activity
+AT4G33625 ortho_group3988_cds other cytoplasmic components
+AT4G33625 ortho_group3988_cds other intracellular components
+AT4G33625 ortho_group3988_cds other membranes
+AT4G33625 ortho_group3988_cds unknown biological processes
+AT4G33625 ortho_group3988_cds unknown molecular functions
+AT4G33640 ortho_group4806_cds unknown biological processes
+AT4G33640 ortho_group4806_cds unknown molecular functions
+AT4G33650 ortho_group4957_cds cell organization and biogenesis
+AT4G33650 ortho_group4957_cds chloroplast
+AT4G33650 ortho_group4957_cds cytosol
+AT4G33650 ortho_group4957_cds developmental processes
+AT4G33650 ortho_group4957_cds hydrolase activity
+AT4G33650 ortho_group4957_cds mitochondria
+AT4G33650 ortho_group4957_cds nucleotide binding
+AT4G33650 ortho_group4957_cds other binding
+AT4G33650 ortho_group4957_cds other cellular processes
+AT4G33650 ortho_group4957_cds other cytoplasmic components
+AT4G33650 ortho_group4957_cds other intracellular components
+AT4G33650 ortho_group4957_cds other membranes
+AT4G33650 ortho_group4957_cds plastid
+AT4G33650 ortho_group4957_cds protein binding
+AT4G33720 ortho_group3943_cds extracellular
+AT4G33720 ortho_group3943_cds other cellular components
+AT4G33720 ortho_group3943_cds unknown biological processes
+AT4G33720 ortho_group3943_cds unknown molecular functions
+AT4G33740 ortho_group3099_cds unknown biological processes
+AT4G33740 ortho_group3099_cds unknown cellular components
+AT4G33740 ortho_group3099_cds unknown molecular functions
+AT4G33760 ortho_group2751_cds chloroplast
+AT4G33760 ortho_group2751_cds mitochondria
+AT4G33760 ortho_group2751_cds nucleic acid binding
+AT4G33760 ortho_group2751_cds nucleotide binding
+AT4G33760 ortho_group2751_cds other cellular processes
+AT4G33760 ortho_group2751_cds other cytoplasmic components
+AT4G33760 ortho_group2751_cds other enzyme activity
+AT4G33760 ortho_group2751_cds other membranes
+AT4G33760 ortho_group2751_cds other metabolic processes
+AT4G33760 ortho_group2751_cds protein metabolism
+AT4G33780 ortho_group4954_cds unknown biological processes
+AT4G33780 ortho_group4954_cds unknown molecular functions
+AT4G33910 ortho_group4779_cds other binding
+AT4G33910 ortho_group4779_cds other cellular components
+AT4G33910 ortho_group4779_cds other cellular processes
+AT4G33910 ortho_group4779_cds other enzyme activity
+AT4G33910 ortho_group4779_cds other metabolic processes
+AT4G33910 ortho_group4779_cds protein metabolism
+AT4G33925 ortho_group2686_cds DNA or RNA binding
+AT4G33925 ortho_group2686_cds DNA or RNA metabolism
+AT4G33925 ortho_group2686_cds nucleic acid binding
+AT4G33925 ortho_group2686_cds nucleus
+AT4G33925 ortho_group2686_cds other cellular processes
+AT4G33925 ortho_group2686_cds response to abiotic or biotic stimulus
+AT4G33925 ortho_group2686_cds response to stress
+AT4G34000 ortho_group5534_cds DNA or RNA binding
+AT4G34000 ortho_group5534_cds other biological processes
+AT4G34000 ortho_group5534_cds other cellular processes
+AT4G34000 ortho_group5534_cds other metabolic processes
+AT4G34000 ortho_group5534_cds protein binding
+AT4G34000 ortho_group5534_cds response to abiotic or biotic stimulus
+AT4G34000 ortho_group5534_cds response to stress
+AT4G34000 ortho_group5534_cds signal transduction
+AT4G34000 ortho_group5534_cds transcription factor activity
+AT4G34050 ortho_group3091_cds cytosol
+AT4G34050 ortho_group3091_cds other biological processes
+AT4G34050 ortho_group3091_cds other cellular processes
+AT4G34050 ortho_group3091_cds other metabolic processes
+AT4G34050 ortho_group3091_cds transferase activity
+AT4G34150 ortho_group4062_cds cytosol
+AT4G34150 ortho_group4062_cds other cellular components
+AT4G34150 ortho_group4062_cds response to abiotic or biotic stimulus
+AT4G34150 ortho_group4062_cds response to stress
+AT4G34190 ortho_group5441_cds chloroplast
+AT4G34190 ortho_group5441_cds other binding
+AT4G34190 ortho_group5441_cds other cytoplasmic components
+AT4G34190 ortho_group5441_cds other intracellular components
+AT4G34190 ortho_group5441_cds other membranes
+AT4G34190 ortho_group5441_cds plastid
+AT4G34190 ortho_group5441_cds response to abiotic or biotic stimulus
+AT4G34240 ortho_group4662_cds chloroplast
+AT4G34240 ortho_group4662_cds other biological processes
+AT4G34240 ortho_group4662_cds other cytoplasmic components
+AT4G34240 ortho_group4662_cds other enzyme activity
+AT4G34240 ortho_group4662_cds other intracellular components
+AT4G34240 ortho_group4662_cds plastid
+AT4G34240 ortho_group4662_cds response to abiotic or biotic stimulus
+AT4G34240 ortho_group4662_cds response to stress
+AT4G34270 ortho_group4904_cds cytosol
+AT4G34270 ortho_group4904_cds unknown biological processes
+AT4G34270 ortho_group4904_cds unknown molecular functions
+AT4G34350 ortho_group4465_cds chloroplast
+AT4G34350 ortho_group4465_cds other biological processes
+AT4G34350 ortho_group4465_cds other cellular processes
+AT4G34350 ortho_group4465_cds other cytoplasmic components
+AT4G34350 ortho_group4465_cds other enzyme activity
+AT4G34350 ortho_group4465_cds other intracellular components
+AT4G34350 ortho_group4465_cds other metabolic processes
+AT4G34350 ortho_group4465_cds plastid
+AT4G34450 ortho_group5381_cds chloroplast
+AT4G34450 ortho_group5381_cds cytosol
+AT4G34450 ortho_group5381_cds other binding
+AT4G34450 ortho_group5381_cds other cellular components
+AT4G34450 ortho_group5381_cds other cellular processes
+AT4G34450 ortho_group5381_cds other membranes
+AT4G34450 ortho_group5381_cds protein binding
+AT4G34450 ortho_group5381_cds structural molecule activity
+AT4G34450 ortho_group5381_cds transport
+AT4G34490 ortho_group3343_cds cell organization and biogenesis
+AT4G34490 ortho_group3343_cds cytosol
+AT4G34490 ortho_group3343_cds other cellular processes
+AT4G34490 ortho_group3343_cds protein binding
+AT4G34540 ortho_group4127_cds other enzyme activity
+AT4G34540 ortho_group4127_cds other metabolic processes
+AT4G34540 ortho_group4127_cds unknown cellular components
+AT4G34640 ortho_group3793_cds ER
+AT4G34640 ortho_group3793_cds other cytoplasmic components
+AT4G34640 ortho_group3793_cds other intracellular components
+AT4G34640 ortho_group3793_cds other membranes
+AT4G34640 ortho_group3793_cds other metabolic processes
+AT4G34640 ortho_group3793_cds plasma membrane
+AT4G34640 ortho_group3793_cds transferase activity
+AT4G34670 ortho_group3904_cds cell wall
+AT4G34670 ortho_group3904_cds cytosol
+AT4G34670 ortho_group3904_cds nucleus
+AT4G34670 ortho_group3904_cds other cellular components
+AT4G34670 ortho_group3904_cds other cellular processes
+AT4G34670 ortho_group3904_cds other cytoplasmic components
+AT4G34670 ortho_group3904_cds other intracellular components
+AT4G34670 ortho_group3904_cds other membranes
+AT4G34670 ortho_group3904_cds other metabolic processes
+AT4G34670 ortho_group3904_cds plasma membrane
+AT4G34670 ortho_group3904_cds protein metabolism
+AT4G34670 ortho_group3904_cds ribosome
+AT4G34670 ortho_group3904_cds structural molecule activity
+AT4G34700 ortho_group3682_cds mitochondria
+AT4G34700 ortho_group3682_cds other cellular processes
+AT4G34700 ortho_group3682_cds other cytoplasmic components
+AT4G34700 ortho_group3682_cds other enzyme activity
+AT4G34700 ortho_group3682_cds other intracellular components
+AT4G34700 ortho_group3682_cds other membranes
+AT4G34700 ortho_group3682_cds other metabolic processes
+AT4G34730 ortho_group3110_cds chloroplast
+AT4G34730 ortho_group3110_cds DNA or RNA binding
+AT4G34730 ortho_group3110_cds other cellular processes
+AT4G34730 ortho_group3110_cds other metabolic processes
+AT4G34790 ortho_group5436_cds chloroplast
+AT4G34790 ortho_group5436_cds other biological processes
+AT4G34790 ortho_group5436_cds other cellular processes
+AT4G34790 ortho_group5436_cds other metabolic processes
+AT4G34790 ortho_group5436_cds protein metabolism
+AT4G34790 ortho_group5436_cds unknown molecular functions
+AT4G34840 ortho_group3784_cds hydrolase activity
+AT4G34840 ortho_group3784_cds other cellular processes
+AT4G34840 ortho_group3784_cds other metabolic processes
+AT4G34880 ortho_group3616_cds hydrolase activity
+AT4G34880 ortho_group3616_cds other cellular components
+AT4G34880 ortho_group3616_cds other cellular processes
+AT4G34880 ortho_group3616_cds other enzyme activity
+AT4G34880 ortho_group3616_cds other metabolic processes
+AT4G35000 ortho_group3742_cds chloroplast
+AT4G35000 ortho_group3742_cds mitochondria
+AT4G35000 ortho_group3742_cds other cellular components
+AT4G35000 ortho_group3742_cds other cytoplasmic components
+AT4G35000 ortho_group3742_cds other enzyme activity
+AT4G35000 ortho_group3742_cds other intracellular components
+AT4G35000 ortho_group3742_cds other membranes
+AT4G35000 ortho_group3742_cds plastid
+AT4G35000 ortho_group3742_cds response to stress
+AT4G35090 ortho_group4958_cds chloroplast
+AT4G35090 ortho_group4958_cds cytosol
+AT4G35090 ortho_group4958_cds mitochondria
+AT4G35090 ortho_group4958_cds other binding
+AT4G35090 ortho_group4958_cds other cellular processes
+AT4G35090 ortho_group4958_cds other cytoplasmic components
+AT4G35090 ortho_group4958_cds other enzyme activity
+AT4G35090 ortho_group4958_cds other intracellular components
+AT4G35090 ortho_group4958_cds other metabolic processes
+AT4G35090 ortho_group4958_cds plastid
+AT4G35090 ortho_group4958_cds protein binding
+AT4G35090 ortho_group4958_cds response to abiotic or biotic stimulus
+AT4G35090 ortho_group4958_cds response to stress
+AT4G35090 ortho_group4958_cds ribosome
+AT4G35190 ortho_group3846_cds cytosol
+AT4G35190 ortho_group3846_cds nucleus
+AT4G35190 ortho_group3846_cds unknown biological processes
+AT4G35190 ortho_group3846_cds unknown molecular functions
+AT4G35220 ortho_group3828_cds unknown biological processes
+AT4G35220 ortho_group3828_cds unknown molecular functions
+AT4G35300 ortho_group2993_cds other cytoplasmic components
+AT4G35300 ortho_group2993_cds other intracellular components
+AT4G35300 ortho_group2993_cds other membranes
+AT4G35300 ortho_group2993_cds transporter activity
+AT4G35310 ortho_group3503_cds cytosol
+AT4G35310 ortho_group3503_cds kinase activity
+AT4G35310 ortho_group3503_cds nucleotide binding
+AT4G35310 ortho_group3503_cds other binding
+AT4G35310 ortho_group3503_cds other biological processes
+AT4G35310 ortho_group3503_cds other cellular processes
+AT4G35310 ortho_group3503_cds other membranes
+AT4G35310 ortho_group3503_cds other metabolic processes
+AT4G35310 ortho_group3503_cds plasma membrane
+AT4G35310 ortho_group3503_cds protein metabolism
+AT4G35310 ortho_group3503_cds transferase activity
+AT4G35335 ortho_group4834_cds other membranes
+AT4G35335 ortho_group4834_cds transport
+AT4G35335 ortho_group4834_cds transporter activity
+AT4G35360 ortho_group3303_cds kinase activity
+AT4G35360 ortho_group3303_cds transferase activity
+AT4G35410 ortho_group4340_cds Golgi apparatus
+AT4G35410 ortho_group4340_cds other cellular processes
+AT4G35410 ortho_group4340_cds other cytoplasmic components
+AT4G35410 ortho_group4340_cds other intracellular components
+AT4G35410 ortho_group4340_cds other membranes
+AT4G35410 ortho_group4340_cds transport
+AT4G35410 ortho_group4340_cds transporter activity
+AT4G35470 ortho_group4254_cds plasma membrane
+AT4G35470 ortho_group4254_cds unknown biological processes
+AT4G35550 ortho_group5286_cds DNA or RNA binding
+AT4G35550 ortho_group5286_cds nucleus
+AT4G35550 ortho_group5286_cds other cellular processes
+AT4G35550 ortho_group5286_cds other metabolic processes
+AT4G35550 ortho_group5286_cds transcription factor activity
+AT4G35750 ortho_group4009_cds unknown biological processes
+AT4G35750 ortho_group4009_cds unknown cellular components
+AT4G35750 ortho_group4009_cds unknown molecular functions
+AT4G35780 ortho_group3325_cds cell organization and biogenesis
+AT4G35780 ortho_group3325_cds cytosol
+AT4G35780 ortho_group3325_cds kinase activity
+AT4G35780 ortho_group3325_cds other cellular processes
+AT4G35780 ortho_group3325_cds transferase activity
+AT4G35920 ortho_group4716_cds other membranes
+AT4G35920 ortho_group4716_cds plasma membrane
+AT4G35920 ortho_group4716_cds response to abiotic or biotic stimulus
+AT4G35920 ortho_group4716_cds transport
+AT4G35920 ortho_group4716_cds unknown molecular functions
+AT4G36110 ortho_group4811_cds other biological processes
+AT4G36110 ortho_group4811_cds unknown molecular functions
+AT4G36250 ortho_group2715_cds ER
+AT4G36250 ortho_group2715_cds other cellular processes
+AT4G36250 ortho_group2715_cds other enzyme activity
+AT4G36250 ortho_group2715_cds other membranes
+AT4G36250 ortho_group2715_cds other metabolic processes
+AT4G36360 ortho_group4639_cds hydrolase activity
+AT4G36360 ortho_group4639_cds other cellular components
+AT4G36360 ortho_group4639_cds other cellular processes
+AT4G36360 ortho_group4639_cds other metabolic processes
+AT4G36480 ortho_group4137_cds ER
+AT4G36480 ortho_group4137_cds other cellular processes
+AT4G36480 ortho_group4137_cds other metabolic processes
+AT4G36480 ortho_group4137_cds protein binding
+AT4G36480 ortho_group4137_cds transferase activity
+AT4G36530 ortho_group2627_cds chloroplast
+AT4G36530 ortho_group2627_cds hydrolase activity
+AT4G36530 ortho_group2627_cds other cytoplasmic components
+AT4G36530 ortho_group2627_cds other enzyme activity
+AT4G36530 ortho_group2627_cds other intracellular components
+AT4G36530 ortho_group2627_cds plastid
+AT4G36610 ortho_group3535_cds hydrolase activity
+AT4G36610 ortho_group3535_cds unknown biological processes
+AT4G36630 ortho_group3063_cds developmental processes
+AT4G36630 ortho_group3063_cds other binding
+AT4G36630 ortho_group3063_cds other cellular components
+AT4G36630 ortho_group3063_cds other molecular functions
+AT4G36690 ortho_group4145_cds DNA or RNA binding
+AT4G36690 ortho_group4145_cds nucleic acid binding
+AT4G36690 ortho_group4145_cds nucleotide binding
+AT4G36690 ortho_group4145_cds other cellular processes
+AT4G36690 ortho_group4145_cds other metabolic processes
+AT4G36690 ortho_group4145_cds response to abiotic or biotic stimulus
+AT4G36690 ortho_group4145_cds response to stress
+AT4G36720 ortho_group3332_cds unknown biological processes
+AT4G36720 ortho_group3332_cds unknown cellular components
+AT4G36720 ortho_group3332_cds unknown molecular functions
+AT4G36730 ortho_group2695_cds DNA or RNA binding
+AT4G36730 ortho_group2695_cds other cellular processes
+AT4G36730 ortho_group2695_cds other cytoplasmic components
+AT4G36730 ortho_group2695_cds other metabolic processes
+AT4G36730 ortho_group2695_cds transcription factor activity
+AT4G36760 ortho_group4403_cds cytosol
+AT4G36760 ortho_group4403_cds hydrolase activity
+AT4G36760 ortho_group4403_cds other binding
+AT4G36760 ortho_group4403_cds plasma membrane
+AT4G36760 ortho_group4403_cds transport
+AT4G36770 ortho_group3539_cds other metabolic processes
+AT4G36770 ortho_group3539_cds transferase activity
+AT4G36770 ortho_group3539_cds unknown cellular components
+AT4G36800 ortho_group3188_cds developmental processes
+AT4G36800 ortho_group3188_cds other biological processes
+AT4G36800 ortho_group3188_cds other enzyme activity
+AT4G36800 ortho_group3188_cds protein binding
+AT4G36910 ortho_group3342_cds chloroplast
+AT4G36910 ortho_group3342_cds other cellular processes
+AT4G36910 ortho_group3342_cds unknown molecular functions
+AT4G36930 ortho_group4081_cds developmental processes
+AT4G36930 ortho_group4081_cds DNA or RNA binding
+AT4G36930 ortho_group4081_cds nucleus
+AT4G36930 ortho_group4081_cds other biological processes
+AT4G36930 ortho_group4081_cds protein binding
+AT4G36930 ortho_group4081_cds response to abiotic or biotic stimulus
+AT4G36930 ortho_group4081_cds response to stress
+AT4G36930 ortho_group4081_cds transcription factor activity
+AT4G36945 ortho_group3803_cds hydrolase activity
+AT4G36945 ortho_group3803_cds other cellular components
+AT4G36945 ortho_group3803_cds other metabolic processes
+AT4G36945 ortho_group3803_cds signal transduction
+AT4G37020 ortho_group2812_cds unknown biological processes
+AT4G37020 ortho_group2812_cds unknown cellular components
+AT4G37020 ortho_group2812_cds unknown molecular functions
+AT4G37110 ortho_group4825_cds other binding
+AT4G37270 ortho_group2894_cds chloroplast
+AT4G37270 ortho_group2894_cds hydrolase activity
+AT4G37270 ortho_group2894_cds other biological processes
+AT4G37270 ortho_group2894_cds other cellular processes
+AT4G37270 ortho_group2894_cds other cytoplasmic components
+AT4G37270 ortho_group2894_cds other intracellular components
+AT4G37270 ortho_group2894_cds plastid
+AT4G37270 ortho_group2894_cds response to abiotic or biotic stimulus
+AT4G37270 ortho_group2894_cds transport
+AT4G37270 ortho_group2894_cds transporter activity
+AT4G37460 ortho_group3089_cds nucleus
+AT4G37460 ortho_group3089_cds other cellular components
+AT4G37460 ortho_group3089_cds other cellular processes
+AT4G37460 ortho_group3089_cds other cytoplasmic components
+AT4G37460 ortho_group3089_cds other intracellular components
+AT4G37460 ortho_group3089_cds other metabolic processes
+AT4G37460 ortho_group3089_cds protein binding
+AT4G37460 ortho_group3089_cds response to abiotic or biotic stimulus
+AT4G37460 ortho_group3089_cds response to stress
+AT4G37460 ortho_group3089_cds structural molecule activity
+AT4G37480 ortho_group5114_cds mitochondria
+AT4G37480 ortho_group5114_cds other cellular processes
+AT4G37480 ortho_group5114_cds other metabolic processes
+AT4G37480 ortho_group5114_cds protein binding
+AT4G37480 ortho_group5114_cds protein metabolism
+AT4G37550 ortho_group2672_cds hydrolase activity
+AT4G37550 ortho_group2672_cds other cytoplasmic components
+AT4G37550 ortho_group2672_cds other intracellular components
+AT4G37550 ortho_group2672_cds other metabolic processes
+AT4G37800 ortho_group3648_cds cell wall
+AT4G37800 ortho_group3648_cds extracellular
+AT4G37800 ortho_group3648_cds hydrolase activity
+AT4G37800 ortho_group3648_cds other cellular components
+AT4G37800 ortho_group3648_cds other cellular processes
+AT4G37800 ortho_group3648_cds other metabolic processes
+AT4G37800 ortho_group3648_cds transferase activity
+AT4G37920 ortho_group3199_cds chloroplast
+AT4G37920 ortho_group3199_cds other cytoplasmic components
+AT4G37920 ortho_group3199_cds other intracellular components
+AT4G37920 ortho_group3199_cds other membranes
+AT4G37920 ortho_group3199_cds plastid
+AT4G37920 ortho_group3199_cds unknown biological processes
+AT4G37920 ortho_group3199_cds unknown molecular functions
+AT4G37930 ortho_group3944_cds chloroplast
+AT4G37930 ortho_group3944_cds cytosol
+AT4G37930 ortho_group3944_cds DNA or RNA binding
+AT4G37930 ortho_group3944_cds extracellular
+AT4G37930 ortho_group3944_cds mitochondria
+AT4G37930 ortho_group3944_cds nucleus
+AT4G37930 ortho_group3944_cds other biological processes
+AT4G37930 ortho_group3944_cds other cellular processes
+AT4G37930 ortho_group3944_cds other cytoplasmic components
+AT4G37930 ortho_group3944_cds other intracellular components
+AT4G37930 ortho_group3944_cds other membranes
+AT4G37930 ortho_group3944_cds other metabolic processes
+AT4G37930 ortho_group3944_cds plasma membrane
+AT4G37930 ortho_group3944_cds plastid
+AT4G37930 ortho_group3944_cds protein binding
+AT4G37930 ortho_group3944_cds response to abiotic or biotic stimulus
+AT4G37930 ortho_group3944_cds response to stress
+AT4G37930 ortho_group3944_cds ribosome
+AT4G37930 ortho_group3944_cds transferase activity
+AT4G38040 ortho_group3365_cds chloroplast
+AT4G38040 ortho_group3365_cds other enzyme activity
+AT4G38040 ortho_group3365_cds other membranes
+AT4G38040 ortho_group3365_cds unknown biological processes
+AT4G38130 ortho_group4020_cds cell organization and biogenesis
+AT4G38130 ortho_group4020_cds developmental processes
+AT4G38130 ortho_group4020_cds hydrolase activity
+AT4G38130 ortho_group4020_cds nucleus
+AT4G38130 ortho_group4020_cds other biological processes
+AT4G38130 ortho_group4020_cds other cellular processes
+AT4G38130 ortho_group4020_cds other metabolic processes
+AT4G38130 ortho_group4020_cds protein binding
+AT4G38130 ortho_group4020_cds protein metabolism
+AT4G38130 ortho_group4020_cds response to abiotic or biotic stimulus
+AT4G38130 ortho_group4020_cds response to stress
+AT4G38225 ortho_group3935_cds chloroplast
+AT4G38225 ortho_group3935_cds unknown biological processes
+AT4G38225 ortho_group3935_cds unknown molecular functions
+AT4G38350 ortho_group5507_cds other cytoplasmic components
+AT4G38350 ortho_group5507_cds other intracellular components
+AT4G38350 ortho_group5507_cds other membranes
+AT4G38350 ortho_group5507_cds receptor binding or activity
+AT4G38370 ortho_group3667_cds cytosol
+AT4G38370 ortho_group3667_cds other enzyme activity
+AT4G38370 ortho_group3667_cds other metabolic processes
+AT4G38380 ortho_group4696_cds chloroplast
+AT4G38380 ortho_group4696_cds other cellular processes
+AT4G38380 ortho_group4696_cds transport
+AT4G38380 ortho_group4696_cds transporter activity
+AT4G38495 ortho_group3378_cds unknown biological processes
+AT4G38495 ortho_group3378_cds unknown cellular components
+AT4G38495 ortho_group3378_cds unknown molecular functions
+AT4G38510 ortho_group5458_cds chloroplast
+AT4G38510 ortho_group5458_cds hydrolase activity
+AT4G38510 ortho_group5458_cds nucleotide binding
+AT4G38510 ortho_group5458_cds other cellular processes
+AT4G38510 ortho_group5458_cds other cytoplasmic components
+AT4G38510 ortho_group5458_cds other intracellular components
+AT4G38510 ortho_group5458_cds other membranes
+AT4G38510 ortho_group5458_cds other metabolic processes
+AT4G38510 ortho_group5458_cds plastid
+AT4G38510 ortho_group5458_cds transport
+AT4G38510 ortho_group5458_cds transporter activity
+AT4G38570 ortho_group5101_cds ER
+AT4G38570 ortho_group5101_cds Golgi apparatus
+AT4G38570 ortho_group5101_cds other cellular processes
+AT4G38570 ortho_group5101_cds other metabolic processes
+AT4G38570 ortho_group5101_cds transferase activity
+AT4G38630 ortho_group4886_cds cell organization and biogenesis
+AT4G38630 ortho_group4886_cds cytosol
+AT4G38630 ortho_group4886_cds developmental processes
+AT4G38630 ortho_group4886_cds nucleus
+AT4G38630 ortho_group4886_cds other biological processes
+AT4G38630 ortho_group4886_cds other cellular processes
+AT4G38630 ortho_group4886_cds other intracellular components
+AT4G38630 ortho_group4886_cds other membranes
+AT4G38630 ortho_group4886_cds other metabolic processes
+AT4G38630 ortho_group4886_cds protein metabolism
+AT4G38630 ortho_group4886_cds receptor binding or activity
+AT4G38630 ortho_group4886_cds response to abiotic or biotic stimulus
+AT4G38630 ortho_group4886_cds response to stress
+AT4G38800 ortho_group4365_cds cytosol
+AT4G38800 ortho_group4365_cds hydrolase activity
+AT4G38800 ortho_group4365_cds other cellular processes
+AT4G38800 ortho_group4365_cds other enzyme activity
+AT4G38800 ortho_group4365_cds other metabolic processes
+AT4G38800 ortho_group4365_cds plasma membrane
+AT4G38810 ortho_group5345_cds other binding
+AT4G38810 ortho_group5345_cds unknown cellular components
+AT4G39080 ortho_group5164_cds chloroplast
+AT4G39080 ortho_group5164_cds hydrolase activity
+AT4G39080 ortho_group5164_cds other cellular processes
+AT4G39080 ortho_group5164_cds other cytoplasmic components
+AT4G39080 ortho_group5164_cds other intracellular components
+AT4G39080 ortho_group5164_cds other membranes
+AT4G39080 ortho_group5164_cds other metabolic processes
+AT4G39080 ortho_group5164_cds plasma membrane
+AT4G39080 ortho_group5164_cds plastid
+AT4G39080 ortho_group5164_cds transport
+AT4G39080 ortho_group5164_cds transporter activity
+AT4G39100 ortho_group4558_cds developmental processes
+AT4G39100 ortho_group4558_cds nucleus
+AT4G39100 ortho_group4558_cds transcription factor activity
+AT4G39220 ortho_group5432_cds Golgi apparatus
+AT4G39220 ortho_group5432_cds other cellular processes
+AT4G39220 ortho_group5432_cds transport
+AT4G39220 ortho_group5432_cds unknown molecular functions
+AT4G39480 ortho_group3623_cds other binding
+AT4G39480 ortho_group3623_cds other cellular components
+AT4G39480 ortho_group3623_cds other enzyme activity
+AT4G39480 ortho_group3623_cds other metabolic processes
+AT4G39480 ortho_group3623_cds other molecular functions
+AT4G39670 ortho_group4896_cds nucleus
+AT4G39670 ortho_group4896_cds other binding
+AT4G39670 ortho_group4896_cds other cytoplasmic components
+AT4G39670 ortho_group4896_cds transport
+AT4G39670 ortho_group4896_cds transporter activity
+AT4G39740 ortho_group3431_cds other biological processes
+AT4G39740 ortho_group3431_cds unknown molecular functions
+AT4G39910 ortho_group4938_cds hydrolase activity
+AT4G39910 ortho_group4938_cds nucleus
+AT4G39910 ortho_group4938_cds other cellular processes
+AT4G39910 ortho_group4938_cds other metabolic processes
+AT4G39910 ortho_group4938_cds protein metabolism
+AT4G40060 ortho_group3222_cds cell organization and biogenesis
+AT4G40060 ortho_group3222_cds developmental processes
+AT4G40060 ortho_group3222_cds DNA or RNA binding
+AT4G40060 ortho_group3222_cds nucleus
+AT4G40060 ortho_group3222_cds other cellular processes
+AT4G40060 ortho_group3222_cds other metabolic processes
+AT4G40060 ortho_group3222_cds response to abiotic or biotic stimulus
+AT4G40060 ortho_group3222_cds transcription factor activity
+AT5G01190 ortho_group3184_cds extracellular
+AT5G01190 ortho_group3184_cds other cellular components
+AT5G01190 ortho_group3184_cds other cellular processes
+AT5G01190 ortho_group3184_cds other metabolic processes
+AT5G01240 ortho_group5462_cds developmental processes
+AT5G01240 ortho_group5462_cds other cellular components
+AT5G01240 ortho_group5462_cds other membranes
+AT5G01240 ortho_group5462_cds transport
+AT5G01240 ortho_group5462_cds transporter activity
+AT5G01300 ortho_group4822_cds other binding
+AT5G01300 ortho_group4822_cds unknown biological processes
+AT5G01300 ortho_group4822_cds unknown cellular components
+AT5G01320 ortho_group4887_cds other binding
+AT5G01320 ortho_group4887_cds other enzyme activity
+AT5G01320 ortho_group4887_cds transferase activity
+AT5G01320 ortho_group4887_cds unknown cellular components
+AT5G01330 ortho_group4887_cds other binding
+AT5G01330 ortho_group4887_cds other enzyme activity
+AT5G01330 ortho_group4887_cds transferase activity
+AT5G01360 ortho_group2752_cds cell organization and biogenesis
+AT5G01360 ortho_group2752_cds Golgi apparatus
+AT5G01360 ortho_group2752_cds other cellular processes
+AT5G01360 ortho_group2752_cds other metabolic processes
+AT5G01360 ortho_group2752_cds plasma membrane
+AT5G01470 ortho_group3426_cds unknown biological processes
+AT5G01470 ortho_group3426_cds unknown cellular components
+AT5G01470 ortho_group3426_cds unknown molecular functions
+AT5G01510 ortho_group5077_cds unknown biological processes
+AT5G01510 ortho_group5077_cds unknown cellular components
+AT5G01510 ortho_group5077_cds unknown molecular functions
+AT5G01520 ortho_group2857_cds other binding
+AT5G01590 ortho_group3878_cds chloroplast
+AT5G01590 ortho_group3878_cds other cytoplasmic components
+AT5G01590 ortho_group3878_cds other intracellular components
+AT5G01590 ortho_group3878_cds plastid
+AT5G01590 ortho_group3878_cds unknown biological processes
+AT5G01590 ortho_group3878_cds unknown molecular functions
+AT5G01600 ortho_group5111_cds chloroplast
+AT5G01600 ortho_group5111_cds developmental processes
+AT5G01600 ortho_group5111_cds other binding
+AT5G01600 ortho_group5111_cds other biological processes
+AT5G01600 ortho_group5111_cds other cellular processes
+AT5G01600 ortho_group5111_cds other cytoplasmic components
+AT5G01600 ortho_group5111_cds other intracellular components
+AT5G01600 ortho_group5111_cds other membranes
+AT5G01600 ortho_group5111_cds other metabolic processes
+AT5G01600 ortho_group5111_cds plastid
+AT5G01600 ortho_group5111_cds response to abiotic or biotic stimulus
+AT5G01600 ortho_group5111_cds response to stress
+AT5G01600 ortho_group5111_cds transport
+AT5G01650 ortho_group5199_cds chloroplast
+AT5G01650 ortho_group5199_cds response to abiotic or biotic stimulus
+AT5G01650 ortho_group5199_cds response to stress
+AT5G01650 ortho_group5199_cds unknown molecular functions
+AT5G01780 ortho_group3339_cds other enzyme activity
+AT5G01780 ortho_group3339_cds unknown cellular components
+AT5G01850 ortho_group3772_cds kinase activity
+AT5G01850 ortho_group3772_cds other cellular processes
+AT5G01850 ortho_group3772_cds other metabolic processes
+AT5G01850 ortho_group3772_cds protein metabolism
+AT5G01850 ortho_group3772_cds transferase activity
+AT5G01960 ortho_group3471_cds other binding
+AT5G01990 ortho_group4388_cds other cellular processes
+AT5G01990 ortho_group4388_cds other membranes
+AT5G01990 ortho_group4388_cds transport
+AT5G01990 ortho_group4388_cds transporter activity
+AT5G02040 ortho_group3658_cds ER
+AT5G02040 ortho_group3658_cds other cellular processes
+AT5G02040 ortho_group3658_cds transport
+AT5G02040 ortho_group3658_cds unknown molecular functions
+AT5G02060 ortho_group4722_cds other membranes
+AT5G02060 ortho_group4722_cds unknown biological processes
+AT5G02060 ortho_group4722_cds unknown molecular functions
+AT5G02080 ortho_group4338_cds other enzyme activity
+AT5G02080 ortho_group4338_cds unknown biological processes
+AT5G02080 ortho_group4338_cds unknown cellular components
+AT5G02230 ortho_group4201_cds hydrolase activity
+AT5G02230 ortho_group4201_cds other enzyme activity
+AT5G02230 ortho_group4201_cds other metabolic processes
+AT5G02240 ortho_group2642_cds chloroplast
+AT5G02240 ortho_group2642_cds cytosol
+AT5G02240 ortho_group2642_cds extracellular
+AT5G02240 ortho_group2642_cds other binding
+AT5G02240 ortho_group2642_cds other biological processes
+AT5G02240 ortho_group2642_cds other cytoplasmic components
+AT5G02240 ortho_group2642_cds other enzyme activity
+AT5G02240 ortho_group2642_cds other intracellular components
+AT5G02240 ortho_group2642_cds other membranes
+AT5G02240 ortho_group2642_cds plasma membrane
+AT5G02240 ortho_group2642_cds plastid
+AT5G02270 ortho_group4694_cds response to abiotic or biotic stimulus
+AT5G02270 ortho_group4694_cds transporter activity
+AT5G02280 ortho_group5257_cds other cellular processes
+AT5G02280 ortho_group5257_cds transport
+AT5G02280 ortho_group5257_cds unknown molecular functions
+AT5G02540 ortho_group5081_cds other binding
+AT5G02540 ortho_group5081_cds other enzyme activity
+AT5G02540 ortho_group5081_cds other metabolic processes
+AT5G02560 ortho_group3980_cds cell organization and biogenesis
+AT5G02560 ortho_group3980_cds DNA or RNA binding
+AT5G02560 ortho_group3980_cds DNA or RNA metabolism
+AT5G02560 ortho_group3980_cds nucleus
+AT5G02560 ortho_group3980_cds other cellular processes
+AT5G02560 ortho_group3980_cds other intracellular components
+AT5G02780 ortho_group5503_cds other cellular processes
+AT5G02780 ortho_group5503_cds other metabolic processes
+AT5G02780 ortho_group5503_cds protein metabolism
+AT5G02780 ortho_group5503_cds unknown molecular functions
+AT5G02790 ortho_group5503_cds cytosol
+AT5G02790 ortho_group5503_cds other biological processes
+AT5G02810 ortho_group5157_cds DNA or RNA binding
+AT5G02810 ortho_group5157_cds mitochondria
+AT5G02810 ortho_group5157_cds nucleus
+AT5G02810 ortho_group5157_cds other biological processes
+AT5G02810 ortho_group5157_cds other cellular processes
+AT5G02810 ortho_group5157_cds other metabolic processes
+AT5G02810 ortho_group5157_cds other molecular functions
+AT5G02810 ortho_group5157_cds response to abiotic or biotic stimulus
+AT5G02810 ortho_group5157_cds signal transduction
+AT5G02840 ortho_group4709_cds DNA or RNA binding
+AT5G02840 ortho_group4709_cds nucleus
+AT5G02840 ortho_group4709_cds other biological processes
+AT5G02840 ortho_group4709_cds other cellular processes
+AT5G02840 ortho_group4709_cds other metabolic processes
+AT5G02840 ortho_group4709_cds response to abiotic or biotic stimulus
+AT5G02840 ortho_group4709_cds response to stress
+AT5G02840 ortho_group4709_cds transcription factor activity
+AT5G02920 ortho_group2883_cds other cellular processes
+AT5G02920 ortho_group2883_cds other enzyme activity
+AT5G02920 ortho_group2883_cds other metabolic processes
+AT5G02920 ortho_group2883_cds protein metabolism
+AT5G02920 ortho_group2883_cds unknown cellular components
+AT5G02950 ortho_group4932_cds unknown biological processes
+AT5G02950 ortho_group4932_cds unknown cellular components
+AT5G02950 ortho_group4932_cds unknown molecular functions
+AT5G02960 ortho_group2597_cds cytosol
+AT5G02960 ortho_group2597_cds other cellular processes
+AT5G02960 ortho_group2597_cds other cytoplasmic components
+AT5G02960 ortho_group2597_cds other intracellular components
+AT5G02960 ortho_group2597_cds other metabolic processes
+AT5G02960 ortho_group2597_cds protein metabolism
+AT5G02960 ortho_group2597_cds ribosome
+AT5G02960 ortho_group2597_cds structural molecule activity
+AT5G03150 ortho_group5005_cds developmental processes
+AT5G03150 ortho_group5005_cds nucleic acid binding
+AT5G03150 ortho_group5005_cds other binding
+AT5G03150 ortho_group5005_cds other cellular processes
+AT5G03150 ortho_group5005_cds other intracellular components
+AT5G03150 ortho_group5005_cds other metabolic processes
+AT5G03150 ortho_group5005_cds protein binding
+AT5G03150 ortho_group5005_cds transcription factor activity
+AT5G03160 ortho_group3780_cds ER
+AT5G03160 ortho_group3780_cds other binding
+AT5G03160 ortho_group3780_cds other cellular processes
+AT5G03160 ortho_group3780_cds other cytoplasmic components
+AT5G03160 ortho_group3780_cds other intracellular components
+AT5G03160 ortho_group3780_cds other metabolic processes
+AT5G03160 ortho_group3780_cds plasma membrane
+AT5G03160 ortho_group3780_cds protein binding
+AT5G03160 ortho_group3780_cds protein metabolism
+AT5G03220 ortho_group2872_cds other cellular processes
+AT5G03220 ortho_group2872_cds other metabolic processes
+AT5G03220 ortho_group2872_cds other molecular functions
+AT5G03220 ortho_group2872_cds protein binding
+AT5G03300 ortho_group3808_cds cytosol
+AT5G03300 ortho_group3808_cds kinase activity
+AT5G03300 ortho_group3808_cds other binding
+AT5G03300 ortho_group3808_cds other cellular processes
+AT5G03300 ortho_group3808_cds other metabolic processes
+AT5G03300 ortho_group3808_cds plasma membrane
+AT5G03345 ortho_group3138_cds unknown biological processes
+AT5G03345 ortho_group3138_cds unknown molecular functions
+AT5G03455 ortho_group5063_cds chloroplast
+AT5G03455 ortho_group5063_cds hydrolase activity
+AT5G03455 ortho_group5063_cds other biological processes
+AT5G03455 ortho_group5063_cds other cellular processes
+AT5G03455 ortho_group5063_cds other enzyme activity
+AT5G03455 ortho_group5063_cds other metabolic processes
+AT5G03455 ortho_group5063_cds protein binding
+AT5G03455 ortho_group5063_cds protein metabolism
+AT5G03530 ortho_group3215_cds nucleotide binding
+AT5G03530 ortho_group3215_cds other cellular processes
+AT5G03530 ortho_group3215_cds other cytoplasmic components
+AT5G03530 ortho_group3215_cds other intracellular components
+AT5G03530 ortho_group3215_cds other metabolic processes
+AT5G03530 ortho_group3215_cds protein binding
+AT5G03530 ortho_group3215_cds signal transduction
+AT5G03530 ortho_group3215_cds transport
+AT5G03720 ortho_group4460_cds DNA or RNA binding
+AT5G03720 ortho_group4460_cds nucleus
+AT5G03720 ortho_group4460_cds other biological processes
+AT5G03720 ortho_group4460_cds other cellular processes
+AT5G03720 ortho_group4460_cds other metabolic processes
+AT5G03720 ortho_group4460_cds response to abiotic or biotic stimulus
+AT5G03720 ortho_group4460_cds response to stress
+AT5G03720 ortho_group4460_cds transcription factor activity
+AT5G03730 ortho_group2732_cds developmental processes
+AT5G03730 ortho_group2732_cds ER
+AT5G03730 ortho_group2732_cds kinase activity
+AT5G03730 ortho_group2732_cds other biological processes
+AT5G03730 ortho_group2732_cds other cellular processes
+AT5G03730 ortho_group2732_cds other cytoplasmic components
+AT5G03730 ortho_group2732_cds other intracellular components
+AT5G03730 ortho_group2732_cds other membranes
+AT5G03730 ortho_group2732_cds other metabolic processes
+AT5G03730 ortho_group2732_cds protein binding
+AT5G03730 ortho_group2732_cds protein metabolism
+AT5G03730 ortho_group2732_cds signal transduction
+AT5G03730 ortho_group2732_cds transferase activity
+AT5G03800 ortho_group4930_cds chloroplast
+AT5G03800 ortho_group4930_cds developmental processes
+AT5G03800 ortho_group4930_cds other enzyme activity
+AT5G03800 ortho_group4930_cds other membranes
+AT5G03880 ortho_group2931_cds chloroplast
+AT5G03880 ortho_group2931_cds other cellular processes
+AT5G03880 ortho_group2931_cds other cytoplasmic components
+AT5G03880 ortho_group2931_cds other intracellular components
+AT5G03880 ortho_group2931_cds other membranes
+AT5G03880 ortho_group2931_cds other molecular functions
+AT5G03880 ortho_group2931_cds plastid
+AT5G03900 ortho_group3984_cds chloroplast
+AT5G03900 ortho_group3984_cds other cytoplasmic components
+AT5G03900 ortho_group3984_cds other intracellular components
+AT5G03900 ortho_group3984_cds plastid
+AT5G03900 ortho_group3984_cds unknown biological processes
+AT5G03900 ortho_group3984_cds unknown molecular functions
+AT5G03905 ortho_group4507_cds other binding
+AT5G03905 ortho_group4507_cds other cellular processes
+AT5G03905 ortho_group4507_cds other metabolic processes
+AT5G03905 ortho_group4507_cds structural molecule activity
+AT5G04240 ortho_group2787_cds cell organization and biogenesis
+AT5G04240 ortho_group2787_cds developmental processes
+AT5G04240 ortho_group2787_cds nucleus
+AT5G04240 ortho_group2787_cds other biological processes
+AT5G04240 ortho_group2787_cds other cellular processes
+AT5G04240 ortho_group2787_cds other metabolic processes
+AT5G04240 ortho_group2787_cds protein binding
+AT5G04240 ortho_group2787_cds protein metabolism
+AT5G04240 ortho_group2787_cds response to abiotic or biotic stimulus
+AT5G04240 ortho_group2787_cds transcription factor activity
+AT5G04250 ortho_group4224_cds hydrolase activity
+AT5G04250 ortho_group4224_cds unknown biological processes
+AT5G04260 ortho_group3591_cds chloroplast
+AT5G04260 ortho_group3591_cds other cellular processes
+AT5G04260 ortho_group3591_cds other cytoplasmic components
+AT5G04260 ortho_group3591_cds other intracellular components
+AT5G04260 ortho_group3591_cds plastid
+AT5G04420 ortho_group5382_cds cytosol
+AT5G04420 ortho_group5382_cds nucleus
+AT5G04420 ortho_group5382_cds unknown biological processes
+AT5G04430 ortho_group3274_cds DNA or RNA binding
+AT5G04430 ortho_group3274_cds nucleic acid binding
+AT5G04430 ortho_group3274_cds other biological processes
+AT5G04430 ortho_group3274_cds other cellular processes
+AT5G04430 ortho_group3274_cds other metabolic processes
+AT5G04430 ortho_group3274_cds unknown cellular components
+AT5G04440 ortho_group5283_cds chloroplast
+AT5G04440 ortho_group5283_cds unknown biological processes
+AT5G04440 ortho_group5283_cds unknown molecular functions
+AT5G04510 ortho_group4794_cds kinase activity
+AT5G04510 ortho_group4794_cds other binding
+AT5G04510 ortho_group4794_cds other cellular processes
+AT5G04510 ortho_group4794_cds other metabolic processes
+AT5G04510 ortho_group4794_cds protein binding
+AT5G04510 ortho_group4794_cds protein metabolism
+AT5G04510 ortho_group4794_cds transferase activity
+AT5G04510 ortho_group4794_cds unknown cellular components
+AT5G04590 ortho_group2804_cds chloroplast
+AT5G04590 ortho_group2804_cds extracellular
+AT5G04590 ortho_group2804_cds other binding
+AT5G04590 ortho_group2804_cds other cellular processes
+AT5G04590 ortho_group2804_cds other cytoplasmic components
+AT5G04590 ortho_group2804_cds other enzyme activity
+AT5G04590 ortho_group2804_cds other intracellular components
+AT5G04590 ortho_group2804_cds other membranes
+AT5G04590 ortho_group2804_cds other metabolic processes
+AT5G04590 ortho_group2804_cds plastid
+AT5G04590 ortho_group2804_cds response to abiotic or biotic stimulus
+AT5G04590 ortho_group2804_cds response to stress
+AT5G04700 ortho_group3368_cds unknown biological processes
+AT5G04700 ortho_group3368_cds unknown cellular components
+AT5G04700 ortho_group3368_cds unknown molecular functions
+AT5G04710 ortho_group4261_cds chloroplast
+AT5G04710 ortho_group4261_cds hydrolase activity
+AT5G04710 ortho_group4261_cds other binding
+AT5G04710 ortho_group4261_cds other cytoplasmic components
+AT5G04710 ortho_group4261_cds other intracellular components
+AT5G04710 ortho_group4261_cds plastid
+AT5G04710 ortho_group4261_cds protein metabolism
+AT5G04740 ortho_group4849_cds chloroplast
+AT5G04740 ortho_group4849_cds other binding
+AT5G04740 ortho_group4849_cds other cytoplasmic components
+AT5G04740 ortho_group4849_cds other intracellular components
+AT5G04740 ortho_group4849_cds other membranes
+AT5G04740 ortho_group4849_cds other metabolic processes
+AT5G04740 ortho_group4849_cds plastid
+AT5G04870 ortho_group4150_cds kinase activity
+AT5G04870 ortho_group4150_cds other cellular processes
+AT5G04870 ortho_group4150_cds other cytoplasmic components
+AT5G04870 ortho_group4150_cds other intracellular components
+AT5G04870 ortho_group4150_cds other membranes
+AT5G04870 ortho_group4150_cds other metabolic processes
+AT5G04870 ortho_group4150_cds protein binding
+AT5G04870 ortho_group4150_cds protein metabolism
+AT5G04870 ortho_group4150_cds transferase activity
+AT5G04900 ortho_group2546_cds chloroplast
+AT5G04900 ortho_group2546_cds other cellular processes
+AT5G04900 ortho_group2546_cds other enzyme activity
+AT5G04900 ortho_group2546_cds other metabolic processes
+AT5G04900 ortho_group2546_cds protein metabolism
+AT5G04910 ortho_group3455_cds unknown biological processes
+AT5G04910 ortho_group3455_cds unknown cellular components
+AT5G04910 ortho_group3455_cds unknown molecular functions
+AT5G04940 ortho_group2994_cds nucleus
+AT5G04940 ortho_group2994_cds other metabolic processes
+AT5G04940 ortho_group2994_cds transferase activity
+AT5G05010 ortho_group3908_cds cytosol
+AT5G05010 ortho_group3908_cds other cellular components
+AT5G05010 ortho_group3908_cds other cellular processes
+AT5G05010 ortho_group3908_cds other membranes
+AT5G05010 ortho_group3908_cds transport
+AT5G05270 ortho_group3922_cds other enzyme activity
+AT5G05270 ortho_group3922_cds response to abiotic or biotic stimulus
+AT5G05270 ortho_group3922_cds unknown cellular components
+AT5G05600 ortho_group4356_cds other binding
+AT5G05600 ortho_group4356_cds other enzyme activity
+AT5G05600 ortho_group4356_cds response to abiotic or biotic stimulus
+AT5G05610 ortho_group3411_cds DNA or RNA binding
+AT5G05610 ortho_group3411_cds nucleus
+AT5G05610 ortho_group3411_cds other cellular processes
+AT5G05610 ortho_group3411_cds other metabolic processes
+AT5G05610 ortho_group3411_cds protein binding
+AT5G05670 ortho_group3853_cds ER
+AT5G05670 ortho_group3853_cds other binding
+AT5G05670 ortho_group3853_cds plasma membrane
+AT5G05700 ortho_group4447_cds developmental processes
+AT5G05700 ortho_group4447_cds other biological processes
+AT5G05700 ortho_group4447_cds other cellular processes
+AT5G05700 ortho_group4447_cds other metabolic processes
+AT5G05700 ortho_group4447_cds protein metabolism
+AT5G05700 ortho_group4447_cds transferase activity
+AT5G05700 ortho_group4447_cds unknown cellular components
+AT5G05780 ortho_group4631_cds cytosol
+AT5G05780 ortho_group4631_cds developmental processes
+AT5G05780 ortho_group4631_cds other cellular processes
+AT5G05780 ortho_group4631_cds other intracellular components
+AT5G05780 ortho_group4631_cds other metabolic processes
+AT5G05780 ortho_group4631_cds protein metabolism
+AT5G05780 ortho_group4631_cds unknown molecular functions
+AT5G05820 ortho_group3764_cds other membranes
+AT5G05820 ortho_group3764_cds transporter activity
+AT5G05860 ortho_group3074_cds developmental processes
+AT5G05860 ortho_group3074_cds other cellular processes
+AT5G05860 ortho_group3074_cds other metabolic processes
+AT5G05860 ortho_group3074_cds transferase activity
+AT5G05880 ortho_group3074_cds other metabolic processes
+AT5G05880 ortho_group3074_cds transferase activity
+AT5G05880 ortho_group3074_cds unknown cellular components
+AT5G05920 ortho_group3097_cds developmental processes
+AT5G05920 ortho_group3097_cds other cellular processes
+AT5G05920 ortho_group3097_cds other metabolic processes
+AT5G05920 ortho_group3097_cds protein metabolism
+AT5G05920 ortho_group3097_cds unknown cellular components
+AT5G05930 ortho_group2985_cds unknown biological processes
+AT5G05930 ortho_group2985_cds unknown molecular functions
+AT5G05960 ortho_group4996_cds other binding
+AT5G05960 ortho_group4996_cds other cellular components
+AT5G05960 ortho_group4996_cds transport
+AT5G06050 ortho_group5310_cds other cellular components
+AT5G06050 ortho_group5310_cds unknown biological processes
+AT5G06060 ortho_group2604_cds cytosol
+AT5G06060 ortho_group2604_cds other binding
+AT5G06060 ortho_group2604_cds other enzyme activity
+AT5G06060 ortho_group2604_cds other metabolic processes
+AT5G06130 ortho_group5380_cds chloroplast
+AT5G06160 ortho_group4672_cds cytosol
+AT5G06160 ortho_group4672_cds developmental processes
+AT5G06160 ortho_group4672_cds nucleic acid binding
+AT5G06160 ortho_group4672_cds other binding
+AT5G06160 ortho_group4672_cds other cellular processes
+AT5G06240 ortho_group4593_cds developmental processes
+AT5G06240 ortho_group4593_cds unknown cellular components
+AT5G06240 ortho_group4593_cds unknown molecular functions
+AT5G06300 ortho_group3846_cds cytosol
+AT5G06300 ortho_group3846_cds nucleus
+AT5G06300 ortho_group3846_cds other enzyme activity
+AT5G06300 ortho_group3846_cds other metabolic processes
+AT5G06360 ortho_group4249_cds other cellular processes
+AT5G06360 ortho_group4249_cds other metabolic processes
+AT5G06360 ortho_group4249_cds protein metabolism
+AT5G06360 ortho_group4249_cds ribosome
+AT5G06360 ortho_group4249_cds structural molecule activity
+AT5G06430 ortho_group4714_cds other cellular processes
+AT5G06530 ortho_group4712_cds hydrolase activity
+AT5G06530 ortho_group4712_cds plasma membrane
+AT5G06530 ortho_group4712_cds response to abiotic or biotic stimulus
+AT5G06530 ortho_group4712_cds response to stress
+AT5G06530 ortho_group4712_cds transport
+AT5G06530 ortho_group4712_cds transporter activity
+AT5G06560 ortho_group4100_cds unknown biological processes
+AT5G06560 ortho_group4100_cds unknown molecular functions
+AT5G06580 ortho_group5161_cds mitochondria
+AT5G06580 ortho_group5161_cds nucleotide binding
+AT5G06580 ortho_group5161_cds other binding
+AT5G06580 ortho_group5161_cds other cellular processes
+AT5G06580 ortho_group5161_cds other enzyme activity
+AT5G06580 ortho_group5161_cds other metabolic processes
+AT5G06580 ortho_group5161_cds protein binding
+AT5G06600 ortho_group4708_cds cytosol
+AT5G06600 ortho_group4708_cds hydrolase activity
+AT5G06600 ortho_group4708_cds other cellular processes
+AT5G06600 ortho_group4708_cds other metabolic processes
+AT5G06600 ortho_group4708_cds protein metabolism
+AT5G06680 ortho_group2564_cds cell organization and biogenesis
+AT5G06680 ortho_group2564_cds nucleus
+AT5G06680 ortho_group2564_cds other cellular processes
+AT5G06680 ortho_group2564_cds other intracellular components
+AT5G06680 ortho_group2564_cds other membranes
+AT5G06680 ortho_group2564_cds plasma membrane
+AT5G06680 ortho_group2564_cds protein binding
+AT5G06690 ortho_group3168_cds chloroplast
+AT5G06690 ortho_group3168_cds other cellular processes
+AT5G06690 ortho_group3168_cds other cytoplasmic components
+AT5G06690 ortho_group3168_cds other intracellular components
+AT5G06690 ortho_group3168_cds plastid
+AT5G06700 ortho_group2661_cds cell organization and biogenesis
+AT5G06700 ortho_group2661_cds other cellular processes
+AT5G06700 ortho_group2661_cds other metabolic processes
+AT5G06700 ortho_group2661_cds unknown cellular components
+AT5G06700 ortho_group2661_cds unknown molecular functions
+AT5G06970 ortho_group3134_cds other cellular components
+AT5G06970 ortho_group3134_cds unknown biological processes
+AT5G06970 ortho_group3134_cds unknown molecular functions
+AT5G07020 ortho_group4844_cds chloroplast
+AT5G07020 ortho_group4844_cds other cytoplasmic components
+AT5G07020 ortho_group4844_cds other intracellular components
+AT5G07020 ortho_group4844_cds other membranes
+AT5G07020 ortho_group4844_cds plastid
+AT5G07020 ortho_group4844_cds unknown biological processes
+AT5G07020 ortho_group4844_cds unknown molecular functions
+AT5G07100 ortho_group2832_cds other cellular processes
+AT5G07100 ortho_group2832_cds other metabolic processes
+AT5G07100 ortho_group2832_cds response to abiotic or biotic stimulus
+AT5G07100 ortho_group2832_cds response to stress
+AT5G07100 ortho_group2832_cds transcription factor activity
+AT5G07120 ortho_group3867_cds cytosol
+AT5G07120 ortho_group3867_cds developmental processes
+AT5G07120 ortho_group3867_cds other binding
+AT5G07120 ortho_group3867_cds other biological processes
+AT5G07120 ortho_group3867_cds other cellular processes
+AT5G07120 ortho_group3867_cds other cytoplasmic components
+AT5G07120 ortho_group3867_cds other intracellular components
+AT5G07120 ortho_group3867_cds other membranes
+AT5G07120 ortho_group3867_cds other metabolic processes
+AT5G07120 ortho_group3867_cds protein binding
+AT5G07120 ortho_group3867_cds protein metabolism
+AT5G07120 ortho_group3867_cds signal transduction
+AT5G07120 ortho_group3867_cds transport
+AT5G07460 ortho_group3876_cds cytosol
+AT5G07460 ortho_group3876_cds other cellular processes
+AT5G07460 ortho_group3876_cds other enzyme activity
+AT5G07460 ortho_group3876_cds other metabolic processes
+AT5G07460 ortho_group3876_cds protein metabolism
+AT5G07460 ortho_group3876_cds response to abiotic or biotic stimulus
+AT5G07460 ortho_group3876_cds response to stress
+AT5G07620 ortho_group3075_cds kinase activity
+AT5G07620 ortho_group3075_cds nucleotide binding
+AT5G07620 ortho_group3075_cds other cellular components
+AT5G07620 ortho_group3075_cds other cellular processes
+AT5G07620 ortho_group3075_cds other metabolic processes
+AT5G07620 ortho_group3075_cds protein metabolism
+AT5G07620 ortho_group3075_cds transferase activity
+AT5G07630 ortho_group3645_cds cell organization and biogenesis
+AT5G07630 ortho_group3645_cds other cellular processes
+AT5G07630 ortho_group3645_cds other membranes
+AT5G07630 ortho_group3645_cds transport
+AT5G07630 ortho_group3645_cds transporter activity
+AT5G07830 ortho_group2992_cds cell organization and biogenesis
+AT5G07830 ortho_group2992_cds cell wall
+AT5G07830 ortho_group2992_cds hydrolase activity
+AT5G07830 ortho_group2992_cds other cellular processes
+AT5G07830 ortho_group2992_cds other metabolic processes
+AT5G08080 ortho_group4762_cds cell organization and biogenesis
+AT5G08080 ortho_group4762_cds other biological processes
+AT5G08080 ortho_group4762_cds other cellular components
+AT5G08080 ortho_group4762_cds other cellular processes
+AT5G08080 ortho_group4762_cds plasma membrane
+AT5G08080 ortho_group4762_cds protein binding
+AT5G08080 ortho_group4762_cds transport
+AT5G08180 ortho_group3608_cds DNA or RNA binding
+AT5G08180 ortho_group3608_cds nucleus
+AT5G08180 ortho_group3608_cds other intracellular components
+AT5G08190 ortho_group3101_cds DNA or RNA binding
+AT5G08190 ortho_group3101_cds other cellular processes
+AT5G08190 ortho_group3101_cds other metabolic processes
+AT5G08190 ortho_group3101_cds transcription factor activity
+AT5G08290 ortho_group3450_cds cell organization and biogenesis
+AT5G08290 ortho_group3450_cds developmental processes
+AT5G08290 ortho_group3450_cds nucleus
+AT5G08290 ortho_group3450_cds other cellular processes
+AT5G08290 ortho_group3450_cds other cytoplasmic components
+AT5G08290 ortho_group3450_cds other enzyme activity
+AT5G08290 ortho_group3450_cds other intracellular components
+AT5G08320 ortho_group4198_cds unknown biological processes
+AT5G08320 ortho_group4198_cds unknown cellular components
+AT5G08320 ortho_group4198_cds unknown molecular functions
+AT5G08350 ortho_group4689_cds unknown biological processes
+AT5G08350 ortho_group4689_cds unknown cellular components
+AT5G08350 ortho_group4689_cds unknown molecular functions
+AT5G08370 ortho_group4704_cds cell wall
+AT5G08370 ortho_group4704_cds developmental processes
+AT5G08370 ortho_group4704_cds hydrolase activity
+AT5G08370 ortho_group4704_cds other cellular processes
+AT5G08370 ortho_group4704_cds other cytoplasmic components
+AT5G08370 ortho_group4704_cds other enzyme activity
+AT5G08370 ortho_group4704_cds other metabolic processes
+AT5G08400 ortho_group3509_cds unknown biological processes
+AT5G08400 ortho_group3509_cds unknown molecular functions
+AT5G08420 ortho_group3530_cds DNA or RNA binding
+AT5G08420 ortho_group3530_cds unknown biological processes
+AT5G08420 ortho_group3530_cds unknown cellular components
+AT5G08535 ortho_group3376_cds nucleic acid binding
+AT5G08535 ortho_group3376_cds other intracellular components
+AT5G08535 ortho_group3376_cds unknown biological processes
+AT5G08710 ortho_group3315_cds other binding
+AT5G08710 ortho_group3315_cds protein binding
+AT5G08710 ortho_group3315_cds unknown biological processes
+AT5G09250 ortho_group4487_cds DNA or RNA binding
+AT5G09250 ortho_group4487_cds other cellular processes
+AT5G09250 ortho_group4487_cds other metabolic processes
+AT5G09250 ortho_group4487_cds other molecular functions
+AT5G09250 ortho_group4487_cds protein binding
+AT5G09260 ortho_group3025_cds other cellular processes
+AT5G09260 ortho_group3025_cds other cytoplasmic components
+AT5G09260 ortho_group3025_cds other intracellular components
+AT5G09260 ortho_group3025_cds other membranes
+AT5G09260 ortho_group3025_cds other metabolic processes
+AT5G09260 ortho_group3025_cds plasma membrane
+AT5G09260 ortho_group3025_cds protein binding
+AT5G09260 ortho_group3025_cds protein metabolism
+AT5G09260 ortho_group3025_cds transport
+AT5G09420 ortho_group3261_cds cell organization and biogenesis
+AT5G09420 ortho_group3261_cds hydrolase activity
+AT5G09420 ortho_group3261_cds mitochondria
+AT5G09420 ortho_group3261_cds other binding
+AT5G09420 ortho_group3261_cds other cellular processes
+AT5G09420 ortho_group3261_cds other enzyme activity
+AT5G09420 ortho_group3261_cds transport
+AT5G09650 ortho_group5061_cds chloroplast
+AT5G09650 ortho_group5061_cds hydrolase activity
+AT5G09650 ortho_group5061_cds other biological processes
+AT5G09650 ortho_group5061_cds other cytoplasmic components
+AT5G09650 ortho_group5061_cds other intracellular components
+AT5G09650 ortho_group5061_cds other membranes
+AT5G09650 ortho_group5061_cds other metabolic processes
+AT5G09650 ortho_group5061_cds plastid
+AT5G09650 ortho_group5061_cds response to abiotic or biotic stimulus
+AT5G09650 ortho_group5061_cds response to stress
+AT5G09660 ortho_group3986_cds chloroplast
+AT5G09660 ortho_group3986_cds extracellular
+AT5G09660 ortho_group3986_cds other cellular processes
+AT5G09660 ortho_group3986_cds other cytoplasmic components
+AT5G09660 ortho_group3986_cds other enzyme activity
+AT5G09660 ortho_group3986_cds other intracellular components
+AT5G09660 ortho_group3986_cds other metabolic processes
+AT5G09660 ortho_group3986_cds plastid
+AT5G09680 ortho_group3035_cds cytosol
+AT5G09680 ortho_group3035_cds developmental processes
+AT5G09680 ortho_group3035_cds other binding
+AT5G09810 ortho_group2614_cds cell organization and biogenesis
+AT5G09810 ortho_group2614_cds cell wall
+AT5G09810 ortho_group2614_cds chloroplast
+AT5G09810 ortho_group2614_cds cytosol
+AT5G09810 ortho_group2614_cds developmental processes
+AT5G09810 ortho_group2614_cds mitochondria
+AT5G09810 ortho_group2614_cds nucleus
+AT5G09810 ortho_group2614_cds other biological processes
+AT5G09810 ortho_group2614_cds other cellular components
+AT5G09810 ortho_group2614_cds other cellular processes
+AT5G09810 ortho_group2614_cds other cytoplasmic components
+AT5G09810 ortho_group2614_cds other intracellular components
+AT5G09810 ortho_group2614_cds plasma membrane
+AT5G09810 ortho_group2614_cds plastid
+AT5G09810 ortho_group2614_cds protein binding
+AT5G09810 ortho_group2614_cds response to abiotic or biotic stimulus
+AT5G09810 ortho_group2614_cds response to stress
+AT5G09810 ortho_group2614_cds structural molecule activity
+AT5G09860 ortho_group4153_cds DNA or RNA metabolism
+AT5G09860 ortho_group4153_cds nucleus
+AT5G09860 ortho_group4153_cds other cellular processes
+AT5G09860 ortho_group4153_cds other intracellular components
+AT5G09860 ortho_group4153_cds other metabolic processes
+AT5G09860 ortho_group4153_cds response to abiotic or biotic stimulus
+AT5G09860 ortho_group4153_cds response to stress
+AT5G09860 ortho_group4153_cds transport
+AT5G09860 ortho_group4153_cds unknown molecular functions
+AT5G09880 ortho_group4985_cds DNA or RNA binding
+AT5G09880 ortho_group4985_cds nucleic acid binding
+AT5G09880 ortho_group4985_cds nucleotide binding
+AT5G09880 ortho_group4985_cds other cellular processes
+AT5G09880 ortho_group4985_cds other metabolic processes
+AT5G09890 ortho_group3659_cds cytosol
+AT5G09890 ortho_group3659_cds kinase activity
+AT5G09890 ortho_group3659_cds other cellular processes
+AT5G09890 ortho_group3659_cds other metabolic processes
+AT5G09890 ortho_group3659_cds protein metabolism
+AT5G09900 ortho_group5018_cds cytosol
+AT5G09900 ortho_group5018_cds developmental processes
+AT5G09900 ortho_group5018_cds nucleus
+AT5G09900 ortho_group5018_cds other cellular components
+AT5G09900 ortho_group5018_cds other cellular processes
+AT5G09900 ortho_group5018_cds other cytoplasmic components
+AT5G09900 ortho_group5018_cds other intracellular components
+AT5G09900 ortho_group5018_cds other metabolic processes
+AT5G09900 ortho_group5018_cds protein metabolism
+AT5G09900 ortho_group5018_cds unknown molecular functions
+AT5G09930 ortho_group5067_cds transporter activity
+AT5G10010 ortho_group4112_cds nucleus
+AT5G10010 ortho_group4112_cds other intracellular components
+AT5G10010 ortho_group4112_cds unknown biological processes
+AT5G10010 ortho_group4112_cds unknown molecular functions
+AT5G10030 ortho_group2753_cds DNA or RNA binding
+AT5G10030 ortho_group2753_cds nucleus
+AT5G10030 ortho_group2753_cds protein binding
+AT5G10030 ortho_group2753_cds response to abiotic or biotic stimulus
+AT5G10030 ortho_group2753_cds response to stress
+AT5G10030 ortho_group2753_cds transcription factor activity
+AT5G10180 ortho_group3525_cds other membranes
+AT5G10180 ortho_group3525_cds transport
+AT5G10180 ortho_group3525_cds transporter activity
+AT5G10200 ortho_group2918_cds other binding
+AT5G10200 ortho_group2918_cds plasma membrane
+AT5G10200 ortho_group2918_cds unknown biological processes
+AT5G10240 ortho_group4420_cds cytosol
+AT5G10240 ortho_group4420_cds other cellular processes
+AT5G10240 ortho_group4420_cds other enzyme activity
+AT5G10240 ortho_group4420_cds other metabolic processes
+AT5G10270 ortho_group4873_cds cytosol
+AT5G10270 ortho_group4873_cds developmental processes
+AT5G10270 ortho_group4873_cds kinase activity
+AT5G10270 ortho_group4873_cds protein binding
+AT5G10270 ortho_group4873_cds response to abiotic or biotic stimulus
+AT5G10320 ortho_group5218_cds unknown molecular functions
+AT5G10470 ortho_group3788_cds cell organization and biogenesis
+AT5G10470 ortho_group3788_cds chloroplast
+AT5G10470 ortho_group3788_cds cytosol
+AT5G10470 ortho_group3788_cds hydrolase activity
+AT5G10470 ortho_group3788_cds other cellular processes
+AT5G10470 ortho_group3788_cds other cytoplasmic components
+AT5G10470 ortho_group3788_cds other intracellular components
+AT5G10470 ortho_group3788_cds other membranes
+AT5G10470 ortho_group3788_cds plasma membrane
+AT5G10470 ortho_group3788_cds plastid
+AT5G10470 ortho_group3788_cds protein binding
+AT5G10580 ortho_group5547_cds other cellular components
+AT5G10580 ortho_group5547_cds unknown biological processes
+AT5G10580 ortho_group5547_cds unknown molecular functions
+AT5G10770 ortho_group4612_cds DNA or RNA binding
+AT5G10770 ortho_group4612_cds hydrolase activity
+AT5G10770 ortho_group4612_cds protein metabolism
+AT5G10780 ortho_group2757_cds unknown biological processes
+AT5G10780 ortho_group2757_cds unknown cellular components
+AT5G10780 ortho_group2757_cds unknown molecular functions
+AT5G10810 ortho_group3993_cds unknown biological processes
+AT5G10840 ortho_group5230_cds cell wall
+AT5G10840 ortho_group5230_cds Golgi apparatus
+AT5G10840 ortho_group5230_cds other cytoplasmic components
+AT5G10840 ortho_group5230_cds other intracellular components
+AT5G10840 ortho_group5230_cds other membranes
+AT5G10860 ortho_group3468_cds mitochondria
+AT5G10860 ortho_group3468_cds other binding
+AT5G10860 ortho_group3468_cds other cellular processes
+AT5G10860 ortho_group3468_cds response to abiotic or biotic stimulus
+AT5G10860 ortho_group3468_cds response to stress
+AT5G10960 ortho_group2561_cds hydrolase activity
+AT5G10960 ortho_group2561_cds nucleic acid binding
+AT5G10960 ortho_group2561_cds other cellular processes
+AT5G10960 ortho_group2561_cds other metabolic processes
+AT5G11280 ortho_group3268_cds unknown biological processes
+AT5G11280 ortho_group3268_cds unknown cellular components
+AT5G11280 ortho_group3268_cds unknown molecular functions
+AT5G11420 ortho_group5288_cds cell wall
+AT5G11420 ortho_group5288_cds unknown biological processes
+AT5G11420 ortho_group5288_cds unknown molecular functions
+AT5G11450 ortho_group3581_cds chloroplast
+AT5G11450 ortho_group3581_cds other binding
+AT5G11450 ortho_group3581_cds other cellular processes
+AT5G11450 ortho_group3581_cds other cytoplasmic components
+AT5G11450 ortho_group3581_cds other intracellular components
+AT5G11450 ortho_group3581_cds other membranes
+AT5G11450 ortho_group3581_cds other metabolic processes
+AT5G11450 ortho_group3581_cds plastid
+AT5G11470 ortho_group4207_cds DNA or RNA binding
+AT5G11470 ortho_group4207_cds nucleic acid binding
+AT5G11470 ortho_group4207_cds unknown biological processes
+AT5G11470 ortho_group4207_cds unknown cellular components
+AT5G11500 ortho_group5090_cds unknown biological processes
+AT5G11500 ortho_group5090_cds unknown molecular functions
+AT5G11600 ortho_group5398_cds chloroplast
+AT5G11600 ortho_group5398_cds unknown biological processes
+AT5G11600 ortho_group5398_cds unknown molecular functions
+AT5G11670 ortho_group5403_cds cell organization and biogenesis
+AT5G11670 ortho_group5403_cds cell wall
+AT5G11670 ortho_group5403_cds chloroplast
+AT5G11670 ortho_group5403_cds cytosol
+AT5G11670 ortho_group5403_cds extracellular
+AT5G11670 ortho_group5403_cds other biological processes
+AT5G11670 ortho_group5403_cds other cellular components
+AT5G11670 ortho_group5403_cds other cellular processes
+AT5G11670 ortho_group5403_cds other cytoplasmic components
+AT5G11670 ortho_group5403_cds other enzyme activity
+AT5G11670 ortho_group5403_cds other intracellular components
+AT5G11670 ortho_group5403_cds other membranes
+AT5G11670 ortho_group5403_cds other metabolic processes
+AT5G11670 ortho_group5403_cds plasma membrane
+AT5G11680 ortho_group3248_cds cytosol
+AT5G11680 ortho_group3248_cds plasma membrane
+AT5G11680 ortho_group3248_cds unknown biological processes
+AT5G11680 ortho_group3248_cds unknown molecular functions
+AT5G11850 ortho_group2732_cds kinase activity
+AT5G11850 ortho_group2732_cds other cellular processes
+AT5G11850 ortho_group2732_cds other metabolic processes
+AT5G11850 ortho_group2732_cds plasma membrane
+AT5G11850 ortho_group2732_cds protein metabolism
+AT5G11850 ortho_group2732_cds transferase activity
+AT5G11860 ortho_group3066_cds hydrolase activity
+AT5G11860 ortho_group3066_cds nucleus
+AT5G11860 ortho_group3066_cds other cellular processes
+AT5G11860 ortho_group3066_cds other cytoplasmic components
+AT5G11860 ortho_group3066_cds other intracellular components
+AT5G11860 ortho_group3066_cds other metabolic processes
+AT5G11860 ortho_group3066_cds protein metabolism
+AT5G11900 ortho_group3922_cds DNA or RNA binding
+AT5G11900 ortho_group3922_cds other cellular processes
+AT5G11900 ortho_group3922_cds other metabolic processes
+AT5G11900 ortho_group3922_cds protein metabolism
+AT5G11900 ortho_group3922_cds unknown cellular components
+AT5G11910 ortho_group3291_cds other cytoplasmic components
+AT5G11910 ortho_group3291_cds other enzyme activity
+AT5G11910 ortho_group3291_cds other intracellular components
+AT5G11970 ortho_group4314_cds plasma membrane
+AT5G11970 ortho_group4314_cds unknown biological processes
+AT5G11970 ortho_group4314_cds unknown molecular functions
+AT5G12040 ortho_group5374_cds chloroplast
+AT5G12040 ortho_group5374_cds cytosol
+AT5G12040 ortho_group5374_cds hydrolase activity
+AT5G12040 ortho_group5374_cds other binding
+AT5G12040 ortho_group5374_cds other cytoplasmic components
+AT5G12040 ortho_group5374_cds other intracellular components
+AT5G12040 ortho_group5374_cds other metabolic processes
+AT5G12040 ortho_group5374_cds plastid
+AT5G12080 ortho_group3175_cds other membranes
+AT5G12080 ortho_group3175_cds plasma membrane
+AT5G12080 ortho_group3175_cds response to abiotic or biotic stimulus
+AT5G12080 ortho_group3175_cds transporter activity
+AT5G12190 ortho_group4924_cds DNA or RNA binding
+AT5G12190 ortho_group4924_cds nucleic acid binding
+AT5G12190 ortho_group4924_cds nucleotide binding
+AT5G12190 ortho_group4924_cds unknown biological processes
+AT5G12200 ortho_group3962_cds hydrolase activity
+AT5G12200 ortho_group3962_cds other cellular components
+AT5G12200 ortho_group3962_cds other cellular processes
+AT5G12200 ortho_group3962_cds other metabolic processes
+AT5G12210 ortho_group4856_cds cytosol
+AT5G12210 ortho_group4856_cds other enzyme activity
+AT5G12310 ortho_group4065_cds other binding
+AT5G12370 ortho_group3197_cds other cellular components
+AT5G12370 ortho_group3197_cds other cellular processes
+AT5G12370 ortho_group3197_cds other cytoplasmic components
+AT5G12370 ortho_group3197_cds other intracellular components
+AT5G12370 ortho_group3197_cds other membranes
+AT5G12370 ortho_group3197_cds plasma membrane
+AT5G12370 ortho_group3197_cds transport
+AT5G12370 ortho_group3197_cds unknown molecular functions
+AT5G12470 ortho_group3779_cds chloroplast
+AT5G12470 ortho_group3779_cds mitochondria
+AT5G12470 ortho_group3779_cds other cytoplasmic components
+AT5G12470 ortho_group3779_cds other intracellular components
+AT5G12470 ortho_group3779_cds other membranes
+AT5G12470 ortho_group3779_cds plastid
+AT5G12470 ortho_group3779_cds unknown biological processes
+AT5G12470 ortho_group3779_cds unknown molecular functions
+AT5G13000 ortho_group5494_cds other cellular processes
+AT5G13000 ortho_group5494_cds other membranes
+AT5G13000 ortho_group5494_cds other metabolic processes
+AT5G13000 ortho_group5494_cds plasma membrane
+AT5G13000 ortho_group5494_cds transferase activity
+AT5G13020 ortho_group3670_cds unknown biological processes
+AT5G13020 ortho_group3670_cds unknown molecular functions
+AT5G13080 ortho_group5219_cds developmental processes
+AT5G13080 ortho_group5219_cds nucleus
+AT5G13080 ortho_group5219_cds other biological processes
+AT5G13080 ortho_group5219_cds other cellular processes
+AT5G13080 ortho_group5219_cds other metabolic processes
+AT5G13080 ortho_group5219_cds response to stress
+AT5G13080 ortho_group5219_cds transcription factor activity
+AT5G13110 ortho_group4271_cds chloroplast
+AT5G13110 ortho_group4271_cds other cellular processes
+AT5G13110 ortho_group4271_cds other cytoplasmic components
+AT5G13110 ortho_group4271_cds other enzyme activity
+AT5G13110 ortho_group4271_cds other intracellular components
+AT5G13110 ortho_group4271_cds other metabolic processes
+AT5G13110 ortho_group4271_cds plastid
+AT5G13120 ortho_group4793_cds cell organization and biogenesis
+AT5G13120 ortho_group4793_cds chloroplast
+AT5G13120 ortho_group4793_cds other cellular processes
+AT5G13120 ortho_group4793_cds other cytoplasmic components
+AT5G13120 ortho_group4793_cds other enzyme activity
+AT5G13120 ortho_group4793_cds other intracellular components
+AT5G13120 ortho_group4793_cds other membranes
+AT5G13120 ortho_group4793_cds other metabolic processes
+AT5G13120 ortho_group4793_cds plastid
+AT5G13120 ortho_group4793_cds protein binding
+AT5G13120 ortho_group4793_cds protein metabolism
+AT5G13160 ortho_group4338_cds kinase activity
+AT5G13160 ortho_group4338_cds other cellular components
+AT5G13160 ortho_group4338_cds other cellular processes
+AT5G13160 ortho_group4338_cds other metabolic processes
+AT5G13160 ortho_group4338_cds protein binding
+AT5G13160 ortho_group4338_cds protein metabolism
+AT5G13160 ortho_group4338_cds response to abiotic or biotic stimulus
+AT5G13160 ortho_group4338_cds response to stress
+AT5G13160 ortho_group4338_cds transferase activity
+AT5G13180 ortho_group5035_cds developmental processes
+AT5G13180 ortho_group5035_cds other biological processes
+AT5G13180 ortho_group5035_cds other cellular processes
+AT5G13180 ortho_group5035_cds other metabolic processes
+AT5G13180 ortho_group5035_cds protein binding
+AT5G13180 ortho_group5035_cds response to abiotic or biotic stimulus
+AT5G13180 ortho_group5035_cds response to stress
+AT5G13180 ortho_group5035_cds transcription factor activity
+AT5G13180 ortho_group5035_cds unknown cellular components
+AT5G13190 ortho_group4404_cds other cellular processes
+AT5G13190 ortho_group4404_cds plasma membrane
+AT5G13190 ortho_group4404_cds response to stress
+AT5G13240 ortho_group4571_cds other cellular processes
+AT5G13240 ortho_group4571_cds other metabolic processes
+AT5G13410 ortho_group3386_cds chloroplast
+AT5G13410 ortho_group3386_cds other binding
+AT5G13410 ortho_group3386_cds other cellular processes
+AT5G13410 ortho_group3386_cds other cytoplasmic components
+AT5G13410 ortho_group3386_cds other enzyme activity
+AT5G13410 ortho_group3386_cds other intracellular components
+AT5G13410 ortho_group3386_cds other membranes
+AT5G13410 ortho_group3386_cds other metabolic processes
+AT5G13410 ortho_group3386_cds plastid
+AT5G13410 ortho_group3386_cds protein metabolism
+AT5G13450 ortho_group5190_cds chloroplast
+AT5G13450 ortho_group5190_cds mitochondria
+AT5G13450 ortho_group5190_cds other binding
+AT5G13450 ortho_group5190_cds other cellular processes
+AT5G13450 ortho_group5190_cds other cytoplasmic components
+AT5G13450 ortho_group5190_cds other intracellular components
+AT5G13450 ortho_group5190_cds other membranes
+AT5G13450 ortho_group5190_cds other metabolic processes
+AT5G13450 ortho_group5190_cds plasma membrane
+AT5G13450 ortho_group5190_cds transport
+AT5G13450 ortho_group5190_cds transporter activity
+AT5G13490 ortho_group2688_cds chloroplast
+AT5G13490 ortho_group2688_cds mitochondria
+AT5G13490 ortho_group2688_cds other binding
+AT5G13490 ortho_group2688_cds other cellular processes
+AT5G13490 ortho_group2688_cds other cytoplasmic components
+AT5G13490 ortho_group2688_cds other intracellular components
+AT5G13490 ortho_group2688_cds other membranes
+AT5G13490 ortho_group2688_cds plastid
+AT5G13490 ortho_group2688_cds protein binding
+AT5G13490 ortho_group2688_cds transport
+AT5G13490 ortho_group2688_cds transporter activity
+AT5G13500 ortho_group3590_cds other cellular components
+AT5G13500 ortho_group3590_cds unknown biological processes
+AT5G13500 ortho_group3590_cds unknown molecular functions
+AT5G13520 ortho_group3837_cds cytosol
+AT5G13520 ortho_group3837_cds hydrolase activity
+AT5G13520 ortho_group3837_cds other binding
+AT5G13520 ortho_group3837_cds other cellular processes
+AT5G13520 ortho_group3837_cds other metabolic processes
+AT5G13520 ortho_group3837_cds protein metabolism
+AT5G13570 ortho_group3301_cds DNA or RNA binding
+AT5G13570 ortho_group3301_cds hydrolase activity
+AT5G13570 ortho_group3301_cds other cellular processes
+AT5G13570 ortho_group3301_cds other cytoplasmic components
+AT5G13570 ortho_group3301_cds other intracellular components
+AT5G13570 ortho_group3301_cds other metabolic processes
+AT5G13570 ortho_group3301_cds protein binding
+AT5G13610 ortho_group3748_cds mitochondria
+AT5G13610 ortho_group3748_cds unknown biological processes
+AT5G13610 ortho_group3748_cds unknown molecular functions
+AT5G13710 ortho_group3882_cds developmental processes
+AT5G13710 ortho_group3882_cds other cellular components
+AT5G13710 ortho_group3882_cds other cytoplasmic components
+AT5G13710 ortho_group3882_cds other intracellular components
+AT5G13710 ortho_group3882_cds other metabolic processes
+AT5G13710 ortho_group3882_cds transferase activity
+AT5G13720 ortho_group3678_cds chloroplast
+AT5G13720 ortho_group3678_cds other cytoplasmic components
+AT5G13720 ortho_group3678_cds other intracellular components
+AT5G13720 ortho_group3678_cds other membranes
+AT5G13720 ortho_group3678_cds plastid
+AT5G13750 ortho_group3737_cds response to abiotic or biotic stimulus
+AT5G13750 ortho_group3737_cds transporter activity
+AT5G13850 ortho_group3915_cds cytosol
+AT5G13850 ortho_group3915_cds other cellular components
+AT5G13850 ortho_group3915_cds other cytoplasmic components
+AT5G13850 ortho_group3915_cds other intracellular components
+AT5G13850 ortho_group3915_cds response to abiotic or biotic stimulus
+AT5G13850 ortho_group3915_cds response to stress
+AT5G13850 ortho_group3915_cds ribosome
+AT5G13850 ortho_group3915_cds unknown molecular functions
+AT5G13980 ortho_group5289_cds cell wall
+AT5G13980 ortho_group5289_cds extracellular
+AT5G13980 ortho_group5289_cds hydrolase activity
+AT5G13980 ortho_group5289_cds other binding
+AT5G13980 ortho_group5289_cds other cellular processes
+AT5G13980 ortho_group5289_cds other cytoplasmic components
+AT5G13980 ortho_group5289_cds other enzyme activity
+AT5G13980 ortho_group5289_cds other intracellular components
+AT5G13980 ortho_group5289_cds other membranes
+AT5G13980 ortho_group5289_cds other metabolic processes
+AT5G14040 ortho_group3858_cds cell wall
+AT5G14040 ortho_group3858_cds chloroplast
+AT5G14040 ortho_group3858_cds mitochondria
+AT5G14040 ortho_group3858_cds other binding
+AT5G14040 ortho_group3858_cds other cellular processes
+AT5G14040 ortho_group3858_cds other cytoplasmic components
+AT5G14040 ortho_group3858_cds other intracellular components
+AT5G14040 ortho_group3858_cds other membranes
+AT5G14040 ortho_group3858_cds transport
+AT5G14170 ortho_group5390_cds developmental processes
+AT5G14170 ortho_group5390_cds DNA or RNA metabolism
+AT5G14170 ortho_group5390_cds other cellular processes
+AT5G14170 ortho_group5390_cds response to abiotic or biotic stimulus
+AT5G14170 ortho_group5390_cds response to stress
+AT5G14170 ortho_group5390_cds unknown molecular functions
+AT5G14250 ortho_group2552_cds cytosol
+AT5G14250 ortho_group2552_cds developmental processes
+AT5G14250 ortho_group2552_cds nucleus
+AT5G14250 ortho_group2552_cds other cellular processes
+AT5G14250 ortho_group2552_cds other intracellular components
+AT5G14250 ortho_group2552_cds other metabolic processes
+AT5G14250 ortho_group2552_cds protein binding
+AT5G14250 ortho_group2552_cds protein metabolism
+AT5G14250 ortho_group2552_cds response to abiotic or biotic stimulus
+AT5G14260 ortho_group4956_cds chloroplast
+AT5G14260 ortho_group4956_cds other cytoplasmic components
+AT5G14260 ortho_group4956_cds other intracellular components
+AT5G14260 ortho_group4956_cds plastid
+AT5G14260 ortho_group4956_cds unknown biological processes
+AT5G14260 ortho_group4956_cds unknown molecular functions
+AT5G14320 ortho_group4888_cds chloroplast
+AT5G14320 ortho_group4888_cds DNA or RNA binding
+AT5G14320 ortho_group4888_cds nucleic acid binding
+AT5G14320 ortho_group4888_cds other cellular processes
+AT5G14320 ortho_group4888_cds other cytoplasmic components
+AT5G14320 ortho_group4888_cds other intracellular components
+AT5G14320 ortho_group4888_cds other metabolic processes
+AT5G14320 ortho_group4888_cds plastid
+AT5G14320 ortho_group4888_cds protein metabolism
+AT5G14320 ortho_group4888_cds ribosome
+AT5G14320 ortho_group4888_cds structural molecule activity
+AT5G14360 ortho_group4903_cds unknown cellular components
+AT5G14360 ortho_group4903_cds unknown molecular functions
+AT5G14420 ortho_group3811_cds nucleus
+AT5G14420 ortho_group3811_cds other cellular processes
+AT5G14420 ortho_group3811_cds other enzyme activity
+AT5G14420 ortho_group3811_cds other metabolic processes
+AT5G14420 ortho_group3811_cds plasma membrane
+AT5G14420 ortho_group3811_cds protein metabolism
+AT5G14420 ortho_group3811_cds response to abiotic or biotic stimulus
+AT5G14420 ortho_group3811_cds response to stress
+AT5G14460 ortho_group4076_cds chloroplast
+AT5G14460 ortho_group4076_cds other cellular processes
+AT5G14460 ortho_group4076_cds other enzyme activity
+AT5G14460 ortho_group4076_cds other metabolic processes
+AT5G14460 ortho_group4076_cds transporter activity
+AT5G14500 ortho_group4843_cds other binding
+AT5G14500 ortho_group4843_cds other cellular processes
+AT5G14500 ortho_group4843_cds other enzyme activity
+AT5G14500 ortho_group4843_cds other metabolic processes
+AT5G14500 ortho_group4843_cds unknown cellular components
+AT5G14520 ortho_group3256_cds nucleus
+AT5G14520 ortho_group3256_cds other biological processes
+AT5G14520 ortho_group3256_cds other intracellular components
+AT5G14520 ortho_group3256_cds other molecular functions
+AT5G14610 ortho_group4298_cds hydrolase activity
+AT5G14610 ortho_group4298_cds nucleic acid binding
+AT5G14610 ortho_group4298_cds nucleotide binding
+AT5G14610 ortho_group4298_cds unknown cellular components
+AT5G14640 ortho_group5211_cds cytosol
+AT5G14640 ortho_group5211_cds kinase activity
+AT5G14640 ortho_group5211_cds other cellular processes
+AT5G14640 ortho_group5211_cds other metabolic processes
+AT5G14640 ortho_group5211_cds protein metabolism
+AT5G14640 ortho_group5211_cds response to abiotic or biotic stimulus
+AT5G14640 ortho_group5211_cds response to stress
+AT5G14640 ortho_group5211_cds transferase activity
+AT5G14670 ortho_group5143_cds nucleotide binding
+AT5G14670 ortho_group5143_cds other cellular processes
+AT5G14670 ortho_group5143_cds other metabolic processes
+AT5G14670 ortho_group5143_cds other molecular functions
+AT5G14670 ortho_group5143_cds protein metabolism
+AT5G14680 ortho_group3890_cds response to stress
+AT5G14680 ortho_group3890_cds unknown cellular components
+AT5G14680 ortho_group3890_cds unknown molecular functions
+AT5G14710 ortho_group3713_cds unknown biological processes
+AT5G14710 ortho_group3713_cds unknown cellular components
+AT5G14710 ortho_group3713_cds unknown molecular functions
+AT5G14720 ortho_group3116_cds kinase activity
+AT5G14720 ortho_group3116_cds nucleotide binding
+AT5G14720 ortho_group3116_cds other cellular processes
+AT5G14720 ortho_group3116_cds other metabolic processes
+AT5G14720 ortho_group3116_cds plasma membrane
+AT5G14720 ortho_group3116_cds protein metabolism
+AT5G14720 ortho_group3116_cds transferase activity
+AT5G14740 ortho_group5461_cds chloroplast
+AT5G14740 ortho_group5461_cds cytosol
+AT5G14740 ortho_group5461_cds extracellular
+AT5G14740 ortho_group5461_cds other binding
+AT5G14740 ortho_group5461_cds other biological processes
+AT5G14740 ortho_group5461_cds other cytoplasmic components
+AT5G14740 ortho_group5461_cds other enzyme activity
+AT5G14740 ortho_group5461_cds other intracellular components
+AT5G14740 ortho_group5461_cds other membranes
+AT5G14740 ortho_group5461_cds plastid
+AT5G14740 ortho_group5461_cds response to abiotic or biotic stimulus
+AT5G14740 ortho_group5461_cds response to stress
+AT5G14800 ortho_group3891_cds cell wall
+AT5G14800 ortho_group3891_cds other cellular processes
+AT5G14800 ortho_group3891_cds other cytoplasmic components
+AT5G14800 ortho_group3891_cds other enzyme activity
+AT5G14800 ortho_group3891_cds other metabolic processes
+AT5G14800 ortho_group3891_cds response to abiotic or biotic stimulus
+AT5G14800 ortho_group3891_cds response to stress
+AT5G15020 ortho_group4602_cds cytosol
+AT5G15020 ortho_group4602_cds nucleus
+AT5G15020 ortho_group4602_cds other cellular processes
+AT5G15020 ortho_group4602_cds other metabolic processes
+AT5G15020 ortho_group4602_cds unknown molecular functions
+AT5G15150 ortho_group4108_cds DNA or RNA binding
+AT5G15150 ortho_group4108_cds nucleus
+AT5G15150 ortho_group4108_cds other cellular processes
+AT5G15150 ortho_group4108_cds other metabolic processes
+AT5G15150 ortho_group4108_cds transcription factor activity
+AT5G15200 ortho_group4160_cds cell wall
+AT5G15200 ortho_group4160_cds chloroplast
+AT5G15200 ortho_group4160_cds cytosol
+AT5G15200 ortho_group4160_cds nucleus
+AT5G15200 ortho_group4160_cds other cellular components
+AT5G15200 ortho_group4160_cds other cellular processes
+AT5G15200 ortho_group4160_cds other cytoplasmic components
+AT5G15200 ortho_group4160_cds other intracellular components
+AT5G15200 ortho_group4160_cds other membranes
+AT5G15200 ortho_group4160_cds other metabolic processes
+AT5G15200 ortho_group4160_cds protein metabolism
+AT5G15200 ortho_group4160_cds ribosome
+AT5G15200 ortho_group4160_cds structural molecule activity
+AT5G15220 ortho_group5200_cds other cellular processes
+AT5G15220 ortho_group5200_cds other intracellular components
+AT5G15220 ortho_group5200_cds other metabolic processes
+AT5G15220 ortho_group5200_cds protein metabolism
+AT5G15220 ortho_group5200_cds ribosome
+AT5G15220 ortho_group5200_cds structural molecule activity
+AT5G15230 ortho_group3719_cds other biological processes
+AT5G15230 ortho_group3719_cds other cellular components
+AT5G15230 ortho_group3719_cds other cellular processes
+AT5G15230 ortho_group3719_cds signal transduction
+AT5G15230 ortho_group3719_cds unknown molecular functions
+AT5G15240 ortho_group4961_cds other membranes
+AT5G15240 ortho_group4961_cds transport
+AT5G15240 ortho_group4961_cds transporter activity
+AT5G15270 ortho_group4862_cds DNA or RNA binding
+AT5G15270 ortho_group4862_cds nucleic acid binding
+AT5G15270 ortho_group4862_cds unknown biological processes
+AT5G15270 ortho_group4862_cds unknown cellular components
+AT5G15520 ortho_group5173_cds cytosol
+AT5G15520 ortho_group5173_cds nucleus
+AT5G15520 ortho_group5173_cds other cellular components
+AT5G15520 ortho_group5173_cds other cellular processes
+AT5G15520 ortho_group5173_cds other cytoplasmic components
+AT5G15520 ortho_group5173_cds other intracellular components
+AT5G15520 ortho_group5173_cds other membranes
+AT5G15520 ortho_group5173_cds other metabolic processes
+AT5G15520 ortho_group5173_cds protein metabolism
+AT5G15520 ortho_group5173_cds ribosome
+AT5G15520 ortho_group5173_cds structural molecule activity
+AT5G15740 ortho_group3730_cds unknown biological processes
+AT5G15740 ortho_group3730_cds unknown cellular components
+AT5G15740 ortho_group3730_cds unknown molecular functions
+AT5G15750 ortho_group3248_cds cytosol
+AT5G15750 ortho_group3248_cds DNA or RNA binding
+AT5G15750 ortho_group3248_cds other cytoplasmic components
+AT5G15750 ortho_group3248_cds other intracellular components
+AT5G15750 ortho_group3248_cds ribosome
+AT5G15840 ortho_group4275_cds developmental processes
+AT5G15840 ortho_group4275_cds nucleus
+AT5G15840 ortho_group4275_cds other binding
+AT5G15840 ortho_group4275_cds other biological processes
+AT5G15840 ortho_group4275_cds other cellular processes
+AT5G15840 ortho_group4275_cds protein binding
+AT5G15840 ortho_group4275_cds response to abiotic or biotic stimulus
+AT5G15840 ortho_group4275_cds signal transduction
+AT5G15840 ortho_group4275_cds transcription factor activity
+AT5G15900 ortho_group5333_cds other cellular components
+AT5G15900 ortho_group5333_cds unknown biological processes
+AT5G16000 ortho_group5281_cds kinase activity
+AT5G16000 ortho_group5281_cds plasma membrane
+AT5G16000 ortho_group5281_cds protein binding
+AT5G16000 ortho_group5281_cds response to abiotic or biotic stimulus
+AT5G16000 ortho_group5281_cds response to stress
+AT5G16010 ortho_group5504_cds chloroplast
+AT5G16010 ortho_group5504_cds other cytoplasmic components
+AT5G16010 ortho_group5504_cds other enzyme activity
+AT5G16010 ortho_group5504_cds other intracellular components
+AT5G16010 ortho_group5504_cds other metabolic processes
+AT5G16010 ortho_group5504_cds plastid
+AT5G16120 ortho_group4390_cds hydrolase activity
+AT5G16120 ortho_group4390_cds other cellular components
+AT5G16140 ortho_group4652_cds hydrolase activity
+AT5G16140 ortho_group4652_cds other cellular processes
+AT5G16140 ortho_group4652_cds other metabolic processes
+AT5G16140 ortho_group4652_cds protein metabolism
+AT5G16270 ortho_group4305_cds cell organization and biogenesis
+AT5G16270 ortho_group4305_cds nucleus
+AT5G16270 ortho_group4305_cds other cellular processes
+AT5G16270 ortho_group4305_cds other intracellular components
+AT5G16270 ortho_group4305_cds unknown molecular functions
+AT5G16390 ortho_group4016_cds chloroplast
+AT5G16390 ortho_group4016_cds other binding
+AT5G16390 ortho_group4016_cds other cellular processes
+AT5G16390 ortho_group4016_cds other cytoplasmic components
+AT5G16390 ortho_group4016_cds other enzyme activity
+AT5G16390 ortho_group4016_cds other intracellular components
+AT5G16390 ortho_group4016_cds other metabolic processes
+AT5G16390 ortho_group4016_cds plastid
+AT5G16400 ortho_group4341_cds chloroplast
+AT5G16400 ortho_group4341_cds cytosol
+AT5G16400 ortho_group4341_cds other cytoplasmic components
+AT5G16400 ortho_group4341_cds other intracellular components
+AT5G16400 ortho_group4341_cds other metabolic processes
+AT5G16400 ortho_group4341_cds other molecular functions
+AT5G16400 ortho_group4341_cds plastid
+AT5G16450 ortho_group3108_cds other cellular processes
+AT5G16450 ortho_group3108_cds other metabolic processes
+AT5G16450 ortho_group3108_cds other molecular functions
+AT5G16450 ortho_group3108_cds unknown cellular components
+AT5G16620 ortho_group4619_cds cell organization and biogenesis
+AT5G16620 ortho_group4619_cds chloroplast
+AT5G16620 ortho_group4619_cds other cellular processes
+AT5G16620 ortho_group4619_cds other cytoplasmic components
+AT5G16620 ortho_group4619_cds other intracellular components
+AT5G16620 ortho_group4619_cds other membranes
+AT5G16620 ortho_group4619_cds plastid
+AT5G16620 ortho_group4619_cds protein binding
+AT5G16620 ortho_group4619_cds transport
+AT5G16710 ortho_group3928_cds chloroplast
+AT5G16710 ortho_group3928_cds other cellular processes
+AT5G16710 ortho_group3928_cds other cytoplasmic components
+AT5G16710 ortho_group3928_cds other enzyme activity
+AT5G16710 ortho_group3928_cds other intracellular components
+AT5G16710 ortho_group3928_cds other metabolic processes
+AT5G16710 ortho_group3928_cds plastid
+AT5G16710 ortho_group3928_cds protein metabolism
+AT5G16770 ortho_group4524_cds DNA or RNA binding
+AT5G16770 ortho_group4524_cds other biological processes
+AT5G16770 ortho_group4524_cds other cellular processes
+AT5G16770 ortho_group4524_cds other metabolic processes
+AT5G16770 ortho_group4524_cds transcription factor activity
+AT5G16780 ortho_group4740_cds developmental processes
+AT5G16780 ortho_group4740_cds nucleus
+AT5G16780 ortho_group4740_cds other biological processes
+AT5G16780 ortho_group4740_cds other intracellular components
+AT5G16780 ortho_group4740_cds unknown molecular functions
+AT5G16800 ortho_group3787_cds other metabolic processes
+AT5G16800 ortho_group3787_cds transferase activity
+AT5G16810 ortho_group3038_cds chloroplast
+AT5G16810 ortho_group3038_cds kinase activity
+AT5G16810 ortho_group3038_cds nucleotide binding
+AT5G16810 ortho_group3038_cds other cellular processes
+AT5G16810 ortho_group3038_cds other metabolic processes
+AT5G16810 ortho_group3038_cds protein metabolism
+AT5G16810 ortho_group3038_cds transferase activity
+AT5G16940 ortho_group4437_cds other enzyme activity
+AT5G16940 ortho_group4437_cds other metabolic processes
+AT5G16940 ortho_group4437_cds unknown cellular components
+AT5G16980 ortho_group5433_cds other binding
+AT5G16980 ortho_group5433_cds other enzyme activity
+AT5G16980 ortho_group5433_cds response to stress
+AT5G17010 ortho_group4478_cds other cellular processes
+AT5G17010 ortho_group4478_cds other cytoplasmic components
+AT5G17010 ortho_group4478_cds other intracellular components
+AT5G17010 ortho_group4478_cds other membranes
+AT5G17010 ortho_group4478_cds transport
+AT5G17010 ortho_group4478_cds transporter activity
+AT5G17060 ortho_group3664_cds nucleotide binding
+AT5G17060 ortho_group3664_cds other cellular processes
+AT5G17060 ortho_group3664_cds other metabolic processes
+AT5G17060 ortho_group3664_cds protein metabolism
+AT5G17290 ortho_group4973_cds developmental processes
+AT5G17290 ortho_group4973_cds other cellular processes
+AT5G17290 ortho_group4973_cds other metabolic processes
+AT5G17290 ortho_group4973_cds response to abiotic or biotic stimulus
+AT5G17290 ortho_group4973_cds response to stress
+AT5G17290 ortho_group4973_cds transporter activity
+AT5G17300 ortho_group4709_cds DNA or RNA binding
+AT5G17300 ortho_group4709_cds other biological processes
+AT5G17300 ortho_group4709_cds other cellular processes
+AT5G17300 ortho_group4709_cds other metabolic processes
+AT5G17300 ortho_group4709_cds signal transduction
+AT5G17300 ortho_group4709_cds transcription factor activity
+AT5G17310 ortho_group4491_cds cell organization and biogenesis
+AT5G17310 ortho_group4491_cds cytosol
+AT5G17310 ortho_group4491_cds developmental processes
+AT5G17310 ortho_group4491_cds other biological processes
+AT5G17310 ortho_group4491_cds other cellular processes
+AT5G17310 ortho_group4491_cds other metabolic processes
+AT5G17310 ortho_group4491_cds plasma membrane
+AT5G17310 ortho_group4491_cds response to abiotic or biotic stimulus
+AT5G17310 ortho_group4491_cds response to stress
+AT5G17310 ortho_group4491_cds transferase activity
+AT5G17420 ortho_group5170_cds cell organization and biogenesis
+AT5G17420 ortho_group5170_cds chloroplast
+AT5G17420 ortho_group5170_cds other cellular processes
+AT5G17420 ortho_group5170_cds other metabolic processes
+AT5G17420 ortho_group5170_cds plasma membrane
+AT5G17420 ortho_group5170_cds transferase activity
+AT5G17620 ortho_group2934_cds unknown biological processes
+AT5G17620 ortho_group2934_cds unknown cellular components
+AT5G17620 ortho_group2934_cds unknown molecular functions
+AT5G17670 ortho_group4556_cds chloroplast
+AT5G17670 ortho_group4556_cds hydrolase activity
+AT5G17670 ortho_group4556_cds other cellular processes
+AT5G17670 ortho_group4556_cds other cytoplasmic components
+AT5G17670 ortho_group4556_cds other intracellular components
+AT5G17670 ortho_group4556_cds other metabolic processes
+AT5G17670 ortho_group4556_cds plastid
+AT5G17670 ortho_group4556_cds transport
+AT5G17770 ortho_group2744_cds cell wall
+AT5G17770 ortho_group2744_cds electron transport or energy pathways
+AT5G17770 ortho_group2744_cds ER
+AT5G17770 ortho_group2744_cds other enzyme activity
+AT5G17770 ortho_group2744_cds other metabolic processes
+AT5G17770 ortho_group2744_cds plasma membrane
+AT5G18100 ortho_group2884_cds extracellular
+AT5G18100 ortho_group2884_cds other binding
+AT5G18100 ortho_group2884_cds other cellular processes
+AT5G18100 ortho_group2884_cds other cytoplasmic components
+AT5G18100 ortho_group2884_cds other enzyme activity
+AT5G18100 ortho_group2884_cds other intracellular components
+AT5G18100 ortho_group2884_cds other metabolic processes
+AT5G18100 ortho_group2884_cds response to stress
+AT5G18110 ortho_group4236_cds cytosol
+AT5G18110 ortho_group4236_cds DNA or RNA binding
+AT5G18110 ortho_group4236_cds other cellular processes
+AT5G18110 ortho_group4236_cds other cytoplasmic components
+AT5G18110 ortho_group4236_cds other metabolic processes
+AT5G18110 ortho_group4236_cds protein metabolism
+AT5G18170 ortho_group4651_cds mitochondria
+AT5G18170 ortho_group4651_cds nucleotide binding
+AT5G18170 ortho_group4651_cds other binding
+AT5G18170 ortho_group4651_cds other biological processes
+AT5G18170 ortho_group4651_cds other enzyme activity
+AT5G18170 ortho_group4651_cds other metabolic processes
+AT5G18170 ortho_group4651_cds response to abiotic or biotic stimulus
+AT5G18170 ortho_group4651_cds response to stress
+AT5G18250 ortho_group5533_cds mitochondria
+AT5G18250 ortho_group5533_cds unknown biological processes
+AT5G18250 ortho_group5533_cds unknown molecular functions
+AT5G18362 ortho_group4213_cds unknown biological processes
+AT5G18362 ortho_group4213_cds unknown cellular components
+AT5G18362 ortho_group4213_cds unknown molecular functions
+AT5G18400 ortho_group4213_cds unknown biological processes
+AT5G18400 ortho_group4213_cds unknown molecular functions
+AT5G18480 ortho_group5228_cds other membranes
+AT5G18480 ortho_group5228_cds other metabolic processes
+AT5G18480 ortho_group5228_cds transferase activity
+AT5G18540 ortho_group3865_cds unknown biological processes
+AT5G18540 ortho_group3865_cds unknown molecular functions
+AT5G18570 ortho_group4927_cds cell organization and biogenesis
+AT5G18570 ortho_group4927_cds chloroplast
+AT5G18570 ortho_group4927_cds developmental processes
+AT5G18570 ortho_group4927_cds hydrolase activity
+AT5G18570 ortho_group4927_cds other cellular processes
+AT5G18570 ortho_group4927_cds other cytoplasmic components
+AT5G18570 ortho_group4927_cds other intracellular components
+AT5G18570 ortho_group4927_cds other membranes
+AT5G18570 ortho_group4927_cds plastid
+AT5G18570 ortho_group4927_cds response to abiotic or biotic stimulus
+AT5G18600 ortho_group3446_cds other cellular processes
+AT5G18600 ortho_group3446_cds other enzyme activity
+AT5G18600 ortho_group3446_cds other molecular functions
+AT5G18600 ortho_group3446_cds unknown cellular components
+AT5G18620 ortho_group3376_cds cell organization and biogenesis
+AT5G18620 ortho_group3376_cds DNA or RNA binding
+AT5G18620 ortho_group3376_cds hydrolase activity
+AT5G18620 ortho_group3376_cds nucleic acid binding
+AT5G18620 ortho_group3376_cds nucleotide binding
+AT5G18620 ortho_group3376_cds other binding
+AT5G18620 ortho_group3376_cds other cellular processes
+AT5G18630 ortho_group4814_cds hydrolase activity
+AT5G18630 ortho_group4814_cds other metabolic processes
+AT5G18640 ortho_group4814_cds hydrolase activity
+AT5G18640 ortho_group4814_cds other metabolic processes
+AT5G18800 ortho_group4781_cds electron transport or energy pathways
+AT5G18800 ortho_group4781_cds mitochondria
+AT5G18800 ortho_group4781_cds other cellular processes
+AT5G18800 ortho_group4781_cds other cytoplasmic components
+AT5G18800 ortho_group4781_cds other enzyme activity
+AT5G18800 ortho_group4781_cds other intracellular components
+AT5G18800 ortho_group4781_cds other membranes
+AT5G18800 ortho_group4781_cds other metabolic processes
+AT5G18900 ortho_group4609_cds nucleus
+AT5G18900 ortho_group4609_cds other binding
+AT5G18900 ortho_group4609_cds other cellular processes
+AT5G18900 ortho_group4609_cds other cytoplasmic components
+AT5G18900 ortho_group4609_cds other enzyme activity
+AT5G18900 ortho_group4609_cds other metabolic processes
+AT5G18900 ortho_group4609_cds protein metabolism
+AT5G18940 ortho_group5470_cds other binding
+AT5G18940 ortho_group5470_cds unknown biological processes
+AT5G18970 ortho_group4036_cds other cellular components
+AT5G18970 ortho_group4036_cds other membranes
+AT5G18970 ortho_group4036_cds unknown biological processes
+AT5G18970 ortho_group4036_cds unknown molecular functions
+AT5G19010 ortho_group5545_cds kinase activity
+AT5G19010 ortho_group5545_cds other cytoplasmic components
+AT5G19010 ortho_group5545_cds other intracellular components
+AT5G19010 ortho_group5545_cds plasma membrane
+AT5G19010 ortho_group5545_cds signal transduction
+AT5G19010 ortho_group5545_cds transferase activity
+AT5G19050 ortho_group4165_cds chloroplast
+AT5G19050 ortho_group4165_cds unknown biological processes
+AT5G19140 ortho_group4105_cds other biological processes
+AT5G19140 ortho_group4105_cds plasma membrane
+AT5G19140 ortho_group4105_cds unknown molecular functions
+AT5G19220 ortho_group2687_cds chloroplast
+AT5G19220 ortho_group2687_cds electron transport or energy pathways
+AT5G19220 ortho_group2687_cds other cellular processes
+AT5G19220 ortho_group2687_cds other cytoplasmic components
+AT5G19220 ortho_group2687_cds other intracellular components
+AT5G19220 ortho_group2687_cds other metabolic processes
+AT5G19220 ortho_group2687_cds plastid
+AT5G19220 ortho_group2687_cds transferase activity
+AT5G19250 ortho_group4882_cds other membranes
+AT5G19250 ortho_group4882_cds plasma membrane
+AT5G19250 ortho_group4882_cds unknown biological processes
+AT5G19250 ortho_group4882_cds unknown molecular functions
+AT5G19280 ortho_group3541_cds developmental processes
+AT5G19280 ortho_group3541_cds hydrolase activity
+AT5G19280 ortho_group3541_cds other cellular processes
+AT5G19280 ortho_group3541_cds other metabolic processes
+AT5G19280 ortho_group3541_cds plasma membrane
+AT5G19280 ortho_group3541_cds protein binding
+AT5G19280 ortho_group3541_cds signal transduction
+AT5G19300 ortho_group4035_cds unknown biological processes
+AT5G19300 ortho_group4035_cds unknown cellular components
+AT5G19300 ortho_group4035_cds unknown molecular functions
+AT5G19330 ortho_group3336_cds developmental processes
+AT5G19330 ortho_group3336_cds nucleus
+AT5G19330 ortho_group3336_cds other biological processes
+AT5G19330 ortho_group3336_cds plasma membrane
+AT5G19330 ortho_group3336_cds protein binding
+AT5G19330 ortho_group3336_cds response to abiotic or biotic stimulus
+AT5G19330 ortho_group3336_cds response to stress
+AT5G19370 ortho_group4635_cds chloroplast
+AT5G19370 ortho_group4635_cds other enzyme activity
+AT5G19370 ortho_group4635_cds unknown biological processes
+AT5G19390 ortho_group5334_cds chloroplast
+AT5G19390 ortho_group5334_cds other binding
+AT5G19390 ortho_group5334_cds other cytoplasmic components
+AT5G19390 ortho_group5334_cds other intracellular components
+AT5G19390 ortho_group5334_cds other membranes
+AT5G19390 ortho_group5334_cds other molecular functions
+AT5G19390 ortho_group5334_cds plastid
+AT5G19390 ortho_group5334_cds signal transduction
+AT5G19440 ortho_group3775_cds cytosol
+AT5G19440 ortho_group3775_cds other cellular components
+AT5G19440 ortho_group3775_cds other enzyme activity
+AT5G19440 ortho_group3775_cds plasma membrane
+AT5G19460 ortho_group3814_cds chloroplast
+AT5G19460 ortho_group3814_cds hydrolase activity
+AT5G19460 ortho_group3814_cds unknown biological processes
+AT5G19470 ortho_group3814_cds chloroplast
+AT5G19470 ortho_group3814_cds hydrolase activity
+AT5G19760 ortho_group5475_cds cell wall
+AT5G19760 ortho_group5475_cds chloroplast
+AT5G19760 ortho_group5475_cds mitochondria
+AT5G19760 ortho_group5475_cds other binding
+AT5G19760 ortho_group5475_cds other cellular components
+AT5G19760 ortho_group5475_cds other cellular processes
+AT5G19760 ortho_group5475_cds other cytoplasmic components
+AT5G19760 ortho_group5475_cds other intracellular components
+AT5G19760 ortho_group5475_cds other membranes
+AT5G19760 ortho_group5475_cds plastid
+AT5G19760 ortho_group5475_cds transport
+AT5G19760 ortho_group5475_cds transporter activity
+AT5G19770 ortho_group4089_cds cell wall
+AT5G19770 ortho_group4089_cds cytosol
+AT5G19770 ortho_group4089_cds other cellular components
+AT5G19770 ortho_group4089_cds other cellular processes
+AT5G19770 ortho_group4089_cds other intracellular components
+AT5G19770 ortho_group4089_cds plasma membrane
+AT5G19770 ortho_group4089_cds response to abiotic or biotic stimulus
+AT5G19770 ortho_group4089_cds structural molecule activity
+AT5G19850 ortho_group2911_cds hydrolase activity
+AT5G19855 ortho_group5274_cds chloroplast
+AT5G19855 ortho_group5274_cds other cellular processes
+AT5G19855 ortho_group5274_cds other cytoplasmic components
+AT5G19855 ortho_group5274_cds other intracellular components
+AT5G19855 ortho_group5274_cds other metabolic processes
+AT5G19855 ortho_group5274_cds plastid
+AT5G19855 ortho_group5274_cds protein binding
+AT5G19855 ortho_group5274_cds protein metabolism
+AT5G19860 ortho_group4916_cds other cytoplasmic components
+AT5G19860 ortho_group4916_cds other intracellular components
+AT5G19860 ortho_group4916_cds unknown biological processes
+AT5G19910 ortho_group2784_cds other cellular processes
+AT5G19910 ortho_group2784_cds other metabolic processes
+AT5G19910 ortho_group2784_cds other molecular functions
+AT5G19990 ortho_group2571_cds cytosol
+AT5G19990 ortho_group2571_cds hydrolase activity
+AT5G19990 ortho_group2571_cds nucleus
+AT5G19990 ortho_group2571_cds other cellular processes
+AT5G19990 ortho_group2571_cds other intracellular components
+AT5G19990 ortho_group2571_cds other metabolic processes
+AT5G19990 ortho_group2571_cds plasma membrane
+AT5G19990 ortho_group2571_cds protein metabolism
+AT5G20060 ortho_group3127_cds hydrolase activity
+AT5G20060 ortho_group3127_cds unknown biological processes
+AT5G20070 ortho_group3918_cds chloroplast
+AT5G20070 ortho_group3918_cds cytosol
+AT5G20070 ortho_group3918_cds hydrolase activity
+AT5G20070 ortho_group3918_cds other binding
+AT5G20070 ortho_group3918_cds unknown biological processes
+AT5G20090 ortho_group4191_cds mitochondria
+AT5G20090 ortho_group4191_cds other cytoplasmic components
+AT5G20090 ortho_group4191_cds other intracellular components
+AT5G20090 ortho_group4191_cds other membranes
+AT5G20090 ortho_group4191_cds plasma membrane
+AT5G20090 ortho_group4191_cds unknown biological processes
+AT5G20110 ortho_group4323_cds hydrolase activity
+AT5G20110 ortho_group4323_cds other cellular processes
+AT5G20110 ortho_group4323_cds other intracellular components
+AT5G20120 ortho_group2843_cds unknown biological processes
+AT5G20120 ortho_group2843_cds unknown cellular components
+AT5G20120 ortho_group2843_cds unknown molecular functions
+AT5G20160 ortho_group2789_cds DNA or RNA binding
+AT5G20160 ortho_group2789_cds nucleus
+AT5G20160 ortho_group2789_cds other cellular processes
+AT5G20160 ortho_group2789_cds other intracellular components
+AT5G20190 ortho_group3331_cds chloroplast
+AT5G20190 ortho_group3331_cds other binding
+AT5G20190 ortho_group3331_cds unknown biological processes
+AT5G20240 ortho_group4063_cds DNA or RNA binding
+AT5G20240 ortho_group4063_cds nucleus
+AT5G20240 ortho_group4063_cds other cellular processes
+AT5G20240 ortho_group4063_cds other cytoplasmic components
+AT5G20240 ortho_group4063_cds other metabolic processes
+AT5G20240 ortho_group4063_cds protein binding
+AT5G20240 ortho_group4063_cds transcription factor activity
+AT5G20270 ortho_group4042_cds other biological processes
+AT5G20270 ortho_group4042_cds other membranes
+AT5G20270 ortho_group4042_cds receptor binding or activity
+AT5G20270 ortho_group4042_cds response to abiotic or biotic stimulus
+AT5G20270 ortho_group4042_cds response to stress
+AT5G20360 ortho_group4806_cds other binding
+AT5G20360 ortho_group4806_cds unknown biological processes
+AT5G20360 ortho_group4806_cds unknown cellular components
+AT5G20490 ortho_group4733_cds cell organization and biogenesis
+AT5G20490 ortho_group4733_cds developmental processes
+AT5G20490 ortho_group4733_cds hydrolase activity
+AT5G20490 ortho_group4733_cds other biological processes
+AT5G20490 ortho_group4733_cds other cellular components
+AT5G20490 ortho_group4733_cds other cellular processes
+AT5G20490 ortho_group4733_cds other intracellular components
+AT5G20500 ortho_group4864_cds other cellular processes
+AT5G20500 ortho_group4864_cds other enzyme activity
+AT5G20500 ortho_group4864_cds other molecular functions
+AT5G20520 ortho_group3494_cds developmental processes
+AT5G20520 ortho_group3494_cds ER
+AT5G20520 ortho_group3494_cds hydrolase activity
+AT5G20520 ortho_group3494_cds other intracellular components
+AT5G20520 ortho_group3494_cds other membranes
+AT5G20520 ortho_group3494_cds plasma membrane
+AT5G20680 ortho_group4172_cds unknown biological processes
+AT5G20730 ortho_group4171_cds developmental processes
+AT5G20730 ortho_group4171_cds DNA or RNA binding
+AT5G20730 ortho_group4171_cds nucleus
+AT5G20730 ortho_group4171_cds other biological processes
+AT5G20730 ortho_group4171_cds other cellular processes
+AT5G20730 ortho_group4171_cds other metabolic processes
+AT5G20730 ortho_group4171_cds protein binding
+AT5G20730 ortho_group4171_cds response to abiotic or biotic stimulus
+AT5G20730 ortho_group4171_cds signal transduction
+AT5G20730 ortho_group4171_cds transcription factor activity
+AT5G20810 ortho_group4570_cds other biological processes
+AT5G20810 ortho_group4570_cds other cytoplasmic components
+AT5G20810 ortho_group4570_cds other intracellular components
+AT5G20810 ortho_group4570_cds protein binding
+AT5G20830 ortho_group2670_cds cytosol
+AT5G20830 ortho_group2670_cds other biological processes
+AT5G20830 ortho_group2670_cds other cellular components
+AT5G20830 ortho_group2670_cds other cellular processes
+AT5G20830 ortho_group2670_cds other metabolic processes
+AT5G20830 ortho_group2670_cds response to abiotic or biotic stimulus
+AT5G20830 ortho_group2670_cds response to stress
+AT5G20830 ortho_group2670_cds transferase activity
+AT5G20890 ortho_group4339_cds cell wall
+AT5G20890 ortho_group4339_cds cytosol
+AT5G20890 ortho_group4339_cds nucleotide binding
+AT5G20890 ortho_group4339_cds other cellular processes
+AT5G20890 ortho_group4339_cds other membranes
+AT5G20890 ortho_group4339_cds other metabolic processes
+AT5G20890 ortho_group4339_cds plasma membrane
+AT5G20890 ortho_group4339_cds protein binding
+AT5G20890 ortho_group4339_cds protein metabolism
+AT5G20910 ortho_group5532_cds cytosol
+AT5G20910 ortho_group5532_cds nucleus
+AT5G20910 ortho_group5532_cds other binding
+AT5G20910 ortho_group5532_cds other biological processes
+AT5G20910 ortho_group5532_cds other cellular processes
+AT5G20910 ortho_group5532_cds other enzyme activity
+AT5G20910 ortho_group5532_cds other metabolic processes
+AT5G20910 ortho_group5532_cds protein binding
+AT5G20910 ortho_group5532_cds protein metabolism
+AT5G20910 ortho_group5532_cds signal transduction
+AT5G20920 ortho_group4060_cds developmental processes
+AT5G20920 ortho_group4060_cds DNA or RNA binding
+AT5G20920 ortho_group4060_cds other cellular processes
+AT5G20920 ortho_group4060_cds other metabolic processes
+AT5G20920 ortho_group4060_cds plasma membrane
+AT5G20920 ortho_group4060_cds protein binding
+AT5G20920 ortho_group4060_cds protein metabolism
+AT5G21070 ortho_group4140_cds unknown biological processes
+AT5G21070 ortho_group4140_cds unknown cellular components
+AT5G21070 ortho_group4140_cds unknown molecular functions
+AT5G21090 ortho_group3419_cds other cellular components
+AT5G21090 ortho_group3419_cds signal transduction
+AT5G21150 ortho_group4937_cds developmental processes
+AT5G21150 ortho_group4937_cds DNA or RNA binding
+AT5G21150 ortho_group4937_cds other cellular processes
+AT5G21150 ortho_group4937_cds other cytoplasmic components
+AT5G21160 ortho_group3052_cds cytosol
+AT5G21160 ortho_group3052_cds nucleus
+AT5G21160 ortho_group3052_cds unknown biological processes
+AT5G21160 ortho_group3052_cds unknown molecular functions
+AT5G21222 ortho_group2847_cds kinase activity
+AT5G21222 ortho_group2847_cds nucleotide binding
+AT5G21222 ortho_group2847_cds other cellular processes
+AT5G21222 ortho_group2847_cds other metabolic processes
+AT5G21222 ortho_group2847_cds protein metabolism
+AT5G21222 ortho_group2847_cds transferase activity
+AT5G21222 ortho_group2847_cds unknown cellular components
+AT5G21920 ortho_group3804_cds chloroplast
+AT5G21920 ortho_group3804_cds other membranes
+AT5G21920 ortho_group3804_cds unknown biological processes
+AT5G21920 ortho_group3804_cds unknown molecular functions
+AT5G21990 ortho_group3381_cds chloroplast
+AT5G21990 ortho_group3381_cds cytosol
+AT5G21990 ortho_group3381_cds other binding
+AT5G21990 ortho_group3381_cds other cellular processes
+AT5G21990 ortho_group3381_cds other cytoplasmic components
+AT5G21990 ortho_group3381_cds other enzyme activity
+AT5G21990 ortho_group3381_cds other intracellular components
+AT5G21990 ortho_group3381_cds other membranes
+AT5G21990 ortho_group3381_cds other metabolic processes
+AT5G21990 ortho_group3381_cds plastid
+AT5G21990 ortho_group3381_cds protein metabolism
+AT5G22060 ortho_group3636_cds cytosol
+AT5G22060 ortho_group3636_cds nucleotide binding
+AT5G22060 ortho_group3636_cds other cellular components
+AT5G22060 ortho_group3636_cds other cellular processes
+AT5G22060 ortho_group3636_cds other metabolic processes
+AT5G22060 ortho_group3636_cds plasma membrane
+AT5G22060 ortho_group3636_cds protein binding
+AT5G22060 ortho_group3636_cds protein metabolism
+AT5G22100 ortho_group5515_cds other enzyme activity
+AT5G22100 ortho_group5515_cds unknown biological processes
+AT5G22100 ortho_group5515_cds unknown cellular components
+AT5G22120 ortho_group5354_cds unknown biological processes
+AT5G22120 ortho_group5354_cds unknown cellular components
+AT5G22120 ortho_group5354_cds unknown molecular functions
+AT5G22210 ortho_group3640_cds other cellular processes
+AT5G22210 ortho_group3640_cds other metabolic processes
+AT5G22210 ortho_group3640_cds protein metabolism
+AT5G22210 ortho_group3640_cds unknown cellular components
+AT5G22210 ortho_group3640_cds unknown molecular functions
+AT5G22300 ortho_group3696_cds hydrolase activity
+AT5G22300 ortho_group3696_cds other cellular processes
+AT5G22300 ortho_group3696_cds other enzyme activity
+AT5G22300 ortho_group3696_cds other metabolic processes
+AT5G22300 ortho_group3696_cds response to stress
+AT5G22300 ortho_group3696_cds unknown cellular components
+AT5G22320 ortho_group3391_cds unknown biological processes
+AT5G22320 ortho_group3391_cds unknown cellular components
+AT5G22330 ortho_group4325_cds chloroplast
+AT5G22330 ortho_group4325_cds cytosol
+AT5G22330 ortho_group4325_cds developmental processes
+AT5G22330 ortho_group4325_cds nucleus
+AT5G22330 ortho_group4325_cds other intracellular components
+AT5G22330 ortho_group4325_cds protein binding
+AT5G22330 ortho_group4325_cds response to abiotic or biotic stimulus
+AT5G22330 ortho_group4325_cds response to stress
+AT5G22360 ortho_group5482_cds Golgi apparatus
+AT5G22360 ortho_group5482_cds other cytoplasmic components
+AT5G22360 ortho_group5482_cds other intracellular components
+AT5G22360 ortho_group5482_cds other membranes
+AT5G22360 ortho_group5482_cds response to abiotic or biotic stimulus
+AT5G22360 ortho_group5482_cds response to stress
+AT5G22360 ortho_group5482_cds unknown molecular functions
+AT5G22380 ortho_group2824_cds developmental processes
+AT5G22380 ortho_group2824_cds other cellular processes
+AT5G22380 ortho_group2824_cds other metabolic processes
+AT5G22380 ortho_group2824_cds transcription factor activity
+AT5G22380 ortho_group2824_cds unknown cellular components
+AT5G22620 ortho_group2583_cds chloroplast
+AT5G22620 ortho_group2583_cds other enzyme activity
+AT5G22620 ortho_group2583_cds other metabolic processes
+AT5G22770 ortho_group5237_cds other binding
+AT5G22770 ortho_group5237_cds other cellular processes
+AT5G22770 ortho_group5237_cds other membranes
+AT5G22770 ortho_group5237_cds plasma membrane
+AT5G22770 ortho_group5237_cds protein binding
+AT5G22770 ortho_group5237_cds transport
+AT5G22770 ortho_group5237_cds transporter activity
+AT5G22780 ortho_group5237_cds other binding
+AT5G22780 ortho_group5237_cds other cellular processes
+AT5G22780 ortho_group5237_cds plasma membrane
+AT5G22780 ortho_group5237_cds protein binding
+AT5G22780 ortho_group5237_cds transport
+AT5G22780 ortho_group5237_cds transporter activity
+AT5G23040 ortho_group4100_cds chloroplast
+AT5G23040 ortho_group4100_cds mitochondria
+AT5G23040 ortho_group4100_cds other cellular processes
+AT5G23040 ortho_group4100_cds other cytoplasmic components
+AT5G23040 ortho_group4100_cds other intracellular components
+AT5G23040 ortho_group4100_cds plastid
+AT5G23060 ortho_group3064_cds chloroplast
+AT5G23060 ortho_group3064_cds mitochondria
+AT5G23060 ortho_group3064_cds other cellular processes
+AT5G23060 ortho_group3064_cds other cytoplasmic components
+AT5G23060 ortho_group3064_cds other intracellular components
+AT5G23060 ortho_group3064_cds other membranes
+AT5G23060 ortho_group3064_cds plastid
+AT5G23120 ortho_group2783_cds cell organization and biogenesis
+AT5G23120 ortho_group2783_cds chloroplast
+AT5G23120 ortho_group2783_cds other biological processes
+AT5G23120 ortho_group2783_cds other cellular processes
+AT5G23120 ortho_group2783_cds other cytoplasmic components
+AT5G23120 ortho_group2783_cds other intracellular components
+AT5G23120 ortho_group2783_cds other membranes
+AT5G23120 ortho_group2783_cds plastid
+AT5G23140 ortho_group2816_cds chloroplast
+AT5G23140 ortho_group2816_cds mitochondria
+AT5G23140 ortho_group2816_cds other binding
+AT5G23140 ortho_group2816_cds other cytoplasmic components
+AT5G23140 ortho_group2816_cds other intracellular components
+AT5G23140 ortho_group2816_cds other membranes
+AT5G23140 ortho_group2816_cds plastid
+AT5G23140 ortho_group2816_cds protein metabolism
+AT5G23210 ortho_group2887_cds cell wall
+AT5G23210 ortho_group2887_cds hydrolase activity
+AT5G23210 ortho_group2887_cds other cytoplasmic components
+AT5G23210 ortho_group2887_cds other intracellular components
+AT5G23210 ortho_group2887_cds protein metabolism
+AT5G23290 ortho_group4617_cds cytosol
+AT5G23290 ortho_group4617_cds other cellular processes
+AT5G23290 ortho_group4617_cds other cytoplasmic components
+AT5G23290 ortho_group4617_cds other intracellular components
+AT5G23290 ortho_group4617_cds other metabolic processes
+AT5G23290 ortho_group4617_cds protein binding
+AT5G23290 ortho_group4617_cds protein metabolism
+AT5G23350 ortho_group4689_cds unknown biological processes
+AT5G23420 ortho_group4807_cds DNA or RNA binding
+AT5G23420 ortho_group4807_cds nucleus
+AT5G23420 ortho_group4807_cds transcription factor activity
+AT5G23540 ortho_group2977_cds cytosol
+AT5G23540 ortho_group2977_cds nucleus
+AT5G23540 ortho_group2977_cds other cellular processes
+AT5G23540 ortho_group2977_cds other intracellular components
+AT5G23540 ortho_group2977_cds other metabolic processes
+AT5G23540 ortho_group2977_cds protein metabolism
+AT5G23540 ortho_group2977_cds response to abiotic or biotic stimulus
+AT5G23540 ortho_group2977_cds response to stress
+AT5G23550 ortho_group2997_cds other cellular processes
+AT5G23550 ortho_group2997_cds transport
+AT5G23550 ortho_group2997_cds unknown cellular components
+AT5G23550 ortho_group2997_cds unknown molecular functions
+AT5G23590 ortho_group5591_cds nucleic acid binding
+AT5G23590 ortho_group5591_cds other cellular processes
+AT5G23590 ortho_group5591_cds other metabolic processes
+AT5G23590 ortho_group5591_cds protein binding
+AT5G23590 ortho_group5591_cds protein metabolism
+AT5G23590 ortho_group5591_cds unknown cellular components
+AT5G23660 ortho_group3181_cds other cellular components
+AT5G23660 ortho_group3181_cds other membranes
+AT5G23660 ortho_group3181_cds plasma membrane
+AT5G23660 ortho_group3181_cds transporter activity
+AT5G23660 ortho_group3181_cds unknown biological processes
+AT5G23760 ortho_group3854_cds other binding
+AT5G23760 ortho_group3854_cds unknown cellular components
+AT5G23850 ortho_group5362_cds unknown biological processes
+AT5G23850 ortho_group5362_cds unknown cellular components
+AT5G23850 ortho_group5362_cds unknown molecular functions
+AT5G23870 ortho_group3978_cds cell wall
+AT5G23870 ortho_group3978_cds hydrolase activity
+AT5G23870 ortho_group3978_cds unknown biological processes
+AT5G24090 ortho_group4701_cds hydrolase activity
+AT5G24090 ortho_group4701_cds other binding
+AT5G24090 ortho_group4701_cds other cellular components
+AT5G24090 ortho_group4701_cds other cellular processes
+AT5G24090 ortho_group4701_cds other enzyme activity
+AT5G24090 ortho_group4701_cds response to abiotic or biotic stimulus
+AT5G24090 ortho_group4701_cds response to stress
+AT5G24270 ortho_group4587_cds hydrolase activity
+AT5G24270 ortho_group4587_cds other binding
+AT5G24270 ortho_group4587_cds other biological processes
+AT5G24270 ortho_group4587_cds other cellular processes
+AT5G24270 ortho_group4587_cds other cytoplasmic components
+AT5G24270 ortho_group4587_cds other intracellular components
+AT5G24270 ortho_group4587_cds other metabolic processes
+AT5G24270 ortho_group4587_cds protein binding
+AT5G24270 ortho_group4587_cds protein metabolism
+AT5G24270 ortho_group4587_cds response to abiotic or biotic stimulus
+AT5G24270 ortho_group4587_cds response to stress
+AT5G24300 ortho_group3224_cds chloroplast
+AT5G24300 ortho_group3224_cds other cellular processes
+AT5G24300 ortho_group3224_cds other cytoplasmic components
+AT5G24300 ortho_group3224_cds other intracellular components
+AT5G24300 ortho_group3224_cds other metabolic processes
+AT5G24300 ortho_group3224_cds plastid
+AT5G24300 ortho_group3224_cds transferase activity
+AT5G24310 ortho_group3397_cds cell organization and biogenesis
+AT5G24310 ortho_group3397_cds developmental processes
+AT5G24310 ortho_group3397_cds other cellular processes
+AT5G24310 ortho_group3397_cds other intracellular components
+AT5G24310 ortho_group3397_cds unknown molecular functions
+AT5G24400 ortho_group4033_cds chloroplast
+AT5G24400 ortho_group4033_cds developmental processes
+AT5G24400 ortho_group4033_cds hydrolase activity
+AT5G24400 ortho_group4033_cds other biological processes
+AT5G24400 ortho_group4033_cds other cytoplasmic components
+AT5G24400 ortho_group4033_cds other enzyme activity
+AT5G24400 ortho_group4033_cds other intracellular components
+AT5G24400 ortho_group4033_cds other metabolic processes
+AT5G24400 ortho_group4033_cds plastid
+AT5G24400 ortho_group4033_cds response to abiotic or biotic stimulus
+AT5G24400 ortho_group4033_cds response to stress
+AT5G24490 ortho_group3991_cds chloroplast
+AT5G24490 ortho_group3991_cds other binding
+AT5G24490 ortho_group3991_cds other cellular processes
+AT5G24490 ortho_group3991_cds other cytoplasmic components
+AT5G24490 ortho_group3991_cds other intracellular components
+AT5G24490 ortho_group3991_cds other metabolic processes
+AT5G24490 ortho_group3991_cds plastid
+AT5G24490 ortho_group3991_cds protein metabolism
+AT5G24490 ortho_group3991_cds ribosome
+AT5G24490 ortho_group3991_cds structural molecule activity
+AT5G24530 ortho_group4211_cds other cellular processes
+AT5G24530 ortho_group4211_cds other enzyme activity
+AT5G24530 ortho_group4211_cds other metabolic processes
+AT5G24530 ortho_group4211_cds response to abiotic or biotic stimulus
+AT5G24530 ortho_group4211_cds unknown cellular components
+AT5G24610 ortho_group2770_cds unknown biological processes
+AT5G24610 ortho_group2770_cds unknown cellular components
+AT5G24610 ortho_group2770_cds unknown molecular functions
+AT5G24630 ortho_group5454_cds cell organization and biogenesis
+AT5G24630 ortho_group5454_cds developmental processes
+AT5G24630 ortho_group5454_cds DNA or RNA binding
+AT5G24630 ortho_group5454_cds DNA or RNA metabolism
+AT5G24630 ortho_group5454_cds nucleus
+AT5G24630 ortho_group5454_cds other cellular processes
+AT5G24630 ortho_group5454_cds other intracellular components
+AT5G24630 ortho_group5454_cds other metabolic processes
+AT5G24680 ortho_group4255_cds unknown biological processes
+AT5G24680 ortho_group4255_cds unknown cellular components
+AT5G24680 ortho_group4255_cds unknown molecular functions
+AT5G24760 ortho_group4603_cds chloroplast
+AT5G24760 ortho_group4603_cds other binding
+AT5G24760 ortho_group4603_cds other enzyme activity
+AT5G24760 ortho_group4603_cds other metabolic processes
+AT5G25100 ortho_group4492_cds Golgi apparatus
+AT5G25100 ortho_group4492_cds other cellular components
+AT5G25100 ortho_group4492_cds other membranes
+AT5G25100 ortho_group4492_cds plasma membrane
+AT5G25170 ortho_group2768_cds plasma membrane
+AT5G25170 ortho_group2768_cds unknown biological processes
+AT5G25170 ortho_group2768_cds unknown molecular functions
+AT5G25340 ortho_group3162_cds unknown molecular functions
+AT5G25360 ortho_group4345_cds unknown biological processes
+AT5G25360 ortho_group4345_cds unknown molecular functions
+AT5G25400 ortho_group5036_cds transporter activity
+AT5G25450 ortho_group3227_cds electron transport or energy pathways
+AT5G25450 ortho_group3227_cds mitochondria
+AT5G25450 ortho_group3227_cds other cellular processes
+AT5G25450 ortho_group3227_cds other cytoplasmic components
+AT5G25450 ortho_group3227_cds other enzyme activity
+AT5G25450 ortho_group3227_cds other intracellular components
+AT5G25450 ortho_group3227_cds other membranes
+AT5G25450 ortho_group3227_cds other metabolic processes
+AT5G25450 ortho_group3227_cds transporter activity
+AT5G25754 ortho_group5421_cds cytosol
+AT5G25754 ortho_group5421_cds other cellular components
+AT5G25754 ortho_group5421_cds other membranes
+AT5G25754 ortho_group5421_cds plasma membrane
+AT5G25754 ortho_group5421_cds unknown biological processes
+AT5G25754 ortho_group5421_cds unknown molecular functions
+AT5G25760 ortho_group3450_cds cell organization and biogenesis
+AT5G25760 ortho_group3450_cds other cellular processes
+AT5G25760 ortho_group3450_cds other enzyme activity
+AT5G25760 ortho_group3450_cds other metabolic processes
+AT5G25760 ortho_group3450_cds protein binding
+AT5G25760 ortho_group3450_cds transport
+AT5G25800 ortho_group3293_cds hydrolase activity
+AT5G25800 ortho_group3293_cds nucleic acid binding
+AT5G25800 ortho_group3293_cds other cellular processes
+AT5G25800 ortho_group3293_cds other intracellular components
+AT5G25800 ortho_group3293_cds other metabolic processes
+AT5G25880 ortho_group5403_cds cell organization and biogenesis
+AT5G25880 ortho_group5403_cds cytosol
+AT5G25880 ortho_group5403_cds other cellular processes
+AT5G25880 ortho_group5403_cds other enzyme activity
+AT5G25880 ortho_group5403_cds other metabolic processes
+AT5G25880 ortho_group5403_cds protein metabolism
+AT5G26210 ortho_group5194_cds cytosol
+AT5G26210 ortho_group5194_cds DNA or RNA binding
+AT5G26210 ortho_group5194_cds nucleus
+AT5G26210 ortho_group5194_cds other cellular processes
+AT5G26210 ortho_group5194_cds other metabolic processes
+AT5G26210 ortho_group5194_cds protein binding
+AT5G26240 ortho_group4259_cds cell organization and biogenesis
+AT5G26240 ortho_group4259_cds Golgi apparatus
+AT5G26240 ortho_group4259_cds other biological processes
+AT5G26240 ortho_group4259_cds other cellular processes
+AT5G26240 ortho_group4259_cds other cytoplasmic components
+AT5G26240 ortho_group4259_cds other intracellular components
+AT5G26240 ortho_group4259_cds transporter activity
+AT5G26360 ortho_group2762_cds cytosol
+AT5G26360 ortho_group2762_cds nucleotide binding
+AT5G26360 ortho_group2762_cds other cellular processes
+AT5G26360 ortho_group2762_cds other metabolic processes
+AT5G26360 ortho_group2762_cds protein binding
+AT5G26360 ortho_group2762_cds protein metabolism
+AT5G26610 ortho_group3264_cds nucleic acid binding
+AT5G26610 ortho_group3264_cds other binding
+AT5G26610 ortho_group3264_cds other intracellular components
+AT5G26610 ortho_group3264_cds unknown biological processes
+AT5G26667 ortho_group3203_cds cytosol
+AT5G26667 ortho_group3203_cds kinase activity
+AT5G26667 ortho_group3203_cds other cellular processes
+AT5G26667 ortho_group3203_cds other metabolic processes
+AT5G26667 ortho_group3203_cds transferase activity
+AT5G26680 ortho_group4454_cds cytosol
+AT5G26680 ortho_group4454_cds DNA or RNA binding
+AT5G26680 ortho_group4454_cds DNA or RNA metabolism
+AT5G26680 ortho_group4454_cds hydrolase activity
+AT5G26680 ortho_group4454_cds other cellular processes
+AT5G26680 ortho_group4454_cds other enzyme activity
+AT5G26680 ortho_group4454_cds other metabolic processes
+AT5G26680 ortho_group4454_cds response to stress
+AT5G26751 ortho_group5211_cds cytosol
+AT5G26751 ortho_group5211_cds developmental processes
+AT5G26751 ortho_group5211_cds kinase activity
+AT5G26751 ortho_group5211_cds other cellular processes
+AT5G26751 ortho_group5211_cds other metabolic processes
+AT5G26751 ortho_group5211_cds transferase activity
+AT5G26770 ortho_group3348_cds unknown biological processes
+AT5G26770 ortho_group3348_cds unknown cellular components
+AT5G26770 ortho_group3348_cds unknown molecular functions
+AT5G26780 ortho_group3444_cds cytosol
+AT5G26780 ortho_group3444_cds mitochondria
+AT5G26780 ortho_group3444_cds other binding
+AT5G26780 ortho_group3444_cds other cellular processes
+AT5G26780 ortho_group3444_cds other cytoplasmic components
+AT5G26780 ortho_group3444_cds other intracellular components
+AT5G26780 ortho_group3444_cds other membranes
+AT5G26780 ortho_group3444_cds other metabolic processes
+AT5G26780 ortho_group3444_cds transferase activity
+AT5G26800 ortho_group5014_cds mitochondria
+AT5G26800 ortho_group5014_cds unknown biological processes
+AT5G26800 ortho_group5014_cds unknown molecular functions
+AT5G26830 ortho_group4971_cds cell wall
+AT5G26830 ortho_group4971_cds chloroplast
+AT5G26830 ortho_group4971_cds cytosol
+AT5G26830 ortho_group4971_cds mitochondria
+AT5G26830 ortho_group4971_cds nucleotide binding
+AT5G26830 ortho_group4971_cds other cellular processes
+AT5G26830 ortho_group4971_cds other enzyme activity
+AT5G26830 ortho_group4971_cds other membranes
+AT5G26830 ortho_group4971_cds other metabolic processes
+AT5G26830 ortho_group4971_cds plasma membrane
+AT5G26830 ortho_group4971_cds protein metabolism
+AT5G26850 ortho_group3705_cds chloroplast
+AT5G26850 ortho_group3705_cds unknown biological processes
+AT5G26880 ortho_group4012_cds DNA or RNA binding
+AT5G26880 ortho_group4012_cds nucleus
+AT5G26880 ortho_group4012_cds other cellular processes
+AT5G26880 ortho_group4012_cds other metabolic processes
+AT5G26880 ortho_group4012_cds response to stress
+AT5G26880 ortho_group4012_cds transcription factor activity
+AT5G26880 ortho_group4012_cds transferase activity
+AT5G26980 ortho_group4472_cds cell organization and biogenesis
+AT5G26980 ortho_group4472_cds Golgi apparatus
+AT5G26980 ortho_group4472_cds other cellular processes
+AT5G26980 ortho_group4472_cds other cytoplasmic components
+AT5G26980 ortho_group4472_cds other intracellular components
+AT5G26980 ortho_group4472_cds protein binding
+AT5G26980 ortho_group4472_cds transport
+AT5G27120 ortho_group4567_cds DNA or RNA binding
+AT5G27120 ortho_group4567_cds nucleus
+AT5G27120 ortho_group4567_cds other cellular components
+AT5G27120 ortho_group4567_cds other intracellular components
+AT5G27120 ortho_group4567_cds unknown biological processes
+AT5G27280 ortho_group4941_cds chloroplast
+AT5G27280 ortho_group4941_cds unknown biological processes
+AT5G27280 ortho_group4941_cds unknown molecular functions
+AT5G27390 ortho_group2961_cds chloroplast
+AT5G27390 ortho_group2961_cds other binding
+AT5G27390 ortho_group2961_cds other cellular processes
+AT5G27390 ortho_group2961_cds other metabolic processes
+AT5G27395 ortho_group3733_cds mitochondria
+AT5G27395 ortho_group3733_cds other cellular processes
+AT5G27395 ortho_group3733_cds other cytoplasmic components
+AT5G27395 ortho_group3733_cds other intracellular components
+AT5G27395 ortho_group3733_cds other membranes
+AT5G27395 ortho_group3733_cds transport
+AT5G27395 ortho_group3733_cds transporter activity
+AT5G27450 ortho_group3168_cds cytosol
+AT5G27450 ortho_group3168_cds kinase activity
+AT5G27450 ortho_group3168_cds other cellular processes
+AT5G27450 ortho_group3168_cds other metabolic processes
+AT5G27450 ortho_group3168_cds transferase activity
+AT5G27490 ortho_group4538_cds unknown biological processes
+AT5G27490 ortho_group4538_cds unknown molecular functions
+AT5G27520 ortho_group4369_cds developmental processes
+AT5G27520 ortho_group4369_cds mitochondria
+AT5G27520 ortho_group4369_cds other binding
+AT5G27520 ortho_group4369_cds other cellular processes
+AT5G27520 ortho_group4369_cds other cytoplasmic components
+AT5G27520 ortho_group4369_cds other intracellular components
+AT5G27520 ortho_group4369_cds other membranes
+AT5G27520 ortho_group4369_cds other metabolic processes
+AT5G27520 ortho_group4369_cds transport
+AT5G27520 ortho_group4369_cds transporter activity
+AT5G27540 ortho_group4987_cds cell organization and biogenesis
+AT5G27540 ortho_group4987_cds developmental processes
+AT5G27540 ortho_group4987_cds mitochondria
+AT5G27540 ortho_group4987_cds nucleotide binding
+AT5G27540 ortho_group4987_cds other cellular processes
+AT5G27560 ortho_group5592_cds chloroplast
+AT5G27560 ortho_group5592_cds unknown biological processes
+AT5G27560 ortho_group5592_cds unknown molecular functions
+AT5G27610 ortho_group2852_cds DNA or RNA binding
+AT5G27610 ortho_group2852_cds transcription factor activity
+AT5G27610 ortho_group2852_cds unknown biological processes
+AT5G27640 ortho_group2802_cds cytosol
+AT5G27640 ortho_group2802_cds DNA or RNA binding
+AT5G27640 ortho_group2802_cds nucleic acid binding
+AT5G27640 ortho_group2802_cds nucleus
+AT5G27640 ortho_group2802_cds other cellular processes
+AT5G27640 ortho_group2802_cds other cytoplasmic components
+AT5G27640 ortho_group2802_cds other intracellular components
+AT5G27640 ortho_group2802_cds other metabolic processes
+AT5G27640 ortho_group2802_cds protein metabolism
+AT5G27730 ortho_group2839_cds unknown biological processes
+AT5G27730 ortho_group2839_cds unknown cellular components
+AT5G27730 ortho_group2839_cds unknown molecular functions
+AT5G27740 ortho_group4500_cds developmental processes
+AT5G27740 ortho_group4500_cds DNA or RNA binding
+AT5G27740 ortho_group4500_cds hydrolase activity
+AT5G27740 ortho_group4500_cds nucleotide binding
+AT5G27740 ortho_group4500_cds nucleus
+AT5G27770 ortho_group3103_cds cytosol
+AT5G27770 ortho_group3103_cds nucleus
+AT5G27770 ortho_group3103_cds other cellular processes
+AT5G27770 ortho_group3103_cds other cytoplasmic components
+AT5G27770 ortho_group3103_cds other intracellular components
+AT5G27770 ortho_group3103_cds other membranes
+AT5G27770 ortho_group3103_cds other metabolic processes
+AT5G27770 ortho_group3103_cds plasma membrane
+AT5G27770 ortho_group3103_cds protein metabolism
+AT5G27770 ortho_group3103_cds ribosome
+AT5G27770 ortho_group3103_cds structural molecule activity
+AT5G27850 ortho_group4745_cds cytosol
+AT5G27850 ortho_group4745_cds other cellular components
+AT5G27850 ortho_group4745_cds other cellular processes
+AT5G27850 ortho_group4745_cds other cytoplasmic components
+AT5G27850 ortho_group4745_cds other intracellular components
+AT5G27850 ortho_group4745_cds other membranes
+AT5G27850 ortho_group4745_cds other metabolic processes
+AT5G27850 ortho_group4745_cds protein metabolism
+AT5G27850 ortho_group4745_cds ribosome
+AT5G27850 ortho_group4745_cds structural molecule activity
+AT5G28020 ortho_group3765_cds other cellular processes
+AT5G28020 ortho_group3765_cds other enzyme activity
+AT5G28020 ortho_group3765_cds other metabolic processes
+AT5G28050 ortho_group5228_cds cytosol
+AT5G28050 ortho_group5228_cds electron transport or energy pathways
+AT5G28050 ortho_group5228_cds hydrolase activity
+AT5G28050 ortho_group5228_cds other binding
+AT5G28050 ortho_group5228_cds other cellular processes
+AT5G28050 ortho_group5228_cds other enzyme activity
+AT5G28050 ortho_group5228_cds other metabolic processes
+AT5G28450 ortho_group2620_cds chloroplast
+AT5G28450 ortho_group2620_cds electron transport or energy pathways
+AT5G28450 ortho_group2620_cds other binding
+AT5G28450 ortho_group2620_cds other cellular processes
+AT5G28450 ortho_group2620_cds other intracellular components
+AT5G28450 ortho_group2620_cds other membranes
+AT5G28450 ortho_group2620_cds other metabolic processes
+AT5G28646 ortho_group5196_cds cell organization and biogenesis
+AT5G28646 ortho_group5196_cds developmental processes
+AT5G28646 ortho_group5196_cds other cellular processes
+AT5G28646 ortho_group5196_cds other cytoplasmic components
+AT5G28646 ortho_group5196_cds other intracellular components
+AT5G28646 ortho_group5196_cds unknown molecular functions
+AT5G28900 ortho_group3761_cds nucleus
+AT5G28900 ortho_group3761_cds other binding
+AT5G28900 ortho_group3761_cds other cytoplasmic components
+AT5G28900 ortho_group3761_cds unknown biological processes
+AT5G30495 ortho_group3198_cds unknown biological processes
+AT5G30495 ortho_group3198_cds unknown cellular components
+AT5G30495 ortho_group3198_cds unknown molecular functions
+AT5G32450 ortho_group4312_cds nucleic acid binding
+AT5G32450 ortho_group4312_cds nucleotide binding
+AT5G32450 ortho_group4312_cds other enzyme activity
+AT5G32450 ortho_group4312_cds other metabolic processes
+AT5G34850 ortho_group5222_cds cell wall
+AT5G34850 ortho_group5222_cds cytosol
+AT5G34850 ortho_group5222_cds hydrolase activity
+AT5G34850 ortho_group5222_cds other biological processes
+AT5G34850 ortho_group5222_cds other cytoplasmic components
+AT5G34850 ortho_group5222_cds other intracellular components
+AT5G34930 ortho_group3388_cds other binding
+AT5G34930 ortho_group3388_cds other cellular processes
+AT5G34930 ortho_group3388_cds other enzyme activity
+AT5G34930 ortho_group3388_cds other metabolic processes
+AT5G34940 ortho_group2992_cds cell wall
+AT5G34940 ortho_group2992_cds hydrolase activity
+AT5G34940 ortho_group2992_cds unknown biological processes
+AT5G35180 ortho_group4940_cds other binding
+AT5G35180 ortho_group4940_cds plasma membrane
+AT5G35180 ortho_group4940_cds signal transduction
+AT5G35200 ortho_group3469_cds cell organization and biogenesis
+AT5G35200 ortho_group3469_cds other binding
+AT5G35200 ortho_group3469_cds other cellular processes
+AT5G35200 ortho_group3469_cds plasma membrane
+AT5G35200 ortho_group3469_cds protein binding
+AT5G35200 ortho_group3469_cds transport
+AT5G35360 ortho_group2886_cds chloroplast
+AT5G35360 ortho_group2886_cds other cellular processes
+AT5G35360 ortho_group2886_cds other cytoplasmic components
+AT5G35360 ortho_group2886_cds other enzyme activity
+AT5G35360 ortho_group2886_cds other intracellular components
+AT5G35360 ortho_group2886_cds other metabolic processes
+AT5G35360 ortho_group2886_cds plastid
+AT5G35410 ortho_group5341_cds kinase activity
+AT5G35410 ortho_group5341_cds other cytoplasmic components
+AT5G35410 ortho_group5341_cds other intracellular components
+AT5G35410 ortho_group5341_cds other membranes
+AT5G35410 ortho_group5341_cds protein binding
+AT5G35410 ortho_group5341_cds response to abiotic or biotic stimulus
+AT5G35410 ortho_group5341_cds response to stress
+AT5G35410 ortho_group5341_cds transferase activity
+AT5G35525 ortho_group3774_cds unknown biological processes
+AT5G35525 ortho_group3774_cds unknown cellular components
+AT5G35525 ortho_group3774_cds unknown molecular functions
+AT5G35570 ortho_group4241_cds chloroplast
+AT5G35570 ortho_group4241_cds unknown biological processes
+AT5G35570 ortho_group4241_cds unknown molecular functions
+AT5G35690 ortho_group4476_cds unknown cellular components
+AT5G35730 ortho_group3379_cds other membranes
+AT5G35730 ortho_group3379_cds unknown biological processes
+AT5G35730 ortho_group3379_cds unknown molecular functions
+AT5G35790 ortho_group4271_cds chloroplast
+AT5G35790 ortho_group4271_cds other cellular processes
+AT5G35790 ortho_group4271_cds other cytoplasmic components
+AT5G35790 ortho_group4271_cds other enzyme activity
+AT5G35790 ortho_group4271_cds other intracellular components
+AT5G35790 ortho_group4271_cds other metabolic processes
+AT5G35790 ortho_group4271_cds plastid
+AT5G35790 ortho_group4271_cds protein binding
+AT5G35910 ortho_group5568_cds cytosol
+AT5G35910 ortho_group5568_cds hydrolase activity
+AT5G35910 ortho_group5568_cds nucleic acid binding
+AT5G35910 ortho_group5568_cds other cellular processes
+AT5G35910 ortho_group5568_cds other intracellular components
+AT5G35910 ortho_group5568_cds other metabolic processes
+AT5G36110 ortho_group2578_cds other binding
+AT5G36110 ortho_group2578_cds other cellular components
+AT5G36110 ortho_group2578_cds other enzyme activity
+AT5G36110 ortho_group2578_cds other metabolic processes
+AT5G36110 ortho_group2578_cds other molecular functions
+AT5G36120 ortho_group4597_cds cell organization and biogenesis
+AT5G36120 ortho_group4597_cds chloroplast
+AT5G36120 ortho_group4597_cds other cellular processes
+AT5G36120 ortho_group4597_cds other cytoplasmic components
+AT5G36120 ortho_group4597_cds other intracellular components
+AT5G36120 ortho_group4597_cds other membranes
+AT5G36120 ortho_group4597_cds plastid
+AT5G36120 ortho_group4597_cds unknown molecular functions
+AT5G36130 ortho_group4029_cds other binding
+AT5G36130 ortho_group4029_cds other enzyme activity
+AT5G36130 ortho_group4029_cds other metabolic processes
+AT5G36130 ortho_group4029_cds other molecular functions
+AT5G36130 ortho_group4029_cds unknown cellular components
+AT5G36160 ortho_group2807_cds cytosol
+AT5G36160 ortho_group2807_cds other cellular processes
+AT5G36160 ortho_group2807_cds other metabolic processes
+AT5G36160 ortho_group2807_cds transferase activity
+AT5G36230 ortho_group4011_cds cytosol
+AT5G36230 ortho_group4011_cds DNA or RNA binding
+AT5G36230 ortho_group4011_cds other binding
+AT5G36230 ortho_group4011_cds other cellular processes
+AT5G36230 ortho_group4011_cds other membranes
+AT5G36230 ortho_group4011_cds other metabolic processes
+AT5G36230 ortho_group4011_cds protein metabolism
+AT5G37020 ortho_group4171_cds developmental processes
+AT5G37020 ortho_group4171_cds nucleus
+AT5G37020 ortho_group4171_cds other biological processes
+AT5G37020 ortho_group4171_cds other cellular processes
+AT5G37020 ortho_group4171_cds other metabolic processes
+AT5G37020 ortho_group4171_cds transcription factor activity
+AT5G37260 ortho_group4709_cds developmental processes
+AT5G37260 ortho_group4709_cds DNA or RNA binding
+AT5G37260 ortho_group4709_cds other biological processes
+AT5G37260 ortho_group4709_cds other cellular processes
+AT5G37260 ortho_group4709_cds other metabolic processes
+AT5G37260 ortho_group4709_cds response to abiotic or biotic stimulus
+AT5G37260 ortho_group4709_cds response to stress
+AT5G37260 ortho_group4709_cds transcription factor activity
+AT5G37310 ortho_group3550_cds cell wall
+AT5G37310 ortho_group3550_cds Golgi apparatus
+AT5G37310 ortho_group3550_cds other membranes
+AT5G37680 ortho_group4592_cds nucleotide binding
+AT5G37680 ortho_group4592_cds other cellular components
+AT5G37680 ortho_group4592_cds response to abiotic or biotic stimulus
+AT5G37680 ortho_group4592_cds response to stress
+AT5G37790 ortho_group3186_cds kinase activity
+AT5G37790 ortho_group3186_cds nucleotide binding
+AT5G37790 ortho_group3186_cds other cellular processes
+AT5G37790 ortho_group3186_cds other metabolic processes
+AT5G37790 ortho_group3186_cds protein metabolism
+AT5G37790 ortho_group3186_cds transferase activity
+AT5G37790 ortho_group3186_cds unknown cellular components
+AT5G37850 ortho_group3969_cds cytosol
+AT5G37850 ortho_group3969_cds developmental processes
+AT5G37850 ortho_group3969_cds kinase activity
+AT5G37850 ortho_group3969_cds other cellular processes
+AT5G37850 ortho_group3969_cds other metabolic processes
+AT5G37850 ortho_group3969_cds response to abiotic or biotic stimulus
+AT5G37850 ortho_group3969_cds response to stress
+AT5G37850 ortho_group3969_cds transferase activity
+AT5G38020 ortho_group4444_cds other cellular processes
+AT5G38020 ortho_group4444_cds other metabolic processes
+AT5G38020 ortho_group4444_cds transferase activity
+AT5G38020 ortho_group4444_cds unknown cellular components
+AT5G38030 ortho_group5549_cds other membranes
+AT5G38030 ortho_group5549_cds response to abiotic or biotic stimulus
+AT5G38030 ortho_group5549_cds transporter activity
+AT5G38110 ortho_group2667_cds cell organization and biogenesis
+AT5G38110 ortho_group2667_cds developmental processes
+AT5G38110 ortho_group2667_cds DNA or RNA metabolism
+AT5G38110 ortho_group2667_cds nucleus
+AT5G38110 ortho_group2667_cds other biological processes
+AT5G38110 ortho_group2667_cds other cellular processes
+AT5G38110 ortho_group2667_cds other cytoplasmic components
+AT5G38110 ortho_group2667_cds other metabolic processes
+AT5G38110 ortho_group2667_cds protein binding
+AT5G38110 ortho_group2667_cds response to stress
+AT5G38110 ortho_group2667_cds unknown molecular functions
+AT5G38380 ortho_group2973_cds other membranes
+AT5G38380 ortho_group2973_cds unknown biological processes
+AT5G38380 ortho_group2973_cds unknown molecular functions
+AT5G38410 ortho_group5433_cds cell wall
+AT5G38410 ortho_group5433_cds chloroplast
+AT5G38410 ortho_group5433_cds cytosol
+AT5G38410 ortho_group5433_cds extracellular
+AT5G38410 ortho_group5433_cds other cytoplasmic components
+AT5G38410 ortho_group5433_cds other enzyme activity
+AT5G38410 ortho_group5433_cds other intracellular components
+AT5G38410 ortho_group5433_cds other membranes
+AT5G38410 ortho_group5433_cds other metabolic processes
+AT5G38410 ortho_group5433_cds plastid
+AT5G38410 ortho_group5433_cds response to abiotic or biotic stimulus
+AT5G38410 ortho_group5433_cds ribosome
+AT5G38460 ortho_group3308_cds ER
+AT5G38460 ortho_group3308_cds other cytoplasmic components
+AT5G38460 ortho_group3308_cds other intracellular components
+AT5G38460 ortho_group3308_cds other membranes
+AT5G38460 ortho_group3308_cds transferase activity
+AT5G38470 ortho_group2818_cds cytosol
+AT5G38470 ortho_group2818_cds DNA or RNA binding
+AT5G38470 ortho_group2818_cds DNA or RNA metabolism
+AT5G38470 ortho_group2818_cds nucleus
+AT5G38470 ortho_group2818_cds other cellular processes
+AT5G38470 ortho_group2818_cds protein binding
+AT5G38470 ortho_group2818_cds response to abiotic or biotic stimulus
+AT5G38470 ortho_group2818_cds response to stress
+AT5G38630 ortho_group3587_cds other enzyme activity
+AT5G38630 ortho_group3587_cds other membranes
+AT5G38650 ortho_group2644_cds unknown biological processes
+AT5G38650 ortho_group2644_cds unknown molecular functions
+AT5G38895 ortho_group4791_cds other binding
+AT5G38895 ortho_group4791_cds other biological processes
+AT5G38970 ortho_group2633_cds other binding
+AT5G38970 ortho_group2633_cds other biological processes
+AT5G38970 ortho_group2633_cds other cellular components
+AT5G38970 ortho_group2633_cds other enzyme activity
+AT5G38970 ortho_group2633_cds other metabolic processes
+AT5G39210 ortho_group5516_cds cell organization and biogenesis
+AT5G39210 ortho_group5516_cds chloroplast
+AT5G39210 ortho_group5516_cds other cellular processes
+AT5G39210 ortho_group5516_cds other cytoplasmic components
+AT5G39210 ortho_group5516_cds other intracellular components
+AT5G39210 ortho_group5516_cds other membranes
+AT5G39210 ortho_group5516_cds plastid
+AT5G39210 ortho_group5516_cds unknown molecular functions
+AT5G39360 ortho_group3864_cds unknown biological processes
+AT5G39360 ortho_group3864_cds unknown cellular components
+AT5G39360 ortho_group3864_cds unknown molecular functions
+AT5G39430 ortho_group3918_cds other cellular processes
+AT5G39430 ortho_group3918_cds other metabolic processes
+AT5G39430 ortho_group3918_cds protein metabolism
+AT5G39430 ortho_group3918_cds unknown molecular functions
+AT5G39510 ortho_group2895_cds Golgi apparatus
+AT5G39510 ortho_group2895_cds other cellular processes
+AT5G39510 ortho_group2895_cds other cytoplasmic components
+AT5G39510 ortho_group2895_cds other intracellular components
+AT5G39510 ortho_group2895_cds other membranes
+AT5G39510 ortho_group2895_cds protein binding
+AT5G39510 ortho_group2895_cds receptor binding or activity
+AT5G39510 ortho_group2895_cds response to abiotic or biotic stimulus
+AT5G39510 ortho_group2895_cds transport
+AT5G39530 ortho_group3691_cds unknown biological processes
+AT5G39530 ortho_group3691_cds unknown cellular components
+AT5G39530 ortho_group3691_cds unknown molecular functions
+AT5G39580 ortho_group5135_cds other binding
+AT5G39580 ortho_group5135_cds other cellular components
+AT5G39580 ortho_group5135_cds other cellular processes
+AT5G39580 ortho_group5135_cds other enzyme activity
+AT5G39580 ortho_group5135_cds other metabolic processes
+AT5G39580 ortho_group5135_cds protein metabolism
+AT5G39580 ortho_group5135_cds response to abiotic or biotic stimulus
+AT5G39580 ortho_group5135_cds response to stress
+AT5G39590 ortho_group3484_cds other cellular processes
+AT5G39590 ortho_group3484_cds other metabolic processes
+AT5G39590 ortho_group3484_cds protein metabolism
+AT5G39590 ortho_group3484_cds unknown molecular functions
+AT5G39785 ortho_group2593_cds other cellular processes
+AT5G39785 ortho_group2593_cds other intracellular components
+AT5G39785 ortho_group2593_cds other metabolic processes
+AT5G39785 ortho_group2593_cds protein metabolism
+AT5G39785 ortho_group2593_cds ribosome
+AT5G39785 ortho_group2593_cds structural molecule activity
+AT5G39950 ortho_group4152_cds cytosol
+AT5G39950 ortho_group4152_cds mitochondria
+AT5G39950 ortho_group4152_cds other cellular processes
+AT5G39950 ortho_group4152_cds other enzyme activity
+AT5G39950 ortho_group4152_cds other metabolic processes
+AT5G39950 ortho_group4152_cds plasma membrane
+AT5G39950 ortho_group4152_cds protein metabolism
+AT5G40100 ortho_group3105_cds chloroplast
+AT5G40100 ortho_group3105_cds nucleotide binding
+AT5G40100 ortho_group3105_cds other cytoplasmic components
+AT5G40100 ortho_group3105_cds other intracellular components
+AT5G40100 ortho_group3105_cds plasma membrane
+AT5G40100 ortho_group3105_cds plastid
+AT5G40100 ortho_group3105_cds receptor binding or activity
+AT5G40100 ortho_group3105_cds response to stress
+AT5G40100 ortho_group3105_cds signal transduction
+AT5G40160 ortho_group3809_cds chloroplast
+AT5G40160 ortho_group3809_cds developmental processes
+AT5G40160 ortho_group3809_cds protein binding
+AT5G40270 ortho_group3252_cds other enzyme activity
+AT5G40270 ortho_group3252_cds unknown biological processes
+AT5G40380 ortho_group5564_cds kinase activity
+AT5G40380 ortho_group5564_cds other cellular components
+AT5G40380 ortho_group5564_cds other cellular processes
+AT5G40380 ortho_group5564_cds other metabolic processes
+AT5G40380 ortho_group5564_cds protein metabolism
+AT5G40630 ortho_group3111_cds chloroplast
+AT5G40630 ortho_group3111_cds unknown molecular functions
+AT5G40760 ortho_group3708_cds cytosol
+AT5G40760 ortho_group3708_cds other cellular processes
+AT5G40760 ortho_group3708_cds other enzyme activity
+AT5G40760 ortho_group3708_cds other metabolic processes
+AT5G40810 ortho_group4218_cds mitochondria
+AT5G40810 ortho_group4218_cds other cytoplasmic components
+AT5G40810 ortho_group4218_cds other intracellular components
+AT5G40810 ortho_group4218_cds other membranes
+AT5G40810 ortho_group4218_cds other molecular functions
+AT5G40810 ortho_group4218_cds protein binding
+AT5G40930 ortho_group5092_cds cell organization and biogenesis
+AT5G40930 ortho_group5092_cds mitochondria
+AT5G40930 ortho_group5092_cds other cellular processes
+AT5G40930 ortho_group5092_cds other cytoplasmic components
+AT5G40930 ortho_group5092_cds other intracellular components
+AT5G40930 ortho_group5092_cds other membranes
+AT5G40930 ortho_group5092_cds protein binding
+AT5G40930 ortho_group5092_cds transport
+AT5G40930 ortho_group5092_cds transporter activity
+AT5G40950 ortho_group4737_cds chloroplast
+AT5G40950 ortho_group4737_cds other cellular processes
+AT5G40950 ortho_group4737_cds other cytoplasmic components
+AT5G40950 ortho_group4737_cds other intracellular components
+AT5G40950 ortho_group4737_cds other metabolic processes
+AT5G40950 ortho_group4737_cds plastid
+AT5G40950 ortho_group4737_cds protein metabolism
+AT5G40950 ortho_group4737_cds ribosome
+AT5G40950 ortho_group4737_cds structural molecule activity
+AT5G41050 ortho_group4771_cds other cellular components
+AT5G41050 ortho_group4771_cds unknown biological processes
+AT5G41050 ortho_group4771_cds unknown molecular functions
+AT5G41080 ortho_group4429_cds hydrolase activity
+AT5G41080 ortho_group4429_cds other cellular processes
+AT5G41080 ortho_group4429_cds other metabolic processes
+AT5G41120 ortho_group4675_cds other enzyme activity
+AT5G41120 ortho_group4675_cds other metabolic processes
+AT5G41120 ortho_group4675_cds transferase activity
+AT5G41120 ortho_group4675_cds unknown cellular components
+AT5G41340 ortho_group4774_cds other cellular processes
+AT5G41340 ortho_group4774_cds other enzyme activity
+AT5G41340 ortho_group4774_cds other metabolic processes
+AT5G41340 ortho_group4774_cds protein metabolism
+AT5G41390 ortho_group3683_cds unknown biological processes
+AT5G41390 ortho_group3683_cds unknown molecular functions
+AT5G41600 ortho_group5350_cds cell organization and biogenesis
+AT5G41600 ortho_group5350_cds ER
+AT5G41600 ortho_group5350_cds other cellular components
+AT5G41600 ortho_group5350_cds other cellular processes
+AT5G41600 ortho_group5350_cds other cytoplasmic components
+AT5G41600 ortho_group5350_cds other intracellular components
+AT5G41600 ortho_group5350_cds other membranes
+AT5G41600 ortho_group5350_cds plasma membrane
+AT5G41650 ortho_group4167_cds other enzyme activity
+AT5G41650 ortho_group4167_cds other metabolic processes
+AT5G41650 ortho_group4167_cds unknown cellular components
+AT5G41700 ortho_group5488_cds developmental processes
+AT5G41700 ortho_group5488_cds nucleus
+AT5G41700 ortho_group5488_cds other cellular processes
+AT5G41700 ortho_group5488_cds other cytoplasmic components
+AT5G41700 ortho_group5488_cds other enzyme activity
+AT5G41700 ortho_group5488_cds other metabolic processes
+AT5G41700 ortho_group5488_cds protein binding
+AT5G41700 ortho_group5488_cds protein metabolism
+AT5G41760 ortho_group3750_cds Golgi apparatus
+AT5G41760 ortho_group3750_cds other cellular components
+AT5G41760 ortho_group3750_cds other cytoplasmic components
+AT5G41760 ortho_group3750_cds other intracellular components
+AT5G41760 ortho_group3750_cds other membranes
+AT5G41760 ortho_group3750_cds transport
+AT5G41760 ortho_group3750_cds transporter activity
+AT5G41770 ortho_group3373_cds other binding
+AT5G41770 ortho_group3373_cds other cellular processes
+AT5G41770 ortho_group3373_cds other intracellular components
+AT5G41770 ortho_group3373_cds other metabolic processes
+AT5G41850 ortho_group3148_cds hydrolase activity
+AT5G41850 ortho_group3148_cds other metabolic processes
+AT5G41850 ortho_group3148_cds unknown cellular components
+AT5G42000 ortho_group3872_cds ER
+AT5G42000 ortho_group3872_cds other cellular processes
+AT5G42000 ortho_group3872_cds other metabolic processes
+AT5G42000 ortho_group3872_cds protein metabolism
+AT5G42000 ortho_group3872_cds unknown molecular functions
+AT5G42050 ortho_group2974_cds unknown molecular functions
+AT5G42150 ortho_group4688_cds mitochondria
+AT5G42150 ortho_group4688_cds other cellular processes
+AT5G42150 ortho_group4688_cds other enzyme activity
+AT5G42150 ortho_group4688_cds other molecular functions
+AT5G42170 ortho_group3017_cds hydrolase activity
+AT5G42170 ortho_group3017_cds other metabolic processes
+AT5G42190 ortho_group4336_cds developmental processes
+AT5G42190 ortho_group4336_cds other cellular processes
+AT5G42190 ortho_group4336_cds other cytoplasmic components
+AT5G42190 ortho_group4336_cds other enzyme activity
+AT5G42190 ortho_group4336_cds other intracellular components
+AT5G42190 ortho_group4336_cds other metabolic processes
+AT5G42190 ortho_group4336_cds protein binding
+AT5G42190 ortho_group4336_cds protein metabolism
+AT5G42320 ortho_group3014_cds hydrolase activity
+AT5G42320 ortho_group3014_cds other binding
+AT5G42320 ortho_group3014_cds other membranes
+AT5G42320 ortho_group3014_cds protein metabolism
+AT5G42390 ortho_group4966_cds chloroplast
+AT5G42390 ortho_group4966_cds developmental processes
+AT5G42390 ortho_group4966_cds hydrolase activity
+AT5G42390 ortho_group4966_cds mitochondria
+AT5G42390 ortho_group4966_cds other binding
+AT5G42390 ortho_group4966_cds other cytoplasmic components
+AT5G42390 ortho_group4966_cds other enzyme activity
+AT5G42390 ortho_group4966_cds other intracellular components
+AT5G42390 ortho_group4966_cds plastid
+AT5G42390 ortho_group4966_cds protein metabolism
+AT5G42400 ortho_group4387_cds cell organization and biogenesis
+AT5G42400 ortho_group4387_cds developmental processes
+AT5G42400 ortho_group4387_cds nucleus
+AT5G42400 ortho_group4387_cds other cellular processes
+AT5G42400 ortho_group4387_cds other cytoplasmic components
+AT5G42400 ortho_group4387_cds other metabolic processes
+AT5G42400 ortho_group4387_cds protein metabolism
+AT5G42420 ortho_group3055_cds other membranes
+AT5G42690 ortho_group4626_cds chloroplast
+AT5G42770 ortho_group4094_cds other cytoplasmic components
+AT5G42770 ortho_group4094_cds unknown biological processes
+AT5G42770 ortho_group4094_cds unknown molecular functions
+AT5G42810 ortho_group5058_cds kinase activity
+AT5G42810 ortho_group5058_cds other cellular processes
+AT5G42810 ortho_group5058_cds other metabolic processes
+AT5G42810 ortho_group5058_cds response to abiotic or biotic stimulus
+AT5G42810 ortho_group5058_cds response to stress
+AT5G42810 ortho_group5058_cds transferase activity
+AT5G42810 ortho_group5058_cds unknown cellular components
+AT5G42970 ortho_group2689_cds cytosol
+AT5G42970 ortho_group2689_cds developmental processes
+AT5G42970 ortho_group2689_cds nucleus
+AT5G42970 ortho_group2689_cds other cellular components
+AT5G42970 ortho_group2689_cds other cellular processes
+AT5G42970 ortho_group2689_cds other intracellular components
+AT5G42970 ortho_group2689_cds other metabolic processes
+AT5G42970 ortho_group2689_cds protein binding
+AT5G42970 ortho_group2689_cds protein metabolism
+AT5G42970 ortho_group2689_cds response to abiotic or biotic stimulus
+AT5G43230 ortho_group3554_cds unknown biological processes
+AT5G43230 ortho_group3554_cds unknown cellular components
+AT5G43230 ortho_group3554_cds unknown molecular functions
+AT5G43330 ortho_group4845_cds cytosol
+AT5G43330 ortho_group4845_cds electron transport or energy pathways
+AT5G43330 ortho_group4845_cds other binding
+AT5G43330 ortho_group4845_cds other cellular components
+AT5G43330 ortho_group4845_cds other cellular processes
+AT5G43330 ortho_group4845_cds other enzyme activity
+AT5G43330 ortho_group4845_cds other metabolic processes
+AT5G43330 ortho_group4845_cds plasma membrane
+AT5G43430 ortho_group5009_cds mitochondria
+AT5G43430 ortho_group5009_cds other cellular processes
+AT5G43430 ortho_group5009_cds other metabolic processes
+AT5G43430 ortho_group5009_cds other molecular functions
+AT5G43460 ortho_group4905_cds ER
+AT5G43460 ortho_group4905_cds unknown biological processes
+AT5G43460 ortho_group4905_cds unknown molecular functions
+AT5G43700 ortho_group5391_cds DNA or RNA binding
+AT5G43700 ortho_group5391_cds nucleus
+AT5G43700 ortho_group5391_cds other biological processes
+AT5G43700 ortho_group5391_cds other cellular processes
+AT5G43700 ortho_group5391_cds other intracellular components
+AT5G43700 ortho_group5391_cds other metabolic processes
+AT5G43700 ortho_group5391_cds protein metabolism
+AT5G43700 ortho_group5391_cds transcription factor activity
+AT5G43710 ortho_group2775_cds hydrolase activity
+AT5G43710 ortho_group2775_cds other binding
+AT5G43710 ortho_group2775_cds other cellular components
+AT5G43710 ortho_group2775_cds other cellular processes
+AT5G43710 ortho_group2775_cds other membranes
+AT5G43710 ortho_group2775_cds other metabolic processes
+AT5G43710 ortho_group2775_cds protein metabolism
+AT5G43745 ortho_group5016_cds chloroplast
+AT5G43745 ortho_group5016_cds other cytoplasmic components
+AT5G43745 ortho_group5016_cds other intracellular components
+AT5G43745 ortho_group5016_cds plastid
+AT5G43822 ortho_group4227_cds unknown biological processes
+AT5G43822 ortho_group4227_cds unknown cellular components
+AT5G43822 ortho_group4227_cds unknown molecular functions
+AT5G43850 ortho_group3661_cds other binding
+AT5G43850 ortho_group3661_cds other cellular processes
+AT5G43850 ortho_group3661_cds other enzyme activity
+AT5G43850 ortho_group3661_cds other metabolic processes
+AT5G43850 ortho_group3661_cds unknown cellular components
+AT5G43900 ortho_group4733_cds developmental processes
+AT5G43900 ortho_group4733_cds hydrolase activity
+AT5G43900 ortho_group4733_cds other cellular processes
+AT5G43900 ortho_group4733_cds other cytoplasmic components
+AT5G43900 ortho_group4733_cds other intracellular components
+AT5G43900 ortho_group4733_cds protein binding
+AT5G43930 ortho_group3359_cds nucleotide binding
+AT5G43930 ortho_group3359_cds unknown biological processes
+AT5G44110 ortho_group5203_cds response to abiotic or biotic stimulus
+AT5G44110 ortho_group5203_cds transporter activity
+AT5G44400 ortho_group4942_cds cell wall
+AT5G44400 ortho_group4942_cds other binding
+AT5G44400 ortho_group4942_cds other cellular components
+AT5G44400 ortho_group4942_cds other enzyme activity
+AT5G44400 ortho_group4942_cds other molecular functions
+AT5G44450 ortho_group4859_cds chloroplast
+AT5G44450 ortho_group4859_cds transferase activity
+AT5G44450 ortho_group4859_cds unknown biological processes
+AT5G44520 ortho_group3458_cds chloroplast
+AT5G44520 ortho_group3458_cds electron transport or energy pathways
+AT5G44520 ortho_group3458_cds other cellular processes
+AT5G44520 ortho_group3458_cds other enzyme activity
+AT5G44520 ortho_group3458_cds other metabolic processes
+AT5G44600 ortho_group4222_cds chloroplast
+AT5G44600 ortho_group4222_cds unknown biological processes
+AT5G44650 ortho_group2579_cds cell organization and biogenesis
+AT5G44650 ortho_group2579_cds chloroplast
+AT5G44650 ortho_group2579_cds electron transport or energy pathways
+AT5G44650 ortho_group2579_cds other cellular processes
+AT5G44650 ortho_group2579_cds other cytoplasmic components
+AT5G44650 ortho_group2579_cds other intracellular components
+AT5G44650 ortho_group2579_cds other membranes
+AT5G44650 ortho_group2579_cds other metabolic processes
+AT5G44650 ortho_group2579_cds plastid
+AT5G44650 ortho_group2579_cds response to abiotic or biotic stimulus
+AT5G44650 ortho_group2579_cds response to stress
+AT5G44650 ortho_group2579_cds unknown molecular functions
+AT5G44720 ortho_group3355_cds other binding
+AT5G44720 ortho_group3355_cds other enzyme activity
+AT5G44720 ortho_group3355_cds unknown biological processes
+AT5G44720 ortho_group3355_cds unknown cellular components
+AT5G45050 ortho_group3527_cds other cellular processes
+AT5G45050 ortho_group3527_cds other cytoplasmic components
+AT5G45050 ortho_group3527_cds other intracellular components
+AT5G45050 ortho_group3527_cds other membranes
+AT5G45050 ortho_group3527_cds protein binding
+AT5G45050 ortho_group3527_cds response to abiotic or biotic stimulus
+AT5G45050 ortho_group3527_cds response to stress
+AT5G45050 ortho_group3527_cds transcription factor activity
+AT5G45130 ortho_group2780_cds nucleotide binding
+AT5G45130 ortho_group2780_cds other cellular processes
+AT5G45130 ortho_group2780_cds other cytoplasmic components
+AT5G45130 ortho_group2780_cds other intracellular components
+AT5G45130 ortho_group2780_cds other membranes
+AT5G45130 ortho_group2780_cds protein binding
+AT5G45130 ortho_group2780_cds signal transduction
+AT5G45130 ortho_group2780_cds transport
+AT5G45140 ortho_group3475_cds DNA or RNA binding
+AT5G45140 ortho_group3475_cds other binding
+AT5G45140 ortho_group3475_cds other cellular processes
+AT5G45140 ortho_group3475_cds other metabolic processes
+AT5G45140 ortho_group3475_cds transferase activity
+AT5G45140 ortho_group3475_cds unknown cellular components
+AT5G45370 ortho_group3117_cds other membranes
+AT5G45390 ortho_group5051_cds cell organization and biogenesis
+AT5G45390 ortho_group5051_cds chloroplast
+AT5G45390 ortho_group5051_cds developmental processes
+AT5G45390 ortho_group5051_cds hydrolase activity
+AT5G45390 ortho_group5051_cds other cellular processes
+AT5G45390 ortho_group5051_cds other cytoplasmic components
+AT5G45390 ortho_group5051_cds other intracellular components
+AT5G45390 ortho_group5051_cds other membranes
+AT5G45390 ortho_group5051_cds plastid
+AT5G45550 ortho_group4996_cds developmental processes
+AT5G45550 ortho_group4996_cds nucleus
+AT5G45550 ortho_group4996_cds other cellular processes
+AT5G45600 ortho_group4449_cds nucleus
+AT5G45600 ortho_group4449_cds other cellular processes
+AT5G45600 ortho_group4449_cds other metabolic processes
+AT5G45775 ortho_group5023_cds cytosol
+AT5G45775 ortho_group5023_cds other cellular processes
+AT5G45775 ortho_group5023_cds other cytoplasmic components
+AT5G45775 ortho_group5023_cds other intracellular components
+AT5G45775 ortho_group5023_cds other metabolic processes
+AT5G45775 ortho_group5023_cds protein metabolism
+AT5G45775 ortho_group5023_cds ribosome
+AT5G45775 ortho_group5023_cds structural molecule activity
+AT5G45820 ortho_group4568_cds cytosol
+AT5G45820 ortho_group4568_cds kinase activity
+AT5G45820 ortho_group4568_cds other biological processes
+AT5G45820 ortho_group4568_cds transferase activity
+AT5G45910 ortho_group2921_cds hydrolase activity
+AT5G45910 ortho_group2921_cds other cellular components
+AT5G45910 ortho_group2921_cds other metabolic processes
+AT5G45960 ortho_group3609_cds hydrolase activity
+AT5G45960 ortho_group3609_cds other cellular components
+AT5G45960 ortho_group3609_cds other metabolic processes
+AT5G46150 ortho_group4411_cds other membranes
+AT5G46150 ortho_group4411_cds unknown biological processes
+AT5G46150 ortho_group4411_cds unknown molecular functions
+AT5G46190 ortho_group2549_cds DNA or RNA binding
+AT5G46190 ortho_group2549_cds nucleic acid binding
+AT5G46190 ortho_group2549_cds unknown biological processes
+AT5G46280 ortho_group3815_cds DNA or RNA binding
+AT5G46280 ortho_group3815_cds DNA or RNA metabolism
+AT5G46280 ortho_group3815_cds hydrolase activity
+AT5G46280 ortho_group3815_cds nucleotide binding
+AT5G46280 ortho_group3815_cds nucleus
+AT5G46280 ortho_group3815_cds other biological processes
+AT5G46280 ortho_group3815_cds other cellular processes
+AT5G46280 ortho_group3815_cds other intracellular components
+AT5G46280 ortho_group3815_cds other metabolic processes
+AT5G46290 ortho_group4786_cds cell organization and biogenesis
+AT5G46290 ortho_group4786_cds chloroplast
+AT5G46290 ortho_group4786_cds developmental processes
+AT5G46290 ortho_group4786_cds other cellular processes
+AT5G46290 ortho_group4786_cds other cytoplasmic components
+AT5G46290 ortho_group4786_cds other enzyme activity
+AT5G46290 ortho_group4786_cds other intracellular components
+AT5G46290 ortho_group4786_cds other membranes
+AT5G46290 ortho_group4786_cds plastid
+AT5G46290 ortho_group4786_cds transferase activity
+AT5G46410 ortho_group3066_cds hydrolase activity
+AT5G46410 ortho_group3066_cds nucleus
+AT5G46410 ortho_group3066_cds other cellular processes
+AT5G46410 ortho_group3066_cds other metabolic processes
+AT5G46410 ortho_group3066_cds protein metabolism
+AT5G46630 ortho_group5052_cds cytosol
+AT5G46630 ortho_group5052_cds other cellular processes
+AT5G46630 ortho_group5052_cds other cytoplasmic components
+AT5G46630 ortho_group5052_cds other intracellular components
+AT5G46630 ortho_group5052_cds other membranes
+AT5G46630 ortho_group5052_cds plasma membrane
+AT5G46630 ortho_group5052_cds transport
+AT5G47040 ortho_group4179_cds cell organization and biogenesis
+AT5G47040 ortho_group4179_cds developmental processes
+AT5G47040 ortho_group4179_cds DNA or RNA binding
+AT5G47040 ortho_group4179_cds hydrolase activity
+AT5G47040 ortho_group4179_cds nucleotide binding
+AT5G47040 ortho_group4179_cds other biological processes
+AT5G47040 ortho_group4179_cds other cellular components
+AT5G47040 ortho_group4179_cds other cellular processes
+AT5G47040 ortho_group4179_cds other cytoplasmic components
+AT5G47040 ortho_group4179_cds other intracellular components
+AT5G47040 ortho_group4179_cds other metabolic processes
+AT5G47040 ortho_group4179_cds protein metabolism
+AT5G47040 ortho_group4179_cds transport
+AT5G47060 ortho_group3913_cds unknown biological processes
+AT5G47060 ortho_group3913_cds unknown cellular components
+AT5G47060 ortho_group3913_cds unknown molecular functions
+AT5G47070 ortho_group5182_cds kinase activity
+AT5G47070 ortho_group5182_cds nucleotide binding
+AT5G47070 ortho_group5182_cds other cellular processes
+AT5G47070 ortho_group5182_cds other metabolic processes
+AT5G47070 ortho_group5182_cds plasma membrane
+AT5G47070 ortho_group5182_cds protein metabolism
+AT5G47070 ortho_group5182_cds transferase activity
+AT5G47080 ortho_group3480_cds kinase activity
+AT5G47080 ortho_group3480_cds other cellular processes
+AT5G47080 ortho_group3480_cds other intracellular components
+AT5G47080 ortho_group3480_cds other metabolic processes
+AT5G47080 ortho_group3480_cds other molecular functions
+AT5G47080 ortho_group3480_cds protein binding
+AT5G47080 ortho_group3480_cds protein metabolism
+AT5G47080 ortho_group3480_cds transferase activity
+AT5G47100 ortho_group2940_cds other binding
+AT5G47100 ortho_group2940_cds other cellular components
+AT5G47100 ortho_group2940_cds other cellular processes
+AT5G47100 ortho_group2940_cds other cytoplasmic components
+AT5G47100 ortho_group2940_cds other metabolic processes
+AT5G47100 ortho_group2940_cds plasma membrane
+AT5G47100 ortho_group2940_cds protein binding
+AT5G47100 ortho_group2940_cds protein metabolism
+AT5G47100 ortho_group2940_cds response to abiotic or biotic stimulus
+AT5G47100 ortho_group2940_cds response to stress
+AT5G47100 ortho_group2940_cds transport
+AT5G47190 ortho_group2892_cds chloroplast
+AT5G47190 ortho_group2892_cds other cellular processes
+AT5G47190 ortho_group2892_cds other cytoplasmic components
+AT5G47190 ortho_group2892_cds other intracellular components
+AT5G47190 ortho_group2892_cds other membranes
+AT5G47190 ortho_group2892_cds other metabolic processes
+AT5G47190 ortho_group2892_cds plastid
+AT5G47190 ortho_group2892_cds protein metabolism
+AT5G47190 ortho_group2892_cds ribosome
+AT5G47190 ortho_group2892_cds structural molecule activity
+AT5G47240 ortho_group4297_cds cytosol
+AT5G47240 ortho_group4297_cds hydrolase activity
+AT5G47240 ortho_group4297_cds response to stress
+AT5G47310 ortho_group4975_cds unknown biological processes
+AT5G47310 ortho_group4975_cds unknown molecular functions
+AT5G47330 ortho_group4598_cds hydrolase activity
+AT5G47330 ortho_group4598_cds other cellular components
+AT5G47435 ortho_group5559_cds hydrolase activity
+AT5G47435 ortho_group5559_cds mitochondria
+AT5G47435 ortho_group5559_cds other cellular processes
+AT5G47435 ortho_group5559_cds other metabolic processes
+AT5G47435 ortho_group5559_cds transferase activity
+AT5G47520 ortho_group4970_cds nucleotide binding
+AT5G47520 ortho_group4970_cds other cytoplasmic components
+AT5G47520 ortho_group4970_cds other intracellular components
+AT5G47520 ortho_group4970_cds other membranes
+AT5G47520 ortho_group4970_cds plasma membrane
+AT5G47520 ortho_group4970_cds signal transduction
+AT5G47520 ortho_group4970_cds transport
+AT5G47630 ortho_group5156_cds other binding
+AT5G47630 ortho_group5156_cds other cellular processes
+AT5G47630 ortho_group5156_cds other metabolic processes
+AT5G47630 ortho_group5156_cds transporter activity
+AT5G47630 ortho_group5156_cds unknown cellular components
+AT5G47650 ortho_group4151_cds cytosol
+AT5G47650 ortho_group4151_cds hydrolase activity
+AT5G47650 ortho_group4151_cds nucleotide binding
+AT5G47650 ortho_group4151_cds other binding
+AT5G47650 ortho_group4151_cds response to stress
+AT5G47680 ortho_group5570_cds other cellular processes
+AT5G47680 ortho_group5570_cds other metabolic processes
+AT5G47680 ortho_group5570_cds unknown cellular components
+AT5G47680 ortho_group5570_cds unknown molecular functions
+AT5G47710 ortho_group5176_cds other cytoplasmic components
+AT5G47710 ortho_group5176_cds other intracellular components
+AT5G47710 ortho_group5176_cds plasma membrane
+AT5G47710 ortho_group5176_cds unknown biological processes
+AT5G47710 ortho_group5176_cds unknown molecular functions
+AT5G47720 ortho_group2570_cds other enzyme activity
+AT5G47720 ortho_group2570_cds other metabolic processes
+AT5G47720 ortho_group2570_cds transferase activity
+AT5G47720 ortho_group2570_cds unknown cellular components
+AT5G47730 ortho_group4178_cds other binding
+AT5G47730 ortho_group4178_cds transport
+AT5G47730 ortho_group4178_cds transporter activity
+AT5G47760 ortho_group2930_cds chloroplast
+AT5G47760 ortho_group2930_cds hydrolase activity
+AT5G47760 ortho_group2930_cds kinase activity
+AT5G47760 ortho_group2930_cds other metabolic processes
+AT5G47760 ortho_group2930_cds transferase activity
+AT5G47780 ortho_group2829_cds other cellular components
+AT5G47780 ortho_group2829_cds other metabolic processes
+AT5G47780 ortho_group2829_cds transferase activity
+AT5G47800 ortho_group3398_cds other molecular functions
+AT5G47800 ortho_group3398_cds response to abiotic or biotic stimulus
+AT5G47820 ortho_group3919_cds cell organization and biogenesis
+AT5G47820 ortho_group3919_cds hydrolase activity
+AT5G47820 ortho_group3919_cds other cellular processes
+AT5G47820 ortho_group3919_cds other cytoplasmic components
+AT5G47840 ortho_group4085_cds chloroplast
+AT5G47840 ortho_group4085_cds electron transport or energy pathways
+AT5G47840 ortho_group4085_cds kinase activity
+AT5G47840 ortho_group4085_cds nucleotide binding
+AT5G47840 ortho_group4085_cds other cellular processes
+AT5G47840 ortho_group4085_cds other cytoplasmic components
+AT5G47840 ortho_group4085_cds other intracellular components
+AT5G47840 ortho_group4085_cds other metabolic processes
+AT5G47840 ortho_group4085_cds plastid
+AT5G47840 ortho_group4085_cds transferase activity
+AT5G47900 ortho_group2839_cds other cellular components
+AT5G47900 ortho_group2839_cds unknown biological processes
+AT5G47900 ortho_group2839_cds unknown molecular functions
+AT5G48220 ortho_group3216_cds chloroplast
+AT5G48220 ortho_group3216_cds other cellular processes
+AT5G48220 ortho_group3216_cds other cytoplasmic components
+AT5G48220 ortho_group3216_cds other enzyme activity
+AT5G48220 ortho_group3216_cds other intracellular components
+AT5G48220 ortho_group3216_cds other metabolic processes
+AT5G48220 ortho_group3216_cds plastid
+AT5G48230 ortho_group5280_cds cytosol
+AT5G48230 ortho_group5280_cds developmental processes
+AT5G48230 ortho_group5280_cds other cytoplasmic components
+AT5G48230 ortho_group5280_cds other enzyme activity
+AT5G48230 ortho_group5280_cds other intracellular components
+AT5G48230 ortho_group5280_cds plasma membrane
+AT5G48230 ortho_group5280_cds transferase activity
+AT5G48300 ortho_group5004_cds chloroplast
+AT5G48300 ortho_group5004_cds developmental processes
+AT5G48300 ortho_group5004_cds extracellular
+AT5G48300 ortho_group5004_cds other cellular processes
+AT5G48300 ortho_group5004_cds other cytoplasmic components
+AT5G48300 ortho_group5004_cds other intracellular components
+AT5G48300 ortho_group5004_cds other metabolic processes
+AT5G48300 ortho_group5004_cds plastid
+AT5G48300 ortho_group5004_cds response to abiotic or biotic stimulus
+AT5G48300 ortho_group5004_cds transferase activity
+AT5G48545 ortho_group4363_cds hydrolase activity
+AT5G48545 ortho_group4363_cds other cellular processes
+AT5G48545 ortho_group4363_cds other cytoplasmic components
+AT5G48545 ortho_group4363_cds other intracellular components
+AT5G48545 ortho_group4363_cds other metabolic processes
+AT5G48560 ortho_group5464_cds DNA or RNA binding
+AT5G48560 ortho_group5464_cds nucleus
+AT5G48560 ortho_group5464_cds other cellular processes
+AT5G48560 ortho_group5464_cds other metabolic processes
+AT5G48560 ortho_group5464_cds transcription factor activity
+AT5G48580 ortho_group5439_cds chloroplast
+AT5G48580 ortho_group5439_cds cytosol
+AT5G48580 ortho_group5439_cds other binding
+AT5G48580 ortho_group5439_cds other cellular processes
+AT5G48580 ortho_group5439_cds other cytoplasmic components
+AT5G48580 ortho_group5439_cds other enzyme activity
+AT5G48580 ortho_group5439_cds other intracellular components
+AT5G48580 ortho_group5439_cds other membranes
+AT5G48580 ortho_group5439_cds other metabolic processes
+AT5G48580 ortho_group5439_cds plastid
+AT5G48580 ortho_group5439_cds protein metabolism
+AT5G48600 ortho_group3456_cds cell organization and biogenesis
+AT5G48600 ortho_group3456_cds nucleotide binding
+AT5G48600 ortho_group3456_cds nucleus
+AT5G48600 ortho_group3456_cds other cellular processes
+AT5G48600 ortho_group3456_cds other intracellular components
+AT5G48600 ortho_group3456_cds transporter activity
+AT5G48630 ortho_group5136_cds kinase activity
+AT5G48630 ortho_group5136_cds other cellular processes
+AT5G48630 ortho_group5136_cds transferase activity
+AT5G48660 ortho_group4004_cds ER
+AT5G48660 ortho_group4004_cds other cellular components
+AT5G48660 ortho_group4004_cds other cellular processes
+AT5G48660 ortho_group4004_cds other membranes
+AT5G48660 ortho_group4004_cds transport
+AT5G48660 ortho_group4004_cds unknown molecular functions
+AT5G48690 ortho_group4764_cds unknown biological processes
+AT5G48690 ortho_group4764_cds unknown cellular components
+AT5G48690 ortho_group4764_cds unknown molecular functions
+AT5G48760 ortho_group4751_cds cytosol
+AT5G48760 ortho_group4751_cds other cellular processes
+AT5G48760 ortho_group4751_cds other cytoplasmic components
+AT5G48760 ortho_group4751_cds other intracellular components
+AT5G48760 ortho_group4751_cds other metabolic processes
+AT5G48760 ortho_group4751_cds protein metabolism
+AT5G48760 ortho_group4751_cds ribosome
+AT5G48760 ortho_group4751_cds structural molecule activity
+AT5G48790 ortho_group5307_cds chloroplast
+AT5G48790 ortho_group5307_cds unknown biological processes
+AT5G48790 ortho_group5307_cds unknown molecular functions
+AT5G49010 ortho_group3870_cds DNA or RNA metabolism
+AT5G49010 ortho_group3870_cds nucleus
+AT5G49010 ortho_group3870_cds other cellular processes
+AT5G49010 ortho_group3870_cds other intracellular components
+AT5G49010 ortho_group3870_cds other metabolic processes
+AT5G49010 ortho_group3870_cds unknown molecular functions
+AT5G49120 ortho_group3987_cds chloroplast
+AT5G49120 ortho_group3987_cds unknown biological processes
+AT5G49120 ortho_group3987_cds unknown molecular functions
+AT5G49210 ortho_group4729_cds unknown biological processes
+AT5G49210 ortho_group4729_cds unknown molecular functions
+AT5G49300 ortho_group4415_cds other cellular processes
+AT5G49300 ortho_group4415_cds other metabolic processes
+AT5G49300 ortho_group4415_cds transcription factor activity
+AT5G49410 ortho_group3179_cds unknown biological processes
+AT5G49410 ortho_group3179_cds unknown cellular components
+AT5G49410 ortho_group3179_cds unknown molecular functions
+AT5G49510 ortho_group3836_cds cytosol
+AT5G49510 ortho_group3836_cds other cellular processes
+AT5G49510 ortho_group3836_cds other cytoplasmic components
+AT5G49510 ortho_group3836_cds other intracellular components
+AT5G49510 ortho_group3836_cds other metabolic processes
+AT5G49510 ortho_group3836_cds protein binding
+AT5G49510 ortho_group3836_cds protein metabolism
+AT5G49540 ortho_group3032_cds unknown biological processes
+AT5G49540 ortho_group3032_cds unknown cellular components
+AT5G49540 ortho_group3032_cds unknown molecular functions
+AT5G49570 ortho_group2605_cds cytosol
+AT5G49570 ortho_group2605_cds hydrolase activity
+AT5G49570 ortho_group2605_cds other biological processes
+AT5G49570 ortho_group2605_cds other enzyme activity
+AT5G49580 ortho_group4513_cds other cellular processes
+AT5G49580 ortho_group4513_cds other metabolic processes
+AT5G49580 ortho_group4513_cds protein binding
+AT5G49580 ortho_group4513_cds protein metabolism
+AT5G49710 ortho_group3607_cds unknown biological processes
+AT5G49710 ortho_group3607_cds unknown molecular functions
+AT5G49760 ortho_group3934_cds kinase activity
+AT5G49760 ortho_group3934_cds other cellular processes
+AT5G49760 ortho_group3934_cds other cytoplasmic components
+AT5G49760 ortho_group3934_cds other intracellular components
+AT5G49760 ortho_group3934_cds other metabolic processes
+AT5G49760 ortho_group3934_cds plasma membrane
+AT5G49760 ortho_group3934_cds protein metabolism
+AT5G49880 ortho_group4185_cds other cellular processes
+AT5G49910 ortho_group3390_cds chloroplast
+AT5G49910 ortho_group3390_cds extracellular
+AT5G49910 ortho_group3390_cds other biological processes
+AT5G49910 ortho_group3390_cds other cellular processes
+AT5G49910 ortho_group3390_cds other cytoplasmic components
+AT5G49910 ortho_group3390_cds other intracellular components
+AT5G49910 ortho_group3390_cds other metabolic processes
+AT5G49910 ortho_group3390_cds plastid
+AT5G49910 ortho_group3390_cds protein binding
+AT5G49910 ortho_group3390_cds protein metabolism
+AT5G49910 ortho_group3390_cds response to abiotic or biotic stimulus
+AT5G49910 ortho_group3390_cds response to stress
+AT5G49910 ortho_group3390_cds transport
+AT5G49940 ortho_group3229_cds cell organization and biogenesis
+AT5G49940 ortho_group3229_cds chloroplast
+AT5G49940 ortho_group3229_cds other cellular processes
+AT5G49940 ortho_group3229_cds other cytoplasmic components
+AT5G49940 ortho_group3229_cds other intracellular components
+AT5G49940 ortho_group3229_cds other metabolic processes
+AT5G49940 ortho_group3229_cds plastid
+AT5G49940 ortho_group3229_cds structural molecule activity
+AT5G49950 ortho_group4098_cds other cellular components
+AT5G49950 ortho_group4098_cds unknown biological processes
+AT5G49950 ortho_group4098_cds unknown molecular functions
+AT5G49970 ortho_group4399_cds chloroplast
+AT5G49970 ortho_group4399_cds cytosol
+AT5G49970 ortho_group4399_cds other cellular processes
+AT5G49970 ortho_group4399_cds other enzyme activity
+AT5G49970 ortho_group4399_cds other metabolic processes
+AT5G50100 ortho_group4554_cds unknown biological processes
+AT5G50100 ortho_group4554_cds unknown molecular functions
+AT5G50150 ortho_group4161_cds unknown biological processes
+AT5G50150 ortho_group4161_cds unknown cellular components
+AT5G50150 ortho_group4161_cds unknown molecular functions
+AT5G50180 ortho_group3772_cds kinase activity
+AT5G50180 ortho_group3772_cds other cellular processes
+AT5G50180 ortho_group3772_cds other metabolic processes
+AT5G50180 ortho_group3772_cds protein metabolism
+AT5G50180 ortho_group3772_cds transferase activity
+AT5G50210 ortho_group3526_cds chloroplast
+AT5G50210 ortho_group3526_cds electron transport or energy pathways
+AT5G50210 ortho_group3526_cds other binding
+AT5G50210 ortho_group3526_cds other cellular processes
+AT5G50210 ortho_group3526_cds other enzyme activity
+AT5G50210 ortho_group3526_cds other metabolic processes
+AT5G50210 ortho_group3526_cds other molecular functions
+AT5G50210 ortho_group3526_cds protein binding
+AT5G50250 ortho_group4101_cds chloroplast
+AT5G50250 ortho_group4101_cds DNA or RNA binding
+AT5G50250 ortho_group4101_cds other cellular processes
+AT5G50250 ortho_group4101_cds other cytoplasmic components
+AT5G50250 ortho_group4101_cds other intracellular components
+AT5G50250 ortho_group4101_cds other metabolic processes
+AT5G50250 ortho_group4101_cds plastid
+AT5G50250 ortho_group4101_cds response to stress
+AT5G50260 ortho_group3876_cds hydrolase activity
+AT5G50260 ortho_group3876_cds other cellular components
+AT5G50260 ortho_group3876_cds protein metabolism
+AT5G50310 ortho_group4725_cds unknown biological processes
+AT5G50310 ortho_group4725_cds unknown cellular components
+AT5G50375 ortho_group4979_cds cell organization and biogenesis
+AT5G50375 ortho_group4979_cds ER
+AT5G50375 ortho_group4979_cds other cellular processes
+AT5G50375 ortho_group4979_cds other enzyme activity
+AT5G50375 ortho_group4979_cds other metabolic processes
+AT5G50375 ortho_group4979_cds response to abiotic or biotic stimulus
+AT5G50375 ortho_group4979_cds transport
+AT5G50400 ortho_group4769_cds hydrolase activity
+AT5G50400 ortho_group4769_cds unknown biological processes
+AT5G50430 ortho_group2748_cds other cellular processes
+AT5G50430 ortho_group2748_cds other enzyme activity
+AT5G50430 ortho_group2748_cds other metabolic processes
+AT5G50430 ortho_group2748_cds protein metabolism
+AT5G50430 ortho_group2748_cds unknown cellular components
+AT5G50550 ortho_group2756_cds nucleotide binding
+AT5G50550 ortho_group2756_cds unknown biological processes
+AT5G50550 ortho_group2756_cds unknown cellular components
+AT5G50580 ortho_group2650_cds other cellular processes
+AT5G50580 ortho_group2650_cds other enzyme activity
+AT5G50580 ortho_group2650_cds other metabolic processes
+AT5G50580 ortho_group2650_cds protein metabolism
+AT5G50580 ortho_group2650_cds unknown cellular components
+AT5G50720 ortho_group3449_cds other biological processes
+AT5G50720 ortho_group3449_cds response to abiotic or biotic stimulus
+AT5G50720 ortho_group3449_cds response to stress
+AT5G50720 ortho_group3449_cds unknown molecular functions
+AT5G50760 ortho_group4193_cds other biological processes
+AT5G50760 ortho_group4193_cds unknown molecular functions
+AT5G50840 ortho_group3131_cds unknown biological processes
+AT5G50860 ortho_group4873_cds kinase activity
+AT5G50860 ortho_group4873_cds other cellular processes
+AT5G50860 ortho_group4873_cds other metabolic processes
+AT5G50860 ortho_group4873_cds plasma membrane
+AT5G50860 ortho_group4873_cds protein metabolism
+AT5G50860 ortho_group4873_cds transferase activity
+AT5G50870 ortho_group2626_cds cytosol
+AT5G50870 ortho_group2626_cds other cellular processes
+AT5G50870 ortho_group2626_cds other enzyme activity
+AT5G50870 ortho_group2626_cds other metabolic processes
+AT5G50870 ortho_group2626_cds protein metabolism
+AT5G50930 ortho_group5045_cds DNA or RNA binding
+AT5G50930 ortho_group5045_cds unknown biological processes
+AT5G50950 ortho_group3361_cds cytosol
+AT5G50950 ortho_group3361_cds mitochondria
+AT5G50950 ortho_group3361_cds other cellular processes
+AT5G50950 ortho_group3361_cds other enzyme activity
+AT5G50950 ortho_group3361_cds other metabolic processes
+AT5G50950 ortho_group3361_cds protein binding
+AT5G50950 ortho_group3361_cds response to abiotic or biotic stimulus
+AT5G50950 ortho_group3361_cds response to stress
+AT5G51020 ortho_group3573_cds cell organization and biogenesis
+AT5G51020 ortho_group3573_cds chloroplast
+AT5G51020 ortho_group3573_cds other cellular processes
+AT5G51020 ortho_group3573_cds other cytoplasmic components
+AT5G51020 ortho_group3573_cds other intracellular components
+AT5G51020 ortho_group3573_cds other membranes
+AT5G51020 ortho_group3573_cds plastid
+AT5G51020 ortho_group3573_cds response to stress
+AT5G51020 ortho_group3573_cds unknown molecular functions
+AT5G51050 ortho_group4087_cds mitochondria
+AT5G51050 ortho_group4087_cds other binding
+AT5G51050 ortho_group4087_cds other cellular processes
+AT5G51050 ortho_group4087_cds other cytoplasmic components
+AT5G51050 ortho_group4087_cds other intracellular components
+AT5G51050 ortho_group4087_cds other membranes
+AT5G51050 ortho_group4087_cds transport
+AT5G51080 ortho_group4186_cds hydrolase activity
+AT5G51080 ortho_group4186_cds nucleic acid binding
+AT5G51080 ortho_group4186_cds other cellular processes
+AT5G51080 ortho_group4186_cds other metabolic processes
+AT5G51080 ortho_group4186_cds unknown cellular components
+AT5G51100 ortho_group3053_cds chloroplast
+AT5G51100 ortho_group3053_cds other enzyme activity
+AT5G51100 ortho_group3053_cds other intracellular components
+AT5G51100 ortho_group3053_cds response to abiotic or biotic stimulus
+AT5G51110 ortho_group2615_cds chloroplast
+AT5G51110 ortho_group2615_cds other cellular processes
+AT5G51110 ortho_group2615_cds other enzyme activity
+AT5G51110 ortho_group2615_cds other metabolic processes
+AT5G51120 ortho_group5528_cds cytosol
+AT5G51120 ortho_group5528_cds DNA or RNA binding
+AT5G51120 ortho_group5528_cds protein binding
+AT5G51120 ortho_group5528_cds unknown biological processes
+AT5G51130 ortho_group4459_cds other cellular processes
+AT5G51130 ortho_group4459_cds other cytoplasmic components
+AT5G51130 ortho_group4459_cds other metabolic processes
+AT5G51130 ortho_group4459_cds protein metabolism
+AT5G51130 ortho_group4459_cds transferase activity
+AT5G51180 ortho_group2716_cds unknown biological processes
+AT5G51180 ortho_group2716_cds unknown cellular components
+AT5G51220 ortho_group2534_cds mitochondria
+AT5G51220 ortho_group2534_cds unknown biological processes
+AT5G51220 ortho_group2534_cds unknown molecular functions
+AT5G51230 ortho_group3079_cds developmental processes
+AT5G51230 ortho_group3079_cds DNA or RNA binding
+AT5G51230 ortho_group3079_cds nucleus
+AT5G51230 ortho_group3079_cds other cellular processes
+AT5G51230 ortho_group3079_cds other metabolic processes
+AT5G51230 ortho_group3079_cds protein binding
+AT5G51230 ortho_group3079_cds transcription factor activity
+AT5G51400 ortho_group4350_cds unknown biological processes
+AT5G51400 ortho_group4350_cds unknown molecular functions
+AT5G51570 ortho_group2717_cds other cellular components
+AT5G51570 ortho_group2717_cds other cellular processes
+AT5G51570 ortho_group2717_cds other cytoplasmic components
+AT5G51570 ortho_group2717_cds other intracellular components
+AT5G51570 ortho_group2717_cds other membranes
+AT5G51570 ortho_group2717_cds other metabolic processes
+AT5G51570 ortho_group2717_cds plasma membrane
+AT5G51570 ortho_group2717_cds protein metabolism
+AT5G51700 ortho_group4730_cds other binding
+AT5G51700 ortho_group4730_cds other cellular processes
+AT5G51700 ortho_group4730_cds other metabolic processes
+AT5G51700 ortho_group4730_cds protein binding
+AT5G51700 ortho_group4730_cds response to abiotic or biotic stimulus
+AT5G51700 ortho_group4730_cds response to stress
+AT5G51700 ortho_group4730_cds unknown cellular components
+AT5G51720 ortho_group5149_cds chloroplast
+AT5G51720 ortho_group5149_cds other binding
+AT5G51720 ortho_group5149_cds other cytoplasmic components
+AT5G51720 ortho_group5149_cds other intracellular components
+AT5G51720 ortho_group5149_cds plastid
+AT5G51720 ortho_group5149_cds unknown biological processes
+AT5G51740 ortho_group3603_cds hydrolase activity
+AT5G51740 ortho_group3603_cds other membranes
+AT5G51740 ortho_group3603_cds protein metabolism
+AT5G51820 ortho_group3677_cds chloroplast
+AT5G51820 ortho_group3677_cds cytosol
+AT5G51820 ortho_group3677_cds extracellular
+AT5G51820 ortho_group3677_cds other cellular processes
+AT5G51820 ortho_group3677_cds other cytoplasmic components
+AT5G51820 ortho_group3677_cds other enzyme activity
+AT5G51820 ortho_group3677_cds other intracellular components
+AT5G51820 ortho_group3677_cds other metabolic processes
+AT5G51820 ortho_group3677_cds plastid
+AT5G51820 ortho_group3677_cds response to abiotic or biotic stimulus
+AT5G51820 ortho_group3677_cds response to stress
+AT5G51840 ortho_group4176_cds unknown biological processes
+AT5G51840 ortho_group4176_cds unknown cellular components
+AT5G51840 ortho_group4176_cds unknown molecular functions
+AT5G51970 ortho_group3174_cds cytosol
+AT5G51970 ortho_group3174_cds other binding
+AT5G51970 ortho_group3174_cds other cellular components
+AT5G51970 ortho_group3174_cds other enzyme activity
+AT5G51970 ortho_group3174_cds other metabolic processes
+AT5G52060 ortho_group2866_cds mitochondria
+AT5G52200 ortho_group4798_cds nucleus
+AT5G52200 ortho_group4798_cds other cellular processes
+AT5G52200 ortho_group4798_cds other metabolic processes
+AT5G52200 ortho_group4798_cds other molecular functions
+AT5G52210 ortho_group2920_cds nucleotide binding
+AT5G52210 ortho_group2920_cds signal transduction
+AT5G52380 ortho_group4260_cds nucleic acid binding
+AT5G52380 ortho_group4260_cds unknown cellular components
+AT5G52450 ortho_group4418_cds other cytoplasmic components
+AT5G52450 ortho_group4418_cds other intracellular components
+AT5G52450 ortho_group4418_cds other membranes
+AT5G52450 ortho_group4418_cds response to abiotic or biotic stimulus
+AT5G52450 ortho_group4418_cds transporter activity
+AT5G52520 ortho_group5025_cds chloroplast
+AT5G52520 ortho_group5025_cds developmental processes
+AT5G52520 ortho_group5025_cds mitochondria
+AT5G52520 ortho_group5025_cds nucleotide binding
+AT5G52520 ortho_group5025_cds other cellular processes
+AT5G52520 ortho_group5025_cds other cytoplasmic components
+AT5G52520 ortho_group5025_cds other enzyme activity
+AT5G52520 ortho_group5025_cds other intracellular components
+AT5G52520 ortho_group5025_cds other metabolic processes
+AT5G52520 ortho_group5025_cds plastid
+AT5G52520 ortho_group5025_cds protein metabolism
+AT5G52660 ortho_group3310_cds DNA or RNA binding
+AT5G52660 ortho_group3310_cds other biological processes
+AT5G52660 ortho_group3310_cds other cellular processes
+AT5G52660 ortho_group3310_cds other metabolic processes
+AT5G52660 ortho_group3310_cds response to abiotic or biotic stimulus
+AT5G52660 ortho_group3310_cds response to stress
+AT5G52660 ortho_group3310_cds transcription factor activity
+AT5G52880 ortho_group5486_cds unknown biological processes
+AT5G52880 ortho_group5486_cds unknown cellular components
+AT5G52880 ortho_group5486_cds unknown molecular functions
+AT5G52960 ortho_group2572_cds chloroplast
+AT5G52960 ortho_group2572_cds unknown biological processes
+AT5G52960 ortho_group2572_cds unknown molecular functions
+AT5G52970 ortho_group4647_cds chloroplast
+AT5G52970 ortho_group4647_cds other cytoplasmic components
+AT5G52970 ortho_group4647_cds other intracellular components
+AT5G52970 ortho_group4647_cds plastid
+AT5G52970 ortho_group4647_cds unknown biological processes
+AT5G52970 ortho_group4647_cds unknown molecular functions
+AT5G53050 ortho_group2619_cds hydrolase activity
+AT5G53050 ortho_group2619_cds other enzyme activity
+AT5G53070 ortho_group4133_cds other cellular processes
+AT5G53070 ortho_group4133_cds other intracellular components
+AT5G53070 ortho_group4133_cds other metabolic processes
+AT5G53070 ortho_group4133_cds protein metabolism
+AT5G53070 ortho_group4133_cds ribosome
+AT5G53070 ortho_group4133_cds structural molecule activity
+AT5G53120 ortho_group2737_cds other cellular processes
+AT5G53120 ortho_group2737_cds other cytoplasmic components
+AT5G53120 ortho_group2737_cds other metabolic processes
+AT5G53120 ortho_group2737_cds protein binding
+AT5G53120 ortho_group2737_cds transferase activity
+AT5G53130 ortho_group3424_cds nucleotide binding
+AT5G53130 ortho_group3424_cds plasma membrane
+AT5G53130 ortho_group3424_cds protein binding
+AT5G53130 ortho_group3424_cds transport
+AT5G53130 ortho_group3424_cds transporter activity
+AT5G53140 ortho_group4456_cds hydrolase activity
+AT5G53140 ortho_group4456_cds other cellular components
+AT5G53140 ortho_group4456_cds other cellular processes
+AT5G53140 ortho_group4456_cds other enzyme activity
+AT5G53140 ortho_group4456_cds other metabolic processes
+AT5G53140 ortho_group4456_cds protein metabolism
+AT5G53280 ortho_group4552_cds cell organization and biogenesis
+AT5G53280 ortho_group4552_cds chloroplast
+AT5G53280 ortho_group4552_cds other cellular processes
+AT5G53280 ortho_group4552_cds other cytoplasmic components
+AT5G53280 ortho_group4552_cds other intracellular components
+AT5G53280 ortho_group4552_cds other membranes
+AT5G53280 ortho_group4552_cds plastid
+AT5G53280 ortho_group4552_cds unknown molecular functions
+AT5G53310 ortho_group3477_cds hydrolase activity
+AT5G53310 ortho_group3477_cds plasma membrane
+AT5G53310 ortho_group3477_cds unknown biological processes
+AT5G53340 ortho_group5505_cds other cellular processes
+AT5G53340 ortho_group5505_cds other membranes
+AT5G53340 ortho_group5505_cds other metabolic processes
+AT5G53340 ortho_group5505_cds protein metabolism
+AT5G53340 ortho_group5505_cds transferase activity
+AT5G53560 ortho_group4752_cds chloroplast
+AT5G53560 ortho_group4752_cds ER
+AT5G53560 ortho_group4752_cds other binding
+AT5G53560 ortho_group4752_cds other cytoplasmic components
+AT5G53560 ortho_group4752_cds other intracellular components
+AT5G53560 ortho_group4752_cds other membranes
+AT5G53560 ortho_group4752_cds plasma membrane
+AT5G53560 ortho_group4752_cds plastid
+AT5G53660 ortho_group4551_cds developmental processes
+AT5G53660 ortho_group4551_cds nucleus
+AT5G53660 ortho_group4551_cds response to abiotic or biotic stimulus
+AT5G53850 ortho_group4890_cds chloroplast
+AT5G53850 ortho_group4890_cds cytosol
+AT5G53850 ortho_group4890_cds hydrolase activity
+AT5G53850 ortho_group4890_cds other binding
+AT5G53850 ortho_group4890_cds other cellular processes
+AT5G53850 ortho_group4890_cds other cytoplasmic components
+AT5G53850 ortho_group4890_cds other enzyme activity
+AT5G53850 ortho_group4890_cds other intracellular components
+AT5G53850 ortho_group4890_cds other metabolic processes
+AT5G53850 ortho_group4890_cds plastid
+AT5G53970 ortho_group3178_cds other cellular processes
+AT5G53970 ortho_group3178_cds other metabolic processes
+AT5G53970 ortho_group3178_cds transferase activity
+AT5G53970 ortho_group3178_cds unknown cellular components
+AT5G54100 ortho_group2803_cds mitochondria
+AT5G54100 ortho_group2803_cds unknown biological processes
+AT5G54160 ortho_group5423_cds cytosol
+AT5G54160 ortho_group5423_cds nucleus
+AT5G54160 ortho_group5423_cds other cellular components
+AT5G54160 ortho_group5423_cds other cellular processes
+AT5G54160 ortho_group5423_cds other cytoplasmic components
+AT5G54160 ortho_group5423_cds other metabolic processes
+AT5G54160 ortho_group5423_cds plasma membrane
+AT5G54160 ortho_group5423_cds transferase activity
+AT5G54170 ortho_group2932_cds response to stress
+AT5G54170 ortho_group2932_cds unknown molecular functions
+AT5G54270 ortho_group5228_cds chloroplast
+AT5G54270 ortho_group5228_cds other cellular processes
+AT5G54270 ortho_group5228_cds other cytoplasmic components
+AT5G54270 ortho_group5228_cds other intracellular components
+AT5G54270 ortho_group5228_cds other membranes
+AT5G54270 ortho_group5228_cds other metabolic processes
+AT5G54270 ortho_group5228_cds plastid
+AT5G54270 ortho_group5228_cds structural molecule activity
+AT5G54440 ortho_group3951_cds cell organization and biogenesis
+AT5G54440 ortho_group3951_cds other cellular processes
+AT5G54440 ortho_group3951_cds unknown cellular components
+AT5G54440 ortho_group3951_cds unknown molecular functions
+AT5G54500 ortho_group3420_cds nucleotide binding
+AT5G54500 ortho_group3420_cds other binding
+AT5G54500 ortho_group3420_cds other biological processes
+AT5G54500 ortho_group3420_cds other cytoplasmic components
+AT5G54500 ortho_group3420_cds other enzyme activity
+AT5G54500 ortho_group3420_cds other intracellular components
+AT5G54500 ortho_group3420_cds other membranes
+AT5G54500 ortho_group3420_cds other metabolic processes
+AT5G54500 ortho_group3420_cds plasma membrane
+AT5G54590 ortho_group5037_cds kinase activity
+AT5G54590 ortho_group5037_cds nucleotide binding
+AT5G54590 ortho_group5037_cds other cellular processes
+AT5G54590 ortho_group5037_cds other metabolic processes
+AT5G54590 ortho_group5037_cds plasma membrane
+AT5G54590 ortho_group5037_cds protein binding
+AT5G54590 ortho_group5037_cds protein metabolism
+AT5G54590 ortho_group5037_cds response to abiotic or biotic stimulus
+AT5G54590 ortho_group5037_cds response to stress
+AT5G54590 ortho_group5037_cds transferase activity
+AT5G54600 ortho_group4322_cds chloroplast
+AT5G54600 ortho_group4322_cds other cellular processes
+AT5G54600 ortho_group4322_cds other cytoplasmic components
+AT5G54600 ortho_group4322_cds other intracellular components
+AT5G54600 ortho_group4322_cds other metabolic processes
+AT5G54600 ortho_group4322_cds plastid
+AT5G54600 ortho_group4322_cds protein metabolism
+AT5G54600 ortho_group4322_cds ribosome
+AT5G54600 ortho_group4322_cds structural molecule activity
+AT5G54670 ortho_group2608_cds hydrolase activity
+AT5G54670 ortho_group2608_cds other cellular processes
+AT5G54670 ortho_group2608_cds protein binding
+AT5G54750 ortho_group3548_cds other cellular processes
+AT5G54750 ortho_group3548_cds transport
+AT5G54750 ortho_group3548_cds unknown molecular functions
+AT5G54800 ortho_group3745_cds cell organization and biogenesis
+AT5G54800 ortho_group3745_cds chloroplast
+AT5G54800 ortho_group3745_cds developmental processes
+AT5G54800 ortho_group3745_cds other cellular processes
+AT5G54800 ortho_group3745_cds other membranes
+AT5G54800 ortho_group3745_cds response to abiotic or biotic stimulus
+AT5G54800 ortho_group3745_cds transport
+AT5G54800 ortho_group3745_cds transporter activity
+AT5G54840 ortho_group4384_cds nucleotide binding
+AT5G54840 ortho_group4384_cds other intracellular components
+AT5G54840 ortho_group4384_cds signal transduction
+AT5G54850 ortho_group3861_cds unknown biological processes
+AT5G54850 ortho_group3861_cds unknown cellular components
+AT5G54850 ortho_group3861_cds unknown molecular functions
+AT5G54980 ortho_group4569_cds electron transport or energy pathways
+AT5G54980 ortho_group4569_cds mitochondria
+AT5G54980 ortho_group4569_cds other cytoplasmic components
+AT5G54980 ortho_group4569_cds other enzyme activity
+AT5G54980 ortho_group4569_cds other intracellular components
+AT5G54980 ortho_group4569_cds other membranes
+AT5G54980 ortho_group4569_cds other metabolic processes
+AT5G55000 ortho_group5388_cds other membranes
+AT5G55000 ortho_group5388_cds plasma membrane
+AT5G55000 ortho_group5388_cds protein binding
+AT5G55000 ortho_group5388_cds transport
+AT5G55000 ortho_group5388_cds transporter activity
+AT5G55070 ortho_group3372_cds cytosol
+AT5G55070 ortho_group3372_cds mitochondria
+AT5G55070 ortho_group3372_cds other binding
+AT5G55070 ortho_group3372_cds other cytoplasmic components
+AT5G55070 ortho_group3372_cds other intracellular components
+AT5G55070 ortho_group3372_cds other metabolic processes
+AT5G55070 ortho_group3372_cds response to stress
+AT5G55070 ortho_group3372_cds ribosome
+AT5G55070 ortho_group3372_cds transferase activity
+AT5G55190 ortho_group4753_cds hydrolase activity
+AT5G55190 ortho_group4753_cds nucleotide binding
+AT5G55190 ortho_group4753_cds other cellular components
+AT5G55190 ortho_group4753_cds other cellular processes
+AT5G55190 ortho_group4753_cds protein binding
+AT5G55190 ortho_group4753_cds transport
+AT5G55200 ortho_group5480_cds mitochondria
+AT5G55200 ortho_group5480_cds nucleotide binding
+AT5G55200 ortho_group5480_cds other binding
+AT5G55200 ortho_group5480_cds other cellular processes
+AT5G55200 ortho_group5480_cds other metabolic processes
+AT5G55200 ortho_group5480_cds protein metabolism
+AT5G55200 ortho_group5480_cds response to abiotic or biotic stimulus
+AT5G55310 ortho_group3647_cds DNA or RNA binding
+AT5G55310 ortho_group3647_cds DNA or RNA metabolism
+AT5G55310 ortho_group3647_cds other binding
+AT5G55310 ortho_group3647_cds other enzyme activity
+AT5G55310 ortho_group3647_cds other membranes
+AT5G55390 ortho_group2731_cds developmental processes
+AT5G55390 ortho_group2731_cds nucleus
+AT5G55390 ortho_group2731_cds response to abiotic or biotic stimulus
+AT5G55390 ortho_group2731_cds response to stress
+AT5G55390 ortho_group2731_cds signal transduction
+AT5G55390 ortho_group2731_cds transcription factor activity
+AT5G55560 ortho_group5346_cds kinase activity
+AT5G55560 ortho_group5346_cds nucleotide binding
+AT5G55560 ortho_group5346_cds other cellular processes
+AT5G55560 ortho_group5346_cds other metabolic processes
+AT5G55560 ortho_group5346_cds protein metabolism
+AT5G55560 ortho_group5346_cds transferase activity
+AT5G55560 ortho_group5346_cds unknown cellular components
+AT5G55640 ortho_group3326_cds unknown biological processes
+AT5G55640 ortho_group3326_cds unknown molecular functions
+AT5G55810 ortho_group4046_cds cell organization and biogenesis
+AT5G55810 ortho_group4046_cds developmental processes
+AT5G55810 ortho_group4046_cds other cellular processes
+AT5G55810 ortho_group4046_cds other metabolic processes
+AT5G55810 ortho_group4046_cds transferase activity
+AT5G55810 ortho_group4046_cds unknown cellular components
+AT5G55850 ortho_group4906_cds other biological processes
+AT5G55850 ortho_group4906_cds plasma membrane
+AT5G55850 ortho_group4906_cds unknown molecular functions
+AT5G55920 ortho_group3650_cds cytosol
+AT5G55920 ortho_group3650_cds developmental processes
+AT5G55920 ortho_group3650_cds DNA or RNA binding
+AT5G55920 ortho_group3650_cds nucleus
+AT5G55920 ortho_group3650_cds other biological processes
+AT5G55920 ortho_group3650_cds other intracellular components
+AT5G55920 ortho_group3650_cds transferase activity
+AT5G55940 ortho_group2831_cds developmental processes
+AT5G55940 ortho_group2831_cds ER
+AT5G55940 ortho_group2831_cds unknown molecular functions
+AT5G55990 ortho_group5496_cds cytosol
+AT5G55990 ortho_group5496_cds other binding
+AT5G55990 ortho_group5496_cds other cytoplasmic components
+AT5G55990 ortho_group5496_cds other intracellular components
+AT5G55990 ortho_group5496_cds other membranes
+AT5G55990 ortho_group5496_cds protein binding
+AT5G55990 ortho_group5496_cds ribosome
+AT5G55990 ortho_group5496_cds signal transduction
+AT5G56000 ortho_group3454_cds cell wall
+AT5G56000 ortho_group3454_cds chloroplast
+AT5G56000 ortho_group3454_cds cytosol
+AT5G56000 ortho_group3454_cds extracellular
+AT5G56000 ortho_group3454_cds nucleotide binding
+AT5G56000 ortho_group3454_cds nucleus
+AT5G56000 ortho_group3454_cds other cellular processes
+AT5G56000 ortho_group3454_cds other cytoplasmic components
+AT5G56000 ortho_group3454_cds other intracellular components
+AT5G56000 ortho_group3454_cds other membranes
+AT5G56000 ortho_group3454_cds other metabolic processes
+AT5G56000 ortho_group3454_cds plasma membrane
+AT5G56000 ortho_group3454_cds plastid
+AT5G56000 ortho_group3454_cds protein binding
+AT5G56000 ortho_group3454_cds protein metabolism
+AT5G56000 ortho_group3454_cds response to stress
+AT5G56010 ortho_group3806_cds cytosol
+AT5G56010 ortho_group3806_cds nucleotide binding
+AT5G56010 ortho_group3806_cds nucleus
+AT5G56010 ortho_group3806_cds other cellular processes
+AT5G56010 ortho_group3806_cds other intracellular components
+AT5G56010 ortho_group3806_cds other membranes
+AT5G56010 ortho_group3806_cds other metabolic processes
+AT5G56010 ortho_group3806_cds plasma membrane
+AT5G56010 ortho_group3806_cds protein binding
+AT5G56010 ortho_group3806_cds protein metabolism
+AT5G56010 ortho_group3806_cds response to abiotic or biotic stimulus
+AT5G56010 ortho_group3806_cds response to stress
+AT5G56180 ortho_group5294_cds nucleus
+AT5G56180 ortho_group5294_cds other cellular processes
+AT5G56180 ortho_group5294_cds structural molecule activity
+AT5G56290 ortho_group5102_cds cell organization and biogenesis
+AT5G56290 ortho_group5102_cds cytosol
+AT5G56290 ortho_group5102_cds other binding
+AT5G56290 ortho_group5102_cds other biological processes
+AT5G56290 ortho_group5102_cds other cellular processes
+AT5G56290 ortho_group5102_cds other cytoplasmic components
+AT5G56290 ortho_group5102_cds other intracellular components
+AT5G56290 ortho_group5102_cds other membranes
+AT5G56290 ortho_group5102_cds protein binding
+AT5G56290 ortho_group5102_cds transport
+AT5G56360 ortho_group5424_cds other cellular components
+AT5G56360 ortho_group5424_cds protein binding
+AT5G56360 ortho_group5424_cds response to abiotic or biotic stimulus
+AT5G56360 ortho_group5424_cds response to stress
+AT5G56530 ortho_group4245_cds unknown biological processes
+AT5G56530 ortho_group4245_cds unknown cellular components
+AT5G56530 ortho_group4245_cds unknown molecular functions
+AT5G56550 ortho_group5155_cds nucleus
+AT5G56550 ortho_group5155_cds other biological processes
+AT5G56550 ortho_group5155_cds other intracellular components
+AT5G56550 ortho_group5155_cds response to stress
+AT5G56550 ortho_group5155_cds unknown molecular functions
+AT5G56680 ortho_group5303_cds chloroplast
+AT5G56680 ortho_group5303_cds cytosol
+AT5G56680 ortho_group5303_cds developmental processes
+AT5G56680 ortho_group5303_cds mitochondria
+AT5G56680 ortho_group5303_cds nucleic acid binding
+AT5G56680 ortho_group5303_cds nucleotide binding
+AT5G56680 ortho_group5303_cds other biological processes
+AT5G56680 ortho_group5303_cds other enzyme activity
+AT5G56790 ortho_group2825_cds kinase activity
+AT5G56790 ortho_group2825_cds nucleotide binding
+AT5G56790 ortho_group2825_cds other cellular processes
+AT5G56790 ortho_group2825_cds other metabolic processes
+AT5G56790 ortho_group2825_cds protein metabolism
+AT5G56790 ortho_group2825_cds transferase activity
+AT5G56950 ortho_group5335_cds cell organization and biogenesis
+AT5G56950 ortho_group5335_cds cytosol
+AT5G56950 ortho_group5335_cds DNA or RNA binding
+AT5G56950 ortho_group5335_cds DNA or RNA metabolism
+AT5G56950 ortho_group5335_cds nucleus
+AT5G56950 ortho_group5335_cds other biological processes
+AT5G56950 ortho_group5335_cds other cellular processes
+AT5G56950 ortho_group5335_cds other cytoplasmic components
+AT5G56950 ortho_group5335_cds response to stress
+AT5G57020 ortho_group4210_cds cytosol
+AT5G57020 ortho_group4210_cds developmental processes
+AT5G57020 ortho_group4210_cds other biological processes
+AT5G57020 ortho_group4210_cds other cellular processes
+AT5G57020 ortho_group4210_cds other metabolic processes
+AT5G57020 ortho_group4210_cds protein metabolism
+AT5G57020 ortho_group4210_cds ribosome
+AT5G57020 ortho_group4210_cds transferase activity
+AT5G57040 ortho_group5095_cds chloroplast
+AT5G57040 ortho_group5095_cds other enzyme activity
+AT5G57040 ortho_group5095_cds other metabolic processes
+AT5G57060 ortho_group4680_cds other cellular processes
+AT5G57060 ortho_group4680_cds other membranes
+AT5G57060 ortho_group4680_cds response to abiotic or biotic stimulus
+AT5G57060 ortho_group4680_cds response to stress
+AT5G57060 ortho_group4680_cds unknown molecular functions
+AT5G57110 ortho_group4902_cds hydrolase activity
+AT5G57110 ortho_group4902_cds other cellular components
+AT5G57110 ortho_group4902_cds other membranes
+AT5G57110 ortho_group4902_cds plasma membrane
+AT5G57110 ortho_group4902_cds protein binding
+AT5G57110 ortho_group4902_cds response to abiotic or biotic stimulus
+AT5G57110 ortho_group4902_cds transporter activity
+AT5G57330 ortho_group3410_cds cytosol
+AT5G57330 ortho_group3410_cds other binding
+AT5G57330 ortho_group3410_cds other biological processes
+AT5G57330 ortho_group3410_cds other cellular processes
+AT5G57330 ortho_group3410_cds other enzyme activity
+AT5G57330 ortho_group3410_cds other metabolic processes
+AT5G57410 ortho_group3626_cds other biological processes
+AT5G57440 ortho_group4580_cds hydrolase activity
+AT5G57440 ortho_group4580_cds mitochondria
+AT5G57440 ortho_group4580_cds other enzyme activity
+AT5G57440 ortho_group4580_cds other metabolic processes
+AT5G57480 ortho_group3655_cds hydrolase activity
+AT5G57480 ortho_group3655_cds nucleotide binding
+AT5G57480 ortho_group3655_cds other cellular components
+AT5G57655 ortho_group4016_cds ER
+AT5G57655 ortho_group4016_cds other cytoplasmic components
+AT5G57655 ortho_group4016_cds other enzyme activity
+AT5G57655 ortho_group4016_cds other intracellular components
+AT5G57655 ortho_group4016_cds other membranes
+AT5G57655 ortho_group4016_cds other metabolic processes
+AT5G57660 ortho_group2914_cds other binding
+AT5G57660 ortho_group2914_cds other cellular processes
+AT5G57660 ortho_group2914_cds other intracellular components
+AT5G57660 ortho_group2914_cds other metabolic processes
+AT5G57660 ortho_group2914_cds transcription factor activity
+AT5G57690 ortho_group4279_cds kinase activity
+AT5G57690 ortho_group4279_cds other cellular processes
+AT5G57690 ortho_group4279_cds other metabolic processes
+AT5G57690 ortho_group4279_cds protein metabolism
+AT5G57690 ortho_group4279_cds signal transduction
+AT5G57690 ortho_group4279_cds transferase activity
+AT5G57750 ortho_group3843_cds other binding
+AT5G57800 ortho_group4495_cds developmental processes
+AT5G57800 ortho_group4495_cds other binding
+AT5G57800 ortho_group4495_cds other cellular processes
+AT5G57800 ortho_group4495_cds other enzyme activity
+AT5G57800 ortho_group4495_cds other membranes
+AT5G57800 ortho_group4495_cds other metabolic processes
+AT5G57800 ortho_group4495_cds plasma membrane
+AT5G57890 ortho_group5301_cds other cellular processes
+AT5G57890 ortho_group5301_cds other enzyme activity
+AT5G57890 ortho_group5301_cds other metabolic processes
+AT5G57890 ortho_group5301_cds response to abiotic or biotic stimulus
+AT5G57950 ortho_group4756_cds other intracellular components
+AT5G57950 ortho_group4756_cds signal transduction
+AT5G57970 ortho_group3217_cds DNA or RNA metabolism
+AT5G57970 ortho_group3217_cds hydrolase activity
+AT5G57970 ortho_group3217_cds other cellular processes
+AT5G57970 ortho_group3217_cds other enzyme activity
+AT5G57970 ortho_group3217_cds response to stress
+AT5G58060 ortho_group4591_cds cytosol
+AT5G58060 ortho_group4591_cds other cellular processes
+AT5G58060 ortho_group4591_cds transport
+AT5G58060 ortho_group4591_cds unknown molecular functions
+AT5G58070 ortho_group3106_cds ER
+AT5G58070 ortho_group3106_cds mitochondria
+AT5G58070 ortho_group3106_cds other binding
+AT5G58070 ortho_group3106_cds other cellular components
+AT5G58070 ortho_group3106_cds other cytoplasmic components
+AT5G58070 ortho_group3106_cds other intracellular components
+AT5G58070 ortho_group3106_cds other membranes
+AT5G58070 ortho_group3106_cds plasma membrane
+AT5G58070 ortho_group3106_cds response to abiotic or biotic stimulus
+AT5G58070 ortho_group3106_cds response to stress
+AT5G58070 ortho_group3106_cds transport
+AT5G58070 ortho_group3106_cds transporter activity
+AT5G58090 ortho_group4276_cds hydrolase activity
+AT5G58090 ortho_group4276_cds other binding
+AT5G58090 ortho_group4276_cds other cellular components
+AT5G58090 ortho_group4276_cds other enzyme activity
+AT5G58090 ortho_group4276_cds other membranes
+AT5G58090 ortho_group4276_cds other metabolic processes
+AT5G58090 ortho_group4276_cds plasma membrane
+AT5G58100 ortho_group3792_cds cell organization and biogenesis
+AT5G58100 ortho_group3792_cds developmental processes
+AT5G58100 ortho_group3792_cds other cellular processes
+AT5G58240 ortho_group2910_cds cytosol
+AT5G58240 ortho_group2910_cds hydrolase activity
+AT5G58290 ortho_group3051_cds cell wall
+AT5G58290 ortho_group3051_cds cytosol
+AT5G58290 ortho_group3051_cds hydrolase activity
+AT5G58290 ortho_group3051_cds nucleus
+AT5G58290 ortho_group3051_cds other cellular components
+AT5G58290 ortho_group3051_cds other cellular processes
+AT5G58290 ortho_group3051_cds other intracellular components
+AT5G58290 ortho_group3051_cds other membranes
+AT5G58290 ortho_group3051_cds other metabolic processes
+AT5G58290 ortho_group3051_cds protein metabolism
+AT5G58320 ortho_group3692_cds unknown biological processes
+AT5G58330 ortho_group3417_cds chloroplast
+AT5G58330 ortho_group3417_cds electron transport or energy pathways
+AT5G58330 ortho_group3417_cds extracellular
+AT5G58330 ortho_group3417_cds mitochondria
+AT5G58330 ortho_group3417_cds other binding
+AT5G58330 ortho_group3417_cds other cellular processes
+AT5G58330 ortho_group3417_cds other cytoplasmic components
+AT5G58330 ortho_group3417_cds other enzyme activity
+AT5G58330 ortho_group3417_cds other intracellular components
+AT5G58330 ortho_group3417_cds other metabolic processes
+AT5G58330 ortho_group3417_cds plastid
+AT5G58440 ortho_group3867_cds cytosol
+AT5G58440 ortho_group3867_cds developmental processes
+AT5G58440 ortho_group3867_cds other binding
+AT5G58440 ortho_group3867_cds other biological processes
+AT5G58440 ortho_group3867_cds other cytoplasmic components
+AT5G58440 ortho_group3867_cds other intracellular components
+AT5G58440 ortho_group3867_cds other membranes
+AT5G58440 ortho_group3867_cds other metabolic processes
+AT5G58440 ortho_group3867_cds protein binding
+AT5G58440 ortho_group3867_cds protein metabolism
+AT5G58440 ortho_group3867_cds signal transduction
+AT5G58490 ortho_group4713_cds cytosol
+AT5G58490 ortho_group4713_cds other binding
+AT5G58490 ortho_group4713_cds other cellular processes
+AT5G58490 ortho_group4713_cds other enzyme activity
+AT5G58490 ortho_group4713_cds other metabolic processes
+AT5G58540 ortho_group3176_cds kinase activity
+AT5G58540 ortho_group3176_cds nucleotide binding
+AT5G58540 ortho_group3176_cds other cellular components
+AT5G58540 ortho_group3176_cds other cellular processes
+AT5G58540 ortho_group3176_cds other metabolic processes
+AT5G58540 ortho_group3176_cds protein metabolism
+AT5G58540 ortho_group3176_cds transferase activity
+AT5G58710 ortho_group3968_cds chloroplast
+AT5G58710 ortho_group3968_cds developmental processes
+AT5G58710 ortho_group3968_cds other cellular components
+AT5G58710 ortho_group3968_cds other cellular processes
+AT5G58710 ortho_group3968_cds other enzyme activity
+AT5G58710 ortho_group3968_cds other metabolic processes
+AT5G58710 ortho_group3968_cds protein metabolism
+AT5G58740 ortho_group2623_cds unknown biological processes
+AT5G58740 ortho_group2623_cds unknown molecular functions
+AT5G58787 ortho_group2955_cds other binding
+AT5G58787 ortho_group2955_cds unknown biological processes
+AT5G58787 ortho_group2955_cds unknown cellular components
+AT5G58800 ortho_group4010_cds nucleotide binding
+AT5G58800 ortho_group4010_cds other binding
+AT5G58800 ortho_group4010_cds other cellular processes
+AT5G58800 ortho_group4010_cds other enzyme activity
+AT5G58800 ortho_group4010_cds other metabolic processes
+AT5G58800 ortho_group4010_cds plasma membrane
+AT5G58910 ortho_group3184_cds extracellular
+AT5G58910 ortho_group3184_cds other cellular processes
+AT5G58910 ortho_group3184_cds other metabolic processes
+AT5G58950 ortho_group2652_cds cytosol
+AT5G58950 ortho_group2652_cds kinase activity
+AT5G58950 ortho_group2652_cds other cellular processes
+AT5G58950 ortho_group2652_cds other metabolic processes
+AT5G58950 ortho_group2652_cds plasma membrane
+AT5G58950 ortho_group2652_cds protein metabolism
+AT5G58950 ortho_group2652_cds transferase activity
+AT5G59090 ortho_group4103_cds cell wall
+AT5G59090 ortho_group4103_cds extracellular
+AT5G59090 ortho_group4103_cds hydrolase activity
+AT5G59090 ortho_group4103_cds nucleus
+AT5G59090 ortho_group4103_cds other cytoplasmic components
+AT5G59090 ortho_group4103_cds other metabolic processes
+AT5G59090 ortho_group4103_cds protein binding
+AT5G59090 ortho_group4103_cds protein metabolism
+AT5G59320 ortho_group2795_cds cell wall
+AT5G59320 ortho_group2795_cds extracellular
+AT5G59320 ortho_group2795_cds other binding
+AT5G59320 ortho_group2795_cds other biological processes
+AT5G59320 ortho_group2795_cds response to abiotic or biotic stimulus
+AT5G59320 ortho_group2795_cds response to stress
+AT5G59700 ortho_group3210_cds kinase activity
+AT5G59700 ortho_group3210_cds other cellular components
+AT5G59700 ortho_group3210_cds other cellular processes
+AT5G59700 ortho_group3210_cds other metabolic processes
+AT5G59700 ortho_group3210_cds plasma membrane
+AT5G59700 ortho_group3210_cds protein metabolism
+AT5G59770 ortho_group2987_cds unknown biological processes
+AT5G59770 ortho_group2987_cds unknown cellular components
+AT5G59770 ortho_group2987_cds unknown molecular functions
+AT5G59870 ortho_group3980_cds cell organization and biogenesis
+AT5G59870 ortho_group3980_cds DNA or RNA binding
+AT5G59870 ortho_group3980_cds DNA or RNA metabolism
+AT5G59870 ortho_group3980_cds nucleus
+AT5G59870 ortho_group3980_cds other cellular components
+AT5G59870 ortho_group3980_cds other cellular processes
+AT5G59870 ortho_group3980_cds other intracellular components
+AT5G59880 ortho_group3833_cds chloroplast
+AT5G59880 ortho_group3833_cds cytosol
+AT5G59880 ortho_group3833_cds mitochondria
+AT5G59880 ortho_group3833_cds other biological processes
+AT5G59880 ortho_group3833_cds other cellular components
+AT5G59880 ortho_group3833_cds other intracellular components
+AT5G59880 ortho_group3833_cds plasma membrane
+AT5G59880 ortho_group3833_cds protein binding
+AT5G59880 ortho_group3833_cds response to stress
+AT5G60020 ortho_group3184_cds extracellular
+AT5G60020 ortho_group3184_cds other cellular components
+AT5G60020 ortho_group3184_cds other cellular processes
+AT5G60020 ortho_group3184_cds other enzyme activity
+AT5G60020 ortho_group3184_cds other metabolic processes
+AT5G60100 ortho_group5157_cds nucleus
+AT5G60100 ortho_group5157_cds other biological processes
+AT5G60100 ortho_group5157_cds other cellular processes
+AT5G60100 ortho_group5157_cds other metabolic processes
+AT5G60100 ortho_group5157_cds other molecular functions
+AT5G60100 ortho_group5157_cds protein binding
+AT5G60360 ortho_group5344_cds hydrolase activity
+AT5G60360 ortho_group5344_cds other biological processes
+AT5G60360 ortho_group5344_cds other cytoplasmic components
+AT5G60360 ortho_group5344_cds other intracellular components
+AT5G60360 ortho_group5344_cds protein metabolism
+AT5G60600 ortho_group2621_cds chloroplast
+AT5G60600 ortho_group2621_cds other binding
+AT5G60600 ortho_group2621_cds other cellular processes
+AT5G60600 ortho_group2621_cds other cytoplasmic components
+AT5G60600 ortho_group2621_cds other enzyme activity
+AT5G60600 ortho_group2621_cds other intracellular components
+AT5G60600 ortho_group2621_cds other metabolic processes
+AT5G60600 ortho_group2621_cds plastid
+AT5G60600 ortho_group2621_cds response to abiotic or biotic stimulus
+AT5G60600 ortho_group2621_cds response to stress
+AT5G60600 ortho_group2621_cds signal transduction
+AT5G60620 ortho_group3598_cds ER
+AT5G60620 ortho_group3598_cds other cellular processes
+AT5G60620 ortho_group3598_cds other membranes
+AT5G60620 ortho_group3598_cds other metabolic processes
+AT5G60620 ortho_group3598_cds plasma membrane
+AT5G60620 ortho_group3598_cds transferase activity
+AT5G60660 ortho_group3044_cds developmental processes
+AT5G60660 ortho_group3044_cds other biological processes
+AT5G60660 ortho_group3044_cds other cellular components
+AT5G60660 ortho_group3044_cds other cellular processes
+AT5G60660 ortho_group3044_cds other membranes
+AT5G60660 ortho_group3044_cds transport
+AT5G60660 ortho_group3044_cds transporter activity
+AT5G60860 ortho_group5150_cds nucleotide binding
+AT5G60860 ortho_group5150_cds signal transduction
+AT5G60860 ortho_group5150_cds transport
+AT5G60920 ortho_group4908_cds cell organization and biogenesis
+AT5G60920 ortho_group4908_cds cell wall
+AT5G60920 ortho_group4908_cds other cellular components
+AT5G60920 ortho_group4908_cds other cellular processes
+AT5G60920 ortho_group4908_cds other membranes
+AT5G60920 ortho_group4908_cds plasma membrane
+AT5G60920 ortho_group4908_cds response to abiotic or biotic stimulus
+AT5G60920 ortho_group4908_cds response to stress
+AT5G60920 ortho_group4908_cds unknown molecular functions
+AT5G61140 ortho_group5084_cds hydrolase activity
+AT5G61140 ortho_group5084_cds nucleic acid binding
+AT5G61140 ortho_group5084_cds nucleotide binding
+AT5G61220 ortho_group4443_cds other enzyme activity
+AT5G61250 ortho_group2992_cds hydrolase activity
+AT5G61250 ortho_group2992_cds other cellular components
+AT5G61250 ortho_group2992_cds other membranes
+AT5G61380 ortho_group3434_cds nucleus
+AT5G61380 ortho_group3434_cds other biological processes
+AT5G61380 ortho_group3434_cds other cellular processes
+AT5G61380 ortho_group3434_cds other metabolic processes
+AT5G61380 ortho_group3434_cds other molecular functions
+AT5G61380 ortho_group3434_cds protein binding
+AT5G61410 ortho_group3813_cds chloroplast
+AT5G61410 ortho_group3813_cds developmental processes
+AT5G61410 ortho_group3813_cds extracellular
+AT5G61410 ortho_group3813_cds other cytoplasmic components
+AT5G61410 ortho_group3813_cds other enzyme activity
+AT5G61410 ortho_group3813_cds other intracellular components
+AT5G61410 ortho_group3813_cds other metabolic processes
+AT5G61410 ortho_group3813_cds plastid
+AT5G61410 ortho_group3813_cds response to abiotic or biotic stimulus
+AT5G61410 ortho_group3813_cds response to stress
+AT5G61500 ortho_group3286_cds cytosol
+AT5G61500 ortho_group3286_cds other cellular processes
+AT5G61500 ortho_group3286_cds other metabolic processes
+AT5G61500 ortho_group3286_cds unknown molecular functions
+AT5G61510 ortho_group3982_cds cytosol
+AT5G61510 ortho_group3982_cds other binding
+AT5G61510 ortho_group3982_cds other cellular processes
+AT5G61510 ortho_group3982_cds other enzyme activity
+AT5G61510 ortho_group3982_cds response to abiotic or biotic stimulus
+AT5G61640 ortho_group3876_cds cytosol
+AT5G61640 ortho_group3876_cds other cellular processes
+AT5G61640 ortho_group3876_cds other enzyme activity
+AT5G61640 ortho_group3876_cds other metabolic processes
+AT5G61640 ortho_group3876_cds protein metabolism
+AT5G61640 ortho_group3876_cds response to stress
+AT5G61670 ortho_group4470_cds cell organization and biogenesis
+AT5G61670 ortho_group4470_cds other cellular processes
+AT5G61670 ortho_group4470_cds other metabolic processes
+AT5G61670 ortho_group4470_cds plastid
+AT5G61820 ortho_group3941_cds other cytoplasmic components
+AT5G61820 ortho_group3941_cds other intracellular components
+AT5G61820 ortho_group3941_cds unknown biological processes
+AT5G61820 ortho_group3941_cds unknown molecular functions
+AT5G62140 ortho_group4288_cds chloroplast
+AT5G62140 ortho_group4288_cds unknown biological processes
+AT5G62140 ortho_group4288_cds unknown molecular functions
+AT5G62290 ortho_group3602_cds other cellular processes
+AT5G62290 ortho_group3602_cds transport
+AT5G62290 ortho_group3602_cds transporter activity
+AT5G62290 ortho_group3602_cds unknown cellular components
+AT5G62840 ortho_group2539_cds chloroplast
+AT5G62840 ortho_group2539_cds other enzyme activity
+AT5G62840 ortho_group2539_cds other metabolic processes
+AT5G63000 ortho_group4385_cds mitochondria
+AT5G63000 ortho_group4385_cds other cytoplasmic components
+AT5G63000 ortho_group4385_cds other intracellular components
+AT5G63000 ortho_group4385_cds other membranes
+AT5G63000 ortho_group4385_cds transport
+AT5G63000 ortho_group4385_cds transporter activity
+AT5G63110 ortho_group4020_cds cell organization and biogenesis
+AT5G63110 ortho_group4020_cds chloroplast
+AT5G63110 ortho_group4020_cds developmental processes
+AT5G63110 ortho_group4020_cds hydrolase activity
+AT5G63110 ortho_group4020_cds nucleus
+AT5G63110 ortho_group4020_cds other biological processes
+AT5G63110 ortho_group4020_cds other cellular processes
+AT5G63110 ortho_group4020_cds other cytoplasmic components
+AT5G63110 ortho_group4020_cds other intracellular components
+AT5G63110 ortho_group4020_cds other metabolic processes
+AT5G63110 ortho_group4020_cds plastid
+AT5G63110 ortho_group4020_cds protein binding
+AT5G63110 ortho_group4020_cds protein metabolism
+AT5G63110 ortho_group4020_cds response to abiotic or biotic stimulus
+AT5G63110 ortho_group4020_cds response to stress
+AT5G63220 ortho_group2889_cds unknown biological processes
+AT5G63220 ortho_group2889_cds unknown cellular components
+AT5G63220 ortho_group2889_cds unknown molecular functions
+AT5G63310 ortho_group5065_cds chloroplast
+AT5G63310 ortho_group5065_cds kinase activity
+AT5G63310 ortho_group5065_cds nucleotide binding
+AT5G63310 ortho_group5065_cds nucleus
+AT5G63310 ortho_group5065_cds other cellular processes
+AT5G63310 ortho_group5065_cds other cytoplasmic components
+AT5G63310 ortho_group5065_cds other intracellular components
+AT5G63310 ortho_group5065_cds plastid
+AT5G63310 ortho_group5065_cds protein binding
+AT5G63310 ortho_group5065_cds response to abiotic or biotic stimulus
+AT5G63310 ortho_group5065_cds response to stress
+AT5G63310 ortho_group5065_cds signal transduction
+AT5G63310 ortho_group5065_cds transferase activity
+AT5G63400 ortho_group4373_cds kinase activity
+AT5G63400 ortho_group4373_cds mitochondria
+AT5G63400 ortho_group4373_cds other binding
+AT5G63400 ortho_group4373_cds other biological processes
+AT5G63400 ortho_group4373_cds other cytoplasmic components
+AT5G63400 ortho_group4373_cds other intracellular components
+AT5G63400 ortho_group4373_cds other membranes
+AT5G63400 ortho_group4373_cds transferase activity
+AT5G63420 ortho_group2676_cds chloroplast
+AT5G63420 ortho_group2676_cds developmental processes
+AT5G63420 ortho_group2676_cds DNA or RNA binding
+AT5G63420 ortho_group2676_cds hydrolase activity
+AT5G63420 ortho_group2676_cds other enzyme activity
+AT5G63420 ortho_group2676_cds other metabolic processes
+AT5G63460 ortho_group3920_cds DNA or RNA binding
+AT5G63460 ortho_group3920_cds nucleic acid binding
+AT5G63460 ortho_group3920_cds nucleus
+AT5G63460 ortho_group3920_cds unknown biological processes
+AT5G63530 ortho_group4048_cds other binding
+AT5G63530 ortho_group4048_cds other cellular processes
+AT5G63530 ortho_group4048_cds plasma membrane
+AT5G63650 ortho_group5273_cds kinase activity
+AT5G63650 ortho_group5273_cds nucleus
+AT5G63650 ortho_group5273_cds response to abiotic or biotic stimulus
+AT5G63650 ortho_group5273_cds response to stress
+AT5G63860 ortho_group3315_cds cytosol
+AT5G63860 ortho_group3315_cds nucleus
+AT5G63860 ortho_group3315_cds other binding
+AT5G63860 ortho_group3315_cds other biological processes
+AT5G63860 ortho_group3315_cds other intracellular components
+AT5G63860 ortho_group3315_cds other molecular functions
+AT5G63860 ortho_group3315_cds response to abiotic or biotic stimulus
+AT5G63880 ortho_group3025_cds other cellular processes
+AT5G63880 ortho_group3025_cds other cytoplasmic components
+AT5G63880 ortho_group3025_cds other intracellular components
+AT5G63880 ortho_group3025_cds other membranes
+AT5G63880 ortho_group3025_cds other metabolic processes
+AT5G63880 ortho_group3025_cds plasma membrane
+AT5G63880 ortho_group3025_cds protein binding
+AT5G63880 ortho_group3025_cds protein metabolism
+AT5G63880 ortho_group3025_cds transport
+AT5G64040 ortho_group3285_cds chloroplast
+AT5G64040 ortho_group3285_cds electron transport or energy pathways
+AT5G64040 ortho_group3285_cds other cellular processes
+AT5G64040 ortho_group3285_cds other cytoplasmic components
+AT5G64040 ortho_group3285_cds other intracellular components
+AT5G64040 ortho_group3285_cds other membranes
+AT5G64040 ortho_group3285_cds other metabolic processes
+AT5G64040 ortho_group3285_cds plastid
+AT5G64040 ortho_group3285_cds protein binding
+AT5G64110 ortho_group5135_cds other binding
+AT5G64110 ortho_group5135_cds other enzyme activity
+AT5G64110 ortho_group5135_cds other membranes
+AT5G64110 ortho_group5135_cds other metabolic processes
+AT5G64110 ortho_group5135_cds response to stress
+AT5G64130 ortho_group2599_cds plasma membrane
+AT5G64130 ortho_group2599_cds unknown biological processes
+AT5G64130 ortho_group2599_cds unknown molecular functions
+AT5G64160 ortho_group5442_cds unknown biological processes
+AT5G64160 ortho_group5442_cds unknown molecular functions
+AT5G64200 ortho_group4677_cds cytosol
+AT5G64200 ortho_group4677_cds DNA or RNA binding
+AT5G64200 ortho_group4677_cds nucleic acid binding
+AT5G64200 ortho_group4677_cds nucleotide binding
+AT5G64200 ortho_group4677_cds nucleus
+AT5G64200 ortho_group4677_cds other cellular processes
+AT5G64200 ortho_group4677_cds other intracellular components
+AT5G64200 ortho_group4677_cds other membranes
+AT5G64200 ortho_group4677_cds other metabolic processes
+AT5G64270 ortho_group5588_cds chloroplast
+AT5G64270 ortho_group5588_cds other binding
+AT5G64270 ortho_group5588_cds other cellular processes
+AT5G64270 ortho_group5588_cds other metabolic processes
+AT5G64300 ortho_group3317_cds chloroplast
+AT5G64300 ortho_group3317_cds hydrolase activity
+AT5G64300 ortho_group3317_cds other cellular processes
+AT5G64300 ortho_group3317_cds other cytoplasmic components
+AT5G64300 ortho_group3317_cds other enzyme activity
+AT5G64300 ortho_group3317_cds other intracellular components
+AT5G64300 ortho_group3317_cds other membranes
+AT5G64300 ortho_group3317_cds other metabolic processes
+AT5G64300 ortho_group3317_cds plastid
+AT5G64460 ortho_group4394_cds cytosol
+AT5G64460 ortho_group4394_cds unknown biological processes
+AT5G64460 ortho_group4394_cds unknown molecular functions
+AT5G64560 ortho_group3183_cds other cellular processes
+AT5G64560 ortho_group3183_cds other membranes
+AT5G64560 ortho_group3183_cds transport
+AT5G64560 ortho_group3183_cds transporter activity
+AT5G64730 ortho_group3239_cds nucleotide binding
+AT5G64730 ortho_group3239_cds other intracellular components
+AT5G64730 ortho_group3239_cds other membranes
+AT5G64730 ortho_group3239_cds plasma membrane
+AT5G64840 ortho_group5067_cds response to abiotic or biotic stimulus
+AT5G64840 ortho_group5067_cds transporter activity
+AT5G64940 ortho_group2875_cds chloroplast
+AT5G64940 ortho_group2875_cds other cytoplasmic components
+AT5G64940 ortho_group2875_cds other intracellular components
+AT5G64940 ortho_group2875_cds plastid
+AT5G64940 ortho_group2875_cds transport
+AT5G64940 ortho_group2875_cds transporter activity
+AT5G65000 ortho_group3233_cds cell organization and biogenesis
+AT5G65000 ortho_group3233_cds developmental processes
+AT5G65000 ortho_group3233_cds other cellular processes
+AT5G65000 ortho_group3233_cds transport
+AT5G65000 ortho_group3233_cds transporter activity
+AT5G65010 ortho_group4420_cds cytosol
+AT5G65010 ortho_group4420_cds other cellular components
+AT5G65010 ortho_group4420_cds other cellular processes
+AT5G65010 ortho_group4420_cds other enzyme activity
+AT5G65010 ortho_group4420_cds other metabolic processes
+AT5G65010 ortho_group4420_cds response to abiotic or biotic stimulus
+AT5G65010 ortho_group4420_cds response to stress
+AT5G65020 ortho_group2630_cds cytosol
+AT5G65020 ortho_group2630_cds nucleus
+AT5G65020 ortho_group2630_cds other binding
+AT5G65020 ortho_group2630_cds other cellular components
+AT5G65020 ortho_group2630_cds other intracellular components
+AT5G65020 ortho_group2630_cds response to abiotic or biotic stimulus
+AT5G65020 ortho_group2630_cds response to stress
+AT5G65020 ortho_group2630_cds transport
+AT5G65210 ortho_group2753_cds DNA or RNA binding
+AT5G65210 ortho_group2753_cds protein binding
+AT5G65210 ortho_group2753_cds response to abiotic or biotic stimulus
+AT5G65210 ortho_group2753_cds response to stress
+AT5G65210 ortho_group2753_cds transcription factor activity
+AT5G65220 ortho_group4283_cds chloroplast
+AT5G65220 ortho_group4283_cds other cellular processes
+AT5G65220 ortho_group4283_cds other cytoplasmic components
+AT5G65220 ortho_group4283_cds other intracellular components
+AT5G65220 ortho_group4283_cds other metabolic processes
+AT5G65220 ortho_group4283_cds plastid
+AT5G65220 ortho_group4283_cds protein metabolism
+AT5G65220 ortho_group4283_cds ribosome
+AT5G65220 ortho_group4283_cds structural molecule activity
+AT5G65380 ortho_group4776_cds developmental processes
+AT5G65380 ortho_group4776_cds other cellular processes
+AT5G65380 ortho_group4776_cds other membranes
+AT5G65380 ortho_group4776_cds transport
+AT5G65380 ortho_group4776_cds transporter activity
+AT5G65460 ortho_group3788_cds cell organization and biogenesis
+AT5G65460 ortho_group3788_cds cytosol
+AT5G65460 ortho_group3788_cds hydrolase activity
+AT5G65460 ortho_group3788_cds other cellular processes
+AT5G65460 ortho_group3788_cds plasma membrane
+AT5G65460 ortho_group3788_cds protein binding
+AT5G65470 ortho_group4412_cds unknown biological processes
+AT5G65470 ortho_group4412_cds unknown molecular functions
+AT5G65670 ortho_group3619_cds nucleus
+AT5G65670 ortho_group3619_cds other biological processes
+AT5G65670 ortho_group3619_cds other cellular processes
+AT5G65670 ortho_group3619_cds signal transduction
+AT5G65670 ortho_group3619_cds transcription factor activity
+AT5G65730 ortho_group3648_cds cell wall
+AT5G65730 ortho_group3648_cds extracellular
+AT5G65730 ortho_group3648_cds hydrolase activity
+AT5G65730 ortho_group3648_cds other cellular components
+AT5G65730 ortho_group3648_cds response to abiotic or biotic stimulus
+AT5G65730 ortho_group3648_cds response to stress
+AT5G65730 ortho_group3648_cds transferase activity
+AT5G65780 ortho_group5586_cds chloroplast
+AT5G65780 ortho_group5586_cds mitochondria
+AT5G65780 ortho_group5586_cds other cellular processes
+AT5G65780 ortho_group5586_cds other enzyme activity
+AT5G65780 ortho_group5586_cds other metabolic processes
+AT5G65780 ortho_group5586_cds transferase activity
+AT5G65810 ortho_group5326_cds unknown biological processes
+AT5G65810 ortho_group5326_cds unknown molecular functions
+AT5G65900 ortho_group3049_cds hydrolase activity
+AT5G65900 ortho_group3049_cds nucleic acid binding
+AT5G65900 ortho_group3049_cds nucleotide binding
+AT5G65900 ortho_group3049_cds unknown cellular components
+AT5G65930 ortho_group2743_cds cell organization and biogenesis
+AT5G65930 ortho_group2743_cds developmental processes
+AT5G65930 ortho_group2743_cds hydrolase activity
+AT5G65930 ortho_group2743_cds other biological processes
+AT5G65930 ortho_group2743_cds other cellular processes
+AT5G65930 ortho_group2743_cds plasma membrane
+AT5G65930 ortho_group2743_cds protein binding
+AT5G65940 ortho_group2629_cds hydrolase activity
+AT5G65940 ortho_group2629_cds other biological processes
+AT5G65940 ortho_group2629_cds other cellular processes
+AT5G65940 ortho_group2629_cds other metabolic processes
+AT5G65940 ortho_group2629_cds response to abiotic or biotic stimulus
+AT5G65940 ortho_group2629_cds response to stress
+AT5G65960 ortho_group5020_cds nucleotide binding
+AT5G65960 ortho_group5020_cds other intracellular components
+AT5G65960 ortho_group5020_cds signal transduction
+AT5G66020 ortho_group4357_cds hydrolase activity
+AT5G66040 ortho_group4315_cds chloroplast
+AT5G66040 ortho_group4315_cds other biological processes
+AT5G66040 ortho_group4315_cds transferase activity
+AT5G66060 ortho_group2761_cds other binding
+AT5G66060 ortho_group2761_cds other cellular processes
+AT5G66060 ortho_group2761_cds other enzyme activity
+AT5G66060 ortho_group2761_cds other metabolic processes
+AT5G66060 ortho_group2761_cds protein metabolism
+AT5G66070 ortho_group5287_cds other binding
+AT5G66070 ortho_group5287_cds other biological processes
+AT5G66120 ortho_group2653_cds chloroplast
+AT5G66120 ortho_group2653_cds other cellular processes
+AT5G66120 ortho_group2653_cds other cytoplasmic components
+AT5G66120 ortho_group2653_cds other enzyme activity
+AT5G66120 ortho_group2653_cds other intracellular components
+AT5G66120 ortho_group2653_cds other metabolic processes
+AT5G66120 ortho_group2653_cds plastid
+AT5G66190 ortho_group3574_cds chloroplast
+AT5G66190 ortho_group3574_cds DNA or RNA binding
+AT5G66190 ortho_group3574_cds electron transport or energy pathways
+AT5G66190 ortho_group3574_cds extracellular
+AT5G66190 ortho_group3574_cds other cellular processes
+AT5G66190 ortho_group3574_cds other cytoplasmic components
+AT5G66190 ortho_group3574_cds other enzyme activity
+AT5G66190 ortho_group3574_cds other intracellular components
+AT5G66190 ortho_group3574_cds other membranes
+AT5G66190 ortho_group3574_cds other metabolic processes
+AT5G66190 ortho_group3574_cds other molecular functions
+AT5G66190 ortho_group3574_cds plastid
+AT5G66190 ortho_group3574_cds response to abiotic or biotic stimulus
+AT5G66190 ortho_group3574_cds response to stress
+AT5G66380 ortho_group5215_cds chloroplast
+AT5G66380 ortho_group5215_cds other binding
+AT5G66380 ortho_group5215_cds other cytoplasmic components
+AT5G66380 ortho_group5215_cds other intracellular components
+AT5G66380 ortho_group5215_cds plastid
+AT5G66380 ortho_group5215_cds transport
+AT5G66380 ortho_group5215_cds transporter activity
+AT5G66520 ortho_group3757_cds unknown biological processes
+AT5G66520 ortho_group3757_cds unknown cellular components
+AT5G66530 ortho_group4448_cds chloroplast
+AT5G66530 ortho_group4448_cds extracellular
+AT5G66530 ortho_group4448_cds other binding
+AT5G66530 ortho_group4448_cds other cellular processes
+AT5G66530 ortho_group4448_cds other cytoplasmic components
+AT5G66530 ortho_group4448_cds other enzyme activity
+AT5G66530 ortho_group4448_cds other intracellular components
+AT5G66530 ortho_group4448_cds other metabolic processes
+AT5G66530 ortho_group4448_cds plastid
+AT5G66760 ortho_group5072_cds cell wall
+AT5G66760 ortho_group5072_cds electron transport or energy pathways
+AT5G66760 ortho_group5072_cds mitochondria
+AT5G66760 ortho_group5072_cds nucleotide binding
+AT5G66760 ortho_group5072_cds other binding
+AT5G66760 ortho_group5072_cds other cellular processes
+AT5G66760 ortho_group5072_cds other cytoplasmic components
+AT5G66760 ortho_group5072_cds other enzyme activity
+AT5G66760 ortho_group5072_cds other intracellular components
+AT5G66760 ortho_group5072_cds other membranes
+AT5G66760 ortho_group5072_cds other metabolic processes
+AT5G66930 ortho_group4123_cds unknown biological processes
+AT5G66930 ortho_group4123_cds unknown molecular functions
+AT5G67320 ortho_group5456_cds cell organization and biogenesis
+AT5G67320 ortho_group5456_cds nucleus
+AT5G67320 ortho_group5456_cds other cellular processes
+AT5G67320 ortho_group5456_cds other intracellular components
+AT5G67320 ortho_group5456_cds other membranes
+AT5G67320 ortho_group5456_cds other metabolic processes
+AT5G67320 ortho_group5456_cds plasma membrane
+AT5G67320 ortho_group5456_cds protein metabolism
+AT5G67320 ortho_group5456_cds response to abiotic or biotic stimulus
+AT5G67320 ortho_group5456_cds response to stress
+AT5G67370 ortho_group5114_cds unknown biological processes
+AT5G67370 ortho_group5114_cds unknown molecular functions
+AT5G67380 ortho_group4687_cds kinase activity
+AT5G67380 ortho_group4687_cds other biological processes
+AT5G67380 ortho_group4687_cds protein binding
+AT5G67380 ortho_group4687_cds transferase activity
+AT5G67385 ortho_group5162_cds other molecular functions
+AT5G67385 ortho_group5162_cds response to abiotic or biotic stimulus
+AT5G67470 ortho_group3635_cds cell organization and biogenesis
+AT5G67470 ortho_group3635_cds cell wall
+AT5G67470 ortho_group3635_cds nucleus
+AT5G67470 ortho_group3635_cds other cellular processes
+AT5G67470 ortho_group3635_cds other cytoplasmic components
+AT5G67470 ortho_group3635_cds other intracellular components
+AT5G67470 ortho_group3635_cds plasma membrane
+AT5G67470 ortho_group3635_cds protein binding
+ATCG00040 ortho_group5300_cds chloroplast
+ATCG00040 ortho_group5300_cds DNA or RNA binding
+ATCG00040 ortho_group5300_cds other cellular processes
+ATCG00040 ortho_group5300_cds other metabolic processes
+ATCG00040 ortho_group5300_cds transferase activity
+ATCG00065 ortho_group4139_cds chloroplast
+ATCG00065 ortho_group4139_cds other cellular processes
+ATCG00065 ortho_group4139_cds other cytoplasmic components
+ATCG00065 ortho_group4139_cds other intracellular components
+ATCG00065 ortho_group4139_cds other metabolic processes
+ATCG00065 ortho_group4139_cds plastid
+ATCG00065 ortho_group4139_cds protein metabolism
+ATCG00065 ortho_group4139_cds ribosome
+ATCG00065 ortho_group4139_cds structural molecule activity
+ATCG00120 ortho_group4278_cds chloroplast
+ATCG00120 ortho_group4278_cds hydrolase activity
+ATCG00120 ortho_group4278_cds other binding
+ATCG00120 ortho_group4278_cds other cellular processes
+ATCG00120 ortho_group4278_cds other cytoplasmic components
+ATCG00120 ortho_group4278_cds other intracellular components
+ATCG00120 ortho_group4278_cds other membranes
+ATCG00120 ortho_group4278_cds other metabolic processes
+ATCG00120 ortho_group4278_cds plastid
+ATCG00120 ortho_group4278_cds response to abiotic or biotic stimulus
+ATCG00120 ortho_group4278_cds response to stress
+ATCG00120 ortho_group4278_cds transporter activity
+ATCG00130 ortho_group5420_cds chloroplast
+ATCG00130 ortho_group5420_cds electron transport or energy pathways
+ATCG00130 ortho_group5420_cds other cellular processes
+ATCG00130 ortho_group5420_cds other cytoplasmic components
+ATCG00130 ortho_group5420_cds other intracellular components
+ATCG00130 ortho_group5420_cds other membranes
+ATCG00130 ortho_group5420_cds other metabolic processes
+ATCG00130 ortho_group5420_cds plastid
+ATCG00130 ortho_group5420_cds transport
+ATCG00130 ortho_group5420_cds transporter activity
+ATCG00150 ortho_group4278_cds chloroplast
+ATCG00150 ortho_group4278_cds other cellular processes
+ATCG00150 ortho_group4278_cds other cytoplasmic components
+ATCG00150 ortho_group4278_cds other intracellular components
+ATCG00150 ortho_group4278_cds other membranes
+ATCG00150 ortho_group4278_cds other metabolic processes
+ATCG00150 ortho_group4278_cds plastid
+ATCG00150 ortho_group4278_cds transporter activity
+ATCG00160 ortho_group4278_cds chloroplast
+ATCG00160 ortho_group4278_cds other cellular processes
+ATCG00160 ortho_group4278_cds other cytoplasmic components
+ATCG00160 ortho_group4278_cds other intracellular components
+ATCG00160 ortho_group4278_cds other membranes
+ATCG00160 ortho_group4278_cds other metabolic processes
+ATCG00160 ortho_group4278_cds plastid
+ATCG00160 ortho_group4278_cds protein metabolism
+ATCG00160 ortho_group4278_cds ribosome
+ATCG00160 ortho_group4278_cds structural molecule activity
+ATCG00170 ortho_group4278_cds chloroplast
+ATCG00170 ortho_group4278_cds other cellular processes
+ATCG00170 ortho_group4278_cds other cytoplasmic components
+ATCG00170 ortho_group4278_cds other intracellular components
+ATCG00170 ortho_group4278_cds other metabolic processes
+ATCG00170 ortho_group4278_cds plastid
+ATCG00170 ortho_group4278_cds transferase activity
+ATCG00180 ortho_group2800_cds chloroplast
+ATCG00180 ortho_group2800_cds other cellular processes
+ATCG00180 ortho_group2800_cds other intracellular components
+ATCG00180 ortho_group2800_cds other metabolic processes
+ATCG00180 ortho_group2800_cds transferase activity
+ATCG00190 ortho_group2800_cds chloroplast
+ATCG00190 ortho_group2800_cds other cellular processes
+ATCG00190 ortho_group2800_cds other intracellular components
+ATCG00190 ortho_group2800_cds other metabolic processes
+ATCG00190 ortho_group2800_cds protein binding
+ATCG00190 ortho_group2800_cds transferase activity
+ATCG00270 ortho_group2607_cds chloroplast
+ATCG00270 ortho_group2607_cds electron transport or energy pathways
+ATCG00270 ortho_group2607_cds other cellular processes
+ATCG00270 ortho_group2607_cds other cytoplasmic components
+ATCG00270 ortho_group2607_cds other intracellular components
+ATCG00270 ortho_group2607_cds other membranes
+ATCG00270 ortho_group2607_cds other metabolic processes
+ATCG00270 ortho_group2607_cds other molecular functions
+ATCG00270 ortho_group2607_cds plastid
+ATCG00280 ortho_group2607_cds chloroplast
+ATCG00280 ortho_group2607_cds electron transport or energy pathways
+ATCG00280 ortho_group2607_cds other binding
+ATCG00280 ortho_group2607_cds other cellular processes
+ATCG00280 ortho_group2607_cds other cytoplasmic components
+ATCG00280 ortho_group2607_cds other intracellular components
+ATCG00280 ortho_group2607_cds other membranes
+ATCG00280 ortho_group2607_cds other metabolic processes
+ATCG00280 ortho_group2607_cds plastid
+ATCG00340 ortho_group3518_cds chloroplast
+ATCG00340 ortho_group3518_cds electron transport or energy pathways
+ATCG00340 ortho_group3518_cds other binding
+ATCG00340 ortho_group3518_cds other cellular processes
+ATCG00340 ortho_group3518_cds other cytoplasmic components
+ATCG00340 ortho_group3518_cds other intracellular components
+ATCG00340 ortho_group3518_cds other membranes
+ATCG00340 ortho_group3518_cds other metabolic processes
+ATCG00340 ortho_group3518_cds plastid
+ATCG00360 ortho_group4717_cds cell organization and biogenesis
+ATCG00360 ortho_group4717_cds chloroplast
+ATCG00360 ortho_group4717_cds electron transport or energy pathways
+ATCG00360 ortho_group4717_cds other cellular processes
+ATCG00360 ortho_group4717_cds other metabolic processes
+ATCG00360 ortho_group4717_cds protein binding
+ATCG00380 ortho_group4717_cds chloroplast
+ATCG00380 ortho_group4717_cds other cellular processes
+ATCG00380 ortho_group4717_cds other cytoplasmic components
+ATCG00380 ortho_group4717_cds other intracellular components
+ATCG00380 ortho_group4717_cds other membranes
+ATCG00380 ortho_group4717_cds other metabolic processes
+ATCG00380 ortho_group4717_cds plastid
+ATCG00380 ortho_group4717_cds protein metabolism
+ATCG00380 ortho_group4717_cds ribosome
+ATCG00380 ortho_group4717_cds structural molecule activity
+ATCG00440 ortho_group3279_cds chloroplast
+ATCG00440 ortho_group3279_cds other cellular processes
+ATCG00440 ortho_group3279_cds other enzyme activity
+ATCG00440 ortho_group3279_cds other metabolic processes
+ATCG00470 ortho_group4685_cds chloroplast
+ATCG00470 ortho_group4685_cds electron transport or energy pathways
+ATCG00470 ortho_group4685_cds other cellular processes
+ATCG00470 ortho_group4685_cds other cytoplasmic components
+ATCG00470 ortho_group4685_cds other intracellular components
+ATCG00470 ortho_group4685_cds other membranes
+ATCG00470 ortho_group4685_cds other metabolic processes
+ATCG00470 ortho_group4685_cds plastid
+ATCG00470 ortho_group4685_cds transport
+ATCG00470 ortho_group4685_cds transporter activity
+ATCG00480 ortho_group4685_cds cell wall
+ATCG00480 ortho_group4685_cds chloroplast
+ATCG00480 ortho_group4685_cds mitochondria
+ATCG00480 ortho_group4685_cds other binding
+ATCG00480 ortho_group4685_cds other cellular processes
+ATCG00480 ortho_group4685_cds other cytoplasmic components
+ATCG00480 ortho_group4685_cds other intracellular components
+ATCG00480 ortho_group4685_cds other membranes
+ATCG00480 ortho_group4685_cds other metabolic processes
+ATCG00480 ortho_group4685_cds plastid
+ATCG00480 ortho_group4685_cds response to abiotic or biotic stimulus
+ATCG00480 ortho_group4685_cds response to stress
+ATCG00480 ortho_group4685_cds transport
+ATCG00480 ortho_group4685_cds transporter activity
+ATCG00490 ortho_group4685_cds cell wall
+ATCG00490 ortho_group4685_cds chloroplast
+ATCG00490 ortho_group4685_cds cytosol
+ATCG00490 ortho_group4685_cds extracellular
+ATCG00490 ortho_group4685_cds other biological processes
+ATCG00490 ortho_group4685_cds other cellular processes
+ATCG00490 ortho_group4685_cds other cytoplasmic components
+ATCG00490 ortho_group4685_cds other enzyme activity
+ATCG00490 ortho_group4685_cds other intracellular components
+ATCG00490 ortho_group4685_cds other membranes
+ATCG00490 ortho_group4685_cds other metabolic processes
+ATCG00490 ortho_group4685_cds plastid
+ATCG00490 ortho_group4685_cds protein metabolism
+ATCG00490 ortho_group4685_cds ribosome
+ATCG00500 ortho_group3848_cds chloroplast
+ATCG00500 ortho_group3848_cds other cellular processes
+ATCG00500 ortho_group3848_cds other cytoplasmic components
+ATCG00500 ortho_group3848_cds other enzyme activity
+ATCG00500 ortho_group3848_cds other intracellular components
+ATCG00500 ortho_group3848_cds other membranes
+ATCG00500 ortho_group3848_cds other metabolic processes
+ATCG00500 ortho_group3848_cds plastid
+ATCG00500 ortho_group3848_cds protein binding
+ATCG00520 ortho_group2996_cds cell organization and biogenesis
+ATCG00520 ortho_group2996_cds chloroplast
+ATCG00520 ortho_group2996_cds electron transport or energy pathways
+ATCG00520 ortho_group2996_cds other cellular processes
+ATCG00520 ortho_group2996_cds other metabolic processes
+ATCG00520 ortho_group2996_cds protein binding
+ATCG00530 ortho_group2996_cds other cellular components
+ATCG00530 ortho_group2996_cds other membranes
+ATCG00540 ortho_group2996_cds chloroplast
+ATCG00540 ortho_group2996_cds electron transport or energy pathways
+ATCG00540 ortho_group2996_cds other cellular processes
+ATCG00540 ortho_group2996_cds other cytoplasmic components
+ATCG00540 ortho_group2996_cds other intracellular components
+ATCG00540 ortho_group2996_cds other membranes
+ATCG00540 ortho_group2996_cds other metabolic processes
+ATCG00540 ortho_group2996_cds other molecular functions
+ATCG00540 ortho_group2996_cds plastid
+ATCG00650 ortho_group3438_cds chloroplast
+ATCG00650 ortho_group3438_cds other cellular processes
+ATCG00650 ortho_group3438_cds other cytoplasmic components
+ATCG00650 ortho_group3438_cds other intracellular components
+ATCG00650 ortho_group3438_cds other metabolic processes
+ATCG00650 ortho_group3438_cds plastid
+ATCG00650 ortho_group3438_cds protein metabolism
+ATCG00650 ortho_group3438_cds ribosome
+ATCG00650 ortho_group3438_cds structural molecule activity
+ATCG00660 ortho_group3438_cds chloroplast
+ATCG00660 ortho_group3438_cds other cellular processes
+ATCG00660 ortho_group3438_cds other cytoplasmic components
+ATCG00660 ortho_group3438_cds other intracellular components
+ATCG00660 ortho_group3438_cds other metabolic processes
+ATCG00660 ortho_group3438_cds plastid
+ATCG00660 ortho_group3438_cds protein metabolism
+ATCG00660 ortho_group3438_cds ribosome
+ATCG00660 ortho_group3438_cds structural molecule activity
+ATCG00670 ortho_group2722_cds chloroplast
+ATCG00670 ortho_group2722_cds hydrolase activity
+ATCG00670 ortho_group2722_cds other cytoplasmic components
+ATCG00670 ortho_group2722_cds other intracellular components
+ATCG00670 ortho_group2722_cds other membranes
+ATCG00670 ortho_group2722_cds plastid
+ATCG00670 ortho_group2722_cds protein metabolism
+ATCG00680 ortho_group3438_cds cell organization and biogenesis
+ATCG00680 ortho_group3438_cds chloroplast
+ATCG00680 ortho_group3438_cds electron transport or energy pathways
+ATCG00680 ortho_group3438_cds other binding
+ATCG00680 ortho_group3438_cds other cellular processes
+ATCG00680 ortho_group3438_cds other cytoplasmic components
+ATCG00680 ortho_group3438_cds other intracellular components
+ATCG00680 ortho_group3438_cds other membranes
+ATCG00680 ortho_group3438_cds other metabolic processes
+ATCG00680 ortho_group3438_cds plastid
+ATCG00720 ortho_group3438_cds chloroplast
+ATCG00720 ortho_group3438_cds electron transport or energy pathways
+ATCG00720 ortho_group3438_cds other binding
+ATCG00720 ortho_group3438_cds other cellular processes
+ATCG00720 ortho_group3438_cds other cytoplasmic components
+ATCG00720 ortho_group3438_cds other intracellular components
+ATCG00720 ortho_group3438_cds other membranes
+ATCG00720 ortho_group3438_cds other metabolic processes
+ATCG00720 ortho_group3438_cds plastid
+ATCG00730 ortho_group3438_cds chloroplast
+ATCG00730 ortho_group3438_cds electron transport or energy pathways
+ATCG00730 ortho_group3438_cds other cellular processes
+ATCG00730 ortho_group3438_cds other cytoplasmic components
+ATCG00730 ortho_group3438_cds other enzyme activity
+ATCG00730 ortho_group3438_cds other intracellular components
+ATCG00730 ortho_group3438_cds other membranes
+ATCG00730 ortho_group3438_cds other metabolic processes
+ATCG00730 ortho_group3438_cds other molecular functions
+ATCG00730 ortho_group3438_cds plastid
+ATCG00740 ortho_group4892_cds chloroplast
+ATCG00740 ortho_group4892_cds other cellular processes
+ATCG00740 ortho_group4892_cds other cytoplasmic components
+ATCG00740 ortho_group4892_cds other intracellular components
+ATCG00740 ortho_group4892_cds other metabolic processes
+ATCG00740 ortho_group4892_cds plastid
+ATCG00740 ortho_group4892_cds transferase activity
+ATCG00750 ortho_group4892_cds chloroplast
+ATCG00750 ortho_group4892_cds other cellular processes
+ATCG00750 ortho_group4892_cds other cytoplasmic components
+ATCG00750 ortho_group4892_cds other intracellular components
+ATCG00750 ortho_group4892_cds other metabolic processes
+ATCG00750 ortho_group4892_cds plastid
+ATCG00750 ortho_group4892_cds protein metabolism
+ATCG00750 ortho_group4892_cds ribosome
+ATCG00750 ortho_group4892_cds structural molecule activity
+ATCG00770 ortho_group5428_cds chloroplast
+ATCG00770 ortho_group5428_cds other cellular processes
+ATCG00770 ortho_group5428_cds other cytoplasmic components
+ATCG00770 ortho_group5428_cds other intracellular components
+ATCG00770 ortho_group5428_cds other membranes
+ATCG00770 ortho_group5428_cds other metabolic processes
+ATCG00770 ortho_group5428_cds plastid
+ATCG00770 ortho_group5428_cds protein metabolism
+ATCG00770 ortho_group5428_cds ribosome
+ATCG00770 ortho_group5428_cds structural molecule activity
+ATCG00780 ortho_group4892_cds chloroplast
+ATCG00780 ortho_group4892_cds other cellular processes
+ATCG00780 ortho_group4892_cds other cytoplasmic components
+ATCG00780 ortho_group4892_cds other intracellular components
+ATCG00780 ortho_group4892_cds other metabolic processes
+ATCG00780 ortho_group4892_cds plastid
+ATCG00780 ortho_group4892_cds protein metabolism
+ATCG00780 ortho_group4892_cds ribosome
+ATCG00780 ortho_group4892_cds structural molecule activity
+ATCG00790 ortho_group4892_cds chloroplast
+ATCG00790 ortho_group4892_cds other cellular processes
+ATCG00790 ortho_group4892_cds other cytoplasmic components
+ATCG00790 ortho_group4892_cds other intracellular components
+ATCG00790 ortho_group4892_cds other metabolic processes
+ATCG00790 ortho_group4892_cds plastid
+ATCG00790 ortho_group4892_cds protein metabolism
+ATCG00790 ortho_group4892_cds ribosome
+ATCG00790 ortho_group4892_cds structural molecule activity
+ATCG00800 ortho_group2706_cds chloroplast
+ATCG00800 ortho_group2706_cds other cellular processes
+ATCG00800 ortho_group2706_cds other cytoplasmic components
+ATCG00800 ortho_group2706_cds other intracellular components
+ATCG00800 ortho_group2706_cds other membranes
+ATCG00800 ortho_group2706_cds other metabolic processes
+ATCG00800 ortho_group2706_cds plastid
+ATCG00800 ortho_group2706_cds protein metabolism
+ATCG00800 ortho_group2706_cds ribosome
+ATCG00800 ortho_group2706_cds structural molecule activity
+ATCG00810 ortho_group2706_cds chloroplast
+ATCG00810 ortho_group2706_cds other cellular processes
+ATCG00810 ortho_group2706_cds other cytoplasmic components
+ATCG00810 ortho_group2706_cds other intracellular components
+ATCG00810 ortho_group2706_cds other metabolic processes
+ATCG00810 ortho_group2706_cds plastid
+ATCG00810 ortho_group2706_cds protein metabolism
+ATCG00810 ortho_group2706_cds ribosome
+ATCG00810 ortho_group2706_cds structural molecule activity
+ATCG00830 ortho_group2706_cds chloroplast
+ATCG00830 ortho_group2706_cds other cellular processes
+ATCG00830 ortho_group2706_cds other cytoplasmic components
+ATCG00830 ortho_group2706_cds other intracellular components
+ATCG00830 ortho_group2706_cds other metabolic processes
+ATCG00830 ortho_group2706_cds plastid
+ATCG00830 ortho_group2706_cds protein metabolism
+ATCG00830 ortho_group2706_cds ribosome
+ATCG00830 ortho_group2706_cds structural molecule activity
+ATCG00860 ortho_group2706_cds chloroplast
+ATCG00860 ortho_group2706_cds hydrolase activity
+ATCG00860 ortho_group2706_cds nucleotide binding
+ATCG00860 ortho_group2706_cds other cytoplasmic components
+ATCG00860 ortho_group2706_cds other intracellular components
+ATCG00860 ortho_group2706_cds other membranes
+ATCG00860 ortho_group2706_cds plastid
+ATCG00860 ortho_group2706_cds unknown biological processes
+ATCG00890 ortho_group4139_cds electron transport or energy pathways
+ATCG00890 ortho_group4139_cds other cellular components
+ATCG00890 ortho_group4139_cds other cellular processes
+ATCG00890 ortho_group4139_cds other enzyme activity
+ATCG00890 ortho_group4139_cds other metabolic processes
+ATCG00900 ortho_group4139_cds chloroplast
+ATCG00900 ortho_group4139_cds other cellular processes
+ATCG00900 ortho_group4139_cds other cytoplasmic components
+ATCG00900 ortho_group4139_cds other intracellular components
+ATCG00900 ortho_group4139_cds other metabolic processes
+ATCG00900 ortho_group4139_cds plastid
+ATCG00900 ortho_group4139_cds protein metabolism
+ATCG00900 ortho_group4139_cds ribosome
+ATCG00900 ortho_group4139_cds structural molecule activity
+ATCG01010 ortho_group2945_cds chloroplast
+ATCG01010 ortho_group2945_cds other cellular processes
+ATCG01010 ortho_group2945_cds other enzyme activity
+ATCG01010 ortho_group2945_cds other metabolic processes
+ATCG01100 ortho_group3880_cds chloroplast
+ATCG01100 ortho_group3880_cds other cellular processes
+ATCG01100 ortho_group3880_cds other enzyme activity
+ATCG01100 ortho_group3880_cds other membranes
+ATCG01100 ortho_group3880_cds other metabolic processes
+ATCG01110 ortho_group3880_cds chloroplast
+ATCG01110 ortho_group3880_cds electron transport or energy pathways
+ATCG01110 ortho_group3880_cds other cellular processes
+ATCG01110 ortho_group3880_cds other cytoplasmic components
+ATCG01110 ortho_group3880_cds other enzyme activity
+ATCG01110 ortho_group3880_cds other intracellular components
+ATCG01110 ortho_group3880_cds other membranes
+ATCG01110 ortho_group3880_cds other metabolic processes
+ATCG01110 ortho_group3880_cds plastid
+ATMG00090 ortho_group2872_cds mitochondria
+ATMG00090 ortho_group2872_cds other cellular processes
+ATMG00090 ortho_group2872_cds other cytoplasmic components
+ATMG00090 ortho_group2872_cds other intracellular components
+ATMG00090 ortho_group2872_cds other metabolic processes
+ATMG00090 ortho_group2872_cds protein binding
+ATMG00090 ortho_group2872_cds protein metabolism
+ATMG00090 ortho_group2872_cds ribosome
+ATMG00090 ortho_group2872_cds structural molecule activity
+ATMG00510 ortho_group3767_cds electron transport or energy pathways
+ATMG00510 ortho_group3767_cds mitochondria
+ATMG00510 ortho_group3767_cds other cytoplasmic components
+ATMG00510 ortho_group3767_cds other enzyme activity
+ATMG00510 ortho_group3767_cds other intracellular components
+ATMG00510 ortho_group3767_cds other membranes
+ATMG00510 ortho_group3767_cds other metabolic processes
+ATMG00580 ortho_group4497_cds electron transport or energy pathways
+ATMG00580 ortho_group4497_cds mitochondria
+ATMG00580 ortho_group4497_cds other cytoplasmic components
+ATMG00580 ortho_group4497_cds other enzyme activity
+ATMG00580 ortho_group4497_cds other intracellular components
+ATMG00580 ortho_group4497_cds other membranes
+ATMG00580 ortho_group4497_cds other metabolic processes
+ATMG00810 ortho_group5344_cds unknown biological processes
+ATMG00810 ortho_group5344_cds unknown cellular components
+ATMG00810 ortho_group5344_cds unknown molecular functions
+ATMG01360 ortho_group4946_cds electron transport or energy pathways
+ATMG01360 ortho_group4946_cds mitochondria
+ATMG01360 ortho_group4946_cds other cytoplasmic components
+ATMG01360 ortho_group4946_cds other enzyme activity
+ATMG01360 ortho_group4946_cds other intracellular components
+ATMG01360 ortho_group4946_cds other membranes
+ATMG01360 ortho_group4946_cds other metabolic processes
+ATMG01360 ortho_group4946_cds transporter activity

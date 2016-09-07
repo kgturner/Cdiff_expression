@@ -1,5 +1,0 @@
-"GO.ID"	"Term"	"Annotated"	"Significant"	"Expected"	"parentchild"
-"1"	"GO:0005198"	"structural molecule activity"	2652	62	5.06	"< 1e-30"
-"2"	"GO:0003735"	"structural constituent of ribosome"	2118	62	4.04	"7.4e-07"
-"3"	"GO:0003723"	"RNA binding"	2210	12	4.21	"0.00027"
-"4"	"GO:0016782"	"transferase activity, transferring sulfu..."	164	2	0.31	"0.00834"

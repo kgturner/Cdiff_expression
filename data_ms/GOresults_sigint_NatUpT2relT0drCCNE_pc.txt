@@ -1,0 +1,3 @@
+"GO.ID"	"Term"	"Annotated"	"Significant"	"Expected"	"parentchild"
+"1"	"GO:0030529"	"ribonucleoprotein complex"	2745	9	2.87	"0.0047"
+"2"	"GO:0005840"	"ribosome"	2480	8	2.59	"0.0065"

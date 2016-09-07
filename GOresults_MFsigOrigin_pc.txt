@@ -1,6 +1,0 @@
-"GO.ID"	"Term"	"Annotated"	"Significant"	"Expected"	"parentchild"
-"1"	"GO:0016705"	"oxidoreductase activity, acting on paire..."	475	16	4.66	"0.00015"
-"2"	"GO:0004022"	"alcohol dehydrogenase (NAD) activity"	52	5	0.51	"0.00108"
-"3"	"GO:0008233"	"peptidase activity"	1248	21	12.25	"0.00446"
-"4"	"GO:0051213"	"dioxygenase activity"	263	9	2.58	"0.00512"
-"5"	"GO:0015932"	"nucleobase-containing compound transmemb..."	138	5	1.35	"0.00964"

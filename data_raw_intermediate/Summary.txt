@@ -1,0 +1,3 @@
+Batch run of Pair Report on Wed May 30 16:36:41 EDT 2012
+Image File	Output File
+C:\Users\MSOperator\Desktop\20120515\509195_Cycle9_532.tif	509195_Cycle9_532.pair

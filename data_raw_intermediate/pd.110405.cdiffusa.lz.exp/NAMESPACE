@@ -1,0 +1,8 @@
+import(DBI)
+import(RSQLite)
+import(Biostrings)
+import(S4Vectors)
+import(IRanges)
+export(
+       'pd.110405.cdiffusa.lz.exp'
+       )

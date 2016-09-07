@@ -1,0 +1,112 @@
+Array	sample	population	treatment	population_type	location_type	pop_typeXtreatment	populationXtreatment	locationXtreatment
+220768A01_X4_U01_Centaurea_532	HU2-1 AMF	HU2	AMF	native	native	AMF_native	HU2_AMF	AMF_native
+220768A02_X4_U01_Centaurea_532	HU2-3 AMF	HU2	AMF	native	native	AMF_native	HU2_AMF	AMF_native
+220768A03_X4_U01_Centaurea_532	HU2-4 AMF	HU2	AMF	native	native	AMF_native	HU2_AMF	AMF_native
+220768A04_X4_U01_Centaurea_532	HU2-5 AMF	HU2	AMF	native	native	AMF_native	HU2_AMF	AMF_native
+260513A01_X4_U01_Centaurea_532	HU2-1 HERB	HU2	HERB	native	native	HERB_native	HU2_HERB	HERB_native
+260513A02_X4_U01_Centaurea_532	HU2-3 HERB	HU2	HERB	native	native	HERB_native	HU2_HERB	HERB_native
+260513A03_X4_U01_Centaurea_532	HU2-4 HERB	HU2	HERB	native	native	HERB_native	HU2_HERB	HERB_native
+260513A04_X4_U01_Centaurea_532	HU2-5 HERB	HU2	HERB	native	native	HERB_native	HU2_HERB	HERB_native
+260942A01_X4_U01_Centaurea_532	HU2-1 STER	HU2	STER	native	native	STER_native	HU2_STER	STER_native
+260942A02_X4_U01_Centaurea_532	HU2-3 STER	HU2	STER	native	native	STER_native	HU2_STER	STER_native
+260942A03_X4_U01_Centaurea_532	HU2-4 STER	HU2	STER	native	native	STER_native	HU2_STER	STER_native
+260942A04_X4_U01_Centaurea_532	HU2-5 STER	HU2	STER	native	native	STER_native	HU2_STER	STER_native
+260948A01_X4_U01_Centaurea_532	AR1-8 SALT	AR1	SALT	invasive	invasion1	SALT_invasive	AR1_SALT	SALT_invasion1
+260948A02_X4_U01_Centaurea_532	AR1-11 SALT	AR1	SALT	invasive	invasion1	SALT_invasive	AR1_SALT	SALT_invasion1
+260948A03bis_X4_U01_Centaurea_532	AR1-14 SALT	AR1	SALT	invasive	invasion1	SALT_invasive	AR1_SALT	SALT_invasion1
+260948A03_X4_U01_Centaurea_532	AR1-14 SALT	AR1	SALT	invasive	invasion1	SALT_invasive	AR1_SALT	SALT_invasion1
+260948A03_X4_U01_Centaurea_532_2	AR1-14 SALT	AR1	SALT	invasive	invasion1	SALT_invasive	AR1_SALT	SALT_invasion1
+260948A04_X4_U01_Centaurea_532	AR1-8 HERB	AR1	HERB	invasive	invasion1	HERB_invasive	AR1_HERB	HERB_invasion1
+260961A01_X4_U01_Centaurea_532	AR1-11 HERB	AR1	HERB	invasive	invasion1	HERB_invasive	AR1_HERB	HERB_invasion1
+260961A02_X4_U01_Centaurea_532	AR1-8 AMF	AR1	AMF	invasive	invasion1	AMF_invasive	AR1_AMF	AMF_invasion1
+260961A03_X4_U01_Centaurea_532	AR1-11 AMF	AR1	AMF	invasive	invasion1	AMF_invasive	AR1_AMF	AMF_invasion1
+260961A04_X4_U01_Centaurea_532	AR1-14 AMF	AR1	AMF	invasive	invasion1	AMF_invasive	AR1_AMF	AMF_invasion1
+260966A01_X4_U01_Centaurea_532	AR6-10_SALT	AR6	SALT	invasive	invasion1	SALT_invasive	AR6_SALT	SALT_invasion1
+260966A02_X4_U01_Centaurea_532	AR6-13_SALT	AR6	SALT	invasive	invasion1	SALT_invasive	AR6_SALT	SALT_invasion1
+260966A03_X4_U01_Centaurea_532	AR6-1_HERB	AR6	HERB	invasive	invasion1	HERB_invasive	AR6_HERB	HERB_invasion1
+260966A04_X4_U01_Centaurea_532	AR6-10_HERB	AR6	HERB	invasive	invasion1	HERB_invasive	AR6_HERB	HERB_invasion1
+260967A01_X4_U01_Centaurea_532	HU2-1 SALT	HU2	SALT	native	native	SALT_native	HU2_SALT	SALT_native
+260967A02_X4_U01_Centaurea_532	HU2-3 SALT	HU2	SALT	native	native	SALT_native	HU2_SALT	SALT_native
+260967A03_X4_U01_Centaurea_532	HU2-4 SALT	HU2	SALT	native	native	SALT_native	HU2_SALT	SALT_native
+260967A04_X4_U01_Centaurea_532	HU2-5 SALT	HU2	SALT	native	native	SALT_native	HU2_SALT	SALT_native
+261033A01_X4_U01_Centaurea_532	AR6-13_HERB	AR6	HERB	invasive	invasion1	HERB_invasive	AR6_HERB	HERB_invasion1
+261033A02_X4_U01_Centaurea_532	AR6-1_AMF	AR6	AMF	invasive	invasion1	AMF_invasive	AR6_AMF	AMF_invasion1
+261033A03_X4_bis_U01_Centaurea_532	AR6-10_AMF	AR6	AMF	invasive	invasion1	AMF_invasive	AR6_AMF	AMF_invasion1
+261033A04_X4_bis_U01_Centaurea_532	AR6-13_AMF	AR6	AMF	invasive	invasion1	AMF_invasive	AR6_AMF	AMF_invasion1
+261220A01_X4_U01_Centaurea_532	SP2-2_SALT	SP2	SALT	native	native	SALT_native	SP2_SALT	SALT_native
+261220A02_X4_U01_Centaurea_532	SP2-1_HERB	SP2	HERB	native	native	HERB_native	SP2_HERB	HERB_native
+261220A03_X4_U01_Centaurea_532	SP2-2_AMF	SP2	AMF	native	native	AMF_native	SP2_AMF	AMF_native
+261220A04_X4_U01_Centaurea_532	SP2-3_AMF	SP2	AMF	native	native	AMF_native	SP2_AMF	AMF_native
+261411A01_X4_U01_Centaurea_532	SP2-1_STER	SP2	STER	native	native	STER_native	SP2_STER	STER_native
+261411A02_X4_U01_Centaurea_532	CA4-3_AMF	CA4	AMF	invasive	invasion2	AMF_invasive	CA4_AMF	AMF_invasion2
+261411A03_X4_U01_Centaurea_532	CA4-2_SALT	CA4	SALT	invasive	invasion2	SALT_invasive	CA4_SALT	SALT_invasion2
+261411A04_X4_U01_Centaurea_532	SP1-4_SALT	SP1	SALT	native	native	SALT_native	SP1_SALT	SALT_native
+261415A01_X4_U01_Centaurea_532	SP1-6_SALT	SP1	SALT	native	native	SALT_native	SP1_SALT	SALT_native
+261415A02_X4_U01_Centaurea_532	SP1-5_HERB	SP1	HERB	native	native	HERB_native	SP1_HERB	HERB_native
+261415A03_X4_U01_Centaurea_532	SP1-6_HERB	SP1	HERB	native	native	HERB_native	SP1_HERB	HERB_native
+261415A04_X4_U01_Centaurea_532	SP1-4_AMF	SP1	AMF	native	native	AMF_native	SP1_AMF	AMF_native
+263785A01_X4_U01_Centaurea_532	AR1-8 STER	AR1	STER	invasive	invasion1	STER_invasive	AR1_STER	STER_invasion1
+263785A02_X4_U01_Centaurea_532	AR1-11 STER	AR1	STER	invasive	invasion1	STER_invasive	AR1_STER	STER_invasion1
+263785A03_bis_X4_U01_Centaurea_532	RO5-4 AMF	RO5	AMF	native	native	AMF_native	RO5_AMF	AMF_native
+263785A03_X4_U01_Centaurea_532	RO5-4 AMF	RO5	AMF	native	native	AMF_native	RO5_AMF	AMF_native
+263785A04_X4_U01_Centaurea_532	RO5-5 AMF	RO5	AMF	native	native	AMF_native	RO5_AMF	AMF_native
+263797A01_X4_U01_Centaurea_532	RO5-7 AMF	RO5	AMF	native	native	AMF_native	RO5_AMF	AMF_native
+263797A02_X4_U01_Centaurea_532	RO5-4 STER	RO5	STER	native	native	STER_native	RO5_STER	STER_native
+263797A03_X4_U01_Centaurea_532	CA4-1 AMF	CA4	AMF	invasive	invasion2	AMF_invasive	CA4_AMF	AMF_invasion2
+263797A04_X4_U01_Centaurea_532	AR6-1_SALT	AR6	SALT	invasive	invasion1	SALT_invasive	AR6_SALT	SALT_invasion1
+263798A01_X4_U01_Centaurea_532	AR6-1_STER	AR6	STER	invasive	invasion1	STER_invasive	AR6_STER	STER_invasion1
+263798A02_X4_U01_Centaurea_532	AR6-10_STER	AR6	STER	invasive	invasion1	STER_invasive	AR6_STER	STER_invasion1
+263798A03_X4_U01_Centaurea_532	AR6-13_STER	AR6	STER	invasive	invasion1	STER_invasive	AR6_STER	STER_invasion1
+263798A04_X4_U01_Centaurea_532	SP2-1_SALT	SP2	SALT	native	native	SALT_native	SP2_SALT	SALT_native
+265944A01_X4_U01_Centaurea_2_532	CA1-5_AMF	CA1	AMF	invasive	invasion2	AMF_invasive	CA1_AMF	AMF_invasion2
+265944A02_X4_U01_Centaurea_2_532	SP1-5_AMF	SP1	AMF	native	native	AMF_native	SP1_AMF	AMF_native
+265944A03_X4_U01_Centaurea_2_532	SP1-6_AMF	SP1	AMF	native	native	AMF_native	SP1_AMF	AMF_native
+265944A04_X4_U01_Centaurea_532	SP1-4_STER	SP1	STER	native	native	STER_native	SP1_STER	STER_native
+265945A01_X4_U01_Centaurea_4_532	AR1-14_HERB	AR1	HERB	invasive	invasion1	HERB_invasive	AR1_HERB	HERB_invasion1
+265945A02_X4_U01_Centaurea_4_532	AR1-14_STER	AR1	STER	invasive	invasion1	STER_invasive	AR1_STER	STER_invasion1
+265945A03_X4_U01_Centaurea_532	CA1-0_SALT	CA1	SALT	invasive	invasion2	SALT_invasive	CA1_SALT	SALT_invasion2
+265945A04_X4_U01_Centaurea_3_532	CA1-0_AMF	CA1	AMF	invasive	invasion2	AMF_invasive	CA1_AMF	AMF_invasion2
+266669A01_X4_U01_Centaurea_532	RO5-4_SALT	RO5	SALT	native	native	SALT_native	RO5_SALT	SALT_native
+266669A02_X4_U01_Centaurea_532	RO5-5_SALT	RO5	SALT	native	native	SALT_native	RO5_SALT	SALT_native
+266669A03_X4_U01_Centaurea_532	RO5-7_HERB	RO5	HERB	native	native	HERB_native	RO5_HERB	HERB_native
+266669A04_X4_U01_Centaurea_532	RO5-5_STER	RO5	STER	native	native	STER_native	RO5_STER	STER_native
+266698A01_X4_U01_Centaurea_532	CA1-5_SALT	CA1	SALT	invasive	invasion2	SALT_invasive	CA1_SALT	SALT_invasion2
+266698A02_X4_U01_Centaurea_532	SP2-3_HERB	SP2	HERB	native	native	HERB_native	SP2_HERB	HERB_native
+266698A03_X4_U01_Centaurea_532	RO5-5_HERB	RO5	HERB	native	native	HERB_native	RO5_HERB	HERB_native
+266698A04_X4_U01_Centaurea_532	SP1-5_STER	SP1	STER	native	native	STER_native	SP1_STER	STER_native
+266700A01_X4_U01_Centaurea_532	SP2-3_HERB	SP2	HERB	native	native	HERB_native	SP2_HERB	HERB_native
+266700A01_X4_U01_Centaurea_532_2	SP2-3_HERB	SP2	HERB	native	native	HERB_native	SP2_HERB	HERB_native
+266700A02_X4_U01_Centaurea_532	RO5-5_SALT	RO5	SALT	native	native	SALT_native	RO5_SALT	SALT_native
+266700A02_X4_U01_Centaurea_532_2	RO5-5_SALT	RO5	SALT	native	native	SALT_native	RO5_SALT	SALT_native
+266700A03_X4_U01_Centaurea_532	CA4-3_HERB	CA4	HERB	invasive	invasion2	HERB_invasive	CA4_HERB	HERB_invasion2
+266700A03_X4_U01_Centaurea_532_2	CA4-3_HERB	CA4	HERB	invasive	invasion2	HERB_invasive	CA4_HERB	HERB_invasion2
+266700A04_X4_U01_Centaurea_532	SP1-4_AMF	SP1	AMF	native	native	AMF_native	SP1_AMF	AMF_native
+266700A04_X4_U01_Centaurea_532_2	SP1-4_AMF	SP1	AMF	native	native	AMF_native	SP1_AMF	AMF_native
+299628A01_X4_U01_Centaurea_532	SP2-2_HERB	SP2	HERB	native	native	HERB_native	SP2_HERB	HERB_native
+299628A02_X4_U01_Centaurea_532	SP2-1_AMF	SP2	AMF	native	native	AMF_native	SP2_AMF	AMF_native
+299628A02_X4_U01_Centaurea_532_2	SP2-1_AMF	SP2	AMF	native	native	AMF_native	SP2_AMF	AMF_native
+299628A03_X4_U01_Centaurea_532	SP2-2_STER	SP2	STER	native	native	STER_native	SP2_STER	STER_native
+299628A04_X4_U01_Centaurea_532	SP2-3_STER	SP2	STER	native	native	STER_native	SP2_STER	STER_native
+299633A01_X4_U01_Centaurea_532	CA1-5_HERB	CA1	HERB	invasive	invasion2	HERB_invasive	CA1_HERB	HERB_invasion2
+299633A02_X4_U01_Centaurea_532	CA1-8_HERB	CA1	HERB	invasive	invasion2	HERB_invasive	CA1_HERB	HERB_invasion2
+299633A03_X4_U01_Centaurea_532	CA1-8_AMF	CA1	AMF	invasive	invasion2	AMF_invasive	CA1_AMF	AMF_invasion2
+299633A04_X4_U01_Centaurea_532	SP2-3_SALT	SP2	SALT	native	native	SALT_native	SP2_SALT	SALT_native
+299633A04_X4_U01_Centaurea_532_2	SP2-3_SALT	SP2	SALT	native	native	SALT_native	SP2_SALT	SALT_native
+299636A01_X4_U01_Centaurea_532	CA4-3_SALT	CA4	SALT	invasive	invasion2	SALT_invasive	CA4_SALT	SALT_invasion2
+299636A01_X4_U01_Centaurea_532_2	CA4-3_SALT	CA4	SALT	invasive	invasion2	SALT_invasive	CA4_SALT	SALT_invasion2
+299636A02_X4_U01_Centaurea_532	CA4-3_HERB	CA4	HERB	invasive	invasion2	HERB_invasive	CA4_HERB	HERB_invasion2
+299636A03_X4_U01_Centaurea_532	SP1-4_HERB	SP1	HERB	native	native	HERB_native	SP1_HERB	HERB_native
+299636A04_X4_U01_Centaurea_532	SP1-6_STER	SP1	STER	native	native	STER_native	SP1_STER	STER_native
+299636A04_X4_U01_Centaurea_532_2	SP1-6_STER	SP1	STER	native	native	STER_native	SP1_STER	STER_native
+299641A01_X4_U01_Centaurea_532	CA4-2_AMF	CA4	AMF	invasive	invasion2	AMF_invasive	CA4_AMF	AMF_invasion2
+299641A01_X4_U01_Centaurea_532_2	CA4-2_AMF	CA4	AMF	invasive	invasion2	AMF_invasive	CA4_AMF	AMF_invasion2
+299641A02_X4_U01_Centaurea_532	CA4-1_STER	CA4	STER	invasive	invasion2	STER_invasive	CA4_STER	STER_invasion2
+299641A03_X4_U01_Centaurea_532	CA4-2_STER	CA4	STER	invasive	invasion2	STER_invasive	CA4_STER	STER_invasion2
+299641A03_X4_U01_Centaurea_532_2	CA4-2_STER	CA4	STER	invasive	invasion2	STER_invasive	CA4_STER	STER_invasion2
+299641A04_X4_U01_Centaurea_532	CA4-3_STER	CA4	STER	invasive	invasion2	STER_invasive	CA4_STER	STER_invasion2
+299709A01_X4_U01_Centaurea_532	CA1-8_SALT	CA1	SALT	invasive	invasion2	SALT_invasive	CA1_SALT	SALT_invasion2
+299709A01_X4_U01_Centaurea_532_2	CA1-8_SALT	CA1	SALT	invasive	invasion2	SALT_invasive	CA1_SALT	SALT_invasion2
+299709A02_X4_U01_Centaurea_532	CA1-0_STER	CA1	STER	invasive	invasion2	STER_invasive	CA1_STER	STER_invasion2
+299709A03_X4_U01_Centaurea_532	CA1-5_STER	CA1	STER	invasive	invasion2	STER_invasive	CA1_STER	STER_invasion2
+299709A04_X4_U01_Centaurea_532	CA4-2_HERB	CA4	HERB	invasive	invasion2	HERB_invasive	CA4_HERB	HERB_invasion2
+299709A04_X4_U01_Centaurea_532_2	CA4-2_HERB	CA4	HERB	invasive	invasion2	HERB_invasive	CA4_HERB	HERB_invasion2

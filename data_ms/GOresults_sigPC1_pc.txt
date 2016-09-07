@@ -1,0 +1,23 @@
+GO.ID	Term	Annotated	Significant	Expected	parentchild
+GO:0006506	GPI anchor biosynthetic process	18	5	0.35	1.70E-05
+GO:0009247	glycolipid biosynthetic process	33	5	0.65	7.10E-05
+GO:0010260	organ senescence	160	11	3.14	0.0001
+GO:0030091	protein repair	38	5	0.75	0.00055
+GO:0007568	aging	272	13	5.34	0.00111
+GO:0042780	tRNA 3'-end processing	10	3	0.2	0.00185
+GO:0007154	cell communication	2572	62	50.51	0.00188
+GO:0000255	allantoin metabolic process	14	3	0.27	0.00239
+GO:0006664	glycolipid metabolic process	70	5	1.37	0.00388
+GO:0010467	gene expression	5027	117	98.73	0.00407
+GO:0060560	developmental growth involved in morphog...	505	16	9.92	0.00415
+GO:0006661	phosphatidylinositol biosynthetic proces...	51	6	1	0.00424
+GO:0016070	RNA metabolic process	3288	81	64.58	0.00495
+GO:0006629	lipid metabolic process	2107	58	41.38	0.00525
+GO:0010275	NAD(P)H dehydrogenase complex assembly	24	3	0.47	0.00539
+GO:0006505	GPI anchor metabolic process	33	5	0.65	0.0062
+GO:0007165	signal transduction	2143	56	42.09	0.0065
+GO:0050665	hydrogen peroxide biosynthetic process	20	3	0.39	0.00691
+GO:0044700	single organism signaling	2154	56	42.3	0.00695
+GO:0006354	"DNA-templated transcription, elongation"	72	6	1.41	0.00727
+GO:1903409	reactive oxygen species biosynthetic pro...	20	3	0.39	0.00765
+GO:0055114	oxidation-reduction process	2131	56	41.85	0.00819

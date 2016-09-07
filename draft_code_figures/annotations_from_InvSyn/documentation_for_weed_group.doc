@@ -1,0 +1,154 @@
+#combined files with cat
+
+Ambtri1 Ambtri2 > Ambtri12
+Ambtri3 Ambtri4 > Ambtri34
+Cirarv2 Cirarv3 > Cirarv23 
+Helann4 Helann5 > Halann45
+Helann2 Helann3 > Halann23
+
+#run cap3 on five files
+cap3 <cat file> -p94
+#note I moved the cap3 files to weeds/cap3_results
+#merged singlets and contigs from cap3 and rename files as .unigenes file
+
+#removed some files into folder "other assemblies": into I will only use Lacsat1.unigenes because it has the most contigs. Also I suggest that we don't use the sanger annuus (Helann1). I am not sure about Helann2 and 3 because they are introduced into completely different areas (Israel and Australia) but I combined them. I also added the HA412 genome guided reference.
+#redid the analysis using individual transcriptomes and included Helann7 = HA412 trinity and 454 native Censol = Censol3
+
+#run cdhit in downloads
+cat list.txt | parallel -j4 sh run_cdhit_94_par.sh
+
+cat list2.txt | parallel -j4 sh run_cdhit_94_par.sh
+
+#move cap3 files and cdhit output
+#redo headers and change file names in cdhit_analysis folder
+for f in *_94; do sh ../header_file_name.sh $f; done
+
+#move onto hulk and run forty at a time with 1 cpu each
+#run tblastx all versus all in hulk:/data/sunflower/blast - this took too long so I did not use the results
+cat list.txt | parallel -j30 sh tblastx.sh
+
+#ID orfs with transdecoder in cdhit_analysis folder
+cat list.fasta | parallel -j 10 sh /home/scripts/orf_finder/transdecoder.sh
+
+#confirm orfs with protein blast to A. thaliana
+cat list.fasta | parallel -j 6 sh /home/scripts/orf_finder/blastp.sh
+
+#get new gff file
+for f in `cat list.fasta`; do  echo $f; perl /home/scripts/orf_finder/orf_evidence_gff.pl $f > $f.confirmed.gff
+
+#get fasta cds
+for f in `cat list.fasta`; do  echo $f; perl /home/scripts/orf_finder/gff2fasta_single.pl $f.confirmed.gff $f ; done
+
+#translate cds to protein
+for f in `cat list.fasta`; do  echo $f\_cds; perl /home/scripts/translate.pl $f\_cds ; done
+
+#run protein blasts
+/home/sunflower/weeds/protein_blast
+cat listprot.txt | parallel -j 30 sh blastp.sh
+
+#run protein blasts on all transcriptomes
+cat list2prot.txt | parallel -j 31 sh blastp.sh
+
+#repeat protein blasts using unmerged assemblies
+#xargs < list2prot_ind.txt cat > final_file.txt only retained hits with e-10
+xargs < list_all_final.txt cat > combination_ind2.fasta
+
+#split up protein files to make the blast go faster
+/home/sunflower/weeds/protein_blast
+cat list2prot_ind.txt | parallel -j 30 sh blastp_ind.sh
+
+#run orthAgogue on hulk to identify orthogroups using one transcriptome per species
+scp combined.all.out hodgins@hulk.zoology.ubc.ca:/data/sunflower/blastp/
+/data/sunflower/blastp$ orthAgogue -i combined.all.out 
+
+#redo with combination_ind2.fasta output
+orthAgogue -i combination_ind2.out -u -o 50 # the same as above but without filtering by e-values and using BLAST scores instead of e-values in order to resolve HSPs with the '0.0' e-value; the required e-value cutoff should be set while running BLAST.
+
+#move to rogue and finish clustering with mcl
+scp all.* hodgins@rogue.zoology.ubc.ca:
+hodgins@rogue:/data/programs/orthomclSoftware-v2.0.8/sunflower$ mcl all.abc --abc -I 1.5 -o mclOutput
+hodgins@rogue:/data/programs/orthomclSoftware-v2.0.8/sunflower$ ./../bin/orthomclMclToGroups ortho_group 1000 < mclOutput > groups.txt
+#moved to comb_ind
+
+#redo with comb_ind2
+/data/programs/orthomclSoftware-v2.0.8/sunflower_cluster
+mcl all.abc --abc -I 1.5 -o mclOutput
+./../bin/orthomclMclToGroups ortho_group 1000 < mclOutput > groups.txt
+
+#get the one 2 one orthologs for each orthogroup for each individual
+/home/sunflower/weeds/sunflower_cluster/combined2$ perl /home/scripts/one2one_orthomcl.pl list2.txt groups.txt > all_morethantwospecies.txt
+/data/programs/orthomclSoftware-v2.0.8/sunflower_cluster$ perl /home/scripts/one2one_orthomcl.pl comb_ind2.list groups.txt > comb_all2
+
+
+#get fasta files for all transcriptomes from all_morethantwospecies (mv all_morethantwospecies.txt to all_morethantwospecies in cdhit folder)
+perl /home/scripts/orf_finder/gff2fasta.pl all_morethantwospecies listcombined2.txt
+perl /home/scripts/orf_finder/gff2fasta.pl thirtyfive_or_more_all_assemblies
+nation_int2.out
+
+perl /home/scripts/orf_finder/gff2fasta.pl comb_all2 comb_ind2.list 
+
+#run guidance on thirtyfive_or_more_all_assemblies
+cat list.txt | parallel -j2 sh /home/script/guidance.sh
+#trim fasta files based on the quidance sequence scores
+cat list.txt | parallel -j10 sh /home/scripts/guidance_sequence_filter.sh
+#redo prank codon alignments with filtered sequences
+cat filtered_ortho_list.txt | parallel -j5 sh /home/scripts/orf_finder/prank_cds.sh
+
+#the above was repeated for all ortho groups but on the mcc cluster
+#all of the guidance /home/sunflower/weeds/cdhit_analysis/alignment_comb_all2/guidance_results 
+#prank alignments are in /home/sunflower/weeds/cdhit_analysis/alignment_comb_all2/long_prank (guidance filtered) and short_prank are not filtered because of too few sequences in the alignment
+
+#all alignments were put into the prank_all_morethantwospecies folder (except 35 for more alignments so add those in)
+
+#do prank alignments in fasta_files
+perl /home/scripts/orf_finder/prank_cd_utr.pl thirtyfive_or_more_all_assemblies 10
+
+#trim thirty_five or more
+for f in *cds*; do perl /home/scripts/orf_finder/trim_prank.pl $f; done;
+
+my $rm_stop='Y'; #delete if premature stop
+my $length=60; #minimum length of sequences;
+my $delete='Y'; #delete codons with missing data - could change to percent missing
+my $freq_cut=0.5; #frequency of missing data allowed before that column is removed 
+my $cut_off=70; #% ID that the most divergent sequences need to meet (if no overlap across all sequences this is not counted) and the average ID
+my $missing_cut=0.8; # amount of missing data before seq is deleted
+my $missing='Y';
+my $num_seq= 2; #minimum number of sequences
+
+#concat 35 or more all alignments for tree
+perl /home/scripts/concat_genes.pl trimmed/ ../../listcombined2.txt > sequence_order.txt
+
+#run strict filtering on prank alignments - see log file in output folder for file trimming settings
+perl /home/scripts/orf_finder/trim_prank2.pl prank_all_morethantwospecies trimmed_strict_all_morethantwospecies
+
+#run guidance on all sequence on cluster, but first remove stop codons and make sure at least 4 sequences are available
+perl /home/scripts/check_4_guidance.pl <fasta> 
+for f in *cds; do perl ~/SCRATCH/vlm001/scripts/check_4_guidance.pl $f; done
+#remove stop codons on shorter sequences
+perl /home/scripts/check_4_guidance_short.pl <fasta>
+for f in *cds*; do perl /home/scripts/check_4_guidance_short.pl $f; done
+
+#run guidance and prank on the cluster
+
+#run prank on 2-3
+/home/sunflower/weeds/cdhit_analysis/alignment_comb_all2/: ls *stop* > short.list
+cat short.list | parallel -j30 sh /home/scripts/orf_finder/prank_cds.sh
+
+#make tree for new ortholog set
+#get long alignments top 60 cp into sep folder
+#trim strictly
+perl /home/scripts/orf_finder/trim_prank2.pl for_tree for_tree_trimmed
+
+#remove likely orthologs using tree fix 
+#run gene tree script on compositae alignments (big phylogeny called species.tree)
+#run on subset first in tmp - get rooted species tree
+
+perl /home/scripts/gene_tree.pl <file> <outgroup>
+
+#move orthologs to ortholog folder
+
+#run provean in pairwise method using an outgroup (sequence_list.txt are pairs of native/invasive)
+cat sequence_list.txt | parallel -j30 sh /home/scripts/provean_parallel.sh
+
+#summarize results of provean
+perl /home/scripts/provean_tally.pl

@@ -1,0 +1,8 @@
+"GO.ID"	"Term"	"Annotated"	"Significant"	"Expected"	"parentchild"
+"1"	"GO:0005198"	"structural molecule activity"	2652	30	3.18	"3.5e-22"
+"2"	"GO:0003723"	"RNA binding"	2210	9	2.65	"0.00013"
+"3"	"GO:0022884"	"macromolecule transmembrane transporter ..."	195	3	0.23	"0.00072"
+"4"	"GO:0003735"	"structural constituent of ribosome"	2118	30	2.54	"0.00113"
+"5"	"GO:0015450"	"P-P-bond-hydrolysis-driven protein trans..."	157	3	0.19	"0.00510"
+"6"	"GO:0005507"	"copper ion binding"	754	5	0.91	"0.00636"
+"7"	"GO:0008565"	"protein transporter activity"	544	3	0.65	"0.00860"

@@ -1,8 +1,0 @@
-"GO.ID"	"Term"	"Annotated"	"Significant"	"Expected"	"parentchild"
-"1"	"GO:0005198"	"structural molecule activity"	2652	69	6.51	"< 1e-30"
-"2"	"GO:0003723"	"RNA binding"	2210	19	5.42	"8.2e-08"
-"3"	"GO:0003735"	"structural constituent of ribosome"	2118	69	5.2	"1.5e-07"
-"4"	"GO:0015002"	"heme-copper terminal oxidase activity"	75	3	0.18	"0.00056"
-"5"	"GO:0016675"	"oxidoreductase activity, acting on a hem..."	75	3	0.18	"0.00056"
-"6"	"GO:0004129"	"cytochrome-c oxidase activity"	75	3	0.18	"0.00120"
-"7"	"GO:0016776"	"phosphotransferase activity, phosphate g..."	184	2	0.45	"0.00907"

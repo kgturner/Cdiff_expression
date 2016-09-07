@@ -1,2 +1,0 @@
-"GO.ID"	"Term"	"Annotated"	"Significant"	"Expected"	"apply(l, 2, format.FUN, dig = 2, eps = 1e-30)"
-"1"	"GO:0046903"	"secretion"	175	2	0.18	"0.0054"
