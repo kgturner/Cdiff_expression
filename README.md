@@ -9,7 +9,7 @@ This data is also deposited at Dryad:
 
 Turner K, Nurkowski K, Rieseberg L Data from: Gene expression and drought response in an invasive thistle. Biological Invasions http://dx.doi.org/10.5061/dryad.r2k76 
 
-Directories "code_ms", "data_ms", and "figures_ms" contain R code, data, and figures associated with the final manuscript and supplementary material. "draft_code_figures" and "data_raw_intermediate" contain earlier versions of data and code, quite messy. These files were all separated at the end, so you may need to add file location information to read data and scripts into R correctly. "code_ms" scripts may contain references to draft code or raw data.
+Directories "code_ms", "data_ms", and "figures_ms" contain mostly R code, but also perl and bash, some data, and figures associated with the final manuscript and supplementary material. "draft_code_figures" and "data_raw_intermediate" contain earlier versions of data and code, quite messy. These files were all separated at the end, so you may need to add file location information to read data and scripts into R correctly. "code_ms" scripts may contain references to draft code or raw data.
 
 Manuscript abstract:
 
